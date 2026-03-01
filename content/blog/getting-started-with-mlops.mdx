@@ -1,0 +1,96 @@
+---
+title: "Getting Started with MLOps: A Practical Guide for Data Teams"
+date: "2025-11-15"
+category: "MLOps"
+excerpt: "MLOps closes the gap between model development and production. Here's how to think about it — and where to start."
+tags: ["MLOps", "Machine Learning", "DevOps", "Production AI"]
+---
+
+Most ML models never make it to production. Of the ones that do, most quietly degrade until someone notices the predictions are wrong. MLOps is the discipline that addresses both problems.
+
+## What MLOps Actually Is
+
+MLOps (Machine Learning Operations) applies DevOps principles — automation, monitoring, versioning, continuous delivery — to the ML lifecycle. The goal is a reproducible, observable pipeline from raw data to deployed model to monitored prediction.
+
+The core problems MLOps solves:
+
+- **Reproducibility**: Can you retrain this model next month and get the same result?
+- **Deployment**: Can you ship a new model version without manual intervention?
+- **Monitoring**: Do you know when your model starts drifting?
+- **Rollback**: Can you revert to the previous model in 5 minutes?
+
+If you answered "no" to any of these, you have MLOps debt.
+
+## The MLOps Stack
+
+There's no single right stack, but most mature pipelines share common layers:
+
+### 1. Data Version Control
+
+Your model is only as good as your training data. Use [DVC](https://dvc.org/) or Delta Lake to version datasets alongside code. A model trained on unversioned data is a model you can't reproduce.
+
+```bash
+# DVC basic workflow
+dvc init
+dvc add data/training.csv
+git add data/training.csv.dvc .gitignore
+git commit -m "Track training dataset v1"
+```
+
+### 2. Experiment Tracking
+
+MLflow and Weights & Biases let you log hyperparameters, metrics, and artifacts per run. Without this, tuning a model is archaeology.
+
+```python
+import mlflow
+
+with mlflow.start_run():
+    mlflow.log_param("learning_rate", 0.001)
+    mlflow.log_param("n_estimators", 200)
+
+    model = train_model(X_train, y_train, lr=0.001, n_est=200)
+
+    mlflow.log_metric("val_f1", evaluate(model, X_val, y_val))
+    mlflow.sklearn.log_model(model, "model")
+```
+
+### 3. Model Registry
+
+A model registry is a versioned catalog of your trained models — staging, production, archived. MLflow has one built in. SageMaker Model Registry is the AWS-native option.
+
+The key: **never deploy a model that isn't registered**. This gives you a single source of truth for what's running in production.
+
+### 4. Serving Infrastructure
+
+Options range from simple to complex:
+
+| Option | Best For |
+|--------|----------|
+| Flask/FastAPI | Internal APIs, low traffic |
+| SageMaker Endpoints | AWS-native, managed scaling |
+| BentoML | Custom serving logic, multi-model |
+| TorchServe / TF Serving | Framework-native serving |
+
+For most enterprise use cases, SageMaker Endpoints give you managed infrastructure with built-in A/B testing and autoscaling.
+
+### 5. Monitoring
+
+Model monitoring is not application monitoring. You need to track:
+
+- **Data drift**: Is the distribution of incoming features shifting?
+- **Concept drift**: Is the relationship between features and target changing?
+- **Prediction drift**: Are the output distributions changing?
+
+Tools like Evidently AI make this tractable. Feed it a reference dataset (your training distribution) and production data, and it generates drift reports automatically.
+
+## Where to Start
+
+Don't boil the ocean. The highest-leverage first step is almost always **experiment tracking**. Set up MLflow locally, point it at a remote artifact store (S3 works fine), and instrument your next training run. That single change — being able to compare experiments systematically — will immediately improve how your team works.
+
+Then add model versioning. Then monitoring.
+
+MLOps is a journey, not a destination. Even a modest pipeline with experiment tracking, a model registry, and basic drift monitoring is better than 90% of what's running in production today.
+
+---
+
+*DataSalt builds and deploys production ML pipelines for organizations that need more than just a notebook. [Start with a discovery call.](/contact)*
