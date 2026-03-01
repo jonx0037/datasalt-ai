@@ -2,8 +2,6 @@ import { Resend } from "resend";
 import { z } from "zod";
 import { NextResponse } from "next/server";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-
 const contactSchema = z.object({
   name: z.string().min(2),
   company: z.string().optional(),
@@ -32,6 +30,7 @@ export async function POST(req: Request) {
     const body = await req.json();
     const data = contactSchema.parse(body);
 
+    const resend = new Resend(process.env.RESEND_API_KEY);
     const { error } = await resend.emails.send({
       from: "DataSalt Contact <hello@datasalt.ai>",
       to: ["jon@datasalt.ai"],
