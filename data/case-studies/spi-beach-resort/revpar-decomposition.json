@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Jan",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 2.0,
+    "Occupancy Effect": -32.0
+  },
+  {
+    "label": "Feb",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 10.0,
+    "Occupancy Effect": -20.0
+  },
+  {
+    "label": "Mar",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 129.0,
+    "Occupancy Effect": 26.0
+  },
+  {
+    "label": "Apr",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 47.0,
+    "Occupancy Effect": -1.0
+  },
+  {
+    "label": "May",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 35.0,
+    "Occupancy Effect": -12.0
+  },
+  {
+    "label": "Jun",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 93.0,
+    "Occupancy Effect": 18.0
+  },
+  {
+    "label": "Jul",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 107.0,
+    "Occupancy Effect": 24.0
+  },
+  {
+    "label": "Aug",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 68.0,
+    "Occupancy Effect": 7.0
+  },
+  {
+    "label": "Sep",
+    "Base RevPAR": 150.0,
+    "Rate Effect": -11.0,
+    "Occupancy Effect": -45.0
+  },
+  {
+    "label": "Oct",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 6.0,
+    "Occupancy Effect": -26.0
+  },
+  {
+    "label": "Nov",
+    "Base RevPAR": 150.0,
+    "Rate Effect": 13.0,
+    "Occupancy Effect": -16.0
+  },
+  {
+    "label": "Dec",
+    "Base RevPAR": 150.0,
+    "Rate Effect": -5.0,
+    "Occupancy Effect": -35.0
+  }
+]

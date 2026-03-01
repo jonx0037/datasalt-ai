@@ -1,0 +1,527 @@
+[
+  {
+    "day": "Mon",
+    "hour": 7,
+    "value": 14
+  },
+  {
+    "day": "Mon",
+    "hour": 8,
+    "value": 41
+  },
+  {
+    "day": "Mon",
+    "hour": 9,
+    "value": 36
+  },
+  {
+    "day": "Mon",
+    "hour": 10,
+    "value": 36
+  },
+  {
+    "day": "Mon",
+    "hour": 11,
+    "value": 39
+  },
+  {
+    "day": "Mon",
+    "hour": 12,
+    "value": 32
+  },
+  {
+    "day": "Mon",
+    "hour": 13,
+    "value": 33
+  },
+  {
+    "day": "Mon",
+    "hour": 14,
+    "value": 29
+  },
+  {
+    "day": "Mon",
+    "hour": 15,
+    "value": 37
+  },
+  {
+    "day": "Mon",
+    "hour": 16,
+    "value": 29
+  },
+  {
+    "day": "Mon",
+    "hour": 17,
+    "value": 34
+  },
+  {
+    "day": "Mon",
+    "hour": 18,
+    "value": 22
+  },
+  {
+    "day": "Mon",
+    "hour": 19,
+    "value": 22
+  },
+  {
+    "day": "Mon",
+    "hour": 20,
+    "value": 23
+  },
+  {
+    "day": "Mon",
+    "hour": 21,
+    "value": 23
+  },
+  {
+    "day": "Tue",
+    "hour": 7,
+    "value": 13
+  },
+  {
+    "day": "Tue",
+    "hour": 8,
+    "value": 31
+  },
+  {
+    "day": "Tue",
+    "hour": 9,
+    "value": 28
+  },
+  {
+    "day": "Tue",
+    "hour": 10,
+    "value": 29
+  },
+  {
+    "day": "Tue",
+    "hour": 11,
+    "value": 28
+  },
+  {
+    "day": "Tue",
+    "hour": 12,
+    "value": 29
+  },
+  {
+    "day": "Tue",
+    "hour": 13,
+    "value": 20
+  },
+  {
+    "day": "Tue",
+    "hour": 14,
+    "value": 28
+  },
+  {
+    "day": "Tue",
+    "hour": 15,
+    "value": 23
+  },
+  {
+    "day": "Tue",
+    "hour": 16,
+    "value": 17
+  },
+  {
+    "day": "Tue",
+    "hour": 17,
+    "value": 24
+  },
+  {
+    "day": "Tue",
+    "hour": 18,
+    "value": 16
+  },
+  {
+    "day": "Tue",
+    "hour": 19,
+    "value": 17
+  },
+  {
+    "day": "Tue",
+    "hour": 20,
+    "value": 14
+  },
+  {
+    "day": "Tue",
+    "hour": 21,
+    "value": 18
+  },
+  {
+    "day": "Wed",
+    "hour": 7,
+    "value": 9
+  },
+  {
+    "day": "Wed",
+    "hour": 8,
+    "value": 30
+  },
+  {
+    "day": "Wed",
+    "hour": 9,
+    "value": 28
+  },
+  {
+    "day": "Wed",
+    "hour": 10,
+    "value": 27
+  },
+  {
+    "day": "Wed",
+    "hour": 11,
+    "value": 30
+  },
+  {
+    "day": "Wed",
+    "hour": 12,
+    "value": 19
+  },
+  {
+    "day": "Wed",
+    "hour": 13,
+    "value": 25
+  },
+  {
+    "day": "Wed",
+    "hour": 14,
+    "value": 23
+  },
+  {
+    "day": "Wed",
+    "hour": 15,
+    "value": 21
+  },
+  {
+    "day": "Wed",
+    "hour": 16,
+    "value": 25
+  },
+  {
+    "day": "Wed",
+    "hour": 17,
+    "value": 24
+  },
+  {
+    "day": "Wed",
+    "hour": 18,
+    "value": 18
+  },
+  {
+    "day": "Wed",
+    "hour": 19,
+    "value": 17
+  },
+  {
+    "day": "Wed",
+    "hour": 20,
+    "value": 24
+  },
+  {
+    "day": "Wed",
+    "hour": 21,
+    "value": 15
+  },
+  {
+    "day": "Thu",
+    "hour": 7,
+    "value": 11
+  },
+  {
+    "day": "Thu",
+    "hour": 8,
+    "value": 25
+  },
+  {
+    "day": "Thu",
+    "hour": 9,
+    "value": 25
+  },
+  {
+    "day": "Thu",
+    "hour": 10,
+    "value": 30
+  },
+  {
+    "day": "Thu",
+    "hour": 11,
+    "value": 27
+  },
+  {
+    "day": "Thu",
+    "hour": 12,
+    "value": 26
+  },
+  {
+    "day": "Thu",
+    "hour": 13,
+    "value": 28
+  },
+  {
+    "day": "Thu",
+    "hour": 14,
+    "value": 27
+  },
+  {
+    "day": "Thu",
+    "hour": 15,
+    "value": 16
+  },
+  {
+    "day": "Thu",
+    "hour": 16,
+    "value": 26
+  },
+  {
+    "day": "Thu",
+    "hour": 17,
+    "value": 25
+  },
+  {
+    "day": "Thu",
+    "hour": 18,
+    "value": 17
+  },
+  {
+    "day": "Thu",
+    "hour": 19,
+    "value": 19
+  },
+  {
+    "day": "Thu",
+    "hour": 20,
+    "value": 14
+  },
+  {
+    "day": "Thu",
+    "hour": 21,
+    "value": 14
+  },
+  {
+    "day": "Fri",
+    "hour": 7,
+    "value": 12
+  },
+  {
+    "day": "Fri",
+    "hour": 8,
+    "value": 32
+  },
+  {
+    "day": "Fri",
+    "hour": 9,
+    "value": 39
+  },
+  {
+    "day": "Fri",
+    "hour": 10,
+    "value": 30
+  },
+  {
+    "day": "Fri",
+    "hour": 11,
+    "value": 31
+  },
+  {
+    "day": "Fri",
+    "hour": 12,
+    "value": 27
+  },
+  {
+    "day": "Fri",
+    "hour": 13,
+    "value": 26
+  },
+  {
+    "day": "Fri",
+    "hour": 14,
+    "value": 25
+  },
+  {
+    "day": "Fri",
+    "hour": 15,
+    "value": 24
+  },
+  {
+    "day": "Fri",
+    "hour": 16,
+    "value": 26
+  },
+  {
+    "day": "Fri",
+    "hour": 17,
+    "value": 27
+  },
+  {
+    "day": "Fri",
+    "hour": 18,
+    "value": 16
+  },
+  {
+    "day": "Fri",
+    "hour": 19,
+    "value": 21
+  },
+  {
+    "day": "Fri",
+    "hour": 20,
+    "value": 21
+  },
+  {
+    "day": "Fri",
+    "hour": 21,
+    "value": 17
+  },
+  {
+    "day": "Sat",
+    "hour": 7,
+    "value": 10
+  },
+  {
+    "day": "Sat",
+    "hour": 8,
+    "value": 20
+  },
+  {
+    "day": "Sat",
+    "hour": 9,
+    "value": 23
+  },
+  {
+    "day": "Sat",
+    "hour": 10,
+    "value": 23
+  },
+  {
+    "day": "Sat",
+    "hour": 11,
+    "value": 25
+  },
+  {
+    "day": "Sat",
+    "hour": 12,
+    "value": 13
+  },
+  {
+    "day": "Sat",
+    "hour": 13,
+    "value": 18
+  },
+  {
+    "day": "Sat",
+    "hour": 14,
+    "value": 15
+  },
+  {
+    "day": "Sat",
+    "hour": 15,
+    "value": 13
+  },
+  {
+    "day": "Sat",
+    "hour": 16,
+    "value": 16
+  },
+  {
+    "day": "Sat",
+    "hour": 17,
+    "value": 14
+  },
+  {
+    "day": "Sat",
+    "hour": 18,
+    "value": 10
+  },
+  {
+    "day": "Sat",
+    "hour": 19,
+    "value": 15
+  },
+  {
+    "day": "Sat",
+    "hour": 20,
+    "value": 14
+  },
+  {
+    "day": "Sat",
+    "hour": 21,
+    "value": 18
+  },
+  {
+    "day": "Sun",
+    "hour": 7,
+    "value": 8
+  },
+  {
+    "day": "Sun",
+    "hour": 8,
+    "value": 17
+  },
+  {
+    "day": "Sun",
+    "hour": 9,
+    "value": 22
+  },
+  {
+    "day": "Sun",
+    "hour": 10,
+    "value": 22
+  },
+  {
+    "day": "Sun",
+    "hour": 11,
+    "value": 22
+  },
+  {
+    "day": "Sun",
+    "hour": 12,
+    "value": 14
+  },
+  {
+    "day": "Sun",
+    "hour": 13,
+    "value": 20
+  },
+  {
+    "day": "Sun",
+    "hour": 14,
+    "value": 15
+  },
+  {
+    "day": "Sun",
+    "hour": 15,
+    "value": 19
+  },
+  {
+    "day": "Sun",
+    "hour": 16,
+    "value": 17
+  },
+  {
+    "day": "Sun",
+    "hour": 17,
+    "value": 9
+  },
+  {
+    "day": "Sun",
+    "hour": 18,
+    "value": 16
+  },
+  {
+    "day": "Sun",
+    "hour": 19,
+    "value": 12
+  },
+  {
+    "day": "Sun",
+    "hour": 20,
+    "value": 13
+  },
+  {
+    "day": "Sun",
+    "hour": 21,
+    "value": 8
+  }
+]

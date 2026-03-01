@@ -1,0 +1,242 @@
+[
+  {
+    "column": "Jan",
+    "row": "Standard",
+    "value": 62.1
+  },
+  {
+    "column": "Jan",
+    "row": "Ocean View",
+    "value": 60.9
+  },
+  {
+    "column": "Jan",
+    "row": "Suite",
+    "value": 56.6
+  },
+  {
+    "column": "Jan",
+    "row": "Beachfront",
+    "value": 57.6
+  },
+  {
+    "column": "Feb",
+    "row": "Standard",
+    "value": 74.2
+  },
+  {
+    "column": "Feb",
+    "row": "Ocean View",
+    "value": 69.7
+  },
+  {
+    "column": "Feb",
+    "row": "Suite",
+    "value": 55.9
+  },
+  {
+    "column": "Feb",
+    "row": "Beachfront",
+    "value": 64.2
+  },
+  {
+    "column": "Mar",
+    "row": "Standard",
+    "value": 95.7
+  },
+  {
+    "column": "Mar",
+    "row": "Ocean View",
+    "value": 91.0
+  },
+  {
+    "column": "Mar",
+    "row": "Suite",
+    "value": 78.5
+  },
+  {
+    "column": "Mar",
+    "row": "Beachfront",
+    "value": 80.1
+  },
+  {
+    "column": "Apr",
+    "row": "Standard",
+    "value": 85.5
+  },
+  {
+    "column": "Apr",
+    "row": "Ocean View",
+    "value": 76.0
+  },
+  {
+    "column": "Apr",
+    "row": "Suite",
+    "value": 69.3
+  },
+  {
+    "column": "Apr",
+    "row": "Beachfront",
+    "value": 72.2
+  },
+  {
+    "column": "May",
+    "row": "Standard",
+    "value": 80.2
+  },
+  {
+    "column": "May",
+    "row": "Ocean View",
+    "value": 70.0
+  },
+  {
+    "column": "May",
+    "row": "Suite",
+    "value": 60.3
+  },
+  {
+    "column": "May",
+    "row": "Beachfront",
+    "value": 67.3
+  },
+  {
+    "column": "Jun",
+    "row": "Standard",
+    "value": 85.8
+  },
+  {
+    "column": "Jun",
+    "row": "Ocean View",
+    "value": 90.5
+  },
+  {
+    "column": "Jun",
+    "row": "Suite",
+    "value": 79.4
+  },
+  {
+    "column": "Jun",
+    "row": "Beachfront",
+    "value": 84.3
+  },
+  {
+    "column": "Jul",
+    "row": "Standard",
+    "value": 97.8
+  },
+  {
+    "column": "Jul",
+    "row": "Ocean View",
+    "value": 90.6
+  },
+  {
+    "column": "Jul",
+    "row": "Suite",
+    "value": 81.2
+  },
+  {
+    "column": "Jul",
+    "row": "Beachfront",
+    "value": 86.9
+  },
+  {
+    "column": "Aug",
+    "row": "Standard",
+    "value": 87.3
+  },
+  {
+    "column": "Aug",
+    "row": "Ocean View",
+    "value": 82.0
+  },
+  {
+    "column": "Aug",
+    "row": "Suite",
+    "value": 68.6
+  },
+  {
+    "column": "Aug",
+    "row": "Beachfront",
+    "value": 71.7
+  },
+  {
+    "column": "Sep",
+    "row": "Standard",
+    "value": 61.4
+  },
+  {
+    "column": "Sep",
+    "row": "Ocean View",
+    "value": 48.5
+  },
+  {
+    "column": "Sep",
+    "row": "Suite",
+    "value": 45.6
+  },
+  {
+    "column": "Sep",
+    "row": "Beachfront",
+    "value": 51.1
+  },
+  {
+    "column": "Oct",
+    "row": "Standard",
+    "value": 70.8
+  },
+  {
+    "column": "Oct",
+    "row": "Ocean View",
+    "value": 70.3
+  },
+  {
+    "column": "Oct",
+    "row": "Suite",
+    "value": 58.2
+  },
+  {
+    "column": "Oct",
+    "row": "Beachfront",
+    "value": 58.9
+  },
+  {
+    "column": "Nov",
+    "row": "Standard",
+    "value": 75.7
+  },
+  {
+    "column": "Nov",
+    "row": "Ocean View",
+    "value": 66.2
+  },
+  {
+    "column": "Nov",
+    "row": "Suite",
+    "value": 63.8
+  },
+  {
+    "column": "Nov",
+    "row": "Beachfront",
+    "value": 63.9
+  },
+  {
+    "column": "Dec",
+    "row": "Standard",
+    "value": 61.0
+  },
+  {
+    "column": "Dec",
+    "row": "Ocean View",
+    "value": 58.1
+  },
+  {
+    "column": "Dec",
+    "row": "Suite",
+    "value": 50.8
+  },
+  {
+    "column": "Dec",
+    "row": "Beachfront",
+    "value": 54.0
+  }
+]

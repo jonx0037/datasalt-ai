@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Jan 2023",
+    "actual": 203.0,
+    "recommended": 215.0
+  },
+  {
+    "label": "Feb 2023",
+    "actual": 209.0,
+    "recommended": 215.0
+  },
+  {
+    "label": "Mar 2023",
+    "actual": 359.0,
+    "recommended": 405.0
+  },
+  {
+    "label": "Apr 2023",
+    "actual": 270.0,
+    "recommended": 280.0
+  },
+  {
+    "label": "May 2023",
+    "actual": 254.0,
+    "recommended": 265.0
+  },
+  {
+    "label": "Jun 2023",
+    "actual": 308.0,
+    "recommended": 362.0
+  },
+  {
+    "label": "Jul 2023",
+    "actual": 328.0,
+    "recommended": 384.0
+  },
+  {
+    "label": "Aug 2023",
+    "actual": 288.0,
+    "recommended": 306.0
+  },
+  {
+    "label": "Sep 2023",
+    "actual": 179.0,
+    "recommended": 167.0
+  },
+  {
+    "label": "Oct 2023",
+    "actual": 206.0,
+    "recommended": 216.0
+  },
+  {
+    "label": "Nov 2023",
+    "actual": 219.0,
+    "recommended": 229.0
+  },
+  {
+    "label": "Dec 2023",
+    "actual": 193.0,
+    "recommended": 184.0
+  },
+  {
+    "label": "Jan 2024",
+    "actual": 204.0,
+    "recommended": 218.0
+  },
+  {
+    "label": "Feb 2024",
+    "actual": 211.0,
+    "recommended": 215.0
+  },
+  {
+    "label": "Mar 2024",
+    "actual": 351.0,
+    "recommended": 412.0
+  },
+  {
+    "label": "Apr 2024",
+    "actual": 264.0,
+    "recommended": 282.0
+  },
+  {
+    "label": "May 2024",
+    "actual": 252.0,
+    "recommended": 268.0
+  },
+  {
+    "label": "Jun 2024",
+    "actual": 302.0,
+    "recommended": 332.0
+  },
+  {
+    "label": "Jul 2024",
+    "actual": 316.0,
+    "recommended": 356.0
+  },
+  {
+    "label": "Aug 2024",
+    "actual": 284.0,
+    "recommended": 296.0
+  },
+  {
+    "label": "Sep 2024",
+    "actual": 180.0,
+    "recommended": 172.0
+  },
+  {
+    "label": "Oct 2024",
+    "actual": 206.0,
+    "recommended": 216.0
+  },
+  {
+    "label": "Nov 2024",
+    "actual": 224.0,
+    "recommended": 230.0
+  },
+  {
+    "label": "Dec 2024",
+    "actual": 194.0,
+    "recommended": 188.0
+  }
+]

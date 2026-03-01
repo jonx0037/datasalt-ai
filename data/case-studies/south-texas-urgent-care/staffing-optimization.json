@@ -1,0 +1,77 @@
+[
+  {
+    "label": "7:00",
+    "current": 4,
+    "recommended": 3
+  },
+  {
+    "label": "8:00",
+    "current": 4,
+    "recommended": 8
+  },
+  {
+    "label": "9:00",
+    "current": 6,
+    "recommended": 8
+  },
+  {
+    "label": "10:00",
+    "current": 6,
+    "recommended": 8
+  },
+  {
+    "label": "11:00",
+    "current": 6,
+    "recommended": 8
+  },
+  {
+    "label": "12:00",
+    "current": 7,
+    "recommended": 7
+  },
+  {
+    "label": "13:00",
+    "current": 6,
+    "recommended": 7
+  },
+  {
+    "label": "14:00",
+    "current": 5,
+    "recommended": 7
+  },
+  {
+    "label": "15:00",
+    "current": 5,
+    "recommended": 6
+  },
+  {
+    "label": "16:00",
+    "current": 6,
+    "recommended": 6
+  },
+  {
+    "label": "17:00",
+    "current": 5,
+    "recommended": 6
+  },
+  {
+    "label": "18:00",
+    "current": 4,
+    "recommended": 3
+  },
+  {
+    "label": "19:00",
+    "current": 4,
+    "recommended": 3
+  },
+  {
+    "label": "20:00",
+    "current": 4,
+    "recommended": 3
+  },
+  {
+    "label": "21:00",
+    "current": 4,
+    "recommended": 3
+  }
+]

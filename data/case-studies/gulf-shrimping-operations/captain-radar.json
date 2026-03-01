@@ -1,0 +1,42 @@
+[
+  {
+    "axis": "CPUE",
+    "Capt. Martinez": 99.0,
+    "Capt. Nguyen": 90.0,
+    "Capt. Williams": 79.0,
+    "Capt. Garcia": 90.0,
+    "Capt. Johnson": 79.0
+  },
+  {
+    "axis": "Fuel Efficiency",
+    "Capt. Martinez": 74.0,
+    "Capt. Nguyen": 84.0,
+    "Capt. Williams": 64.0,
+    "Capt. Garcia": 94.0,
+    "Capt. Johnson": 66.0
+  },
+  {
+    "axis": "Trip ROI",
+    "Capt. Martinez": 84.0,
+    "Capt. Nguyen": 81.0,
+    "Capt. Williams": 75.0,
+    "Capt. Garcia": 78.0,
+    "Capt. Johnson": 73.0
+  },
+  {
+    "axis": "Consistency",
+    "Capt. Martinez": 86.0,
+    "Capt. Nguyen": 95.0,
+    "Capt. Williams": 91.0,
+    "Capt. Garcia": 87.0,
+    "Capt. Johnson": 87.0
+  },
+  {
+    "axis": "Season Coverage",
+    "Capt. Martinez": 87.0,
+    "Capt. Nguyen": 89.0,
+    "Capt. Williams": 84.0,
+    "Capt. Garcia": 84.0,
+    "Capt. Johnson": 84.0
+  }
+]

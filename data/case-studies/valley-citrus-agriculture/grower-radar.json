@@ -1,0 +1,42 @@
+[
+  {
+    "axis": "Yield/Acre",
+    "Ramirez Family": 96.0,
+    "Delta Groves": 91.0,
+    "Rio Citrus Co-op": 74.0,
+    "Mission Ag": 79.0,
+    "Valley Fresh": 84.0
+  },
+  {
+    "axis": "Water Efficiency",
+    "Ramirez Family": 87.0,
+    "Delta Groves": 86.0,
+    "Rio Citrus Co-op": 78.0,
+    "Mission Ag": 70.0,
+    "Valley Fresh": 84.0
+  },
+  {
+    "axis": "Grade A %",
+    "Ramirez Family": 81.0,
+    "Delta Groves": 84.0,
+    "Rio Citrus Co-op": 73.0,
+    "Mission Ag": 74.0,
+    "Valley Fresh": 80.0
+  },
+  {
+    "axis": "Cost/Ton",
+    "Ramirez Family": 75.0,
+    "Delta Groves": 83.0,
+    "Rio Citrus Co-op": 96.0,
+    "Mission Ag": 79.0,
+    "Valley Fresh": 96.0
+  },
+  {
+    "axis": "Harvest Timing",
+    "Ramirez Family": 82.0,
+    "Delta Groves": 85.0,
+    "Rio Citrus Co-op": 74.0,
+    "Mission Ag": 80.0,
+    "Valley Fresh": 86.0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "feature": "Condition",
+    "importance": 4113.0
+  },
+  {
+    "feature": "Model Year",
+    "importance": 2682.0
+  },
+  {
+    "feature": "Engine HP",
+    "importance": 2189.0
+  },
+  {
+    "feature": "Boat Type",
+    "importance": 1423.0
+  },
+  {
+    "feature": "Length (ft)",
+    "importance": 572.0
+  },
+  {
+    "feature": "Days on Lot",
+    "importance": 142.0
+  },
+  {
+    "feature": "Trade-In",
+    "importance": 2.0
+  }
+]

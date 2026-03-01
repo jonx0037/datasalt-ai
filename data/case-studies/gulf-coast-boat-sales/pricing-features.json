@@ -1,0 +1,33 @@
+{
+  "coefficients": {
+    "length_ft": 366.38,
+    "engine_hp": 54.9,
+    "model_year": 847.6,
+    "days_on_lot": -6.52,
+    "is_new": 8250.78,
+    "intercept": -1714775.43
+  },
+  "r2": 0.825,
+  "ranges": {
+    "length_ft": {
+      "min": 16,
+      "max": 28,
+      "default": 22
+    },
+    "engine_hp": {
+      "min": 75,
+      "max": 400,
+      "default": 200
+    },
+    "model_year": {
+      "min": 2010,
+      "max": 2024,
+      "default": 2021
+    },
+    "days_on_lot": {
+      "min": 5,
+      "max": 180,
+      "default": 30
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "axis": "Patient Volume",
+    "McAllen Central": 83.0,
+    "Edinburg": 74.0,
+    "Mission": 51.0,
+    "Pharr": 66.0,
+    "Weslaco": 51.0
+  },
+  {
+    "axis": "Avg Wait Time",
+    "McAllen Central": 54.0,
+    "Edinburg": 71.0,
+    "Mission": 76.0,
+    "Pharr": 54.0,
+    "Weslaco": 63.0
+  },
+  {
+    "axis": "Satisfaction",
+    "McAllen Central": 73.0,
+    "Edinburg": 82.0,
+    "Mission": 86.0,
+    "Pharr": 68.0,
+    "Weslaco": 81.0
+  },
+  {
+    "axis": "No-Show Rate",
+    "McAllen Central": 53.0,
+    "Edinburg": 74.0,
+    "Mission": 74.0,
+    "Pharr": 58.0,
+    "Weslaco": 82.0
+  },
+  {
+    "axis": "Winter Texan %",
+    "McAllen Central": 38.0,
+    "Edinburg": 31.0,
+    "Mission": 61.0,
+    "Pharr": 40.0,
+    "Weslaco": 72.0
+  }
+]

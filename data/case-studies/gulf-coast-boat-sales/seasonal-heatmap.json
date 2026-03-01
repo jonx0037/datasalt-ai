@@ -1,0 +1,302 @@
+[
+  {
+    "month": "Jan",
+    "boatType": "Center Console",
+    "sales": 27
+  },
+  {
+    "month": "Jan",
+    "boatType": "Bay Boat",
+    "sales": 32
+  },
+  {
+    "month": "Jan",
+    "boatType": "Pontoon",
+    "sales": 24
+  },
+  {
+    "month": "Jan",
+    "boatType": "Bass Boat",
+    "sales": 27
+  },
+  {
+    "month": "Jan",
+    "boatType": "Deck Boat",
+    "sales": 20
+  },
+  {
+    "month": "Feb",
+    "boatType": "Center Console",
+    "sales": 60
+  },
+  {
+    "month": "Feb",
+    "boatType": "Bay Boat",
+    "sales": 41
+  },
+  {
+    "month": "Feb",
+    "boatType": "Pontoon",
+    "sales": 33
+  },
+  {
+    "month": "Feb",
+    "boatType": "Bass Boat",
+    "sales": 26
+  },
+  {
+    "month": "Feb",
+    "boatType": "Deck Boat",
+    "sales": 11
+  },
+  {
+    "month": "Mar",
+    "boatType": "Center Console",
+    "sales": 92
+  },
+  {
+    "month": "Mar",
+    "boatType": "Bay Boat",
+    "sales": 71
+  },
+  {
+    "month": "Mar",
+    "boatType": "Pontoon",
+    "sales": 65
+  },
+  {
+    "month": "Mar",
+    "boatType": "Bass Boat",
+    "sales": 51
+  },
+  {
+    "month": "Mar",
+    "boatType": "Deck Boat",
+    "sales": 37
+  },
+  {
+    "month": "Apr",
+    "boatType": "Center Console",
+    "sales": 99
+  },
+  {
+    "month": "Apr",
+    "boatType": "Bay Boat",
+    "sales": 81
+  },
+  {
+    "month": "Apr",
+    "boatType": "Pontoon",
+    "sales": 58
+  },
+  {
+    "month": "Apr",
+    "boatType": "Bass Boat",
+    "sales": 80
+  },
+  {
+    "month": "Apr",
+    "boatType": "Deck Boat",
+    "sales": 51
+  },
+  {
+    "month": "May",
+    "boatType": "Center Console",
+    "sales": 109
+  },
+  {
+    "month": "May",
+    "boatType": "Bay Boat",
+    "sales": 85
+  },
+  {
+    "month": "May",
+    "boatType": "Pontoon",
+    "sales": 80
+  },
+  {
+    "month": "May",
+    "boatType": "Bass Boat",
+    "sales": 71
+  },
+  {
+    "month": "May",
+    "boatType": "Deck Boat",
+    "sales": 59
+  },
+  {
+    "month": "Jun",
+    "boatType": "Center Console",
+    "sales": 88
+  },
+  {
+    "month": "Jun",
+    "boatType": "Bay Boat",
+    "sales": 82
+  },
+  {
+    "month": "Jun",
+    "boatType": "Pontoon",
+    "sales": 73
+  },
+  {
+    "month": "Jun",
+    "boatType": "Bass Boat",
+    "sales": 61
+  },
+  {
+    "month": "Jun",
+    "boatType": "Deck Boat",
+    "sales": 31
+  },
+  {
+    "month": "Jul",
+    "boatType": "Center Console",
+    "sales": 80
+  },
+  {
+    "month": "Jul",
+    "boatType": "Bay Boat",
+    "sales": 49
+  },
+  {
+    "month": "Jul",
+    "boatType": "Pontoon",
+    "sales": 47
+  },
+  {
+    "month": "Jul",
+    "boatType": "Bass Boat",
+    "sales": 50
+  },
+  {
+    "month": "Jul",
+    "boatType": "Deck Boat",
+    "sales": 26
+  },
+  {
+    "month": "Aug",
+    "boatType": "Center Console",
+    "sales": 60
+  },
+  {
+    "month": "Aug",
+    "boatType": "Bay Boat",
+    "sales": 40
+  },
+  {
+    "month": "Aug",
+    "boatType": "Pontoon",
+    "sales": 35
+  },
+  {
+    "month": "Aug",
+    "boatType": "Bass Boat",
+    "sales": 35
+  },
+  {
+    "month": "Aug",
+    "boatType": "Deck Boat",
+    "sales": 25
+  },
+  {
+    "month": "Sep",
+    "boatType": "Center Console",
+    "sales": 49
+  },
+  {
+    "month": "Sep",
+    "boatType": "Bay Boat",
+    "sales": 37
+  },
+  {
+    "month": "Sep",
+    "boatType": "Pontoon",
+    "sales": 29
+  },
+  {
+    "month": "Sep",
+    "boatType": "Bass Boat",
+    "sales": 30
+  },
+  {
+    "month": "Sep",
+    "boatType": "Deck Boat",
+    "sales": 27
+  },
+  {
+    "month": "Oct",
+    "boatType": "Center Console",
+    "sales": 78
+  },
+  {
+    "month": "Oct",
+    "boatType": "Bay Boat",
+    "sales": 67
+  },
+  {
+    "month": "Oct",
+    "boatType": "Pontoon",
+    "sales": 46
+  },
+  {
+    "month": "Oct",
+    "boatType": "Bass Boat",
+    "sales": 57
+  },
+  {
+    "month": "Oct",
+    "boatType": "Deck Boat",
+    "sales": 38
+  },
+  {
+    "month": "Nov",
+    "boatType": "Center Console",
+    "sales": 69
+  },
+  {
+    "month": "Nov",
+    "boatType": "Bay Boat",
+    "sales": 59
+  },
+  {
+    "month": "Nov",
+    "boatType": "Pontoon",
+    "sales": 53
+  },
+  {
+    "month": "Nov",
+    "boatType": "Bass Boat",
+    "sales": 47
+  },
+  {
+    "month": "Nov",
+    "boatType": "Deck Boat",
+    "sales": 37
+  },
+  {
+    "month": "Dec",
+    "boatType": "Center Console",
+    "sales": 41
+  },
+  {
+    "month": "Dec",
+    "boatType": "Bay Boat",
+    "sales": 16
+  },
+  {
+    "month": "Dec",
+    "boatType": "Pontoon",
+    "sales": 19
+  },
+  {
+    "month": "Dec",
+    "boatType": "Bass Boat",
+    "sales": 17
+  },
+  {
+    "month": "Dec",
+    "boatType": "Deck Boat",
+    "sales": 12
+  }
+]

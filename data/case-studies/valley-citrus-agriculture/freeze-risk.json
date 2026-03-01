@@ -1,0 +1,767 @@
+[
+  {
+    "x": 1,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.175
+  },
+  {
+    "x": 4,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.158
+  },
+  {
+    "x": 7,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.146
+  },
+  {
+    "x": 10,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.149
+  },
+  {
+    "x": 13,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.103
+  },
+  {
+    "x": 16,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.1
+  },
+  {
+    "x": 19,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.081
+  },
+  {
+    "x": 22,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.079
+  },
+  {
+    "x": 25,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.11
+  },
+  {
+    "x": 28,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.124
+  },
+  {
+    "x": 31,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.39
+  },
+  {
+    "x": 34,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.432
+  },
+  {
+    "x": 37,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.365
+  },
+  {
+    "x": 40,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.312
+  },
+  {
+    "x": 43,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.294
+  },
+  {
+    "x": 46,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.246
+  },
+  {
+    "x": 49,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.208
+  },
+  {
+    "x": 52,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.223
+  },
+  {
+    "x": 55,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.16
+  },
+  {
+    "x": 58,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.105
+  },
+  {
+    "x": 61,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.113
+  },
+  {
+    "x": 64,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.515
+  },
+  {
+    "x": 67,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.503
+  },
+  {
+    "x": 70,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.499
+  },
+  {
+    "x": 73,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.493
+  },
+  {
+    "x": 76,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.463
+  },
+  {
+    "x": 79,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.442
+  },
+  {
+    "x": 82,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.437
+  },
+  {
+    "x": 85,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.386
+  },
+  {
+    "x": 88,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.417
+  },
+  {
+    "x": 91,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.434
+  },
+  {
+    "x": 94,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.387
+  },
+  {
+    "x": 97,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.343
+  },
+  {
+    "x": 100,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.326
+  },
+  {
+    "x": 103,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.303
+  },
+  {
+    "x": 106,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.242
+  },
+  {
+    "x": 109,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.193
+  },
+  {
+    "x": 112,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.195
+  },
+  {
+    "x": 115,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.193
+  },
+  {
+    "x": 118,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.131
+  },
+  {
+    "x": 121,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.098
+  },
+  {
+    "x": 124,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.094
+  },
+  {
+    "x": 127,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.083
+  },
+  {
+    "x": 130,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.09
+  },
+  {
+    "x": 133,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.085
+  },
+  {
+    "x": 136,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.094
+  },
+  {
+    "x": 139,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.06
+  },
+  {
+    "x": 142,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.084
+  },
+  {
+    "x": 145,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.114
+  },
+  {
+    "x": 148,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.099
+  },
+  {
+    "x": 151,
+    "series": "Light Freeze (<0\u00b0C)",
+    "y": 0.089
+  },
+  {
+    "x": 1,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.018
+  },
+  {
+    "x": 4,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.016
+  },
+  {
+    "x": 7,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.035
+  },
+  {
+    "x": 10,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.046
+  },
+  {
+    "x": 13,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.014
+  },
+  {
+    "x": 16,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.015
+  },
+  {
+    "x": 19,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.028
+  },
+  {
+    "x": 22,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.025
+  },
+  {
+    "x": 25,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.019
+  },
+  {
+    "x": 28,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 31,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.152
+  },
+  {
+    "x": 34,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.147
+  },
+  {
+    "x": 37,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.118
+  },
+  {
+    "x": 40,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.132
+  },
+  {
+    "x": 43,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.073
+  },
+  {
+    "x": 46,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.095
+  },
+  {
+    "x": 49,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.114
+  },
+  {
+    "x": 52,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.028
+  },
+  {
+    "x": 55,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.036
+  },
+  {
+    "x": 58,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.051
+  },
+  {
+    "x": 61,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.042
+  },
+  {
+    "x": 64,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.244
+  },
+  {
+    "x": 67,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.214
+  },
+  {
+    "x": 70,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.186
+  },
+  {
+    "x": 73,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.21
+  },
+  {
+    "x": 76,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.183
+  },
+  {
+    "x": 79,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.162
+  },
+  {
+    "x": 82,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.152
+  },
+  {
+    "x": 85,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.138
+  },
+  {
+    "x": 88,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.159
+  },
+  {
+    "x": 91,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.093
+  },
+  {
+    "x": 94,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.123
+  },
+  {
+    "x": 97,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.083
+  },
+  {
+    "x": 100,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.103
+  },
+  {
+    "x": 103,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.062
+  },
+  {
+    "x": 106,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.062
+  },
+  {
+    "x": 109,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.059
+  },
+  {
+    "x": 112,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.09
+  },
+  {
+    "x": 115,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.018
+  },
+  {
+    "x": 118,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.013
+  },
+  {
+    "x": 121,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 124,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.005
+  },
+  {
+    "x": 127,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.011
+  },
+  {
+    "x": 130,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.016
+  },
+  {
+    "x": 133,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.056
+  },
+  {
+    "x": 136,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.002
+  },
+  {
+    "x": 139,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.027
+  },
+  {
+    "x": 142,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.03
+  },
+  {
+    "x": 145,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.015
+  },
+  {
+    "x": 148,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.067
+  },
+  {
+    "x": 151,
+    "series": "Hard Freeze (<-3\u00b0C)",
+    "y": 0.062
+  },
+  {
+    "x": 1,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 4,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.005
+  },
+  {
+    "x": 7,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 10,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.013
+  },
+  {
+    "x": 13,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.015
+  },
+  {
+    "x": 16,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.01
+  },
+  {
+    "x": 19,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.014
+  },
+  {
+    "x": 22,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.012
+  },
+  {
+    "x": 25,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 28,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 31,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.038
+  },
+  {
+    "x": 34,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.022
+  },
+  {
+    "x": 37,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 40,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.042
+  },
+  {
+    "x": 43,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.008
+  },
+  {
+    "x": 46,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 49,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.016
+  },
+  {
+    "x": 52,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 55,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 58,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 61,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 64,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.063
+  },
+  {
+    "x": 67,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.057
+  },
+  {
+    "x": 70,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.062
+  },
+  {
+    "x": 73,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.054
+  },
+  {
+    "x": 76,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.039
+  },
+  {
+    "x": 79,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.061
+  },
+  {
+    "x": 82,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.09
+  },
+  {
+    "x": 85,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.04
+  },
+  {
+    "x": 88,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 91,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.035
+  },
+  {
+    "x": 94,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.05
+  },
+  {
+    "x": 97,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.028
+  },
+  {
+    "x": 100,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.005
+  },
+  {
+    "x": 103,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.021
+  },
+  {
+    "x": 106,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.007
+  },
+  {
+    "x": 109,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.028
+  },
+  {
+    "x": 112,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.031
+  },
+  {
+    "x": 115,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.015
+  },
+  {
+    "x": 118,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 121,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 124,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.008
+  },
+  {
+    "x": 127,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 130,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.026
+  },
+  {
+    "x": 133,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 136,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 139,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0
+  },
+  {
+    "x": 142,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.016
+  },
+  {
+    "x": 145,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.009
+  },
+  {
+    "x": 148,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.016
+  },
+  {
+    "x": 151,
+    "series": "Severe Freeze (<-6\u00b0C)",
+    "y": 0.003
+  }
+]

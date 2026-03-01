@@ -1,0 +1,3522 @@
+[
+  {
+    "day": 0,
+    "boatType": "Center Console",
+    "probability": 1.0
+  },
+  {
+    "day": 5,
+    "boatType": "Center Console",
+    "probability": 0.974
+  },
+  {
+    "day": 6,
+    "boatType": "Center Console",
+    "probability": 0.958
+  },
+  {
+    "day": 7,
+    "boatType": "Center Console",
+    "probability": 0.944
+  },
+  {
+    "day": 8,
+    "boatType": "Center Console",
+    "probability": 0.926
+  },
+  {
+    "day": 9,
+    "boatType": "Center Console",
+    "probability": 0.903
+  },
+  {
+    "day": 10,
+    "boatType": "Center Console",
+    "probability": 0.886
+  },
+  {
+    "day": 11,
+    "boatType": "Center Console",
+    "probability": 0.867
+  },
+  {
+    "day": 12,
+    "boatType": "Center Console",
+    "probability": 0.842
+  },
+  {
+    "day": 13,
+    "boatType": "Center Console",
+    "probability": 0.819
+  },
+  {
+    "day": 14,
+    "boatType": "Center Console",
+    "probability": 0.804
+  },
+  {
+    "day": 15,
+    "boatType": "Center Console",
+    "probability": 0.781
+  },
+  {
+    "day": 16,
+    "boatType": "Center Console",
+    "probability": 0.764
+  },
+  {
+    "day": 17,
+    "boatType": "Center Console",
+    "probability": 0.748
+  },
+  {
+    "day": 18,
+    "boatType": "Center Console",
+    "probability": 0.723
+  },
+  {
+    "day": 19,
+    "boatType": "Center Console",
+    "probability": 0.709
+  },
+  {
+    "day": 20,
+    "boatType": "Center Console",
+    "probability": 0.697
+  },
+  {
+    "day": 21,
+    "boatType": "Center Console",
+    "probability": 0.688
+  },
+  {
+    "day": 22,
+    "boatType": "Center Console",
+    "probability": 0.668
+  },
+  {
+    "day": 23,
+    "boatType": "Center Console",
+    "probability": 0.662
+  },
+  {
+    "day": 24,
+    "boatType": "Center Console",
+    "probability": 0.642
+  },
+  {
+    "day": 25,
+    "boatType": "Center Console",
+    "probability": 0.627
+  },
+  {
+    "day": 26,
+    "boatType": "Center Console",
+    "probability": 0.6
+  },
+  {
+    "day": 27,
+    "boatType": "Center Console",
+    "probability": 0.58
+  },
+  {
+    "day": 28,
+    "boatType": "Center Console",
+    "probability": 0.573
+  },
+  {
+    "day": 29,
+    "boatType": "Center Console",
+    "probability": 0.552
+  },
+  {
+    "day": 30,
+    "boatType": "Center Console",
+    "probability": 0.539
+  },
+  {
+    "day": 31,
+    "boatType": "Center Console",
+    "probability": 0.526
+  },
+  {
+    "day": 32,
+    "boatType": "Center Console",
+    "probability": 0.514
+  },
+  {
+    "day": 33,
+    "boatType": "Center Console",
+    "probability": 0.506
+  },
+  {
+    "day": 34,
+    "boatType": "Center Console",
+    "probability": 0.504
+  },
+  {
+    "day": 35,
+    "boatType": "Center Console",
+    "probability": 0.491
+  },
+  {
+    "day": 36,
+    "boatType": "Center Console",
+    "probability": 0.481
+  },
+  {
+    "day": 37,
+    "boatType": "Center Console",
+    "probability": 0.471
+  },
+  {
+    "day": 38,
+    "boatType": "Center Console",
+    "probability": 0.458
+  },
+  {
+    "day": 39,
+    "boatType": "Center Console",
+    "probability": 0.446
+  },
+  {
+    "day": 40,
+    "boatType": "Center Console",
+    "probability": 0.438
+  },
+  {
+    "day": 41,
+    "boatType": "Center Console",
+    "probability": 0.425
+  },
+  {
+    "day": 42,
+    "boatType": "Center Console",
+    "probability": 0.417
+  },
+  {
+    "day": 43,
+    "boatType": "Center Console",
+    "probability": 0.403
+  },
+  {
+    "day": 44,
+    "boatType": "Center Console",
+    "probability": 0.391
+  },
+  {
+    "day": 45,
+    "boatType": "Center Console",
+    "probability": 0.385
+  },
+  {
+    "day": 46,
+    "boatType": "Center Console",
+    "probability": 0.376
+  },
+  {
+    "day": 47,
+    "boatType": "Center Console",
+    "probability": 0.366
+  },
+  {
+    "day": 48,
+    "boatType": "Center Console",
+    "probability": 0.359
+  },
+  {
+    "day": 49,
+    "boatType": "Center Console",
+    "probability": 0.351
+  },
+  {
+    "day": 50,
+    "boatType": "Center Console",
+    "probability": 0.346
+  },
+  {
+    "day": 51,
+    "boatType": "Center Console",
+    "probability": 0.34
+  },
+  {
+    "day": 52,
+    "boatType": "Center Console",
+    "probability": 0.331
+  },
+  {
+    "day": 53,
+    "boatType": "Center Console",
+    "probability": 0.325
+  },
+  {
+    "day": 54,
+    "boatType": "Center Console",
+    "probability": 0.317
+  },
+  {
+    "day": 55,
+    "boatType": "Center Console",
+    "probability": 0.304
+  },
+  {
+    "day": 56,
+    "boatType": "Center Console",
+    "probability": 0.302
+  },
+  {
+    "day": 57,
+    "boatType": "Center Console",
+    "probability": 0.298
+  },
+  {
+    "day": 58,
+    "boatType": "Center Console",
+    "probability": 0.295
+  },
+  {
+    "day": 59,
+    "boatType": "Center Console",
+    "probability": 0.291
+  },
+  {
+    "day": 60,
+    "boatType": "Center Console",
+    "probability": 0.283
+  },
+  {
+    "day": 61,
+    "boatType": "Center Console",
+    "probability": 0.277
+  },
+  {
+    "day": 62,
+    "boatType": "Center Console",
+    "probability": 0.271
+  },
+  {
+    "day": 63,
+    "boatType": "Center Console",
+    "probability": 0.269
+  },
+  {
+    "day": 64,
+    "boatType": "Center Console",
+    "probability": 0.263
+  },
+  {
+    "day": 65,
+    "boatType": "Center Console",
+    "probability": 0.261
+  },
+  {
+    "day": 66,
+    "boatType": "Center Console",
+    "probability": 0.258
+  },
+  {
+    "day": 67,
+    "boatType": "Center Console",
+    "probability": 0.248
+  },
+  {
+    "day": 68,
+    "boatType": "Center Console",
+    "probability": 0.245
+  },
+  {
+    "day": 69,
+    "boatType": "Center Console",
+    "probability": 0.238
+  },
+  {
+    "day": 70,
+    "boatType": "Center Console",
+    "probability": 0.232
+  },
+  {
+    "day": 71,
+    "boatType": "Center Console",
+    "probability": 0.227
+  },
+  {
+    "day": 72,
+    "boatType": "Center Console",
+    "probability": 0.224
+  },
+  {
+    "day": 73,
+    "boatType": "Center Console",
+    "probability": 0.217
+  },
+  {
+    "day": 74,
+    "boatType": "Center Console",
+    "probability": 0.214
+  },
+  {
+    "day": 75,
+    "boatType": "Center Console",
+    "probability": 0.208
+  },
+  {
+    "day": 76,
+    "boatType": "Center Console",
+    "probability": 0.202
+  },
+  {
+    "day": 77,
+    "boatType": "Center Console",
+    "probability": 0.196
+  },
+  {
+    "day": 78,
+    "boatType": "Center Console",
+    "probability": 0.191
+  },
+  {
+    "day": 79,
+    "boatType": "Center Console",
+    "probability": 0.184
+  },
+  {
+    "day": 80,
+    "boatType": "Center Console",
+    "probability": 0.175
+  },
+  {
+    "day": 81,
+    "boatType": "Center Console",
+    "probability": 0.17
+  },
+  {
+    "day": 82,
+    "boatType": "Center Console",
+    "probability": 0.167
+  },
+  {
+    "day": 83,
+    "boatType": "Center Console",
+    "probability": 0.164
+  },
+  {
+    "day": 84,
+    "boatType": "Center Console",
+    "probability": 0.16
+  },
+  {
+    "day": 85,
+    "boatType": "Center Console",
+    "probability": 0.155
+  },
+  {
+    "day": 86,
+    "boatType": "Center Console",
+    "probability": 0.147
+  },
+  {
+    "day": 87,
+    "boatType": "Center Console",
+    "probability": 0.144
+  },
+  {
+    "day": 88,
+    "boatType": "Center Console",
+    "probability": 0.141
+  },
+  {
+    "day": 89,
+    "boatType": "Center Console",
+    "probability": 0.136
+  },
+  {
+    "day": 90,
+    "boatType": "Center Console",
+    "probability": 0.133
+  },
+  {
+    "day": 91,
+    "boatType": "Center Console",
+    "probability": 0.129
+  },
+  {
+    "day": 92,
+    "boatType": "Center Console",
+    "probability": 0.124
+  },
+  {
+    "day": 93,
+    "boatType": "Center Console",
+    "probability": 0.122
+  },
+  {
+    "day": 94,
+    "boatType": "Center Console",
+    "probability": 0.121
+  },
+  {
+    "day": 95,
+    "boatType": "Center Console",
+    "probability": 0.12
+  },
+  {
+    "day": 96,
+    "boatType": "Center Console",
+    "probability": 0.115
+  },
+  {
+    "day": 98,
+    "boatType": "Center Console",
+    "probability": 0.114
+  },
+  {
+    "day": 99,
+    "boatType": "Center Console",
+    "probability": 0.112
+  },
+  {
+    "day": 101,
+    "boatType": "Center Console",
+    "probability": 0.107
+  },
+  {
+    "day": 102,
+    "boatType": "Center Console",
+    "probability": 0.104
+  },
+  {
+    "day": 103,
+    "boatType": "Center Console",
+    "probability": 0.1
+  },
+  {
+    "day": 104,
+    "boatType": "Center Console",
+    "probability": 0.097
+  },
+  {
+    "day": 105,
+    "boatType": "Center Console",
+    "probability": 0.095
+  },
+  {
+    "day": 106,
+    "boatType": "Center Console",
+    "probability": 0.094
+  },
+  {
+    "day": 107,
+    "boatType": "Center Console",
+    "probability": 0.092
+  },
+  {
+    "day": 108,
+    "boatType": "Center Console",
+    "probability": 0.09
+  },
+  {
+    "day": 111,
+    "boatType": "Center Console",
+    "probability": 0.087
+  },
+  {
+    "day": 113,
+    "boatType": "Center Console",
+    "probability": 0.082
+  },
+  {
+    "day": 114,
+    "boatType": "Center Console",
+    "probability": 0.081
+  },
+  {
+    "day": 115,
+    "boatType": "Center Console",
+    "probability": 0.077
+  },
+  {
+    "day": 116,
+    "boatType": "Center Console",
+    "probability": 0.076
+  },
+  {
+    "day": 118,
+    "boatType": "Center Console",
+    "probability": 0.074
+  },
+  {
+    "day": 119,
+    "boatType": "Center Console",
+    "probability": 0.073
+  },
+  {
+    "day": 121,
+    "boatType": "Center Console",
+    "probability": 0.072
+  },
+  {
+    "day": 122,
+    "boatType": "Center Console",
+    "probability": 0.066
+  },
+  {
+    "day": 123,
+    "boatType": "Center Console",
+    "probability": 0.065
+  },
+  {
+    "day": 124,
+    "boatType": "Center Console",
+    "probability": 0.061
+  },
+  {
+    "day": 125,
+    "boatType": "Center Console",
+    "probability": 0.058
+  },
+  {
+    "day": 127,
+    "boatType": "Center Console",
+    "probability": 0.055
+  },
+  {
+    "day": 129,
+    "boatType": "Center Console",
+    "probability": 0.054
+  },
+  {
+    "day": 130,
+    "boatType": "Center Console",
+    "probability": 0.053
+  },
+  {
+    "day": 131,
+    "boatType": "Center Console",
+    "probability": 0.05
+  },
+  {
+    "day": 132,
+    "boatType": "Center Console",
+    "probability": 0.048
+  },
+  {
+    "day": 133,
+    "boatType": "Center Console",
+    "probability": 0.046
+  },
+  {
+    "day": 136,
+    "boatType": "Center Console",
+    "probability": 0.043
+  },
+  {
+    "day": 139,
+    "boatType": "Center Console",
+    "probability": 0.042
+  },
+  {
+    "day": 143,
+    "boatType": "Center Console",
+    "probability": 0.041
+  },
+  {
+    "day": 144,
+    "boatType": "Center Console",
+    "probability": 0.04
+  },
+  {
+    "day": 147,
+    "boatType": "Center Console",
+    "probability": 0.039
+  },
+  {
+    "day": 149,
+    "boatType": "Center Console",
+    "probability": 0.038
+  },
+  {
+    "day": 151,
+    "boatType": "Center Console",
+    "probability": 0.036
+  },
+  {
+    "day": 152,
+    "boatType": "Center Console",
+    "probability": 0.032
+  },
+  {
+    "day": 153,
+    "boatType": "Center Console",
+    "probability": 0.031
+  },
+  {
+    "day": 156,
+    "boatType": "Center Console",
+    "probability": 0.029
+  },
+  {
+    "day": 158,
+    "boatType": "Center Console",
+    "probability": 0.028
+  },
+  {
+    "day": 159,
+    "boatType": "Center Console",
+    "probability": 0.027
+  },
+  {
+    "day": 161,
+    "boatType": "Center Console",
+    "probability": 0.026
+  },
+  {
+    "day": 164,
+    "boatType": "Center Console",
+    "probability": 0.025
+  },
+  {
+    "day": 168,
+    "boatType": "Center Console",
+    "probability": 0.023
+  },
+  {
+    "day": 171,
+    "boatType": "Center Console",
+    "probability": 0.022
+  },
+  {
+    "day": 172,
+    "boatType": "Center Console",
+    "probability": 0.021
+  },
+  {
+    "day": 174,
+    "boatType": "Center Console",
+    "probability": 0.02
+  },
+  {
+    "day": 178,
+    "boatType": "Center Console",
+    "probability": 0.019
+  },
+  {
+    "day": 179,
+    "boatType": "Center Console",
+    "probability": 0.016
+  },
+  {
+    "day": 181,
+    "boatType": "Center Console",
+    "probability": 0.015
+  },
+  {
+    "day": 182,
+    "boatType": "Center Console",
+    "probability": 0.014
+  },
+  {
+    "day": 183,
+    "boatType": "Center Console",
+    "probability": 0.013
+  },
+  {
+    "day": 184,
+    "boatType": "Center Console",
+    "probability": 0.012
+  },
+  {
+    "day": 191,
+    "boatType": "Center Console",
+    "probability": 0.011
+  },
+  {
+    "day": 206,
+    "boatType": "Center Console",
+    "probability": 0.009
+  },
+  {
+    "day": 210,
+    "boatType": "Center Console",
+    "probability": 0.008
+  },
+  {
+    "day": 219,
+    "boatType": "Center Console",
+    "probability": 0.007
+  },
+  {
+    "day": 229,
+    "boatType": "Center Console",
+    "probability": 0.006
+  },
+  {
+    "day": 231,
+    "boatType": "Center Console",
+    "probability": 0.005
+  },
+  {
+    "day": 239,
+    "boatType": "Center Console",
+    "probability": 0.004
+  },
+  {
+    "day": 244,
+    "boatType": "Center Console",
+    "probability": 0.001
+  },
+  {
+    "day": 259,
+    "boatType": "Center Console",
+    "probability": 0.0
+  },
+  {
+    "day": 0,
+    "boatType": "Bay Boat",
+    "probability": 1.0
+  },
+  {
+    "day": 5,
+    "boatType": "Bay Boat",
+    "probability": 0.994
+  },
+  {
+    "day": 6,
+    "boatType": "Bay Boat",
+    "probability": 0.971
+  },
+  {
+    "day": 7,
+    "boatType": "Bay Boat",
+    "probability": 0.939
+  },
+  {
+    "day": 8,
+    "boatType": "Bay Boat",
+    "probability": 0.917
+  },
+  {
+    "day": 9,
+    "boatType": "Bay Boat",
+    "probability": 0.897
+  },
+  {
+    "day": 10,
+    "boatType": "Bay Boat",
+    "probability": 0.873
+  },
+  {
+    "day": 11,
+    "boatType": "Bay Boat",
+    "probability": 0.856
+  },
+  {
+    "day": 12,
+    "boatType": "Bay Boat",
+    "probability": 0.836
+  },
+  {
+    "day": 13,
+    "boatType": "Bay Boat",
+    "probability": 0.829
+  },
+  {
+    "day": 14,
+    "boatType": "Bay Boat",
+    "probability": 0.818
+  },
+  {
+    "day": 15,
+    "boatType": "Bay Boat",
+    "probability": 0.795
+  },
+  {
+    "day": 16,
+    "boatType": "Bay Boat",
+    "probability": 0.779
+  },
+  {
+    "day": 17,
+    "boatType": "Bay Boat",
+    "probability": 0.767
+  },
+  {
+    "day": 18,
+    "boatType": "Bay Boat",
+    "probability": 0.75
+  },
+  {
+    "day": 19,
+    "boatType": "Bay Boat",
+    "probability": 0.73
+  },
+  {
+    "day": 20,
+    "boatType": "Bay Boat",
+    "probability": 0.714
+  },
+  {
+    "day": 21,
+    "boatType": "Bay Boat",
+    "probability": 0.702
+  },
+  {
+    "day": 22,
+    "boatType": "Bay Boat",
+    "probability": 0.689
+  },
+  {
+    "day": 23,
+    "boatType": "Bay Boat",
+    "probability": 0.671
+  },
+  {
+    "day": 24,
+    "boatType": "Bay Boat",
+    "probability": 0.652
+  },
+  {
+    "day": 25,
+    "boatType": "Bay Boat",
+    "probability": 0.635
+  },
+  {
+    "day": 26,
+    "boatType": "Bay Boat",
+    "probability": 0.618
+  },
+  {
+    "day": 27,
+    "boatType": "Bay Boat",
+    "probability": 0.611
+  },
+  {
+    "day": 28,
+    "boatType": "Bay Boat",
+    "probability": 0.603
+  },
+  {
+    "day": 29,
+    "boatType": "Bay Boat",
+    "probability": 0.579
+  },
+  {
+    "day": 30,
+    "boatType": "Bay Boat",
+    "probability": 0.57
+  },
+  {
+    "day": 31,
+    "boatType": "Bay Boat",
+    "probability": 0.561
+  },
+  {
+    "day": 32,
+    "boatType": "Bay Boat",
+    "probability": 0.553
+  },
+  {
+    "day": 33,
+    "boatType": "Bay Boat",
+    "probability": 0.542
+  },
+  {
+    "day": 34,
+    "boatType": "Bay Boat",
+    "probability": 0.53
+  },
+  {
+    "day": 35,
+    "boatType": "Bay Boat",
+    "probability": 0.518
+  },
+  {
+    "day": 36,
+    "boatType": "Bay Boat",
+    "probability": 0.505
+  },
+  {
+    "day": 37,
+    "boatType": "Bay Boat",
+    "probability": 0.483
+  },
+  {
+    "day": 38,
+    "boatType": "Bay Boat",
+    "probability": 0.473
+  },
+  {
+    "day": 39,
+    "boatType": "Bay Boat",
+    "probability": 0.464
+  },
+  {
+    "day": 40,
+    "boatType": "Bay Boat",
+    "probability": 0.456
+  },
+  {
+    "day": 41,
+    "boatType": "Bay Boat",
+    "probability": 0.447
+  },
+  {
+    "day": 42,
+    "boatType": "Bay Boat",
+    "probability": 0.438
+  },
+  {
+    "day": 43,
+    "boatType": "Bay Boat",
+    "probability": 0.43
+  },
+  {
+    "day": 44,
+    "boatType": "Bay Boat",
+    "probability": 0.421
+  },
+  {
+    "day": 45,
+    "boatType": "Bay Boat",
+    "probability": 0.414
+  },
+  {
+    "day": 46,
+    "boatType": "Bay Boat",
+    "probability": 0.394
+  },
+  {
+    "day": 47,
+    "boatType": "Bay Boat",
+    "probability": 0.383
+  },
+  {
+    "day": 48,
+    "boatType": "Bay Boat",
+    "probability": 0.377
+  },
+  {
+    "day": 49,
+    "boatType": "Bay Boat",
+    "probability": 0.37
+  },
+  {
+    "day": 50,
+    "boatType": "Bay Boat",
+    "probability": 0.358
+  },
+  {
+    "day": 51,
+    "boatType": "Bay Boat",
+    "probability": 0.353
+  },
+  {
+    "day": 52,
+    "boatType": "Bay Boat",
+    "probability": 0.341
+  },
+  {
+    "day": 53,
+    "boatType": "Bay Boat",
+    "probability": 0.335
+  },
+  {
+    "day": 54,
+    "boatType": "Bay Boat",
+    "probability": 0.327
+  },
+  {
+    "day": 55,
+    "boatType": "Bay Boat",
+    "probability": 0.324
+  },
+  {
+    "day": 56,
+    "boatType": "Bay Boat",
+    "probability": 0.32
+  },
+  {
+    "day": 57,
+    "boatType": "Bay Boat",
+    "probability": 0.312
+  },
+  {
+    "day": 58,
+    "boatType": "Bay Boat",
+    "probability": 0.305
+  },
+  {
+    "day": 59,
+    "boatType": "Bay Boat",
+    "probability": 0.298
+  },
+  {
+    "day": 60,
+    "boatType": "Bay Boat",
+    "probability": 0.295
+  },
+  {
+    "day": 61,
+    "boatType": "Bay Boat",
+    "probability": 0.292
+  },
+  {
+    "day": 62,
+    "boatType": "Bay Boat",
+    "probability": 0.285
+  },
+  {
+    "day": 63,
+    "boatType": "Bay Boat",
+    "probability": 0.274
+  },
+  {
+    "day": 64,
+    "boatType": "Bay Boat",
+    "probability": 0.267
+  },
+  {
+    "day": 65,
+    "boatType": "Bay Boat",
+    "probability": 0.265
+  },
+  {
+    "day": 66,
+    "boatType": "Bay Boat",
+    "probability": 0.259
+  },
+  {
+    "day": 67,
+    "boatType": "Bay Boat",
+    "probability": 0.256
+  },
+  {
+    "day": 68,
+    "boatType": "Bay Boat",
+    "probability": 0.255
+  },
+  {
+    "day": 69,
+    "boatType": "Bay Boat",
+    "probability": 0.247
+  },
+  {
+    "day": 70,
+    "boatType": "Bay Boat",
+    "probability": 0.242
+  },
+  {
+    "day": 71,
+    "boatType": "Bay Boat",
+    "probability": 0.239
+  },
+  {
+    "day": 72,
+    "boatType": "Bay Boat",
+    "probability": 0.235
+  },
+  {
+    "day": 73,
+    "boatType": "Bay Boat",
+    "probability": 0.227
+  },
+  {
+    "day": 74,
+    "boatType": "Bay Boat",
+    "probability": 0.224
+  },
+  {
+    "day": 75,
+    "boatType": "Bay Boat",
+    "probability": 0.221
+  },
+  {
+    "day": 76,
+    "boatType": "Bay Boat",
+    "probability": 0.217
+  },
+  {
+    "day": 77,
+    "boatType": "Bay Boat",
+    "probability": 0.215
+  },
+  {
+    "day": 78,
+    "boatType": "Bay Boat",
+    "probability": 0.209
+  },
+  {
+    "day": 79,
+    "boatType": "Bay Boat",
+    "probability": 0.203
+  },
+  {
+    "day": 80,
+    "boatType": "Bay Boat",
+    "probability": 0.198
+  },
+  {
+    "day": 81,
+    "boatType": "Bay Boat",
+    "probability": 0.197
+  },
+  {
+    "day": 82,
+    "boatType": "Bay Boat",
+    "probability": 0.192
+  },
+  {
+    "day": 83,
+    "boatType": "Bay Boat",
+    "probability": 0.191
+  },
+  {
+    "day": 84,
+    "boatType": "Bay Boat",
+    "probability": 0.189
+  },
+  {
+    "day": 85,
+    "boatType": "Bay Boat",
+    "probability": 0.186
+  },
+  {
+    "day": 86,
+    "boatType": "Bay Boat",
+    "probability": 0.182
+  },
+  {
+    "day": 87,
+    "boatType": "Bay Boat",
+    "probability": 0.18
+  },
+  {
+    "day": 88,
+    "boatType": "Bay Boat",
+    "probability": 0.177
+  },
+  {
+    "day": 89,
+    "boatType": "Bay Boat",
+    "probability": 0.171
+  },
+  {
+    "day": 90,
+    "boatType": "Bay Boat",
+    "probability": 0.167
+  },
+  {
+    "day": 91,
+    "boatType": "Bay Boat",
+    "probability": 0.165
+  },
+  {
+    "day": 92,
+    "boatType": "Bay Boat",
+    "probability": 0.164
+  },
+  {
+    "day": 93,
+    "boatType": "Bay Boat",
+    "probability": 0.161
+  },
+  {
+    "day": 94,
+    "boatType": "Bay Boat",
+    "probability": 0.156
+  },
+  {
+    "day": 95,
+    "boatType": "Bay Boat",
+    "probability": 0.155
+  },
+  {
+    "day": 96,
+    "boatType": "Bay Boat",
+    "probability": 0.152
+  },
+  {
+    "day": 97,
+    "boatType": "Bay Boat",
+    "probability": 0.147
+  },
+  {
+    "day": 98,
+    "boatType": "Bay Boat",
+    "probability": 0.142
+  },
+  {
+    "day": 99,
+    "boatType": "Bay Boat",
+    "probability": 0.141
+  },
+  {
+    "day": 100,
+    "boatType": "Bay Boat",
+    "probability": 0.132
+  },
+  {
+    "day": 101,
+    "boatType": "Bay Boat",
+    "probability": 0.127
+  },
+  {
+    "day": 102,
+    "boatType": "Bay Boat",
+    "probability": 0.123
+  },
+  {
+    "day": 103,
+    "boatType": "Bay Boat",
+    "probability": 0.12
+  },
+  {
+    "day": 105,
+    "boatType": "Bay Boat",
+    "probability": 0.118
+  },
+  {
+    "day": 106,
+    "boatType": "Bay Boat",
+    "probability": 0.115
+  },
+  {
+    "day": 107,
+    "boatType": "Bay Boat",
+    "probability": 0.114
+  },
+  {
+    "day": 108,
+    "boatType": "Bay Boat",
+    "probability": 0.111
+  },
+  {
+    "day": 109,
+    "boatType": "Bay Boat",
+    "probability": 0.108
+  },
+  {
+    "day": 110,
+    "boatType": "Bay Boat",
+    "probability": 0.106
+  },
+  {
+    "day": 111,
+    "boatType": "Bay Boat",
+    "probability": 0.103
+  },
+  {
+    "day": 112,
+    "boatType": "Bay Boat",
+    "probability": 0.1
+  },
+  {
+    "day": 113,
+    "boatType": "Bay Boat",
+    "probability": 0.098
+  },
+  {
+    "day": 114,
+    "boatType": "Bay Boat",
+    "probability": 0.094
+  },
+  {
+    "day": 115,
+    "boatType": "Bay Boat",
+    "probability": 0.092
+  },
+  {
+    "day": 116,
+    "boatType": "Bay Boat",
+    "probability": 0.088
+  },
+  {
+    "day": 117,
+    "boatType": "Bay Boat",
+    "probability": 0.086
+  },
+  {
+    "day": 118,
+    "boatType": "Bay Boat",
+    "probability": 0.083
+  },
+  {
+    "day": 120,
+    "boatType": "Bay Boat",
+    "probability": 0.082
+  },
+  {
+    "day": 121,
+    "boatType": "Bay Boat",
+    "probability": 0.079
+  },
+  {
+    "day": 122,
+    "boatType": "Bay Boat",
+    "probability": 0.077
+  },
+  {
+    "day": 123,
+    "boatType": "Bay Boat",
+    "probability": 0.073
+  },
+  {
+    "day": 125,
+    "boatType": "Bay Boat",
+    "probability": 0.07
+  },
+  {
+    "day": 126,
+    "boatType": "Bay Boat",
+    "probability": 0.068
+  },
+  {
+    "day": 128,
+    "boatType": "Bay Boat",
+    "probability": 0.064
+  },
+  {
+    "day": 129,
+    "boatType": "Bay Boat",
+    "probability": 0.062
+  },
+  {
+    "day": 130,
+    "boatType": "Bay Boat",
+    "probability": 0.061
+  },
+  {
+    "day": 133,
+    "boatType": "Bay Boat",
+    "probability": 0.059
+  },
+  {
+    "day": 135,
+    "boatType": "Bay Boat",
+    "probability": 0.058
+  },
+  {
+    "day": 136,
+    "boatType": "Bay Boat",
+    "probability": 0.055
+  },
+  {
+    "day": 139,
+    "boatType": "Bay Boat",
+    "probability": 0.053
+  },
+  {
+    "day": 140,
+    "boatType": "Bay Boat",
+    "probability": 0.052
+  },
+  {
+    "day": 141,
+    "boatType": "Bay Boat",
+    "probability": 0.05
+  },
+  {
+    "day": 142,
+    "boatType": "Bay Boat",
+    "probability": 0.047
+  },
+  {
+    "day": 144,
+    "boatType": "Bay Boat",
+    "probability": 0.045
+  },
+  {
+    "day": 145,
+    "boatType": "Bay Boat",
+    "probability": 0.044
+  },
+  {
+    "day": 146,
+    "boatType": "Bay Boat",
+    "probability": 0.042
+  },
+  {
+    "day": 147,
+    "boatType": "Bay Boat",
+    "probability": 0.038
+  },
+  {
+    "day": 149,
+    "boatType": "Bay Boat",
+    "probability": 0.035
+  },
+  {
+    "day": 151,
+    "boatType": "Bay Boat",
+    "probability": 0.033
+  },
+  {
+    "day": 152,
+    "boatType": "Bay Boat",
+    "probability": 0.032
+  },
+  {
+    "day": 157,
+    "boatType": "Bay Boat",
+    "probability": 0.03
+  },
+  {
+    "day": 159,
+    "boatType": "Bay Boat",
+    "probability": 0.029
+  },
+  {
+    "day": 160,
+    "boatType": "Bay Boat",
+    "probability": 0.027
+  },
+  {
+    "day": 162,
+    "boatType": "Bay Boat",
+    "probability": 0.026
+  },
+  {
+    "day": 163,
+    "boatType": "Bay Boat",
+    "probability": 0.024
+  },
+  {
+    "day": 171,
+    "boatType": "Bay Boat",
+    "probability": 0.021
+  },
+  {
+    "day": 172,
+    "boatType": "Bay Boat",
+    "probability": 0.02
+  },
+  {
+    "day": 176,
+    "boatType": "Bay Boat",
+    "probability": 0.018
+  },
+  {
+    "day": 188,
+    "boatType": "Bay Boat",
+    "probability": 0.017
+  },
+  {
+    "day": 191,
+    "boatType": "Bay Boat",
+    "probability": 0.014
+  },
+  {
+    "day": 198,
+    "boatType": "Bay Boat",
+    "probability": 0.012
+  },
+  {
+    "day": 207,
+    "boatType": "Bay Boat",
+    "probability": 0.011
+  },
+  {
+    "day": 216,
+    "boatType": "Bay Boat",
+    "probability": 0.009
+  },
+  {
+    "day": 237,
+    "boatType": "Bay Boat",
+    "probability": 0.008
+  },
+  {
+    "day": 240,
+    "boatType": "Bay Boat",
+    "probability": 0.005
+  },
+  {
+    "day": 242,
+    "boatType": "Bay Boat",
+    "probability": 0.003
+  },
+  {
+    "day": 254,
+    "boatType": "Bay Boat",
+    "probability": 0.002
+  },
+  {
+    "day": 276,
+    "boatType": "Bay Boat",
+    "probability": 0.0
+  },
+  {
+    "day": 0,
+    "boatType": "Pontoon",
+    "probability": 1.0
+  },
+  {
+    "day": 5,
+    "boatType": "Pontoon",
+    "probability": 0.989
+  },
+  {
+    "day": 6,
+    "boatType": "Pontoon",
+    "probability": 0.957
+  },
+  {
+    "day": 7,
+    "boatType": "Pontoon",
+    "probability": 0.936
+  },
+  {
+    "day": 8,
+    "boatType": "Pontoon",
+    "probability": 0.918
+  },
+  {
+    "day": 9,
+    "boatType": "Pontoon",
+    "probability": 0.904
+  },
+  {
+    "day": 10,
+    "boatType": "Pontoon",
+    "probability": 0.875
+  },
+  {
+    "day": 11,
+    "boatType": "Pontoon",
+    "probability": 0.863
+  },
+  {
+    "day": 12,
+    "boatType": "Pontoon",
+    "probability": 0.849
+  },
+  {
+    "day": 13,
+    "boatType": "Pontoon",
+    "probability": 0.831
+  },
+  {
+    "day": 14,
+    "boatType": "Pontoon",
+    "probability": 0.792
+  },
+  {
+    "day": 15,
+    "boatType": "Pontoon",
+    "probability": 0.769
+  },
+  {
+    "day": 16,
+    "boatType": "Pontoon",
+    "probability": 0.749
+  },
+  {
+    "day": 17,
+    "boatType": "Pontoon",
+    "probability": 0.726
+  },
+  {
+    "day": 18,
+    "boatType": "Pontoon",
+    "probability": 0.708
+  },
+  {
+    "day": 19,
+    "boatType": "Pontoon",
+    "probability": 0.692
+  },
+  {
+    "day": 20,
+    "boatType": "Pontoon",
+    "probability": 0.676
+  },
+  {
+    "day": 21,
+    "boatType": "Pontoon",
+    "probability": 0.658
+  },
+  {
+    "day": 22,
+    "boatType": "Pontoon",
+    "probability": 0.641
+  },
+  {
+    "day": 23,
+    "boatType": "Pontoon",
+    "probability": 0.63
+  },
+  {
+    "day": 24,
+    "boatType": "Pontoon",
+    "probability": 0.609
+  },
+  {
+    "day": 25,
+    "boatType": "Pontoon",
+    "probability": 0.601
+  },
+  {
+    "day": 26,
+    "boatType": "Pontoon",
+    "probability": 0.587
+  },
+  {
+    "day": 27,
+    "boatType": "Pontoon",
+    "probability": 0.571
+  },
+  {
+    "day": 28,
+    "boatType": "Pontoon",
+    "probability": 0.553
+  },
+  {
+    "day": 29,
+    "boatType": "Pontoon",
+    "probability": 0.541
+  },
+  {
+    "day": 30,
+    "boatType": "Pontoon",
+    "probability": 0.532
+  },
+  {
+    "day": 31,
+    "boatType": "Pontoon",
+    "probability": 0.521
+  },
+  {
+    "day": 32,
+    "boatType": "Pontoon",
+    "probability": 0.511
+  },
+  {
+    "day": 33,
+    "boatType": "Pontoon",
+    "probability": 0.504
+  },
+  {
+    "day": 34,
+    "boatType": "Pontoon",
+    "probability": 0.496
+  },
+  {
+    "day": 35,
+    "boatType": "Pontoon",
+    "probability": 0.489
+  },
+  {
+    "day": 36,
+    "boatType": "Pontoon",
+    "probability": 0.48
+  },
+  {
+    "day": 37,
+    "boatType": "Pontoon",
+    "probability": 0.473
+  },
+  {
+    "day": 38,
+    "boatType": "Pontoon",
+    "probability": 0.461
+  },
+  {
+    "day": 39,
+    "boatType": "Pontoon",
+    "probability": 0.445
+  },
+  {
+    "day": 40,
+    "boatType": "Pontoon",
+    "probability": 0.432
+  },
+  {
+    "day": 41,
+    "boatType": "Pontoon",
+    "probability": 0.425
+  },
+  {
+    "day": 42,
+    "boatType": "Pontoon",
+    "probability": 0.413
+  },
+  {
+    "day": 43,
+    "boatType": "Pontoon",
+    "probability": 0.404
+  },
+  {
+    "day": 44,
+    "boatType": "Pontoon",
+    "probability": 0.397
+  },
+  {
+    "day": 45,
+    "boatType": "Pontoon",
+    "probability": 0.391
+  },
+  {
+    "day": 46,
+    "boatType": "Pontoon",
+    "probability": 0.386
+  },
+  {
+    "day": 47,
+    "boatType": "Pontoon",
+    "probability": 0.379
+  },
+  {
+    "day": 48,
+    "boatType": "Pontoon",
+    "probability": 0.365
+  },
+  {
+    "day": 49,
+    "boatType": "Pontoon",
+    "probability": 0.359
+  },
+  {
+    "day": 50,
+    "boatType": "Pontoon",
+    "probability": 0.358
+  },
+  {
+    "day": 51,
+    "boatType": "Pontoon",
+    "probability": 0.351
+  },
+  {
+    "day": 52,
+    "boatType": "Pontoon",
+    "probability": 0.343
+  },
+  {
+    "day": 53,
+    "boatType": "Pontoon",
+    "probability": 0.333
+  },
+  {
+    "day": 54,
+    "boatType": "Pontoon",
+    "probability": 0.324
+  },
+  {
+    "day": 55,
+    "boatType": "Pontoon",
+    "probability": 0.322
+  },
+  {
+    "day": 56,
+    "boatType": "Pontoon",
+    "probability": 0.315
+  },
+  {
+    "day": 57,
+    "boatType": "Pontoon",
+    "probability": 0.306
+  },
+  {
+    "day": 58,
+    "boatType": "Pontoon",
+    "probability": 0.299
+  },
+  {
+    "day": 59,
+    "boatType": "Pontoon",
+    "probability": 0.29
+  },
+  {
+    "day": 60,
+    "boatType": "Pontoon",
+    "probability": 0.288
+  },
+  {
+    "day": 61,
+    "boatType": "Pontoon",
+    "probability": 0.283
+  },
+  {
+    "day": 62,
+    "boatType": "Pontoon",
+    "probability": 0.274
+  },
+  {
+    "day": 63,
+    "boatType": "Pontoon",
+    "probability": 0.267
+  },
+  {
+    "day": 65,
+    "boatType": "Pontoon",
+    "probability": 0.253
+  },
+  {
+    "day": 66,
+    "boatType": "Pontoon",
+    "probability": 0.246
+  },
+  {
+    "day": 67,
+    "boatType": "Pontoon",
+    "probability": 0.244
+  },
+  {
+    "day": 68,
+    "boatType": "Pontoon",
+    "probability": 0.235
+  },
+  {
+    "day": 69,
+    "boatType": "Pontoon",
+    "probability": 0.226
+  },
+  {
+    "day": 70,
+    "boatType": "Pontoon",
+    "probability": 0.221
+  },
+  {
+    "day": 71,
+    "boatType": "Pontoon",
+    "probability": 0.212
+  },
+  {
+    "day": 72,
+    "boatType": "Pontoon",
+    "probability": 0.206
+  },
+  {
+    "day": 73,
+    "boatType": "Pontoon",
+    "probability": 0.205
+  },
+  {
+    "day": 74,
+    "boatType": "Pontoon",
+    "probability": 0.198
+  },
+  {
+    "day": 75,
+    "boatType": "Pontoon",
+    "probability": 0.194
+  },
+  {
+    "day": 76,
+    "boatType": "Pontoon",
+    "probability": 0.187
+  },
+  {
+    "day": 77,
+    "boatType": "Pontoon",
+    "probability": 0.185
+  },
+  {
+    "day": 81,
+    "boatType": "Pontoon",
+    "probability": 0.181
+  },
+  {
+    "day": 82,
+    "boatType": "Pontoon",
+    "probability": 0.178
+  },
+  {
+    "day": 83,
+    "boatType": "Pontoon",
+    "probability": 0.171
+  },
+  {
+    "day": 84,
+    "boatType": "Pontoon",
+    "probability": 0.164
+  },
+  {
+    "day": 85,
+    "boatType": "Pontoon",
+    "probability": 0.158
+  },
+  {
+    "day": 86,
+    "boatType": "Pontoon",
+    "probability": 0.155
+  },
+  {
+    "day": 87,
+    "boatType": "Pontoon",
+    "probability": 0.151
+  },
+  {
+    "day": 88,
+    "boatType": "Pontoon",
+    "probability": 0.148
+  },
+  {
+    "day": 89,
+    "boatType": "Pontoon",
+    "probability": 0.142
+  },
+  {
+    "day": 90,
+    "boatType": "Pontoon",
+    "probability": 0.137
+  },
+  {
+    "day": 91,
+    "boatType": "Pontoon",
+    "probability": 0.133
+  },
+  {
+    "day": 92,
+    "boatType": "Pontoon",
+    "probability": 0.128
+  },
+  {
+    "day": 93,
+    "boatType": "Pontoon",
+    "probability": 0.125
+  },
+  {
+    "day": 95,
+    "boatType": "Pontoon",
+    "probability": 0.123
+  },
+  {
+    "day": 96,
+    "boatType": "Pontoon",
+    "probability": 0.117
+  },
+  {
+    "day": 97,
+    "boatType": "Pontoon",
+    "probability": 0.116
+  },
+  {
+    "day": 98,
+    "boatType": "Pontoon",
+    "probability": 0.11
+  },
+  {
+    "day": 100,
+    "boatType": "Pontoon",
+    "probability": 0.105
+  },
+  {
+    "day": 101,
+    "boatType": "Pontoon",
+    "probability": 0.098
+  },
+  {
+    "day": 102,
+    "boatType": "Pontoon",
+    "probability": 0.096
+  },
+  {
+    "day": 105,
+    "boatType": "Pontoon",
+    "probability": 0.094
+  },
+  {
+    "day": 106,
+    "boatType": "Pontoon",
+    "probability": 0.091
+  },
+  {
+    "day": 107,
+    "boatType": "Pontoon",
+    "probability": 0.089
+  },
+  {
+    "day": 109,
+    "boatType": "Pontoon",
+    "probability": 0.087
+  },
+  {
+    "day": 111,
+    "boatType": "Pontoon",
+    "probability": 0.082
+  },
+  {
+    "day": 112,
+    "boatType": "Pontoon",
+    "probability": 0.08
+  },
+  {
+    "day": 113,
+    "boatType": "Pontoon",
+    "probability": 0.078
+  },
+  {
+    "day": 114,
+    "boatType": "Pontoon",
+    "probability": 0.077
+  },
+  {
+    "day": 117,
+    "boatType": "Pontoon",
+    "probability": 0.075
+  },
+  {
+    "day": 119,
+    "boatType": "Pontoon",
+    "probability": 0.069
+  },
+  {
+    "day": 120,
+    "boatType": "Pontoon",
+    "probability": 0.066
+  },
+  {
+    "day": 121,
+    "boatType": "Pontoon",
+    "probability": 0.064
+  },
+  {
+    "day": 123,
+    "boatType": "Pontoon",
+    "probability": 0.06
+  },
+  {
+    "day": 124,
+    "boatType": "Pontoon",
+    "probability": 0.057
+  },
+  {
+    "day": 125,
+    "boatType": "Pontoon",
+    "probability": 0.053
+  },
+  {
+    "day": 126,
+    "boatType": "Pontoon",
+    "probability": 0.05
+  },
+  {
+    "day": 129,
+    "boatType": "Pontoon",
+    "probability": 0.048
+  },
+  {
+    "day": 132,
+    "boatType": "Pontoon",
+    "probability": 0.046
+  },
+  {
+    "day": 134,
+    "boatType": "Pontoon",
+    "probability": 0.044
+  },
+  {
+    "day": 135,
+    "boatType": "Pontoon",
+    "probability": 0.043
+  },
+  {
+    "day": 136,
+    "boatType": "Pontoon",
+    "probability": 0.041
+  },
+  {
+    "day": 140,
+    "boatType": "Pontoon",
+    "probability": 0.039
+  },
+  {
+    "day": 143,
+    "boatType": "Pontoon",
+    "probability": 0.034
+  },
+  {
+    "day": 147,
+    "boatType": "Pontoon",
+    "probability": 0.032
+  },
+  {
+    "day": 151,
+    "boatType": "Pontoon",
+    "probability": 0.03
+  },
+  {
+    "day": 156,
+    "boatType": "Pontoon",
+    "probability": 0.028
+  },
+  {
+    "day": 157,
+    "boatType": "Pontoon",
+    "probability": 0.027
+  },
+  {
+    "day": 167,
+    "boatType": "Pontoon",
+    "probability": 0.025
+  },
+  {
+    "day": 170,
+    "boatType": "Pontoon",
+    "probability": 0.023
+  },
+  {
+    "day": 175,
+    "boatType": "Pontoon",
+    "probability": 0.021
+  },
+  {
+    "day": 181,
+    "boatType": "Pontoon",
+    "probability": 0.02
+  },
+  {
+    "day": 183,
+    "boatType": "Pontoon",
+    "probability": 0.018
+  },
+  {
+    "day": 184,
+    "boatType": "Pontoon",
+    "probability": 0.016
+  },
+  {
+    "day": 186,
+    "boatType": "Pontoon",
+    "probability": 0.012
+  },
+  {
+    "day": 195,
+    "boatType": "Pontoon",
+    "probability": 0.011
+  },
+  {
+    "day": 196,
+    "boatType": "Pontoon",
+    "probability": 0.009
+  },
+  {
+    "day": 202,
+    "boatType": "Pontoon",
+    "probability": 0.007
+  },
+  {
+    "day": 205,
+    "boatType": "Pontoon",
+    "probability": 0.005
+  },
+  {
+    "day": 210,
+    "boatType": "Pontoon",
+    "probability": 0.004
+  },
+  {
+    "day": 226,
+    "boatType": "Pontoon",
+    "probability": 0.002
+  },
+  {
+    "day": 295,
+    "boatType": "Pontoon",
+    "probability": 0.0
+  },
+  {
+    "day": 0,
+    "boatType": "Bass Boat",
+    "probability": 1.0
+  },
+  {
+    "day": 5,
+    "boatType": "Bass Boat",
+    "probability": 0.96
+  },
+  {
+    "day": 6,
+    "boatType": "Bass Boat",
+    "probability": 0.947
+  },
+  {
+    "day": 7,
+    "boatType": "Bass Boat",
+    "probability": 0.929
+  },
+  {
+    "day": 8,
+    "boatType": "Bass Boat",
+    "probability": 0.904
+  },
+  {
+    "day": 9,
+    "boatType": "Bass Boat",
+    "probability": 0.888
+  },
+  {
+    "day": 10,
+    "boatType": "Bass Boat",
+    "probability": 0.873
+  },
+  {
+    "day": 11,
+    "boatType": "Bass Boat",
+    "probability": 0.853
+  },
+  {
+    "day": 12,
+    "boatType": "Bass Boat",
+    "probability": 0.839
+  },
+  {
+    "day": 13,
+    "boatType": "Bass Boat",
+    "probability": 0.817
+  },
+  {
+    "day": 14,
+    "boatType": "Bass Boat",
+    "probability": 0.799
+  },
+  {
+    "day": 15,
+    "boatType": "Bass Boat",
+    "probability": 0.781
+  },
+  {
+    "day": 16,
+    "boatType": "Bass Boat",
+    "probability": 0.763
+  },
+  {
+    "day": 17,
+    "boatType": "Bass Boat",
+    "probability": 0.737
+  },
+  {
+    "day": 18,
+    "boatType": "Bass Boat",
+    "probability": 0.723
+  },
+  {
+    "day": 19,
+    "boatType": "Bass Boat",
+    "probability": 0.716
+  },
+  {
+    "day": 20,
+    "boatType": "Bass Boat",
+    "probability": 0.697
+  },
+  {
+    "day": 21,
+    "boatType": "Bass Boat",
+    "probability": 0.674
+  },
+  {
+    "day": 22,
+    "boatType": "Bass Boat",
+    "probability": 0.645
+  },
+  {
+    "day": 23,
+    "boatType": "Bass Boat",
+    "probability": 0.63
+  },
+  {
+    "day": 24,
+    "boatType": "Bass Boat",
+    "probability": 0.612
+  },
+  {
+    "day": 25,
+    "boatType": "Bass Boat",
+    "probability": 0.592
+  },
+  {
+    "day": 26,
+    "boatType": "Bass Boat",
+    "probability": 0.585
+  },
+  {
+    "day": 27,
+    "boatType": "Bass Boat",
+    "probability": 0.572
+  },
+  {
+    "day": 28,
+    "boatType": "Bass Boat",
+    "probability": 0.56
+  },
+  {
+    "day": 30,
+    "boatType": "Bass Boat",
+    "probability": 0.556
+  },
+  {
+    "day": 31,
+    "boatType": "Bass Boat",
+    "probability": 0.54
+  },
+  {
+    "day": 32,
+    "boatType": "Bass Boat",
+    "probability": 0.531
+  },
+  {
+    "day": 33,
+    "boatType": "Bass Boat",
+    "probability": 0.525
+  },
+  {
+    "day": 34,
+    "boatType": "Bass Boat",
+    "probability": 0.511
+  },
+  {
+    "day": 35,
+    "boatType": "Bass Boat",
+    "probability": 0.504
+  },
+  {
+    "day": 36,
+    "boatType": "Bass Boat",
+    "probability": 0.493
+  },
+  {
+    "day": 37,
+    "boatType": "Bass Boat",
+    "probability": 0.478
+  },
+  {
+    "day": 38,
+    "boatType": "Bass Boat",
+    "probability": 0.473
+  },
+  {
+    "day": 39,
+    "boatType": "Bass Boat",
+    "probability": 0.453
+  },
+  {
+    "day": 40,
+    "boatType": "Bass Boat",
+    "probability": 0.447
+  },
+  {
+    "day": 42,
+    "boatType": "Bass Boat",
+    "probability": 0.438
+  },
+  {
+    "day": 43,
+    "boatType": "Bass Boat",
+    "probability": 0.431
+  },
+  {
+    "day": 44,
+    "boatType": "Bass Boat",
+    "probability": 0.424
+  },
+  {
+    "day": 45,
+    "boatType": "Bass Boat",
+    "probability": 0.417
+  },
+  {
+    "day": 46,
+    "boatType": "Bass Boat",
+    "probability": 0.411
+  },
+  {
+    "day": 47,
+    "boatType": "Bass Boat",
+    "probability": 0.4
+  },
+  {
+    "day": 48,
+    "boatType": "Bass Boat",
+    "probability": 0.393
+  },
+  {
+    "day": 49,
+    "boatType": "Bass Boat",
+    "probability": 0.382
+  },
+  {
+    "day": 50,
+    "boatType": "Bass Boat",
+    "probability": 0.366
+  },
+  {
+    "day": 51,
+    "boatType": "Bass Boat",
+    "probability": 0.357
+  },
+  {
+    "day": 52,
+    "boatType": "Bass Boat",
+    "probability": 0.35
+  },
+  {
+    "day": 53,
+    "boatType": "Bass Boat",
+    "probability": 0.339
+  },
+  {
+    "day": 54,
+    "boatType": "Bass Boat",
+    "probability": 0.322
+  },
+  {
+    "day": 55,
+    "boatType": "Bass Boat",
+    "probability": 0.319
+  },
+  {
+    "day": 56,
+    "boatType": "Bass Boat",
+    "probability": 0.308
+  },
+  {
+    "day": 57,
+    "boatType": "Bass Boat",
+    "probability": 0.303
+  },
+  {
+    "day": 58,
+    "boatType": "Bass Boat",
+    "probability": 0.295
+  },
+  {
+    "day": 59,
+    "boatType": "Bass Boat",
+    "probability": 0.288
+  },
+  {
+    "day": 60,
+    "boatType": "Bass Boat",
+    "probability": 0.281
+  },
+  {
+    "day": 61,
+    "boatType": "Bass Boat",
+    "probability": 0.274
+  },
+  {
+    "day": 62,
+    "boatType": "Bass Boat",
+    "probability": 0.272
+  },
+  {
+    "day": 63,
+    "boatType": "Bass Boat",
+    "probability": 0.266
+  },
+  {
+    "day": 64,
+    "boatType": "Bass Boat",
+    "probability": 0.261
+  },
+  {
+    "day": 65,
+    "boatType": "Bass Boat",
+    "probability": 0.259
+  },
+  {
+    "day": 66,
+    "boatType": "Bass Boat",
+    "probability": 0.252
+  },
+  {
+    "day": 68,
+    "boatType": "Bass Boat",
+    "probability": 0.245
+  },
+  {
+    "day": 69,
+    "boatType": "Bass Boat",
+    "probability": 0.237
+  },
+  {
+    "day": 70,
+    "boatType": "Bass Boat",
+    "probability": 0.236
+  },
+  {
+    "day": 71,
+    "boatType": "Bass Boat",
+    "probability": 0.232
+  },
+  {
+    "day": 72,
+    "boatType": "Bass Boat",
+    "probability": 0.228
+  },
+  {
+    "day": 73,
+    "boatType": "Bass Boat",
+    "probability": 0.225
+  },
+  {
+    "day": 74,
+    "boatType": "Bass Boat",
+    "probability": 0.221
+  },
+  {
+    "day": 75,
+    "boatType": "Bass Boat",
+    "probability": 0.212
+  },
+  {
+    "day": 76,
+    "boatType": "Bass Boat",
+    "probability": 0.208
+  },
+  {
+    "day": 78,
+    "boatType": "Bass Boat",
+    "probability": 0.205
+  },
+  {
+    "day": 79,
+    "boatType": "Bass Boat",
+    "probability": 0.199
+  },
+  {
+    "day": 80,
+    "boatType": "Bass Boat",
+    "probability": 0.192
+  },
+  {
+    "day": 81,
+    "boatType": "Bass Boat",
+    "probability": 0.187
+  },
+  {
+    "day": 82,
+    "boatType": "Bass Boat",
+    "probability": 0.183
+  },
+  {
+    "day": 83,
+    "boatType": "Bass Boat",
+    "probability": 0.179
+  },
+  {
+    "day": 84,
+    "boatType": "Bass Boat",
+    "probability": 0.178
+  },
+  {
+    "day": 85,
+    "boatType": "Bass Boat",
+    "probability": 0.174
+  },
+  {
+    "day": 86,
+    "boatType": "Bass Boat",
+    "probability": 0.172
+  },
+  {
+    "day": 89,
+    "boatType": "Bass Boat",
+    "probability": 0.167
+  },
+  {
+    "day": 90,
+    "boatType": "Bass Boat",
+    "probability": 0.165
+  },
+  {
+    "day": 91,
+    "boatType": "Bass Boat",
+    "probability": 0.163
+  },
+  {
+    "day": 92,
+    "boatType": "Bass Boat",
+    "probability": 0.158
+  },
+  {
+    "day": 93,
+    "boatType": "Bass Boat",
+    "probability": 0.154
+  },
+  {
+    "day": 94,
+    "boatType": "Bass Boat",
+    "probability": 0.152
+  },
+  {
+    "day": 95,
+    "boatType": "Bass Boat",
+    "probability": 0.15
+  },
+  {
+    "day": 96,
+    "boatType": "Bass Boat",
+    "probability": 0.147
+  },
+  {
+    "day": 97,
+    "boatType": "Bass Boat",
+    "probability": 0.145
+  },
+  {
+    "day": 100,
+    "boatType": "Bass Boat",
+    "probability": 0.143
+  },
+  {
+    "day": 101,
+    "boatType": "Bass Boat",
+    "probability": 0.139
+  },
+  {
+    "day": 102,
+    "boatType": "Bass Boat",
+    "probability": 0.138
+  },
+  {
+    "day": 103,
+    "boatType": "Bass Boat",
+    "probability": 0.134
+  },
+  {
+    "day": 104,
+    "boatType": "Bass Boat",
+    "probability": 0.132
+  },
+  {
+    "day": 105,
+    "boatType": "Bass Boat",
+    "probability": 0.127
+  },
+  {
+    "day": 107,
+    "boatType": "Bass Boat",
+    "probability": 0.125
+  },
+  {
+    "day": 108,
+    "boatType": "Bass Boat",
+    "probability": 0.121
+  },
+  {
+    "day": 109,
+    "boatType": "Bass Boat",
+    "probability": 0.116
+  },
+  {
+    "day": 110,
+    "boatType": "Bass Boat",
+    "probability": 0.112
+  },
+  {
+    "day": 111,
+    "boatType": "Bass Boat",
+    "probability": 0.111
+  },
+  {
+    "day": 112,
+    "boatType": "Bass Boat",
+    "probability": 0.107
+  },
+  {
+    "day": 113,
+    "boatType": "Bass Boat",
+    "probability": 0.105
+  },
+  {
+    "day": 114,
+    "boatType": "Bass Boat",
+    "probability": 0.103
+  },
+  {
+    "day": 115,
+    "boatType": "Bass Boat",
+    "probability": 0.101
+  },
+  {
+    "day": 117,
+    "boatType": "Bass Boat",
+    "probability": 0.098
+  },
+  {
+    "day": 118,
+    "boatType": "Bass Boat",
+    "probability": 0.096
+  },
+  {
+    "day": 119,
+    "boatType": "Bass Boat",
+    "probability": 0.092
+  },
+  {
+    "day": 120,
+    "boatType": "Bass Boat",
+    "probability": 0.091
+  },
+  {
+    "day": 122,
+    "boatType": "Bass Boat",
+    "probability": 0.087
+  },
+  {
+    "day": 123,
+    "boatType": "Bass Boat",
+    "probability": 0.085
+  },
+  {
+    "day": 125,
+    "boatType": "Bass Boat",
+    "probability": 0.083
+  },
+  {
+    "day": 127,
+    "boatType": "Bass Boat",
+    "probability": 0.076
+  },
+  {
+    "day": 129,
+    "boatType": "Bass Boat",
+    "probability": 0.074
+  },
+  {
+    "day": 130,
+    "boatType": "Bass Boat",
+    "probability": 0.072
+  },
+  {
+    "day": 132,
+    "boatType": "Bass Boat",
+    "probability": 0.071
+  },
+  {
+    "day": 133,
+    "boatType": "Bass Boat",
+    "probability": 0.069
+  },
+  {
+    "day": 134,
+    "boatType": "Bass Boat",
+    "probability": 0.067
+  },
+  {
+    "day": 138,
+    "boatType": "Bass Boat",
+    "probability": 0.062
+  },
+  {
+    "day": 140,
+    "boatType": "Bass Boat",
+    "probability": 0.058
+  },
+  {
+    "day": 150,
+    "boatType": "Bass Boat",
+    "probability": 0.056
+  },
+  {
+    "day": 152,
+    "boatType": "Bass Boat",
+    "probability": 0.053
+  },
+  {
+    "day": 154,
+    "boatType": "Bass Boat",
+    "probability": 0.051
+  },
+  {
+    "day": 156,
+    "boatType": "Bass Boat",
+    "probability": 0.049
+  },
+  {
+    "day": 158,
+    "boatType": "Bass Boat",
+    "probability": 0.045
+  },
+  {
+    "day": 165,
+    "boatType": "Bass Boat",
+    "probability": 0.04
+  },
+  {
+    "day": 166,
+    "boatType": "Bass Boat",
+    "probability": 0.038
+  },
+  {
+    "day": 167,
+    "boatType": "Bass Boat",
+    "probability": 0.036
+  },
+  {
+    "day": 168,
+    "boatType": "Bass Boat",
+    "probability": 0.034
+  },
+  {
+    "day": 176,
+    "boatType": "Bass Boat",
+    "probability": 0.033
+  },
+  {
+    "day": 184,
+    "boatType": "Bass Boat",
+    "probability": 0.031
+  },
+  {
+    "day": 185,
+    "boatType": "Bass Boat",
+    "probability": 0.029
+  },
+  {
+    "day": 191,
+    "boatType": "Bass Boat",
+    "probability": 0.027
+  },
+  {
+    "day": 195,
+    "boatType": "Bass Boat",
+    "probability": 0.025
+  },
+  {
+    "day": 198,
+    "boatType": "Bass Boat",
+    "probability": 0.024
+  },
+  {
+    "day": 199,
+    "boatType": "Bass Boat",
+    "probability": 0.02
+  },
+  {
+    "day": 202,
+    "boatType": "Bass Boat",
+    "probability": 0.018
+  },
+  {
+    "day": 203,
+    "boatType": "Bass Boat",
+    "probability": 0.016
+  },
+  {
+    "day": 209,
+    "boatType": "Bass Boat",
+    "probability": 0.014
+  },
+  {
+    "day": 213,
+    "boatType": "Bass Boat",
+    "probability": 0.013
+  },
+  {
+    "day": 220,
+    "boatType": "Bass Boat",
+    "probability": 0.011
+  },
+  {
+    "day": 235,
+    "boatType": "Bass Boat",
+    "probability": 0.009
+  },
+  {
+    "day": 240,
+    "boatType": "Bass Boat",
+    "probability": 0.005
+  },
+  {
+    "day": 243,
+    "boatType": "Bass Boat",
+    "probability": 0.004
+  },
+  {
+    "day": 246,
+    "boatType": "Bass Boat",
+    "probability": 0.002
+  },
+  {
+    "day": 299,
+    "boatType": "Bass Boat",
+    "probability": 0.0
+  },
+  {
+    "day": 0,
+    "boatType": "Deck Boat",
+    "probability": 1.0
+  },
+  {
+    "day": 5,
+    "boatType": "Deck Boat",
+    "probability": 0.965
+  },
+  {
+    "day": 6,
+    "boatType": "Deck Boat",
+    "probability": 0.936
+  },
+  {
+    "day": 7,
+    "boatType": "Deck Boat",
+    "probability": 0.912
+  },
+  {
+    "day": 8,
+    "boatType": "Deck Boat",
+    "probability": 0.896
+  },
+  {
+    "day": 9,
+    "boatType": "Deck Boat",
+    "probability": 0.874
+  },
+  {
+    "day": 10,
+    "boatType": "Deck Boat",
+    "probability": 0.858
+  },
+  {
+    "day": 11,
+    "boatType": "Deck Boat",
+    "probability": 0.842
+  },
+  {
+    "day": 12,
+    "boatType": "Deck Boat",
+    "probability": 0.834
+  },
+  {
+    "day": 13,
+    "boatType": "Deck Boat",
+    "probability": 0.824
+  },
+  {
+    "day": 14,
+    "boatType": "Deck Boat",
+    "probability": 0.81
+  },
+  {
+    "day": 15,
+    "boatType": "Deck Boat",
+    "probability": 0.799
+  },
+  {
+    "day": 16,
+    "boatType": "Deck Boat",
+    "probability": 0.778
+  },
+  {
+    "day": 17,
+    "boatType": "Deck Boat",
+    "probability": 0.765
+  },
+  {
+    "day": 18,
+    "boatType": "Deck Boat",
+    "probability": 0.743
+  },
+  {
+    "day": 19,
+    "boatType": "Deck Boat",
+    "probability": 0.722
+  },
+  {
+    "day": 20,
+    "boatType": "Deck Boat",
+    "probability": 0.709
+  },
+  {
+    "day": 21,
+    "boatType": "Deck Boat",
+    "probability": 0.698
+  },
+  {
+    "day": 23,
+    "boatType": "Deck Boat",
+    "probability": 0.687
+  },
+  {
+    "day": 24,
+    "boatType": "Deck Boat",
+    "probability": 0.668
+  },
+  {
+    "day": 25,
+    "boatType": "Deck Boat",
+    "probability": 0.658
+  },
+  {
+    "day": 26,
+    "boatType": "Deck Boat",
+    "probability": 0.634
+  },
+  {
+    "day": 27,
+    "boatType": "Deck Boat",
+    "probability": 0.612
+  },
+  {
+    "day": 28,
+    "boatType": "Deck Boat",
+    "probability": 0.596
+  },
+  {
+    "day": 29,
+    "boatType": "Deck Boat",
+    "probability": 0.583
+  },
+  {
+    "day": 30,
+    "boatType": "Deck Boat",
+    "probability": 0.575
+  },
+  {
+    "day": 31,
+    "boatType": "Deck Boat",
+    "probability": 0.559
+  },
+  {
+    "day": 32,
+    "boatType": "Deck Boat",
+    "probability": 0.543
+  },
+  {
+    "day": 33,
+    "boatType": "Deck Boat",
+    "probability": 0.532
+  },
+  {
+    "day": 34,
+    "boatType": "Deck Boat",
+    "probability": 0.519
+  },
+  {
+    "day": 35,
+    "boatType": "Deck Boat",
+    "probability": 0.503
+  },
+  {
+    "day": 36,
+    "boatType": "Deck Boat",
+    "probability": 0.497
+  },
+  {
+    "day": 37,
+    "boatType": "Deck Boat",
+    "probability": 0.484
+  },
+  {
+    "day": 38,
+    "boatType": "Deck Boat",
+    "probability": 0.476
+  },
+  {
+    "day": 39,
+    "boatType": "Deck Boat",
+    "probability": 0.457
+  },
+  {
+    "day": 40,
+    "boatType": "Deck Boat",
+    "probability": 0.449
+  },
+  {
+    "day": 42,
+    "boatType": "Deck Boat",
+    "probability": 0.433
+  },
+  {
+    "day": 43,
+    "boatType": "Deck Boat",
+    "probability": 0.417
+  },
+  {
+    "day": 44,
+    "boatType": "Deck Boat",
+    "probability": 0.414
+  },
+  {
+    "day": 45,
+    "boatType": "Deck Boat",
+    "probability": 0.406
+  },
+  {
+    "day": 46,
+    "boatType": "Deck Boat",
+    "probability": 0.382
+  },
+  {
+    "day": 47,
+    "boatType": "Deck Boat",
+    "probability": 0.372
+  },
+  {
+    "day": 48,
+    "boatType": "Deck Boat",
+    "probability": 0.35
+  },
+  {
+    "day": 49,
+    "boatType": "Deck Boat",
+    "probability": 0.34
+  },
+  {
+    "day": 50,
+    "boatType": "Deck Boat",
+    "probability": 0.326
+  },
+  {
+    "day": 51,
+    "boatType": "Deck Boat",
+    "probability": 0.313
+  },
+  {
+    "day": 52,
+    "boatType": "Deck Boat",
+    "probability": 0.302
+  },
+  {
+    "day": 53,
+    "boatType": "Deck Boat",
+    "probability": 0.286
+  },
+  {
+    "day": 54,
+    "boatType": "Deck Boat",
+    "probability": 0.283
+  },
+  {
+    "day": 55,
+    "boatType": "Deck Boat",
+    "probability": 0.281
+  },
+  {
+    "day": 56,
+    "boatType": "Deck Boat",
+    "probability": 0.273
+  },
+  {
+    "day": 58,
+    "boatType": "Deck Boat",
+    "probability": 0.267
+  },
+  {
+    "day": 59,
+    "boatType": "Deck Boat",
+    "probability": 0.262
+  },
+  {
+    "day": 60,
+    "boatType": "Deck Boat",
+    "probability": 0.259
+  },
+  {
+    "day": 61,
+    "boatType": "Deck Boat",
+    "probability": 0.251
+  },
+  {
+    "day": 62,
+    "boatType": "Deck Boat",
+    "probability": 0.246
+  },
+  {
+    "day": 63,
+    "boatType": "Deck Boat",
+    "probability": 0.238
+  },
+  {
+    "day": 65,
+    "boatType": "Deck Boat",
+    "probability": 0.23
+  },
+  {
+    "day": 66,
+    "boatType": "Deck Boat",
+    "probability": 0.211
+  },
+  {
+    "day": 67,
+    "boatType": "Deck Boat",
+    "probability": 0.206
+  },
+  {
+    "day": 69,
+    "boatType": "Deck Boat",
+    "probability": 0.203
+  },
+  {
+    "day": 71,
+    "boatType": "Deck Boat",
+    "probability": 0.201
+  },
+  {
+    "day": 72,
+    "boatType": "Deck Boat",
+    "probability": 0.198
+  },
+  {
+    "day": 73,
+    "boatType": "Deck Boat",
+    "probability": 0.187
+  },
+  {
+    "day": 74,
+    "boatType": "Deck Boat",
+    "probability": 0.182
+  },
+  {
+    "day": 78,
+    "boatType": "Deck Boat",
+    "probability": 0.176
+  },
+  {
+    "day": 79,
+    "boatType": "Deck Boat",
+    "probability": 0.171
+  },
+  {
+    "day": 80,
+    "boatType": "Deck Boat",
+    "probability": 0.166
+  },
+  {
+    "day": 82,
+    "boatType": "Deck Boat",
+    "probability": 0.163
+  },
+  {
+    "day": 83,
+    "boatType": "Deck Boat",
+    "probability": 0.16
+  },
+  {
+    "day": 84,
+    "boatType": "Deck Boat",
+    "probability": 0.155
+  },
+  {
+    "day": 85,
+    "boatType": "Deck Boat",
+    "probability": 0.152
+  },
+  {
+    "day": 86,
+    "boatType": "Deck Boat",
+    "probability": 0.15
+  },
+  {
+    "day": 87,
+    "boatType": "Deck Boat",
+    "probability": 0.147
+  },
+  {
+    "day": 89,
+    "boatType": "Deck Boat",
+    "probability": 0.144
+  },
+  {
+    "day": 90,
+    "boatType": "Deck Boat",
+    "probability": 0.142
+  },
+  {
+    "day": 91,
+    "boatType": "Deck Boat",
+    "probability": 0.136
+  },
+  {
+    "day": 93,
+    "boatType": "Deck Boat",
+    "probability": 0.134
+  },
+  {
+    "day": 94,
+    "boatType": "Deck Boat",
+    "probability": 0.131
+  },
+  {
+    "day": 95,
+    "boatType": "Deck Boat",
+    "probability": 0.126
+  },
+  {
+    "day": 98,
+    "boatType": "Deck Boat",
+    "probability": 0.12
+  },
+  {
+    "day": 101,
+    "boatType": "Deck Boat",
+    "probability": 0.115
+  },
+  {
+    "day": 103,
+    "boatType": "Deck Boat",
+    "probability": 0.112
+  },
+  {
+    "day": 107,
+    "boatType": "Deck Boat",
+    "probability": 0.104
+  },
+  {
+    "day": 109,
+    "boatType": "Deck Boat",
+    "probability": 0.099
+  },
+  {
+    "day": 111,
+    "boatType": "Deck Boat",
+    "probability": 0.096
+  },
+  {
+    "day": 115,
+    "boatType": "Deck Boat",
+    "probability": 0.094
+  },
+  {
+    "day": 116,
+    "boatType": "Deck Boat",
+    "probability": 0.088
+  },
+  {
+    "day": 117,
+    "boatType": "Deck Boat",
+    "probability": 0.083
+  },
+  {
+    "day": 118,
+    "boatType": "Deck Boat",
+    "probability": 0.08
+  },
+  {
+    "day": 119,
+    "boatType": "Deck Boat",
+    "probability": 0.078
+  },
+  {
+    "day": 121,
+    "boatType": "Deck Boat",
+    "probability": 0.075
+  },
+  {
+    "day": 123,
+    "boatType": "Deck Boat",
+    "probability": 0.072
+  },
+  {
+    "day": 124,
+    "boatType": "Deck Boat",
+    "probability": 0.07
+  },
+  {
+    "day": 126,
+    "boatType": "Deck Boat",
+    "probability": 0.067
+  },
+  {
+    "day": 128,
+    "boatType": "Deck Boat",
+    "probability": 0.061
+  },
+  {
+    "day": 129,
+    "boatType": "Deck Boat",
+    "probability": 0.056
+  },
+  {
+    "day": 135,
+    "boatType": "Deck Boat",
+    "probability": 0.051
+  },
+  {
+    "day": 136,
+    "boatType": "Deck Boat",
+    "probability": 0.048
+  },
+  {
+    "day": 137,
+    "boatType": "Deck Boat",
+    "probability": 0.045
+  },
+  {
+    "day": 139,
+    "boatType": "Deck Boat",
+    "probability": 0.043
+  },
+  {
+    "day": 141,
+    "boatType": "Deck Boat",
+    "probability": 0.04
+  },
+  {
+    "day": 146,
+    "boatType": "Deck Boat",
+    "probability": 0.037
+  },
+  {
+    "day": 147,
+    "boatType": "Deck Boat",
+    "probability": 0.035
+  },
+  {
+    "day": 148,
+    "boatType": "Deck Boat",
+    "probability": 0.032
+  },
+  {
+    "day": 150,
+    "boatType": "Deck Boat",
+    "probability": 0.029
+  },
+  {
+    "day": 152,
+    "boatType": "Deck Boat",
+    "probability": 0.027
+  },
+  {
+    "day": 161,
+    "boatType": "Deck Boat",
+    "probability": 0.024
+  },
+  {
+    "day": 165,
+    "boatType": "Deck Boat",
+    "probability": 0.021
+  },
+  {
+    "day": 172,
+    "boatType": "Deck Boat",
+    "probability": 0.019
+  },
+  {
+    "day": 186,
+    "boatType": "Deck Boat",
+    "probability": 0.016
+  },
+  {
+    "day": 189,
+    "boatType": "Deck Boat",
+    "probability": 0.013
+  },
+  {
+    "day": 212,
+    "boatType": "Deck Boat",
+    "probability": 0.011
+  },
+  {
+    "day": 215,
+    "boatType": "Deck Boat",
+    "probability": 0.008
+  },
+  {
+    "day": 218,
+    "boatType": "Deck Boat",
+    "probability": 0.005
+  },
+  {
+    "day": 234,
+    "boatType": "Deck Boat",
+    "probability": 0.003
+  },
+  {
+    "day": 281,
+    "boatType": "Deck Boat",
+    "probability": 0.0
+  }
+]

@@ -2,27 +2,12 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-
-const caseStudies = [
-  {
-    slug: "harlibot",
-    title: "HarliBot",
-    summary:
-      "Bilingual municipal AI chatbot deployed for the City of Harlingen, TX — enabling residents to access city services and information in English and Spanish 24/7.",
-    stack: ["Python", "AWS Lambda", "NLP", "Dialogflow", "React"],
-    category: "Government AI",
-  },
-  {
-    slug: "market-regime-detector",
-    title: "Market Regime Detector",
-    summary:
-      "Sentiment-based cross-asset market regime detection system that classifies market conditions using NLP on financial news, earnings calls, and SEC filings.",
-    stack: ["Python", "FinBERT", "AWS SageMaker", "Pandas", "Plotly"],
-    category: "Financial NLP",
-  },
-];
+import { caseStudies } from "@/lib/case-studies";
+import { INDUSTRY_TAG_LABELS } from "@/types/case-study";
 
 export function CaseStudies() {
+  const featured = caseStudies.slice(0, 3);
+
   return (
     <section
       id="case-studies"
@@ -44,26 +29,27 @@ export function CaseStudies() {
         </div>
 
         {/* Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
-          {caseStudies.map((cs) => (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
+          {featured.map((cs) => (
             <Card
               key={cs.slug}
               className="flex flex-col border-border hover:border-teal/40 transition-colors duration-200 group"
             >
               <CardHeader className="pb-3">
-                <div className="flex items-start justify-between gap-2">
-                  <div>
+                <div className="flex flex-wrap gap-1.5 mb-2">
+                  {cs.industry.slice(0, 2).map((tag) => (
                     <Badge
+                      key={tag}
                       variant="secondary"
-                      className="text-xs font-medium mb-2"
+                      className="text-xs font-medium"
                     >
-                      {cs.category}
+                      {INDUSTRY_TAG_LABELS[tag] ?? tag}
                     </Badge>
-                    <h3 className="text-xl font-semibold text-foreground">
-                      {cs.title}
-                    </h3>
-                  </div>
+                  ))}
                 </div>
+                <h3 className="text-xl font-semibold text-foreground">
+                  {cs.title}
+                </h3>
               </CardHeader>
               <CardContent className="flex flex-col flex-1 gap-4">
                 <p className="text-sm text-muted-foreground leading-relaxed flex-1">
@@ -72,7 +58,7 @@ export function CaseStudies() {
 
                 {/* Stack tags */}
                 <div className="flex flex-wrap gap-1.5">
-                  {cs.stack.map((tech) => (
+                  {cs.stack.slice(0, 4).map((tech) => (
                     <span
                       key={tech}
                       className="px-2 py-0.5 rounded-md bg-teal/10 text-teal text-xs font-mono font-medium border border-teal/20"
@@ -80,6 +66,11 @@ export function CaseStudies() {
                       {tech}
                     </span>
                   ))}
+                  {cs.stack.length > 4 && (
+                    <span className="px-2 py-0.5 text-xs text-muted-foreground">
+                      +{cs.stack.length - 4}
+                    </span>
+                  )}
                 </div>
 
                 <Link

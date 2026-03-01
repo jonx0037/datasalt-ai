@@ -1,0 +1,794 @@
+[
+  {
+    "date": "2014-01",
+    "salesCount": 5,
+    "avgPrice": 7800.0,
+    "totalRevenue": 39000.0
+  },
+  {
+    "date": "2014-02",
+    "salesCount": 14,
+    "avgPrice": 13479.0,
+    "totalRevenue": 188700.0
+  },
+  {
+    "date": "2014-03",
+    "salesCount": 23,
+    "avgPrice": 11574.0,
+    "totalRevenue": 266200.0
+  },
+  {
+    "date": "2014-04",
+    "salesCount": 22,
+    "avgPrice": 12232.0,
+    "totalRevenue": 269100.0
+  },
+  {
+    "date": "2014-05",
+    "salesCount": 29,
+    "avgPrice": 10524.0,
+    "totalRevenue": 305200.0
+  },
+  {
+    "date": "2014-06",
+    "salesCount": 22,
+    "avgPrice": 12686.0,
+    "totalRevenue": 279100.0
+  },
+  {
+    "date": "2014-07",
+    "salesCount": 11,
+    "avgPrice": 13155.0,
+    "totalRevenue": 144700.0
+  },
+  {
+    "date": "2014-08",
+    "salesCount": 13,
+    "avgPrice": 12215.0,
+    "totalRevenue": 158800.0
+  },
+  {
+    "date": "2014-09",
+    "salesCount": 16,
+    "avgPrice": 12281.0,
+    "totalRevenue": 196500.0
+  },
+  {
+    "date": "2014-10",
+    "salesCount": 21,
+    "avgPrice": 9876.0,
+    "totalRevenue": 207400.0
+  },
+  {
+    "date": "2014-11",
+    "salesCount": 23,
+    "avgPrice": 12570.0,
+    "totalRevenue": 289100.0
+  },
+  {
+    "date": "2014-12",
+    "salesCount": 5,
+    "avgPrice": 13020.0,
+    "totalRevenue": 65100.0
+  },
+  {
+    "date": "2015-01",
+    "salesCount": 14,
+    "avgPrice": 13350.0,
+    "totalRevenue": 186900.0
+  },
+  {
+    "date": "2015-02",
+    "salesCount": 14,
+    "avgPrice": 13607.0,
+    "totalRevenue": 190500.0
+  },
+  {
+    "date": "2015-03",
+    "salesCount": 20,
+    "avgPrice": 12305.0,
+    "totalRevenue": 246100.0
+  },
+  {
+    "date": "2015-04",
+    "salesCount": 24,
+    "avgPrice": 11179.0,
+    "totalRevenue": 268300.0
+  },
+  {
+    "date": "2015-05",
+    "salesCount": 35,
+    "avgPrice": 12771.0,
+    "totalRevenue": 447000.0
+  },
+  {
+    "date": "2015-06",
+    "salesCount": 18,
+    "avgPrice": 14633.0,
+    "totalRevenue": 263400.0
+  },
+  {
+    "date": "2015-07",
+    "salesCount": 19,
+    "avgPrice": 11979.0,
+    "totalRevenue": 227600.0
+  },
+  {
+    "date": "2015-08",
+    "salesCount": 20,
+    "avgPrice": 13570.0,
+    "totalRevenue": 271400.0
+  },
+  {
+    "date": "2015-09",
+    "salesCount": 15,
+    "avgPrice": 15680.0,
+    "totalRevenue": 235200.0
+  },
+  {
+    "date": "2015-10",
+    "salesCount": 32,
+    "avgPrice": 11684.0,
+    "totalRevenue": 373900.0
+  },
+  {
+    "date": "2015-11",
+    "salesCount": 14,
+    "avgPrice": 14971.0,
+    "totalRevenue": 209600.0
+  },
+  {
+    "date": "2015-12",
+    "salesCount": 3,
+    "avgPrice": 14433.0,
+    "totalRevenue": 43300.0
+  },
+  {
+    "date": "2016-01",
+    "salesCount": 9,
+    "avgPrice": 14033.0,
+    "totalRevenue": 126300.0
+  },
+  {
+    "date": "2016-02",
+    "salesCount": 14,
+    "avgPrice": 12664.0,
+    "totalRevenue": 177300.0
+  },
+  {
+    "date": "2016-03",
+    "salesCount": 26,
+    "avgPrice": 15419.0,
+    "totalRevenue": 400900.0
+  },
+  {
+    "date": "2016-04",
+    "salesCount": 22,
+    "avgPrice": 11900.0,
+    "totalRevenue": 261800.0
+  },
+  {
+    "date": "2016-05",
+    "salesCount": 28,
+    "avgPrice": 11786.0,
+    "totalRevenue": 330000.0
+  },
+  {
+    "date": "2016-06",
+    "salesCount": 25,
+    "avgPrice": 13064.0,
+    "totalRevenue": 326600.0
+  },
+  {
+    "date": "2016-07",
+    "salesCount": 23,
+    "avgPrice": 13113.0,
+    "totalRevenue": 301600.0
+  },
+  {
+    "date": "2016-08",
+    "salesCount": 11,
+    "avgPrice": 14809.0,
+    "totalRevenue": 162900.0
+  },
+  {
+    "date": "2016-09",
+    "salesCount": 11,
+    "avgPrice": 12418.0,
+    "totalRevenue": 136600.0
+  },
+  {
+    "date": "2016-10",
+    "salesCount": 22,
+    "avgPrice": 15068.0,
+    "totalRevenue": 331500.0
+  },
+  {
+    "date": "2016-11",
+    "salesCount": 24,
+    "avgPrice": 13038.0,
+    "totalRevenue": 312900.0
+  },
+  {
+    "date": "2016-12",
+    "salesCount": 9,
+    "avgPrice": 12011.0,
+    "totalRevenue": 108100.0
+  },
+  {
+    "date": "2017-01",
+    "salesCount": 11,
+    "avgPrice": 17773.0,
+    "totalRevenue": 195500.0
+  },
+  {
+    "date": "2017-02",
+    "salesCount": 12,
+    "avgPrice": 16742.0,
+    "totalRevenue": 200900.0
+  },
+  {
+    "date": "2017-03",
+    "salesCount": 27,
+    "avgPrice": 12574.0,
+    "totalRevenue": 339500.0
+  },
+  {
+    "date": "2017-04",
+    "salesCount": 30,
+    "avgPrice": 15523.0,
+    "totalRevenue": 465700.0
+  },
+  {
+    "date": "2017-05",
+    "salesCount": 26,
+    "avgPrice": 13062.0,
+    "totalRevenue": 339600.0
+  },
+  {
+    "date": "2017-06",
+    "salesCount": 28,
+    "avgPrice": 13000.0,
+    "totalRevenue": 364000.0
+  },
+  {
+    "date": "2017-07",
+    "salesCount": 23,
+    "avgPrice": 14922.0,
+    "totalRevenue": 343200.0
+  },
+  {
+    "date": "2017-08",
+    "salesCount": 12,
+    "avgPrice": 14017.0,
+    "totalRevenue": 168200.0
+  },
+  {
+    "date": "2017-09",
+    "salesCount": 9,
+    "avgPrice": 15111.0,
+    "totalRevenue": 136000.0
+  },
+  {
+    "date": "2017-10",
+    "salesCount": 19,
+    "avgPrice": 12974.0,
+    "totalRevenue": 246500.0
+  },
+  {
+    "date": "2017-11",
+    "salesCount": 22,
+    "avgPrice": 13855.0,
+    "totalRevenue": 304800.0
+  },
+  {
+    "date": "2017-12",
+    "salesCount": 8,
+    "avgPrice": 18038.0,
+    "totalRevenue": 144300.0
+  },
+  {
+    "date": "2018-01",
+    "salesCount": 13,
+    "avgPrice": 13338.0,
+    "totalRevenue": 173400.0
+  },
+  {
+    "date": "2018-02",
+    "salesCount": 15,
+    "avgPrice": 16693.0,
+    "totalRevenue": 250400.0
+  },
+  {
+    "date": "2018-03",
+    "salesCount": 32,
+    "avgPrice": 15903.0,
+    "totalRevenue": 508900.0
+  },
+  {
+    "date": "2018-04",
+    "salesCount": 22,
+    "avgPrice": 15773.0,
+    "totalRevenue": 347000.0
+  },
+  {
+    "date": "2018-05",
+    "salesCount": 32,
+    "avgPrice": 16403.0,
+    "totalRevenue": 524900.0
+  },
+  {
+    "date": "2018-06",
+    "salesCount": 29,
+    "avgPrice": 14548.0,
+    "totalRevenue": 421900.0
+  },
+  {
+    "date": "2018-07",
+    "salesCount": 20,
+    "avgPrice": 15070.0,
+    "totalRevenue": 301400.0
+  },
+  {
+    "date": "2018-08",
+    "salesCount": 15,
+    "avgPrice": 17107.0,
+    "totalRevenue": 256600.0
+  },
+  {
+    "date": "2018-09",
+    "salesCount": 23,
+    "avgPrice": 15678.0,
+    "totalRevenue": 360600.0
+  },
+  {
+    "date": "2018-10",
+    "salesCount": 30,
+    "avgPrice": 14583.0,
+    "totalRevenue": 437500.0
+  },
+  {
+    "date": "2018-11",
+    "salesCount": 22,
+    "avgPrice": 14682.0,
+    "totalRevenue": 323000.0
+  },
+  {
+    "date": "2018-12",
+    "salesCount": 8,
+    "avgPrice": 17425.0,
+    "totalRevenue": 139400.0
+  },
+  {
+    "date": "2019-01",
+    "salesCount": 9,
+    "avgPrice": 16322.0,
+    "totalRevenue": 146900.0
+  },
+  {
+    "date": "2019-02",
+    "salesCount": 14,
+    "avgPrice": 16586.0,
+    "totalRevenue": 232200.0
+  },
+  {
+    "date": "2019-03",
+    "salesCount": 23,
+    "avgPrice": 16017.0,
+    "totalRevenue": 368400.0
+  },
+  {
+    "date": "2019-04",
+    "salesCount": 48,
+    "avgPrice": 17462.0,
+    "totalRevenue": 838200.0
+  },
+  {
+    "date": "2019-05",
+    "salesCount": 44,
+    "avgPrice": 17041.0,
+    "totalRevenue": 749800.0
+  },
+  {
+    "date": "2019-06",
+    "salesCount": 37,
+    "avgPrice": 16786.0,
+    "totalRevenue": 621100.0
+  },
+  {
+    "date": "2019-07",
+    "salesCount": 22,
+    "avgPrice": 16255.0,
+    "totalRevenue": 357600.0
+  },
+  {
+    "date": "2019-08",
+    "salesCount": 23,
+    "avgPrice": 15778.0,
+    "totalRevenue": 362900.0
+  },
+  {
+    "date": "2019-09",
+    "salesCount": 19,
+    "avgPrice": 15500.0,
+    "totalRevenue": 294500.0
+  },
+  {
+    "date": "2019-10",
+    "salesCount": 24,
+    "avgPrice": 15354.0,
+    "totalRevenue": 368500.0
+  },
+  {
+    "date": "2019-11",
+    "salesCount": 19,
+    "avgPrice": 17116.0,
+    "totalRevenue": 325200.0
+  },
+  {
+    "date": "2019-12",
+    "salesCount": 20,
+    "avgPrice": 14640.0,
+    "totalRevenue": 292800.0
+  },
+  {
+    "date": "2020-01",
+    "salesCount": 15,
+    "avgPrice": 15440.0,
+    "totalRevenue": 231600.0
+  },
+  {
+    "date": "2020-02",
+    "salesCount": 16,
+    "avgPrice": 18044.0,
+    "totalRevenue": 288700.0
+  },
+  {
+    "date": "2020-03",
+    "salesCount": 29,
+    "avgPrice": 17090.0,
+    "totalRevenue": 495600.0
+  },
+  {
+    "date": "2020-04",
+    "salesCount": 38,
+    "avgPrice": 17053.0,
+    "totalRevenue": 648000.0
+  },
+  {
+    "date": "2020-05",
+    "salesCount": 52,
+    "avgPrice": 16317.0,
+    "totalRevenue": 848500.0
+  },
+  {
+    "date": "2020-06",
+    "salesCount": 33,
+    "avgPrice": 16164.0,
+    "totalRevenue": 533400.0
+  },
+  {
+    "date": "2020-07",
+    "salesCount": 27,
+    "avgPrice": 16893.0,
+    "totalRevenue": 456100.0
+  },
+  {
+    "date": "2020-08",
+    "salesCount": 22,
+    "avgPrice": 18045.0,
+    "totalRevenue": 397000.0
+  },
+  {
+    "date": "2020-09",
+    "salesCount": 15,
+    "avgPrice": 19680.0,
+    "totalRevenue": 295200.0
+  },
+  {
+    "date": "2020-10",
+    "salesCount": 22,
+    "avgPrice": 14577.0,
+    "totalRevenue": 320700.0
+  },
+  {
+    "date": "2020-11",
+    "salesCount": 29,
+    "avgPrice": 16776.0,
+    "totalRevenue": 486500.0
+  },
+  {
+    "date": "2020-12",
+    "salesCount": 11,
+    "avgPrice": 14900.0,
+    "totalRevenue": 163900.0
+  },
+  {
+    "date": "2021-01",
+    "salesCount": 7,
+    "avgPrice": 18171.0,
+    "totalRevenue": 127200.0
+  },
+  {
+    "date": "2021-02",
+    "salesCount": 7,
+    "avgPrice": 26114.0,
+    "totalRevenue": 182800.0
+  },
+  {
+    "date": "2021-03",
+    "salesCount": 30,
+    "avgPrice": 16173.0,
+    "totalRevenue": 485200.0
+  },
+  {
+    "date": "2021-04",
+    "salesCount": 25,
+    "avgPrice": 19364.0,
+    "totalRevenue": 484100.0
+  },
+  {
+    "date": "2021-05",
+    "salesCount": 36,
+    "avgPrice": 16156.0,
+    "totalRevenue": 581600.0
+  },
+  {
+    "date": "2021-06",
+    "salesCount": 31,
+    "avgPrice": 18100.0,
+    "totalRevenue": 561100.0
+  },
+  {
+    "date": "2021-07",
+    "salesCount": 21,
+    "avgPrice": 20057.0,
+    "totalRevenue": 421200.0
+  },
+  {
+    "date": "2021-08",
+    "salesCount": 17,
+    "avgPrice": 21665.0,
+    "totalRevenue": 368300.0
+  },
+  {
+    "date": "2021-09",
+    "salesCount": 9,
+    "avgPrice": 16911.0,
+    "totalRevenue": 152200.0
+  },
+  {
+    "date": "2021-10",
+    "salesCount": 21,
+    "avgPrice": 16857.0,
+    "totalRevenue": 354000.0
+  },
+  {
+    "date": "2021-11",
+    "salesCount": 22,
+    "avgPrice": 14918.0,
+    "totalRevenue": 328200.0
+  },
+  {
+    "date": "2021-12",
+    "salesCount": 5,
+    "avgPrice": 24740.0,
+    "totalRevenue": 123700.0
+  },
+  {
+    "date": "2022-01",
+    "salesCount": 23,
+    "avgPrice": 20704.0,
+    "totalRevenue": 476200.0
+  },
+  {
+    "date": "2022-02",
+    "salesCount": 21,
+    "avgPrice": 21910.0,
+    "totalRevenue": 460100.0
+  },
+  {
+    "date": "2022-03",
+    "salesCount": 34,
+    "avgPrice": 19282.0,
+    "totalRevenue": 655600.0
+  },
+  {
+    "date": "2022-04",
+    "salesCount": 42,
+    "avgPrice": 19202.0,
+    "totalRevenue": 806500.0
+  },
+  {
+    "date": "2022-05",
+    "salesCount": 37,
+    "avgPrice": 19730.0,
+    "totalRevenue": 730000.0
+  },
+  {
+    "date": "2022-06",
+    "salesCount": 38,
+    "avgPrice": 22029.0,
+    "totalRevenue": 837100.0
+  },
+  {
+    "date": "2022-07",
+    "salesCount": 24,
+    "avgPrice": 17983.0,
+    "totalRevenue": 431600.0
+  },
+  {
+    "date": "2022-08",
+    "salesCount": 19,
+    "avgPrice": 19968.0,
+    "totalRevenue": 379400.0
+  },
+  {
+    "date": "2022-09",
+    "salesCount": 14,
+    "avgPrice": 17307.0,
+    "totalRevenue": 242300.0
+  },
+  {
+    "date": "2022-10",
+    "salesCount": 29,
+    "avgPrice": 15872.0,
+    "totalRevenue": 460300.0
+  },
+  {
+    "date": "2022-11",
+    "salesCount": 20,
+    "avgPrice": 18825.0,
+    "totalRevenue": 376500.0
+  },
+  {
+    "date": "2022-12",
+    "salesCount": 9,
+    "avgPrice": 28233.0,
+    "totalRevenue": 254100.0
+  },
+  {
+    "date": "2023-01",
+    "salesCount": 12,
+    "avgPrice": 18775.0,
+    "totalRevenue": 225300.0
+  },
+  {
+    "date": "2023-02",
+    "salesCount": 18,
+    "avgPrice": 20994.0,
+    "totalRevenue": 377900.0
+  },
+  {
+    "date": "2023-03",
+    "salesCount": 29,
+    "avgPrice": 20003.0,
+    "totalRevenue": 580100.0
+  },
+  {
+    "date": "2023-04",
+    "salesCount": 50,
+    "avgPrice": 19582.0,
+    "totalRevenue": 979100.0
+  },
+  {
+    "date": "2023-05",
+    "salesCount": 41,
+    "avgPrice": 20293.0,
+    "totalRevenue": 832000.0
+  },
+  {
+    "date": "2023-06",
+    "salesCount": 34,
+    "avgPrice": 22185.0,
+    "totalRevenue": 754300.0
+  },
+  {
+    "date": "2023-07",
+    "salesCount": 32,
+    "avgPrice": 21097.0,
+    "totalRevenue": 675100.0
+  },
+  {
+    "date": "2023-08",
+    "salesCount": 18,
+    "avgPrice": 20578.0,
+    "totalRevenue": 370400.0
+  },
+  {
+    "date": "2023-09",
+    "salesCount": 19,
+    "avgPrice": 18705.0,
+    "totalRevenue": 355400.0
+  },
+  {
+    "date": "2023-10",
+    "salesCount": 34,
+    "avgPrice": 20291.0,
+    "totalRevenue": 689900.0
+  },
+  {
+    "date": "2023-11",
+    "salesCount": 26,
+    "avgPrice": 19650.0,
+    "totalRevenue": 510900.0
+  },
+  {
+    "date": "2023-12",
+    "salesCount": 10,
+    "avgPrice": 23440.0,
+    "totalRevenue": 234400.0
+  },
+  {
+    "date": "2024-01",
+    "salesCount": 12,
+    "avgPrice": 20883.0,
+    "totalRevenue": 250600.0
+  },
+  {
+    "date": "2024-02",
+    "salesCount": 26,
+    "avgPrice": 22600.0,
+    "totalRevenue": 587600.0
+  },
+  {
+    "date": "2024-03",
+    "salesCount": 43,
+    "avgPrice": 19416.0,
+    "totalRevenue": 834900.0
+  },
+  {
+    "date": "2024-04",
+    "salesCount": 46,
+    "avgPrice": 21511.0,
+    "totalRevenue": 989500.0
+  },
+  {
+    "date": "2024-05",
+    "salesCount": 44,
+    "avgPrice": 20300.0,
+    "totalRevenue": 893200.0
+  },
+  {
+    "date": "2024-06",
+    "salesCount": 40,
+    "avgPrice": 18802.0,
+    "totalRevenue": 752100.0
+  },
+  {
+    "date": "2024-07",
+    "salesCount": 30,
+    "avgPrice": 20100.0,
+    "totalRevenue": 603000.0
+  },
+  {
+    "date": "2024-08",
+    "salesCount": 25,
+    "avgPrice": 18960.0,
+    "totalRevenue": 474000.0
+  },
+  {
+    "date": "2024-09",
+    "salesCount": 22,
+    "avgPrice": 19555.0,
+    "totalRevenue": 430200.0
+  },
+  {
+    "date": "2024-10",
+    "salesCount": 32,
+    "avgPrice": 21659.0,
+    "totalRevenue": 693100.0
+  },
+  {
+    "date": "2024-11",
+    "salesCount": 44,
+    "avgPrice": 19164.0,
+    "totalRevenue": 843200.0
+  },
+  {
+    "date": "2024-12",
+    "salesCount": 17,
+    "avgPrice": 22835.0,
+    "totalRevenue": 388200.0
+  }
+]

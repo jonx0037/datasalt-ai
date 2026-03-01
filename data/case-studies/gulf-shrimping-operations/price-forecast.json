@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2022-01",
+    "price": 5.07,
+    "forecast": 5.13
+  },
+  {
+    "date": "2022-02",
+    "price": 5.02,
+    "forecast": 4.93
+  },
+  {
+    "date": "2022-03",
+    "price": 4.89,
+    "forecast": 4.85
+  },
+  {
+    "date": "2022-04",
+    "price": 4.63,
+    "forecast": 4.67
+  },
+  {
+    "date": "2022-05",
+    "price": 4.66,
+    "forecast": 4.59
+  },
+  {
+    "date": "2022-06",
+    "price": 4.17,
+    "forecast": 4.59
+  },
+  {
+    "date": "2022-07",
+    "price": 4.14,
+    "forecast": 4.52
+  },
+  {
+    "date": "2022-08",
+    "price": 4.74,
+    "forecast": 4.79
+  },
+  {
+    "date": "2022-09",
+    "price": 4.8,
+    "forecast": 4.89
+  },
+  {
+    "date": "2022-10",
+    "price": 4.94,
+    "forecast": 5.02
+  },
+  {
+    "date": "2022-11",
+    "price": 4.74,
+    "forecast": 5.02
+  },
+  {
+    "date": "2022-12",
+    "price": 4.92,
+    "forecast": 5.17
+  },
+  {
+    "date": "2023-01",
+    "price": 5.16,
+    "forecast": 5.29
+  },
+  {
+    "date": "2023-02",
+    "price": 5.19,
+    "forecast": 5.1
+  },
+  {
+    "date": "2023-03",
+    "price": 4.87,
+    "forecast": 5.12
+  },
+  {
+    "date": "2023-04",
+    "price": 4.86,
+    "forecast": 4.96
+  },
+  {
+    "date": "2023-05",
+    "price": 4.87,
+    "forecast": 4.92
+  },
+  {
+    "date": "2023-06",
+    "price": 4.89,
+    "forecast": 4.63
+  },
+  {
+    "date": "2023-07",
+    "price": 4.62,
+    "forecast": 4.71
+  },
+  {
+    "date": "2023-08",
+    "price": 5.01,
+    "forecast": 4.84
+  },
+  {
+    "date": "2023-09",
+    "price": 4.99,
+    "forecast": 5.0
+  },
+  {
+    "date": "2023-10",
+    "price": 4.99,
+    "forecast": 5.22
+  },
+  {
+    "date": "2023-11",
+    "price": 5.16,
+    "forecast": 5.18
+  },
+  {
+    "date": "2023-12",
+    "price": 5.29,
+    "forecast": 5.26
+  },
+  {
+    "date": "2024-01",
+    "price": 5.41,
+    "forecast": 5.43
+  },
+  {
+    "date": "2024-02",
+    "price": 5.25,
+    "forecast": 5.39
+  },
+  {
+    "date": "2024-03",
+    "price": 5.07,
+    "forecast": 5.3
+  },
+  {
+    "date": "2024-04",
+    "price": 5.29,
+    "forecast": 5.1
+  },
+  {
+    "date": "2024-05",
+    "price": 4.89,
+    "forecast": 4.87
+  },
+  {
+    "date": "2024-06",
+    "price": 4.88,
+    "forecast": 4.84
+  },
+  {
+    "date": "2024-07",
+    "price": 4.76,
+    "forecast": 5.07
+  },
+  {
+    "date": "2024-08",
+    "price": 4.94,
+    "forecast": 4.94
+  },
+  {
+    "date": "2024-09",
+    "price": 5.25,
+    "forecast": 5.06
+  },
+  {
+    "date": "2024-10",
+    "price": 5.22,
+    "forecast": 5.32
+  },
+  {
+    "date": "2024-11",
+    "price": 5.69,
+    "forecast": 5.4
+  },
+  {
+    "date": "2024-12",
+    "price": 5.44,
+    "forecast": 5.47
+  }
+]

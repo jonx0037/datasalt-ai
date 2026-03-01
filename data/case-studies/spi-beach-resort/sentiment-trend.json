@@ -1,0 +1,254 @@
+[
+  {
+    "date": "2022-01",
+    "sentiment": 4.23,
+    "cleanliness": 4.32,
+    "service": 4.14,
+    "amenities": 3.93
+  },
+  {
+    "date": "2022-02",
+    "sentiment": 3.95,
+    "cleanliness": 4.16,
+    "service": 3.75,
+    "amenities": 3.56
+  },
+  {
+    "date": "2022-03",
+    "sentiment": 3.41,
+    "cleanliness": 3.39,
+    "service": 3.35,
+    "amenities": 3.26
+  },
+  {
+    "date": "2022-04",
+    "sentiment": 3.75,
+    "cleanliness": 3.87,
+    "service": 3.59,
+    "amenities": 3.38
+  },
+  {
+    "date": "2022-05",
+    "sentiment": 3.66,
+    "cleanliness": 4.06,
+    "service": 3.65,
+    "amenities": 3.25
+  },
+  {
+    "date": "2022-06",
+    "sentiment": 3.68,
+    "cleanliness": 3.81,
+    "service": 3.54,
+    "amenities": 3.43
+  },
+  {
+    "date": "2022-07",
+    "sentiment": 3.7,
+    "cleanliness": 4.13,
+    "service": 3.94,
+    "amenities": 3.36
+  },
+  {
+    "date": "2022-08",
+    "sentiment": 3.65,
+    "cleanliness": 3.86,
+    "service": 3.58,
+    "amenities": 3.24
+  },
+  {
+    "date": "2022-09",
+    "sentiment": 3.74,
+    "cleanliness": 4.06,
+    "service": 3.97,
+    "amenities": 3.41
+  },
+  {
+    "date": "2022-10",
+    "sentiment": 3.74,
+    "cleanliness": 3.9,
+    "service": 3.44,
+    "amenities": 3.4
+  },
+  {
+    "date": "2022-11",
+    "sentiment": 3.84,
+    "cleanliness": 4.03,
+    "service": 3.99,
+    "amenities": 3.56
+  },
+  {
+    "date": "2022-12",
+    "sentiment": 4.0,
+    "cleanliness": 4.18,
+    "service": 4.16,
+    "amenities": 3.52
+  },
+  {
+    "date": "2023-01",
+    "sentiment": 4.05,
+    "cleanliness": 4.07,
+    "service": 4.12,
+    "amenities": 3.88
+  },
+  {
+    "date": "2023-02",
+    "sentiment": 3.98,
+    "cleanliness": 4.43,
+    "service": 3.82,
+    "amenities": 3.47
+  },
+  {
+    "date": "2023-03",
+    "sentiment": 3.55,
+    "cleanliness": 3.8,
+    "service": 3.4,
+    "amenities": 3.59
+  },
+  {
+    "date": "2023-04",
+    "sentiment": 3.97,
+    "cleanliness": 4.43,
+    "service": 4.15,
+    "amenities": 3.42
+  },
+  {
+    "date": "2023-05",
+    "sentiment": 3.84,
+    "cleanliness": 3.63,
+    "service": 3.61,
+    "amenities": 3.71
+  },
+  {
+    "date": "2023-06",
+    "sentiment": 3.65,
+    "cleanliness": 3.75,
+    "service": 3.62,
+    "amenities": 3.47
+  },
+  {
+    "date": "2023-07",
+    "sentiment": 3.64,
+    "cleanliness": 3.8,
+    "service": 3.7,
+    "amenities": 3.38
+  },
+  {
+    "date": "2023-08",
+    "sentiment": 3.75,
+    "cleanliness": 4.0,
+    "service": 3.67,
+    "amenities": 3.49
+  },
+  {
+    "date": "2023-09",
+    "sentiment": 4.08,
+    "cleanliness": 4.23,
+    "service": 3.87,
+    "amenities": 3.99
+  },
+  {
+    "date": "2023-10",
+    "sentiment": 3.81,
+    "cleanliness": 4.27,
+    "service": 3.67,
+    "amenities": 3.52
+  },
+  {
+    "date": "2023-11",
+    "sentiment": 3.95,
+    "cleanliness": 4.33,
+    "service": 4.05,
+    "amenities": 3.62
+  },
+  {
+    "date": "2023-12",
+    "sentiment": 3.99,
+    "cleanliness": 4.24,
+    "service": 3.92,
+    "amenities": 3.59
+  },
+  {
+    "date": "2024-01",
+    "sentiment": 4.2,
+    "cleanliness": 4.55,
+    "service": 4.13,
+    "amenities": 4.13
+  },
+  {
+    "date": "2024-02",
+    "sentiment": 4.15,
+    "cleanliness": 4.33,
+    "service": 4.07,
+    "amenities": 3.77
+  },
+  {
+    "date": "2024-03",
+    "sentiment": 3.56,
+    "cleanliness": 3.83,
+    "service": 3.29,
+    "amenities": 3.21
+  },
+  {
+    "date": "2024-04",
+    "sentiment": 3.95,
+    "cleanliness": 4.21,
+    "service": 3.94,
+    "amenities": 3.66
+  },
+  {
+    "date": "2024-05",
+    "sentiment": 3.77,
+    "cleanliness": 3.94,
+    "service": 3.51,
+    "amenities": 3.45
+  },
+  {
+    "date": "2024-06",
+    "sentiment": 3.91,
+    "cleanliness": 4.23,
+    "service": 3.85,
+    "amenities": 3.69
+  },
+  {
+    "date": "2024-07",
+    "sentiment": 3.61,
+    "cleanliness": 3.84,
+    "service": 3.63,
+    "amenities": 3.2
+  },
+  {
+    "date": "2024-08",
+    "sentiment": 3.9,
+    "cleanliness": 4.04,
+    "service": 4.0,
+    "amenities": 3.77
+  },
+  {
+    "date": "2024-09",
+    "sentiment": 3.91,
+    "cleanliness": 4.33,
+    "service": 3.77,
+    "amenities": 3.92
+  },
+  {
+    "date": "2024-10",
+    "sentiment": 3.91,
+    "cleanliness": 4.12,
+    "service": 3.85,
+    "amenities": 3.5
+  },
+  {
+    "date": "2024-11",
+    "sentiment": 3.79,
+    "cleanliness": 3.87,
+    "service": 3.91,
+    "amenities": 3.44
+  },
+  {
+    "date": "2024-12",
+    "sentiment": 4.08,
+    "cleanliness": 4.51,
+    "service": 4.08,
+    "amenities": 3.89
+  }
+]

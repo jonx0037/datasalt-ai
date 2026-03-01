@@ -1,0 +1,302 @@
+[
+  {
+    "column": "Jan",
+    "row": "Laguna Madre",
+    "value": 4.5
+  },
+  {
+    "column": "Jan",
+    "row": "Port Isabel",
+    "value": 4.4
+  },
+  {
+    "column": "Jan",
+    "row": "Brownsville Ship Channel",
+    "value": 3.7
+  },
+  {
+    "column": "Jan",
+    "row": "Baffin Bay",
+    "value": 4.7
+  },
+  {
+    "column": "Jan",
+    "row": "Aransas Pass",
+    "value": 4.2
+  },
+  {
+    "column": "Feb",
+    "row": "Laguna Madre",
+    "value": 6.2
+  },
+  {
+    "column": "Feb",
+    "row": "Port Isabel",
+    "value": 4.2
+  },
+  {
+    "column": "Feb",
+    "row": "Brownsville Ship Channel",
+    "value": 3.7
+  },
+  {
+    "column": "Feb",
+    "row": "Baffin Bay",
+    "value": 4.1
+  },
+  {
+    "column": "Feb",
+    "row": "Aransas Pass",
+    "value": 4.8
+  },
+  {
+    "column": "Mar",
+    "row": "Laguna Madre",
+    "value": 7.6
+  },
+  {
+    "column": "Mar",
+    "row": "Port Isabel",
+    "value": 7.2
+  },
+  {
+    "column": "Mar",
+    "row": "Brownsville Ship Channel",
+    "value": 6.4
+  },
+  {
+    "column": "Mar",
+    "row": "Baffin Bay",
+    "value": 6.3
+  },
+  {
+    "column": "Mar",
+    "row": "Aransas Pass",
+    "value": 6.1
+  },
+  {
+    "column": "Apr",
+    "row": "Laguna Madre",
+    "value": 9.9
+  },
+  {
+    "column": "Apr",
+    "row": "Port Isabel",
+    "value": 8.6
+  },
+  {
+    "column": "Apr",
+    "row": "Brownsville Ship Channel",
+    "value": 6.1
+  },
+  {
+    "column": "Apr",
+    "row": "Baffin Bay",
+    "value": 9.7
+  },
+  {
+    "column": "Apr",
+    "row": "Aransas Pass",
+    "value": 8.4
+  },
+  {
+    "column": "May",
+    "row": "Laguna Madre",
+    "value": 14.3
+  },
+  {
+    "column": "May",
+    "row": "Port Isabel",
+    "value": 10.2
+  },
+  {
+    "column": "May",
+    "row": "Brownsville Ship Channel",
+    "value": 8.4
+  },
+  {
+    "column": "May",
+    "row": "Baffin Bay",
+    "value": 11.8
+  },
+  {
+    "column": "May",
+    "row": "Aransas Pass",
+    "value": 11.8
+  },
+  {
+    "column": "Jun",
+    "row": "Laguna Madre",
+    "value": 13.5
+  },
+  {
+    "column": "Jun",
+    "row": "Port Isabel",
+    "value": 11.9
+  },
+  {
+    "column": "Jun",
+    "row": "Brownsville Ship Channel",
+    "value": 10.6
+  },
+  {
+    "column": "Jun",
+    "row": "Baffin Bay",
+    "value": 11.8
+  },
+  {
+    "column": "Jun",
+    "row": "Aransas Pass",
+    "value": 11.1
+  },
+  {
+    "column": "Jul",
+    "row": "Laguna Madre",
+    "value": 14.5
+  },
+  {
+    "column": "Jul",
+    "row": "Port Isabel",
+    "value": 10.7
+  },
+  {
+    "column": "Jul",
+    "row": "Brownsville Ship Channel",
+    "value": 9.3
+  },
+  {
+    "column": "Jul",
+    "row": "Baffin Bay",
+    "value": 13.3
+  },
+  {
+    "column": "Jul",
+    "row": "Aransas Pass",
+    "value": 11.3
+  },
+  {
+    "column": "Aug",
+    "row": "Laguna Madre",
+    "value": 12.3
+  },
+  {
+    "column": "Aug",
+    "row": "Port Isabel",
+    "value": 10.5
+  },
+  {
+    "column": "Aug",
+    "row": "Brownsville Ship Channel",
+    "value": 8.6
+  },
+  {
+    "column": "Aug",
+    "row": "Baffin Bay",
+    "value": 13.3
+  },
+  {
+    "column": "Aug",
+    "row": "Aransas Pass",
+    "value": 10.0
+  },
+  {
+    "column": "Sep",
+    "row": "Laguna Madre",
+    "value": 10.0
+  },
+  {
+    "column": "Sep",
+    "row": "Port Isabel",
+    "value": 7.9
+  },
+  {
+    "column": "Sep",
+    "row": "Brownsville Ship Channel",
+    "value": 7.0
+  },
+  {
+    "column": "Sep",
+    "row": "Baffin Bay",
+    "value": 10.1
+  },
+  {
+    "column": "Sep",
+    "row": "Aransas Pass",
+    "value": 9.1
+  },
+  {
+    "column": "Oct",
+    "row": "Laguna Madre",
+    "value": 10.1
+  },
+  {
+    "column": "Oct",
+    "row": "Port Isabel",
+    "value": 8.3
+  },
+  {
+    "column": "Oct",
+    "row": "Brownsville Ship Channel",
+    "value": 8.0
+  },
+  {
+    "column": "Oct",
+    "row": "Baffin Bay",
+    "value": 9.9
+  },
+  {
+    "column": "Oct",
+    "row": "Aransas Pass",
+    "value": 7.7
+  },
+  {
+    "column": "Nov",
+    "row": "Laguna Madre",
+    "value": 8.6
+  },
+  {
+    "column": "Nov",
+    "row": "Port Isabel",
+    "value": 6.3
+  },
+  {
+    "column": "Nov",
+    "row": "Brownsville Ship Channel",
+    "value": 4.9
+  },
+  {
+    "column": "Nov",
+    "row": "Baffin Bay",
+    "value": 7.7
+  },
+  {
+    "column": "Nov",
+    "row": "Aransas Pass",
+    "value": 6.9
+  },
+  {
+    "column": "Dec",
+    "row": "Laguna Madre",
+    "value": 5.6
+  },
+  {
+    "column": "Dec",
+    "row": "Port Isabel",
+    "value": 5.0
+  },
+  {
+    "column": "Dec",
+    "row": "Brownsville Ship Channel",
+    "value": 3.9
+  },
+  {
+    "column": "Dec",
+    "row": "Baffin Bay",
+    "value": 5.1
+  },
+  {
+    "column": "Dec",
+    "row": "Aransas Pass",
+    "value": 3.8
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "x": 111.0,
+    "y": 2747.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 116.0,
+    "y": 802.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 127.0,
+    "y": 788.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 137.0,
+    "y": 2456.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 189.0,
+    "y": 3482.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 183.0,
+    "y": 1721.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 282.0,
+    "y": 2475.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 146.0,
+    "y": 1159.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 285.0,
+    "y": 802.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 230.0,
+    "y": 1553.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 151.0,
+    "y": 2639.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 129.0,
+    "y": 1375.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 137.0,
+    "y": 2778.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 160.0,
+    "y": 1403.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 117.0,
+    "y": 569.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 163.0,
+    "y": 2060.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 156.0,
+    "y": 1047.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 213.0,
+    "y": 2931.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 294.0,
+    "y": 1074.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 162.0,
+    "y": 1559.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 180.0,
+    "y": 1004.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 173.0,
+    "y": 1282.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 288.0,
+    "y": 1806.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 276.0,
+    "y": 1131.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 210.0,
+    "y": 1363.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 143.0,
+    "y": 1473.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 261.0,
+    "y": 1929.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 178.0,
+    "y": 1685.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 131.0,
+    "y": 1230.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 188.0,
+    "y": 1329.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 230.0,
+    "y": 626.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 170.0,
+    "y": 2415.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 125.0,
+    "y": 857.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 159.0,
+    "y": 689.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 274.0,
+    "y": 1338.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 153.0,
+    "y": 2848.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 212.0,
+    "y": 1898.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 160.0,
+    "y": 2361.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 163.0,
+    "y": 2381.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 258.0,
+    "y": 2046.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 114.0,
+    "y": 801.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 166.0,
+    "y": 1438.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 162.0,
+    "y": 794.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 212.0,
+    "y": 739.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 141.0,
+    "y": 1770.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 116.0,
+    "y": 502.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 139.0,
+    "y": 1532.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 197.0,
+    "y": 1050.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 188.0,
+    "y": 1631.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 264.0,
+    "y": 1154.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 173.0,
+    "y": 2334.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 247.0,
+    "y": 2419.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 154.0,
+    "y": 979.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 147.0,
+    "y": 1277.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 190.0,
+    "y": 695.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 254.0,
+    "y": 1899.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 155.0,
+    "y": 2312.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 178.0,
+    "y": 876.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 250.0,
+    "y": 1897.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 342.0,
+    "y": 950.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 133.0,
+    "y": 889.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 164.0,
+    "y": 633.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 156.0,
+    "y": 1028.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 166.0,
+    "y": 1707.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 152.0,
+    "y": 1617.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 266.0,
+    "y": 2296.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 298.0,
+    "y": 1176.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 141.0,
+    "y": 1514.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 167.0,
+    "y": 744.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 301.0,
+    "y": 3062.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 215.0,
+    "y": 1678.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 215.0,
+    "y": 2295.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 305.0,
+    "y": 1527.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 156.0,
+    "y": 1227.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 157.0,
+    "y": 1624.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 263.0,
+    "y": 1464.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 119.0,
+    "y": 891.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 224.0,
+    "y": 3279.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 116.0,
+    "y": 1603.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 112.0,
+    "y": 1134.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 303.0,
+    "y": 3351.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 299.0,
+    "y": 1315.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 115.0,
+    "y": 2011.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 94.0,
+    "y": 1863.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 242.0,
+    "y": 1048.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 208.0,
+    "y": 1601.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 300.0,
+    "y": 1715.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 295.0,
+    "y": 985.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 178.0,
+    "y": 776.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 208.0,
+    "y": 1736.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 244.0,
+    "y": 2603.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 174.0,
+    "y": 349.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 194.0,
+    "y": 2159.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 115.0,
+    "y": 1527.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 182.0,
+    "y": 1258.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 121.0,
+    "y": 937.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 230.0,
+    "y": 1081.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 317.0,
+    "y": 1560.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 135.0,
+    "y": 1066.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 123.0,
+    "y": 638.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 213.0,
+    "y": 888.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 109.0,
+    "y": 1521.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 271.0,
+    "y": 1383.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 149.0,
+    "y": 984.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 125.0,
+    "y": 2049.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 168.0,
+    "y": 1287.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 171.0,
+    "y": 2861.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 130.0,
+    "y": 1756.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 359.0,
+    "y": 660.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 158.0,
+    "y": 2311.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 278.0,
+    "y": 1771.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 163.0,
+    "y": 1973.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 254.0,
+    "y": 1506.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 237.0,
+    "y": 4371.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 248.0,
+    "y": 1783.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 171.0,
+    "y": 1563.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 217.0,
+    "y": 795.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 161.0,
+    "y": 1263.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 209.0,
+    "y": 1477.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 278.0,
+    "y": 1501.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 146.0,
+    "y": 2867.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 150.0,
+    "y": 2421.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 192.0,
+    "y": 3196.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 177.0,
+    "y": 702.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 191.0,
+    "y": 1300.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 252.0,
+    "y": 765.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 113.0,
+    "y": 937.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 256.0,
+    "y": 1007.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 192.0,
+    "y": 1810.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 177.0,
+    "y": 3277.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 114.0,
+    "y": 2291.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 152.0,
+    "y": 2793.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 162.0,
+    "y": 1979.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 132.0,
+    "y": 1003.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 180.0,
+    "y": 1171.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 115.0,
+    "y": 881.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 334.0,
+    "y": 1013.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 156.0,
+    "y": 934.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 299.0,
+    "y": 1084.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 188.0,
+    "y": 2453.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 202.0,
+    "y": 745.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 120.0,
+    "y": 649.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 230.0,
+    "y": 848.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 235.0,
+    "y": 2030.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 204.0,
+    "y": 866.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 184.0,
+    "y": 1786.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 174.0,
+    "y": 1471.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 265.0,
+    "y": 2006.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 147.0,
+    "y": 1399.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 164.0,
+    "y": 2016.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 209.0,
+    "y": 3410.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 116.0,
+    "y": 933.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 236.0,
+    "y": 2995.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 111.0,
+    "y": 1946.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 201.0,
+    "y": 1964.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 134.0,
+    "y": 2489.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 176.0,
+    "y": 752.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 150.0,
+    "y": 1959.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 115.0,
+    "y": 1104.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 216.0,
+    "y": 1043.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 301.0,
+    "y": 1589.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 264.0,
+    "y": 1458.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 116.0,
+    "y": 1192.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 146.0,
+    "y": 1040.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 177.0,
+    "y": 1372.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 240.0,
+    "y": 460.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 191.0,
+    "y": 1274.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 231.0,
+    "y": 1120.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 192.0,
+    "y": 1894.0,
+    "category": "Laguna Madre"
+  },
+  {
+    "x": 263.0,
+    "y": 2031.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 114.0,
+    "y": 682.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 159.0,
+    "y": 1093.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 114.0,
+    "y": 1749.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 316.0,
+    "y": 704.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 154.0,
+    "y": 1624.0,
+    "category": "Port Isabel"
+  },
+  {
+    "x": 107.0,
+    "y": 472.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 96.0,
+    "y": 825.0,
+    "category": "Brownsville Ship Channel"
+  },
+  {
+    "x": 228.0,
+    "y": 1461.0,
+    "category": "Baffin Bay"
+  },
+  {
+    "x": 241.0,
+    "y": 2024.0,
+    "category": "Aransas Pass"
+  },
+  {
+    "x": 134.0,
+    "y": 1976.0,
+    "category": "Port Isabel"
+  }
+]

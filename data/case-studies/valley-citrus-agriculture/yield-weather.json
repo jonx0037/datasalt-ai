@@ -1,0 +1,377 @@
+[
+  {
+    "x": 6.2,
+    "y": 363.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 13.2,
+    "y": 323.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 5.0,
+    "y": 344.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 3.1,
+    "y": 392.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 12.1,
+    "y": 313.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 9.7,
+    "y": 362.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 10.6,
+    "y": 417.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 6.6,
+    "y": 401.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 7.4,
+    "y": 335.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 14.2,
+    "y": 419.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 5.5,
+    "y": 337.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 10.7,
+    "y": 325.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 13.0,
+    "y": 448.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 17.9,
+    "y": 349.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 15.3,
+    "y": 360.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 7.9,
+    "y": 411.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 11.9,
+    "y": 310.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 9.1,
+    "y": 296.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 14.7,
+    "y": 454.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 2.5,
+    "y": 258.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 8.5,
+    "y": 360.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 12.5,
+    "y": 406.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 4.1,
+    "y": 347.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 6.8,
+    "y": 381.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 11.2,
+    "y": 445.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 7.2,
+    "y": 390.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 4.2,
+    "y": 339.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 11.4,
+    "y": 412.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 10.2,
+    "y": 367.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 16.3,
+    "y": 286.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 6.6,
+    "y": 383.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 16.8,
+    "y": 360.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 5.5,
+    "y": 304.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 2.1,
+    "y": 309.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 12.8,
+    "y": 344.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 14.8,
+    "y": 312.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 7.1,
+    "y": 442.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 6.4,
+    "y": 357.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 8.1,
+    "y": 381.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 14.3,
+    "y": 414.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 11.6,
+    "y": 323.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 8.2,
+    "y": 294.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 8.1,
+    "y": 454.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 19.1,
+    "y": 336.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 19.4,
+    "y": 288.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 10.1,
+    "y": 356.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 12.7,
+    "y": 362.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 11.7,
+    "y": 320.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 4.2,
+    "y": 420.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 9.7,
+    "y": 402.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 12.4,
+    "y": 291.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 11.4,
+    "y": 429.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 1.1,
+    "y": 279.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 10.3,
+    "y": 354.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 5.0,
+    "y": 394.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 7.4,
+    "y": 357.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 3.4,
+    "y": 283.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 13.1,
+    "y": 344.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 16.2,
+    "y": 311.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 14.5,
+    "y": 332.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 5.2,
+    "y": 404.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 6.0,
+    "y": 314.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 9.8,
+    "y": 292.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 10.4,
+    "y": 420.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 10.6,
+    "y": 317.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 10.8,
+    "y": 320.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 5.9,
+    "y": 431.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 13.3,
+    "y": 353.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 8.1,
+    "y": 376.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 10.3,
+    "y": 419.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 8.1,
+    "y": 320.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 4.0,
+    "y": 314.0,
+    "category": "Lemons"
+  },
+  {
+    "x": 17.9,
+    "y": 456.0,
+    "category": "Grapefruit"
+  },
+  {
+    "x": 12.8,
+    "y": 307.0,
+    "category": "Oranges"
+  },
+  {
+    "x": 18.4,
+    "y": 321.0,
+    "category": "Lemons"
+  }
+]

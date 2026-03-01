@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# synthetic data (raw CSVs stay local, only processed JSON is committed)
+data/raw/
