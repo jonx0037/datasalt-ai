@@ -20,7 +20,7 @@ export function CaseStudyGalleryCard({ study }: CaseStudyGalleryCardProps) {
             src={study.thumbnail}
             alt={`${study.title} hero image`}
             fill
-            className="object-cover object-center"
+            className={`object-cover ${study.thumbnailPosition === "center" ? "object-center" : study.thumbnailPosition === "bottom" ? "object-bottom" : "object-top"}`}
             sizes="(max-width: 768px) 100vw, 33vw"
           />
         ) : (

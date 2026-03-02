@@ -16,6 +16,8 @@ export interface CaseStudyMeta {
   summary: string;
   outcome: string;
   thumbnail?: string;
+  /** Controls object-position on the gallery card thumbnail. Defaults to "top" */
+  thumbnailPosition?: "top" | "center" | "bottom";
   demoUrl?: string;
   githubRepo?: string;
 }

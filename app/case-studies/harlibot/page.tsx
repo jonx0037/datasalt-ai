@@ -40,6 +40,7 @@ export default function HarliBotPage() {
       <CaseStudyHero
         meta={meta}
         heroImage="/images/case-studies/HarliBot-hero.png"
+        overlayStrength="dark"
       />
 
       <CaseStudyChallenge>
