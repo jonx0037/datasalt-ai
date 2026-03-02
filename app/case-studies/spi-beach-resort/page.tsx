@@ -91,7 +91,11 @@ const impactMetrics = [
 export default function SPIBeachResortPage() {
   return (
     <div className="min-h-screen bg-background pt-24">
-      <CaseStudyHero meta={meta} />
+      <CaseStudyHero
+        meta={meta}
+        heroImage="/images/case-studies/SPI-Beach-Resort-hero.png"
+        overlayStrength="dark"
+      />
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>
@@ -147,7 +151,7 @@ export default function SPIBeachResortPage() {
         >
           <SeasonalHeatmap
             data={occupancyData}
-            columns={["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}
+            columns={["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]}
             valueLabel="%"
           />
         </ChartContainer>

@@ -97,6 +97,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Revenue management and guest sentiment intelligence for a South Padre Island resort — combining demand forecasting, dynamic pricing simulation, and NLP-driven review analysis.",
     outcome:
       "$340K annual revenue uplift through event-aware dynamic pricing and actionable guest sentiment insights.",
+    thumbnail: "/images/case-studies/SPI-Beach-Resort-thumbnail.png",
   },
   {
     slug: "gulf-shrimping-operations",
