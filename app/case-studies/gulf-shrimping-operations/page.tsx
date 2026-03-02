@@ -91,7 +91,11 @@ const impactMetrics = [
 export default function GulfShrimpingPage() {
   return (
     <div className="min-h-screen bg-background pt-24">
-      <CaseStudyHero meta={meta} />
+      <CaseStudyHero
+        meta={meta}
+        heroImage="/images/case-studies/shrimp-boat-hero.png"
+        overlayStrength="dark"
+      />
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>
@@ -163,7 +167,7 @@ export default function GulfShrimpingPage() {
         >
           <SeasonalHeatmap
             data={catchData}
-            columns={["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}
+            columns={["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]}
             valueLabel="K lbs"
           />
         </ChartContainer>

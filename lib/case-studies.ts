@@ -117,6 +117,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Fleet-wide trip profitability analysis and market timing system for a Gulf of Mexico shrimping operation — optimizing fuel costs, catch-per-unit-effort, and wholesale price timing.",
     outcome:
       "$127K annual fuel savings and 18% revenue increase through route optimization and data-driven hold/sell decisions.",
+    thumbnail: "/images/case-studies/shrimp-boat-thumb.png",
   },
   {
     slug: "valley-citrus-agriculture",
