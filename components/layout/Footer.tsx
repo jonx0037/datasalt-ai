@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Separator } from "@/components/ui/separator";
 
 const footerLinks = [
@@ -17,9 +18,21 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-8">
           {/* Brand */}
           <div className="flex flex-col items-center md:items-start gap-2">
-            <Link href="/" className="flex items-center gap-1 font-semibold text-xl">
-              <span className="text-white">Data</span>
-              <span className="text-teal">Salt</span>
+            <Link href="/" className="flex items-center gap-1">
+              <Image
+                src="/images/logo/datasalt-logo.png"
+                alt="DataSalt Logo"
+                width={384}
+                height={96}
+                className="h-16 w-auto object-contain dark:hidden"
+              />
+              <Image
+                src="/images/logo/datasalt-logo-dark.png"
+                alt="DataSalt Logo (Dark)"
+                width={384}
+                height={96}
+                className="h-16 w-auto object-contain hidden dark:block"
+              />
             </Link>
             <p className="text-sm text-white/50 tracking-wide">
               Seasoned AI. Sharp Results.

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ThemeToggle } from "./ThemeToggle";
@@ -41,11 +42,25 @@ export function Navbar() {
           {/* Logo */}
           <Link
             href="/"
-            className="flex items-center gap-1 font-semibold text-xl"
+            className="flex items-center gap-1"
             onClick={handleNavClick}
           >
-            <span className="text-foreground">Data</span>
-            <span className="text-teal">Salt</span>
+            <Image
+              src="/images/logo/datasalt-logo.png"
+              alt="DataSalt Logo"
+              width={336}
+              height={84}
+              className="h-14 w-auto object-contain dark:hidden"
+              priority
+            />
+            <Image
+              src="/images/logo/datasalt-logo-dark.png"
+              alt="DataSalt Logo (Dark)"
+              width={336}
+              height={84}
+              className="h-14 w-auto object-contain hidden dark:block"
+              priority
+            />
           </Link>
 
           {/* Desktop nav */}
