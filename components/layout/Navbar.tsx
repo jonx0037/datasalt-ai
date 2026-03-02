@@ -1,5 +1,6 @@
 "use client";
 
+import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
@@ -18,6 +19,9 @@ const navLinks = [
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const pathname = usePathname();
+
+  const isTransparentHero = pathname === "/" && !scrolled;
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 20);
@@ -45,22 +49,35 @@ export function Navbar() {
             className="flex items-center gap-1"
             onClick={handleNavClick}
           >
-            <Image
-              src="/images/logo/datasalt-logo.png"
-              alt="DataSalt Logo"
-              width={336}
-              height={84}
-              className="h-14 w-auto object-contain dark:hidden"
-              priority
-            />
-            <Image
-              src="/images/logo/datasalt-logo-dark.png"
-              alt="DataSalt Logo (Dark)"
-              width={336}
-              height={84}
-              className="h-14 w-auto object-contain hidden dark:block"
-              priority
-            />
+            {isTransparentHero ? (
+              <Image
+                src="/images/logo/datasalt-logo-dark.png"
+                alt="DataSalt Logo (Transparent Hero Override)"
+                width={336}
+                height={84}
+                className="h-14 w-auto object-contain block"
+                priority
+              />
+            ) : (
+              <>
+                <Image
+                  src="/images/logo/datasalt-logo.png"
+                  alt="DataSalt Logo"
+                  width={336}
+                  height={84}
+                  className="h-14 w-auto object-contain dark:hidden"
+                  priority
+                />
+                <Image
+                  src="/images/logo/datasalt-logo-dark.png"
+                  alt="DataSalt Logo (Dark)"
+                  width={336}
+                  height={84}
+                  className="h-14 w-auto object-contain hidden dark:block"
+                  priority
+                />
+              </>
+            )}
           </Link>
 
           {/* Desktop nav */}
@@ -69,13 +86,16 @@ export function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="px-3 py-2 text-sm text-foreground/70 hover:text-foreground transition-colors rounded-md hover:bg-accent/10"
+                className={cn(
+                  "px-3 py-2 text-sm transition-colors rounded-md hover:bg-accent/10",
+                  isTransparentHero ? "text-white/80 hover:text-white" : "text-foreground/70 hover:text-foreground"
+                )}
               >
                 {link.label}
               </Link>
             ))}
             <div className="ml-2">
-              <ThemeToggle />
+              <ThemeToggle isTransparentHero={isTransparentHero} />
             </div>
             <Button asChild size="sm" className="ml-2">
               <Link href="/contact">Get a Quote</Link>
@@ -84,13 +104,13 @@ export function Navbar() {
 
           {/* Mobile controls */}
           <div className="flex md:hidden items-center gap-1">
-            <ThemeToggle />
+            <ThemeToggle isTransparentHero={isTransparentHero} />
             <Button
               variant="ghost"
               size="icon"
               onClick={() => setIsOpen(!isOpen)}
               aria-label="Toggle menu"
-              className="text-foreground/70 hover:text-foreground"
+              className={isTransparentHero ? "text-white/80 hover:text-white" : "text-foreground/70 hover:text-foreground"}
             >
               {isOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
             </Button>
