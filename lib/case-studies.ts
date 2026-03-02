@@ -137,6 +137,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Yield prediction, irrigation optimization, and freeze risk quantification for a Rio Grande Valley citrus cooperative — turning weather data into actionable farming intelligence.",
     outcome:
       "$890K yield improvement through optimized irrigation scheduling, grower benchmarking, and 11-day freeze early warning system.",
+    thumbnail: "/images/case-studies/citrus-orchard-hero.png",
   },
   {
     slug: "south-texas-urgent-care",

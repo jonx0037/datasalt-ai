@@ -90,7 +90,11 @@ const impactMetrics = [
 export default function ValleyCitrusPage() {
   return (
     <div className="min-h-screen bg-background pt-24">
-      <CaseStudyHero meta={meta} />
+      <CaseStudyHero
+        meta={meta}
+        heroImage="/images/case-studies/citrus-orchard-hero.png"
+        overlayStrength="dark"
+      />
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>
