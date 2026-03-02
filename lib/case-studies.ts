@@ -76,6 +76,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Sentiment-based cross-asset market regime detection system that classifies market conditions using NLP on financial news, earnings calls, and SEC filings.",
     outcome:
       "Automated regime classification with interpretable signal output; text sentiment leads price-based indicators at major transitions.",
+    thumbnail: "/images/case-studies/sentiment-regime-detector-card-image.png",
   },
   {
     slug: "spi-beach-resort",
