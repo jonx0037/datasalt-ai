@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowRight } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
@@ -12,14 +13,26 @@ interface CaseStudyGalleryCardProps {
 export function CaseStudyGalleryCard({ study }: CaseStudyGalleryCardProps) {
   return (
     <Card className="flex flex-col border-border hover:border-teal/40 transition-colors duration-200 group">
-      {/* Thumbnail placeholder */}
-      <div className="h-40 bg-gradient-to-br from-navy-dark/80 to-teal/20 rounded-t-lg flex items-center justify-center">
-        <span className="text-3xl font-bold text-teal/40 font-mono">
-          {study.title
-            .split(" ")
-            .map((w) => w[0])
-            .join("")}
-        </span>
+      {/* Thumbnail */}
+      <div className="relative h-40 rounded-t-lg overflow-hidden">
+        {study.thumbnail ? (
+          <Image
+            src={study.thumbnail}
+            alt={`${study.title} hero image`}
+            fill
+            className="object-cover object-center"
+            sizes="(max-width: 768px) 100vw, 33vw"
+          />
+        ) : (
+          <div className="h-full bg-gradient-to-br from-navy-dark/80 to-teal/20 flex items-center justify-center">
+            <span className="text-3xl font-bold text-teal/40 font-mono">
+              {study.title
+                .split(" ")
+                .map((w) => w[0])
+                .join("")}
+            </span>
+          </div>
+        )}
       </div>
 
       <CardHeader className="pb-3">
