@@ -19,7 +19,6 @@ export const caseStudies: CaseStudyMeta[] = [
       "Data-driven pricing model and demand forecasting system for a South Texas boat dealership — replacing gut-feel pricing with ML-powered inventory intelligence.",
     outcome:
       "23% faster inventory turnover and $2,800 average pricing uplift through optimized markdown timing and data-driven pricing.",
-    githubRepo: "https://github.com/jonx0037/datasalt-case-studies",
   },
   {
     slug: "harlibot",
@@ -94,7 +93,6 @@ export const caseStudies: CaseStudyMeta[] = [
       "Revenue management and guest sentiment intelligence for a South Padre Island resort — combining demand forecasting, dynamic pricing simulation, and NLP-driven review analysis.",
     outcome:
       "$340K annual revenue uplift through event-aware dynamic pricing and actionable guest sentiment insights.",
-    githubRepo: "https://github.com/jonx0037/datasalt-case-studies",
   },
   {
     slug: "gulf-shrimping-operations",
@@ -114,7 +112,6 @@ export const caseStudies: CaseStudyMeta[] = [
       "Fleet-wide trip profitability analysis and market timing system for a Gulf of Mexico shrimping operation — optimizing fuel costs, catch-per-unit-effort, and wholesale price timing.",
     outcome:
       "$127K annual fuel savings and 18% revenue increase through route optimization and data-driven hold/sell decisions.",
-    githubRepo: "https://github.com/jonx0037/datasalt-case-studies",
   },
   {
     slug: "valley-citrus-agriculture",
@@ -134,7 +131,6 @@ export const caseStudies: CaseStudyMeta[] = [
       "Yield prediction, irrigation optimization, and freeze risk quantification for a Rio Grande Valley citrus cooperative — turning weather data into actionable farming intelligence.",
     outcome:
       "$890K yield improvement through optimized irrigation scheduling, grower benchmarking, and 11-day freeze early warning system.",
-    githubRepo: "https://github.com/jonx0037/datasalt-case-studies",
   },
   {
     slug: "south-texas-urgent-care",
@@ -154,7 +150,6 @@ export const caseStudies: CaseStudyMeta[] = [
       "Patient volume forecasting, no-show prediction, and staffing optimization for a multi-clinic urgent care network in South Texas — reducing wait times and labor costs simultaneously.",
     outcome:
       "31% wait time reduction and $215K annual labor savings through demand-matched staffing and proactive no-show intervention.",
-    githubRepo: "https://github.com/jonx0037/datasalt-case-studies",
   },
 ];
 
