@@ -37,7 +37,10 @@ const tools = [
 export default function HarliBotPage() {
   return (
     <div className="min-h-screen bg-background pt-24">
-      <CaseStudyHero meta={meta} />
+      <CaseStudyHero
+        meta={meta}
+        heroImage="/images/case-studies/HarliBot-hero.png"
+      />
 
       <CaseStudyChallenge>
         <p>

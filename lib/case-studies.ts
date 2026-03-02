@@ -45,6 +45,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Bilingual municipal AI chatbot deployed for the City of Harlingen, TX — enabling residents to access city services and information in English and Spanish 24/7.",
     outcome:
       "Reduced call center load by handling routine resident inquiries around the clock in both languages.",
+    thumbnail: "/images/case-studies/HarliBot.png",
   },
   {
     slug: "market-regime-detector",
