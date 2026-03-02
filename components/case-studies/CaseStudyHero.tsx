@@ -7,16 +7,46 @@ import { MetricCard } from "./MetricCard";
 
 interface CaseStudyHeroProps {
   meta: CaseStudyMeta;
+  /** Optional path to a background hero image (from /public, e.g. "/images/case-studies/foo.png") */
+  heroImage?: string;
 }
 
-export function CaseStudyHero({ meta }: CaseStudyHeroProps) {
+export function CaseStudyHero({ meta, heroImage }: CaseStudyHeroProps) {
+  const hasImage = Boolean(heroImage);
+
   return (
-    <section className="pb-12">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section
+      className="pb-12 relative"
+      style={
+        hasImage
+          ? {
+            backgroundImage: `url(${heroImage})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            backgroundRepeat: "no-repeat",
+          }
+          : undefined
+      }
+    >
+      {/* Dark gradient overlay — only rendered when a hero image is present */}
+      {hasImage && (
+        <div
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            background:
+              "linear-gradient(to bottom, rgba(0,0,0,0.62) 0%, rgba(0,0,0,0.45) 60%, rgba(0,0,0,0.72) 100%)",
+          }}
+        />
+      )}
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         {/* Back nav */}
         <Link
           href="/case-studies"
-          className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors mb-10"
+          className={`inline-flex items-center gap-1.5 text-sm transition-colors mb-10 ${hasImage
+              ? "text-white/70 hover:text-white"
+              : "text-muted-foreground hover:text-foreground"
+            }`}
         >
           <ArrowLeft className="h-3.5 w-3.5" />
           All Case Studies
@@ -25,20 +55,32 @@ export function CaseStudyHero({ meta }: CaseStudyHeroProps) {
         {/* Tags + reading time */}
         <div className="flex flex-wrap items-center gap-2 mb-4">
           {meta.industry.map((tag) => (
-            <Badge key={tag} variant="secondary" className="text-xs">
+            <Badge
+              key={tag}
+              variant={hasImage ? "outline" : "secondary"}
+              className={`text-xs ${hasImage ? "border-white/40 text-white bg-white/10" : ""}`}
+            >
               {INDUSTRY_TAG_LABELS[tag] ?? tag}
             </Badge>
           ))}
-          <span className="text-xs text-muted-foreground">
+          <span
+            className={`text-xs ${hasImage ? "text-white/60" : "text-muted-foreground"}`}
+          >
             {meta.readingTime}
           </span>
         </div>
 
         {/* Title + subtitle */}
-        <h1 className="text-4xl sm:text-5xl font-bold text-foreground mb-4">
+        <h1
+          className={`text-4xl sm:text-5xl font-bold mb-4 ${hasImage ? "text-white drop-shadow-md" : "text-foreground"
+            }`}
+        >
           {meta.title}
         </h1>
-        <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+        <p
+          className={`text-xl mb-8 leading-relaxed ${hasImage ? "text-white/85" : "text-muted-foreground"
+            }`}
+        >
           {meta.subtitle}
         </p>
 
@@ -47,7 +89,10 @@ export function CaseStudyHero({ meta }: CaseStudyHeroProps) {
           {meta.stack.map((tech) => (
             <span
               key={tech}
-              className="px-2.5 py-1 rounded-md bg-teal/10 text-teal text-xs font-mono font-medium border border-teal/20"
+              className={`px-2.5 py-1 rounded-md text-xs font-mono font-medium border ${hasImage
+                  ? "bg-white/10 text-white border-white/25 backdrop-blur-sm"
+                  : "bg-teal/10 text-teal border-teal/20"
+                }`}
             >
               {tech}
             </span>
@@ -56,9 +101,9 @@ export function CaseStudyHero({ meta }: CaseStudyHeroProps) {
 
         {/* Hero metrics */}
         {meta.heroMetrics.length > 0 && (
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <div className={`grid grid-cols-1 sm:grid-cols-3 gap-4 ${hasImage ? "pb-10" : ""}`}>
             {meta.heroMetrics.map((metric) => (
-              <MetricCard key={metric.label} {...metric} />
+              <MetricCard key={metric.label} {...metric} heroImage={hasImage} />
             ))}
           </div>
         )}

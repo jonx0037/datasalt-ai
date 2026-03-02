@@ -104,7 +104,10 @@ const impactMetrics = [
 export default function GulfCoastBoatSalesPage() {
   return (
     <div className="min-h-screen bg-background pt-24">
-      <CaseStudyHero meta={meta} />
+      <CaseStudyHero
+        meta={meta}
+        heroImage="/images/case-studies/gulf-coast-boat-sales-hero.png"
+      />
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>
@@ -160,7 +163,7 @@ export default function GulfCoastBoatSalesPage() {
         >
           <SeasonalHeatmap
             data={seasonalData}
-            columns={["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}
+            columns={["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]}
             valueLabel="sales"
           />
         </ChartContainer>
