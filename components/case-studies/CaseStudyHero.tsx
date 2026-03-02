@@ -11,9 +11,11 @@ interface CaseStudyHeroProps {
   heroImage?: string;
   /** Controls overlay darkness. Defaults to "medium". Use "dark" for lighter/busier hero images. */
   overlayStrength?: "medium" | "dark";
+  /** CSS backgroundPosition for the hero image. Defaults to "center". */
+  heroImagePosition?: string;
 }
 
-export function CaseStudyHero({ meta, heroImage, overlayStrength = "medium" }: CaseStudyHeroProps) {
+export function CaseStudyHero({ meta, heroImage, overlayStrength = "medium", heroImagePosition = "center" }: CaseStudyHeroProps) {
   const hasImage = Boolean(heroImage);
 
   return (
@@ -24,7 +26,7 @@ export function CaseStudyHero({ meta, heroImage, overlayStrength = "medium" }: C
           ? {
             backgroundImage: `url(${heroImage})`,
             backgroundSize: "cover",
-            backgroundPosition: "center",
+            backgroundPosition: heroImagePosition,
             backgroundRepeat: "no-repeat",
           }
           : undefined

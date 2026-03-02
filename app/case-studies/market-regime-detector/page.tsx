@@ -45,6 +45,7 @@ export default function MarketRegimeDetectorPage() {
         meta={meta}
         heroImage="/images/case-studies/sentiment-regime-detector-hero-image.png"
         overlayStrength="dark"
+        heroImagePosition="bottom"
       />
 
       <CaseStudyChallenge>

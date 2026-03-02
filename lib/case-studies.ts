@@ -77,6 +77,7 @@ export const caseStudies: CaseStudyMeta[] = [
     outcome:
       "Automated regime classification with interpretable signal output; text sentiment leads price-based indicators at major transitions.",
     thumbnail: "/images/case-studies/sentiment-regime-detector-card-image.png",
+    thumbnailPosition: "left",
   },
   {
     slug: "spi-beach-resort",
