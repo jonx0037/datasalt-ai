@@ -107,6 +107,7 @@ export default function GulfCoastBoatSalesPage() {
       <CaseStudyHero
         meta={meta}
         heroImage="/images/case-studies/gulf-coast-boat-sales-hero.png"
+        overlayStrength="dark"
       />
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
