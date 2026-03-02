@@ -93,7 +93,11 @@ const impactMetrics = [
 export default function SouthTexasUrgentCarePage() {
   return (
     <div className="min-h-screen bg-background pt-24">
-      <CaseStudyHero meta={meta} />
+      <CaseStudyHero
+        meta={meta}
+        heroImage="/images/case-studies/south-texas-urgent-care-hero.png"
+        overlayStrength="dark"
+      />
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>

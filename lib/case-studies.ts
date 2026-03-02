@@ -157,6 +157,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Patient volume forecasting, no-show prediction, and staffing optimization for a multi-clinic urgent care network in South Texas — reducing wait times and labor costs simultaneously.",
     outcome:
       "31% wait time reduction and $215K annual labor savings through demand-matched staffing and proactive no-show intervention.",
+    thumbnail: "/images/case-studies/south-texas-urgent-care-thumb.png",
   },
 ];
 
