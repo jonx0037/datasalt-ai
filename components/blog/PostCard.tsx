@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, Calendar, Clock } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
@@ -11,7 +12,25 @@ interface PostCardProps {
 
 export function PostCard({ post }: PostCardProps) {
   return (
-    <Card className="flex flex-col border-border hover:border-teal/40 transition-colors group">
+    <Card className="flex flex-col border-border hover:border-teal/40 transition-colors group overflow-hidden">
+      {/* Hero image */}
+      <Link href={`/blog/${post.slug}`} className="block">
+        {post.hero ? (
+          <div className="relative aspect-video">
+            <Image
+              src={post.hero}
+              alt={post.title}
+              fill
+              className="object-cover group-hover:scale-[1.02] transition-transform duration-300"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </div>
+        ) : (
+          <div className="aspect-video bg-gradient-to-br from-navy to-navy-dark flex items-center justify-center">
+            <span className="text-white/20 text-sm font-mono">DataSalt</span>
+          </div>
+        )}
+      </Link>
       <CardHeader className="pb-3">
         <div className="flex items-center gap-2 mb-2">
           <Badge variant="secondary" className="text-xs">

@@ -13,6 +13,7 @@ export interface Post {
   excerpt: string;
   tags: string[];
   readTime: string;
+  hero: string;
 }
 
 export interface PostWithContent extends Post {
@@ -40,14 +41,16 @@ export function getAllPosts(): Post[] {
       const { data, content } = matter(raw);
       const stats = readingTime(content);
 
+      const tags = data.tags ?? [];
       return {
         slug,
         title: data.title ?? "Untitled",
         date: data.date ?? new Date().toISOString().split("T")[0],
-        category: data.category ?? "General",
-        excerpt: data.excerpt ?? "",
-        tags: data.tags ?? [],
+        category: data.category ?? tags[0] ?? "General",
+        excerpt: data.excerpt ?? data.description ?? "",
+        tags,
         readTime: stats.text,
+        hero: data.hero ?? "",
       } satisfies Post;
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -75,14 +78,16 @@ export function getPostBySlug(slug: string): PostWithContent | null {
   const { data, content } = matter(raw);
   const stats = readingTime(content);
 
+  const tags = data.tags ?? [];
   return {
     slug,
     title: data.title ?? "Untitled",
     date: data.date ?? new Date().toISOString().split("T")[0],
-    category: data.category ?? "General",
-    excerpt: data.excerpt ?? "",
-    tags: data.tags ?? [],
+    category: data.category ?? tags[0] ?? "General",
+    excerpt: data.excerpt ?? data.description ?? "",
+    tags,
     readTime: stats.text,
+    hero: data.hero ?? "",
     content,
   };
 }

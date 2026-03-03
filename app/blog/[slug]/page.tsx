@@ -19,9 +19,29 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const post = getPostBySlug(slug);
   if (!post) return {};
+
+  const title = `${post.title} — DataSalt Blog`;
+  const url = `https://www.datasalt.ai/blog/${slug}`;
+  const image = post.hero
+    ? `https://www.datasalt.ai${post.hero}`
+    : undefined;
+
   return {
-    title: `${post.title} — DataSalt Blog`,
+    title,
     description: post.excerpt,
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      url,
+      type: "article",
+      ...(image && { images: [{ url: image, width: 1200, height: 630 }] }),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      ...(image && { images: [image] }),
+    },
   };
 }
 
