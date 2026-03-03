@@ -1,0 +1,21 @@
+[
+  { "day": 0, "price": 18500, "comp": 17200 },
+  { "day": 5, "price": 18500, "comp": 17200 },
+  { "day": 10, "price": 18500, "comp": 17200 },
+  { "day": 15, "price": 18500, "comp": 17200 },
+  { "day": 21, "price": 17800, "comp": 17200 },
+  { "day": 25, "price": 17800, "comp": 17200 },
+  { "day": 30, "price": 17800, "comp": 17200 },
+  { "day": 35, "price": 17800, "comp": 17100 },
+  { "day": 40, "price": 17800, "comp": 17100 },
+  { "day": 45, "price": 16900, "comp": 17100 },
+  { "day": 50, "price": 16900, "comp": 17000 },
+  { "day": 55, "price": 16900, "comp": 17000 },
+  { "day": 60, "price": 16200, "comp": 17000 },
+  { "day": 65, "price": 16200, "comp": 16900 },
+  { "day": 70, "price": 16200, "comp": 16900 },
+  { "day": 75, "price": 16200, "comp": 16900 },
+  { "day": 80, "price": 16200, "comp": 16800 },
+  { "day": 85, "price": 16200, "comp": 16800 },
+  { "day": 90, "price": 16200, "comp": 16800 }
+]

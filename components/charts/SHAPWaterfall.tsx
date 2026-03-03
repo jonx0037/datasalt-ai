@@ -66,7 +66,7 @@ export function SHAPWaterfall({ data, format = "dollar" }: SHAPWaterfallProps) {
           width={95}
         />
         <Tooltip
-          formatter={(value: number | undefined) => [formatSHAP(value ?? 0, format), "Mean |SHAP|"]}
+          formatter={(value: unknown) => [formatSHAP(Number(value ?? 0), format), "Mean |SHAP|"]}
           contentStyle={{
             backgroundColor: "var(--card)",
             borderColor: "var(--border)",

@@ -82,7 +82,7 @@ export function ROCCurve({ data, auc }: ROCCurveProps) {
             color: "var(--foreground, #1B2A4A)",
             fontSize: 12,
           }}
-          formatter={(value: number | undefined) => [(value ?? 0).toFixed(3)]}
+          formatter={(value: unknown) => [Number(value ?? 0).toFixed(3)]}
           labelFormatter={(label) => `FPR: ${Number(label).toFixed(3)}`}
         />
 

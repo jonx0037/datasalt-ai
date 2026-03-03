@@ -1,6 +1,7 @@
 import type { CaseStudyMeta, IndustryTag } from "@/types/case-study";
 
 export const caseStudies: CaseStudyMeta[] = [
+  /* ── Featured trio (homepage shows first 3) ─────────────────────── */
   {
     slug: "gulf-coast-boat-sales",
     title: "Gulf Coast Boat Sales",
@@ -21,6 +22,55 @@ export const caseStudies: CaseStudyMeta[] = [
       "23% faster inventory turnover and $2,800 average pricing uplift through optimized markdown timing and data-driven pricing.",
     thumbnail: "/images/case-studies/gulf-coast-boat-sales-hero.png",
   },
+  {
+    slug: "grc-law",
+    title: "Garza, Robles & Cantu Law",
+    subtitle:
+      "NLP-Powered Document Triage & Case Classification for a Personal Injury Firm",
+    industry: ["legal", "nlp", "classification"],
+    techniques: ["BERT", "spaCy NER", "Textract", "Cross-encoder"],
+    heroMetrics: [
+      { label: "Intake-to-Assessment", value: "-73%", delta: "time saved" },
+      { label: "Classification Accuracy", value: "94.2%", delta: "automated" },
+      { label: "Critical Detail Miss Rate", value: "-81%", delta: "reduction" },
+    ],
+    readingTime: "9 min read",
+    stack: ["Python", "BERT", "spaCy", "AWS Textract", "SageMaker", "Clio API"],
+    summary:
+      "NLP-powered document triage and case classification system for a high-volume personal injury firm — cutting intake-to-assessment time by 73% with bilingual capability.",
+    outcome:
+      "73% faster intake, 94.2% document classification accuracy, and ~35 paralegal hours freed per week for client-facing work.",
+    thumbnail: "/images/case-studies/GRC-law.png",
+  },
+  {
+    slug: "valley-auto-exchange",
+    title: "Valley Auto Exchange",
+    subtitle:
+      "ML-Powered Dynamic Pricing & Inventory Turn Optimization for a Used-Car Lot",
+    industry: ["retail", "pricing", "optimization"],
+    techniques: ["LightGBM", "XGBoost", "Time-Decay Optimizer", "Selenium"],
+    heroMetrics: [
+      { label: "Days on Lot", value: "-37%", delta: "58 → 36 days" },
+      { label: "Gross Margin per Unit", value: "+$840", delta: "improvement" },
+      { label: "Aged Inventory", value: "-71%", delta: "90+ day units" },
+    ],
+    readingTime: "10 min read",
+    stack: [
+      "Python",
+      "LightGBM",
+      "XGBoost",
+      "Selenium",
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+    ],
+    summary:
+      "ML-powered dynamic pricing engine and inventory turn optimizer for a South Texas used-car lot — replacing intuition-based pricing with real-time market intelligence.",
+    outcome:
+      "37% faster inventory turnover, $840 margin improvement per unit, and ~$18,200 annual floorplan interest savings.",
+    thumbnail: "/images/case-studies/Valley-Auto-Exchange.png",
+  },
+  /* ── Remaining studies ──────────────────────────────────────────── */
   {
     slug: "harlibot",
     title: "HarliBot",
@@ -80,6 +130,33 @@ export const caseStudies: CaseStudyMeta[] = [
     thumbnailPosition: "left",
   },
   {
+    slug: "rio-grande-builders",
+    title: "Rio Grande Builders",
+    subtitle:
+      "Lead Scoring & Neighborhood Demand Forecasting for a South Texas Home Builder",
+    industry: ["real-estate", "forecasting", "classification"],
+    techniques: ["XGBoost", "Prophet", "K-Means", "Gradient Boosting"],
+    heroMetrics: [
+      { label: "Unsold Inventory", value: "-62%", delta: "reduction" },
+      { label: "Lead-to-Close Rate", value: "+34%", delta: "improvement" },
+      { label: "Marketing CPA", value: "-28%", delta: "cost savings" },
+    ],
+    readingTime: "9 min read",
+    stack: [
+      "Python",
+      "XGBoost",
+      "Prophet",
+      "scikit-learn",
+      "Pandas",
+      "Recharts",
+    ],
+    summary:
+      "Lead scoring and neighborhood demand forecasting system for a South Texas home builder — replacing spray-and-pray marketing with data-driven land acquisition and buyer targeting.",
+    outcome:
+      "62% reduction in unsold inventory, 34% lead-to-close improvement, and 28% lower marketing CPA through ML-powered demand intelligence.",
+    thumbnail: "/images/case-studies/Rio-Grande-Builders.png",
+  },
+  {
     slug: "spi-beach-resort",
     title: "SPI Beach Resort Analytics",
     subtitle:
@@ -120,26 +197,6 @@ export const caseStudies: CaseStudyMeta[] = [
     thumbnail: "/images/case-studies/shrimp-boat-thumb.png",
   },
   {
-    slug: "valley-citrus-agriculture",
-    title: "Valley Citrus & Agriculture",
-    subtitle:
-      "Yield Forecasting & Freeze Risk Analytics for Rio Grande Valley Growers",
-    industry: ["agriculture", "forecasting", "time-series", "optimization"],
-    techniques: ["Random Forest", "SHAP", "Prophet", "Survival Analysis"],
-    heroMetrics: [
-      { label: "Yield Improvement", value: "$890K", delta: "cooperative-wide" },
-      { label: "Water Waste Reduction", value: "42%", delta: "irrigation" },
-      { label: "Freeze Warning", value: "11 days", delta: "lead time" },
-    ],
-    readingTime: "10 min read",
-    stack: ["Python", "Random Forest", "SHAP", "Prophet", "Pandas", "Recharts"],
-    summary:
-      "Yield prediction, irrigation optimization, and freeze risk quantification for a Rio Grande Valley citrus cooperative — turning weather data into actionable farming intelligence.",
-    outcome:
-      "$890K yield improvement through optimized irrigation scheduling, grower benchmarking, and 11-day freeze early warning system.",
-    thumbnail: "/images/case-studies/citrus-orchard-hero.png",
-  },
-  {
     slug: "south-texas-urgent-care",
     title: "South Texas Urgent Care Network",
     subtitle:
@@ -158,6 +215,26 @@ export const caseStudies: CaseStudyMeta[] = [
     outcome:
       "31% wait time reduction and $215K annual labor savings through demand-matched staffing and proactive no-show intervention.",
     thumbnail: "/images/case-studies/south-texas-urgent-care-thumb.png",
+  },
+  {
+    slug: "valley-citrus-agriculture",
+    title: "Valley Citrus & Agriculture",
+    subtitle:
+      "Yield Forecasting & Freeze Risk Analytics for Rio Grande Valley Growers",
+    industry: ["agriculture", "forecasting", "time-series", "optimization"],
+    techniques: ["Random Forest", "SHAP", "Prophet", "Survival Analysis"],
+    heroMetrics: [
+      { label: "Yield Improvement", value: "$890K", delta: "cooperative-wide" },
+      { label: "Water Waste Reduction", value: "42%", delta: "irrigation" },
+      { label: "Freeze Warning", value: "11 days", delta: "lead time" },
+    ],
+    readingTime: "10 min read",
+    stack: ["Python", "Random Forest", "SHAP", "Prophet", "Pandas", "Recharts"],
+    summary:
+      "Yield prediction, irrigation optimization, and freeze risk quantification for a Rio Grande Valley citrus cooperative — turning weather data into actionable farming intelligence.",
+    outcome:
+      "$890K yield improvement through optimized irrigation scheduling, grower benchmarking, and 11-day freeze early warning system.",
+    thumbnail: "/images/case-studies/citrus-orchard-hero.png",
   },
 ];
 

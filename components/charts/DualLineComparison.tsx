@@ -70,7 +70,7 @@ export function DualLineComparison({
             color: "var(--foreground, #1B2A4A)",
             fontSize: 12,
           }}
-          formatter={(value: number | undefined) => [formatValue(value ?? 0, format)]}
+          formatter={(value: unknown) => [formatValue(Number(value ?? 0), format)]}
         />
         <Legend verticalAlign="top" height={36} />
 

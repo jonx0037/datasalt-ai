@@ -1,0 +1,15 @@
+[
+  { "bin": "0-10", "before": 8, "after": 22 },
+  { "bin": "10-20", "before": 15, "after": 38 },
+  { "bin": "20-30", "before": 22, "after": 45 },
+  { "bin": "30-40", "before": 28, "after": 35 },
+  { "bin": "40-50", "before": 32, "after": 20 },
+  { "bin": "50-60", "before": 30, "after": 12 },
+  { "bin": "60-70", "before": 25, "after": 6 },
+  { "bin": "70-80", "before": 18, "after": 3 },
+  { "bin": "80-90", "before": 12, "after": 2 },
+  { "bin": "90-100", "before": 8, "after": 1 },
+  { "bin": "100-120", "before": 10, "after": 1 },
+  { "bin": "120-150", "before": 6, "after": 0 },
+  { "bin": "150+", "before": 4, "after": 0 }
+]

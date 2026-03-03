@@ -33,7 +33,11 @@ export type IndustryTag =
   | "optimization"
   | "time-series"
   | "classification"
-  | "government";
+  | "government"
+  | "real-estate"
+  | "legal"
+  | "retail"
+  | "pricing";
 
 export const INDUSTRY_TAG_LABELS: Record<IndustryTag, string> = {
   "small-business": "Small Business",
@@ -47,4 +51,8 @@ export const INDUSTRY_TAG_LABELS: Record<IndustryTag, string> = {
   "time-series": "Time Series",
   classification: "Classification",
   government: "Government",
+  "real-estate": "Real Estate",
+  legal: "Legal",
+  retail: "Retail",
+  pricing: "Pricing",
 };

@@ -1,0 +1,14 @@
+[
+  { "label": "Jan 24", "coverage": 78 },
+  { "label": "Feb 24", "coverage": 79 },
+  { "label": "Mar 24", "coverage": 80 },
+  { "label": "Apr 24", "coverage": 85 },
+  { "label": "May 24", "coverage": 86 },
+  { "label": "Jun 24", "coverage": 87 },
+  { "label": "Jul 24", "coverage": 91 },
+  { "label": "Aug 24", "coverage": 91 },
+  { "label": "Sep 24", "coverage": 92 },
+  { "label": "Oct 24", "coverage": 94 },
+  { "label": "Nov 24", "coverage": 94 },
+  { "label": "Dec 24", "coverage": 94 }
+]

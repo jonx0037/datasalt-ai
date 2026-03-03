@@ -1,0 +1,8 @@
+[
+  { "caseType": "Auto Accident", "manual": 6.2, "automated": 1.4 },
+  { "caseType": "Slip & Fall", "manual": 4.8, "automated": 0.9 },
+  { "caseType": "Workplace", "manual": 7.5, "automated": 1.8 },
+  { "caseType": "Med-Mal", "manual": 11.3, "automated": 2.6 },
+  { "caseType": "Multi-Vehicle", "manual": 9.8, "automated": 2.2 },
+  { "caseType": "Catastrophic", "manual": 14.1, "automated": 3.1 }
+]

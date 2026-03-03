@@ -63,7 +63,7 @@ export function DecompositionBar({
             color: "var(--foreground, #1B2A4A)",
             fontSize: 12,
           }}
-          formatter={(value: number | undefined) => [formatValue(value ?? 0, format)]}
+          formatter={(value: unknown) => [formatValue(Number(value ?? 0), format)]}
         />
         <Legend verticalAlign="top" height={36} />
         <ReferenceLine y={0} stroke={axis.stroke} />

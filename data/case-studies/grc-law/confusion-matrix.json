@@ -1,0 +1,9 @@
+[
+  { "actual": "Police Report", "policeReport": 96, "medicalRecord": 1, "billingInvoice": 0, "insuranceCorr": 1, "legalFiling": 1, "witnessStmt": 1, "correspondence": 0 },
+  { "actual": "Medical Record", "policeReport": 1, "medicalRecord": 93, "billingInvoice": 3, "insuranceCorr": 1, "legalFiling": 0, "witnessStmt": 1, "correspondence": 1 },
+  { "actual": "Billing Invoice", "policeReport": 0, "medicalRecord": 2, "billingInvoice": 95, "insuranceCorr": 1, "legalFiling": 0, "witnessStmt": 0, "correspondence": 2 },
+  { "actual": "Insurance Corr.", "policeReport": 1, "medicalRecord": 1, "billingInvoice": 1, "insuranceCorr": 86, "legalFiling": 7, "witnessStmt": 2, "correspondence": 2 },
+  { "actual": "Legal Filing", "policeReport": 1, "medicalRecord": 0, "billingInvoice": 0, "insuranceCorr": 6, "legalFiling": 88, "witnessStmt": 2, "correspondence": 3 },
+  { "actual": "Witness Stmt.", "policeReport": 2, "medicalRecord": 1, "billingInvoice": 0, "insuranceCorr": 1, "legalFiling": 2, "witnessStmt": 92, "correspondence": 2 },
+  { "actual": "Correspondence", "policeReport": 0, "medicalRecord": 1, "billingInvoice": 2, "insuranceCorr": 3, "legalFiling": 2, "witnessStmt": 1, "correspondence": 91 }
+]

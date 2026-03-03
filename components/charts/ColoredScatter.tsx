@@ -106,9 +106,9 @@ export function ColoredScatter({
             color: "var(--foreground, #1B2A4A)",
             fontSize: 12,
           }}
-          formatter={(value: number | undefined, name: string | undefined) => {
-            const v = value ?? 0;
-            const n = name ?? "";
+          formatter={(value: unknown, name: unknown) => {
+            const v = Number(value ?? 0);
+            const n = String(name ?? "");
             if (n === xLabel) return [formatValue(v, xFormat), xLabel];
             if (n === yLabel) return [formatValue(v, yFormat), yLabel];
             return [v, n];

@@ -1,0 +1,12 @@
+[
+  { "bin": "0-10", "before": 42, "after": 68 },
+  { "bin": "10-20", "before": 48, "after": 52 },
+  { "bin": "20-30", "before": 55, "after": 35 },
+  { "bin": "30-40", "before": 60, "after": 22 },
+  { "bin": "40-50", "before": 58, "after": 15 },
+  { "bin": "50-60", "before": 52, "after": 12 },
+  { "bin": "60-70", "before": 47, "after": 18 },
+  { "bin": "70-80", "before": 44, "after": 38 },
+  { "bin": "80-90", "before": 38, "after": 72 },
+  { "bin": "90-100", "before": 32, "after": 88 }
+]

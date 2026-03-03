@@ -79,8 +79,8 @@ export function TrendWithOverlays({
             color: "var(--foreground, #1B2A4A)",
             fontSize: 12,
           }}
-          formatter={(value: number | undefined) => {
-            const v = value ?? 0;
+          formatter={(value: unknown) => {
+            const v = Number(value ?? 0);
             return [formatValue(v, format)];
           }}
         />
