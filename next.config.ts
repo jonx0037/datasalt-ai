@@ -17,9 +17,11 @@ const nextConfig: NextConfig = {
     return {
       beforeFiles: [
         {
-          source: "/:path*",
+          // Rewrite boats.datasalt.ai → /boats, excluding _next assets
+          // and paths already prefixed with /boats (to avoid double-rewriting)
+          source: "/((?!_next|boats|favicon\\.ico).*)",
           has: [{ type: "host", value: "boats.datasalt.ai" }],
-          destination: "/boats/:path*",
+          destination: "/boats/$1",
         },
       ],
       afterFiles: [],
