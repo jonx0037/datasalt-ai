@@ -117,4 +117,4 @@ Start with XGBoost on your historical transaction data. Engineer features that c
 
 The model won't replace the dealer's expertise. It will make that expertise systematic and consistent — which is where the margin improvement actually comes from.
 
-*Read the full case studies: [Gulf Coast Boat Sales](/case-studies/gulf-coast-boat-sales) and [Valley Auto Exchange](/case-studies/valley-auto-exchange). Or [start with a discovery call](/contact).*
+*Try the [live pricing calculator](https://boats.datasalt.ai) we built for Gulf Coast Boat Sales. Read the full case studies: [Gulf Coast Boat Sales](/case-studies/gulf-coast-boat-sales) and [Valley Auto Exchange](/case-studies/valley-auto-exchange). Or [start with a discovery call](/contact).*

@@ -21,6 +21,7 @@ export const caseStudies: CaseStudyMeta[] = [
     outcome:
       "23% faster inventory turnover and $2,800 average pricing uplift through optimized markdown timing and data-driven pricing.",
     thumbnail: "/images/case-studies/gulf-coast-boat-sales-hero.png",
+    demoUrl: "https://boats.datasalt.ai",
   },
   {
     slug: "grc-law",
