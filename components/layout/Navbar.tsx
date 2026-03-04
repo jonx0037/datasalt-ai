@@ -21,6 +21,14 @@ export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
 
+  // On a subdomain (e.g. boats.datasalt.ai), nav links point to the main site
+  const [siteOrigin, setSiteOrigin] = useState("");
+  useEffect(() => {
+    const h = window.location.hostname;
+    if (h !== "localhost" && h !== "127.0.0.1" && h !== "datasalt.ai")
+      setSiteOrigin("https://datasalt.ai");
+  }, []);
+
   const isTransparentHero = pathname === "/" && !scrolled;
 
   useEffect(() => {
@@ -45,7 +53,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link
-            href="/"
+            href={siteOrigin || "/"}
             className="flex items-center gap-1"
             onClick={handleNavClick}
           >
@@ -85,7 +93,7 @@ export function Navbar() {
             {navLinks.map((link) => (
               <Link
                 key={link.href}
-                href={link.href}
+                href={siteOrigin ? `${siteOrigin}${link.href}` : link.href}
                 className={cn(
                   "px-3 py-2 text-sm transition-colors rounded-md hover:bg-accent/10",
                   isTransparentHero ? "text-white/80 hover:text-white" : "text-foreground/70 hover:text-foreground"
@@ -98,7 +106,7 @@ export function Navbar() {
               <ThemeToggle isTransparentHero={isTransparentHero} />
             </div>
             <Button asChild size="sm" className="ml-2">
-              <Link href="/contact">Get a Quote</Link>
+              <Link href={siteOrigin ? `${siteOrigin}/contact` : "/contact"}>Get a Quote</Link>
             </Button>
           </nav>
 
@@ -125,7 +133,7 @@ export function Navbar() {
             {navLinks.map((link) => (
               <Link
                 key={link.href}
-                href={link.href}
+                href={siteOrigin ? `${siteOrigin}${link.href}` : link.href}
                 onClick={handleNavClick}
                 className="px-3 py-3 text-sm text-foreground/70 hover:text-foreground transition-colors rounded-md hover:bg-accent/10"
               >
@@ -134,7 +142,7 @@ export function Navbar() {
             ))}
             <div className="mt-2 pt-2 border-t border-border">
               <Button asChild size="sm" className="w-full">
-                <Link href="/contact" onClick={handleNavClick}>
+                <Link href={siteOrigin ? `${siteOrigin}/contact` : "/contact"} onClick={handleNavClick}>
                   Get a Quote
                 </Link>
               </Button>

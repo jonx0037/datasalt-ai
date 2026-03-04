@@ -1,3 +1,6 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Separator } from "@/components/ui/separator";
@@ -12,13 +15,21 @@ const footerLinks = [
 export function Footer() {
   const currentYear = new Date().getFullYear();
 
+  // On a subdomain, nav links point to the main site
+  const [siteOrigin, setSiteOrigin] = useState("");
+  useEffect(() => {
+    const h = window.location.hostname;
+    if (h !== "localhost" && h !== "127.0.0.1" && h !== "datasalt.ai")
+      setSiteOrigin("https://datasalt.ai");
+  }, []);
+
   return (
     <footer className="bg-navy-dark dark:bg-navy-dark border-t border-border/20">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-8">
           {/* Brand */}
           <div className="flex flex-col items-center md:items-start gap-2">
-            <Link href="/" className="flex items-center gap-1">
+            <Link href={siteOrigin || "/"} className="flex items-center gap-1">
               <Image
                 src="/images/logo/datasalt-logo-dark.png"
                 alt="DataSalt Logo"
@@ -37,7 +48,7 @@ export function Footer() {
             {footerLinks.map((link) => (
               <Link
                 key={link.href}
-                href={link.href}
+                href={siteOrigin ? `${siteOrigin}${link.href}` : link.href}
                 className="text-sm text-white/60 hover:text-white transition-colors"
               >
                 {link.label}
