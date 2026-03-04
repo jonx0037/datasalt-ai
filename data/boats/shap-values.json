@@ -1,0 +1,55 @@
+{
+  "feature_importance": [
+    {
+      "feature": "engine_hp",
+      "label": "Engine Hp",
+      "importance": 5807.28
+    },
+    {
+      "feature": "condition",
+      "label": "Condition",
+      "importance": 5699.36
+    },
+    {
+      "feature": "model_year",
+      "label": "Model Year",
+      "importance": 3740.14
+    },
+    {
+      "feature": "manufacturer",
+      "label": "Manufacturer",
+      "importance": 2410.32
+    },
+    {
+      "feature": "boat_type",
+      "label": "Boat Type",
+      "importance": 1457.09
+    },
+    {
+      "feature": "sale_month",
+      "label": "Sale Month",
+      "importance": 1313.0
+    },
+    {
+      "feature": "length_ft",
+      "label": "Length Ft",
+      "importance": 1142.08
+    },
+    {
+      "feature": "days_on_lot",
+      "label": "Days On Lot",
+      "importance": 616.28
+    },
+    {
+      "feature": "beam_ft",
+      "label": "Beam Ft",
+      "importance": 466.35
+    },
+    {
+      "feature": "hull_material",
+      "label": "Hull Material",
+      "importance": 63.21
+    }
+  ],
+  "base_value": 48656.66
+}

@@ -1,0 +1,149 @@
+{
+  "monthly_trends": [
+    {
+      "month": "Jan",
+      "month_num": 1,
+      "avg_price": 49077,
+      "median_price": 46350,
+      "count": 104,
+      "avg_days_on_lot": 98.9
+    },
+    {
+      "month": "Feb",
+      "month_num": 2,
+      "avg_price": 50897,
+      "median_price": 49800,
+      "count": 127,
+      "avg_days_on_lot": 109.3
+    },
+    {
+      "month": "Mar",
+      "month_num": 3,
+      "avg_price": 50728,
+      "median_price": 49100,
+      "count": 135,
+      "avg_days_on_lot": 100.8
+    },
+    {
+      "month": "Apr",
+      "month_num": 4,
+      "avg_price": 51434,
+      "median_price": 49100,
+      "count": 191,
+      "avg_days_on_lot": 99.1
+    },
+    {
+      "month": "May",
+      "month_num": 5,
+      "avg_price": 50466,
+      "median_price": 48200,
+      "count": 230,
+      "avg_days_on_lot": 100.8
+    },
+    {
+      "month": "Jun",
+      "month_num": 6,
+      "avg_price": 51035,
+      "median_price": 49700,
+      "count": 233,
+      "avg_days_on_lot": 99.1
+    },
+    {
+      "month": "Jul",
+      "month_num": 7,
+      "avg_price": 46388,
+      "median_price": 44350,
+      "count": 266,
+      "avg_days_on_lot": 104.4
+    },
+    {
+      "month": "Aug",
+      "month_num": 8,
+      "avg_price": 46461,
+      "median_price": 45800,
+      "count": 210,
+      "avg_days_on_lot": 101.4
+    },
+    {
+      "month": "Sep",
+      "month_num": 9,
+      "avg_price": 47136,
+      "median_price": 46300,
+      "count": 175,
+      "avg_days_on_lot": 104.8
+    },
+    {
+      "month": "Oct",
+      "month_num": 10,
+      "avg_price": 45546,
+      "median_price": 45350,
+      "count": 130,
+      "avg_days_on_lot": 95.6
+    },
+    {
+      "month": "Nov",
+      "month_num": 11,
+      "avg_price": 45443,
+      "median_price": 43800,
+      "count": 102,
+      "avg_days_on_lot": 100.6
+    },
+    {
+      "month": "Dec",
+      "month_num": 12,
+      "avg_price": 47059,
+      "median_price": 46900,
+      "count": 97,
+      "avg_days_on_lot": 91.6
+    }
+  ],
+  "by_boat_type": [
+    {
+      "boat_type": "Bay Boat",
+      "avg_price": 49880,
+      "count": 364
+    },
+    {
+      "boat_type": "Bowrider",
+      "avg_price": 48391,
+      "count": 400
+    },
+    {
+      "boat_type": "Center Console",
+      "avg_price": 52436,
+      "count": 419
+    },
+    {
+      "boat_type": "Deck Boat",
+      "avg_price": 47910,
+      "count": 423
+    },
+    {
+      "boat_type": "Pontoon",
+      "avg_price": 44303,
+      "count": 394
+    }
+  ],
+  "by_condition": [
+    {
+      "condition": "Excellent",
+      "avg_price": 52213,
+      "count": 639
+    },
+    {
+      "condition": "Fair",
+      "avg_price": 35512,
+      "count": 271
+    },
+    {
+      "condition": "Good",
+      "avg_price": 45009,
+      "count": 796
+    },
+    {
+      "condition": "New",
+      "avg_price": 62548,
+      "count": 294
+    }
+  ]
+}

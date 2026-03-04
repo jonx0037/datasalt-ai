@@ -1,0 +1,2001 @@
+boat_type,manufacturer,model_year,length_ft,beam_ft,engine_hp,hull_material,condition,location,days_on_lot,sale_month,sale_price
+Center Console,Chaparral,2015,23.8,8.0,420,Aluminum,Good,Galveston,50,7,52000
+Pontoon,Robalo,2021,28.6,9.6,269,Fiberglass,Excellent,South Padre Island,80,8,64900
+Pontoon,Tracker,2011,19.9,5.9,305,Aluminum,Fair,Corpus Christi,10,8,26700
+Deck Boat,Bayliner,2023,16.4,4.6,207,Fiberglass,Excellent,Corpus Christi,142,4,49100
+Deck Boat,Mako,2017,26.9,8.2,409,Fiberglass,Good,Galveston,184,1,46400
+Bowrider,Sea Hunt,2018,25.8,7.5,103,Aluminum,Excellent,Galveston,158,9,37300
+Center Console,Bayliner,2012,23.6,7.4,178,Fiberglass,Good,Galveston,65,10,38800
+Pontoon,Sea Hunt,2017,27.4,9.8,446,Fiberglass,Excellent,Corpus Christi,99,12,58200
+Bay Boat,Mako,2010,27.8,8.2,256,Fiberglass,Excellent,Galveston,191,12,46500
+Center Console,Grady-White,2023,24.2,7.4,140,Fiberglass,Good,Corpus Christi,87,7,48500
+Deck Boat,Bayliner,2021,29.5,10.0,230,Fiberglass,Excellent,Corpus Christi,168,10,52000
+Bowrider,Tracker,2016,26.1,8.4,170,Fiberglass,Excellent,South Padre Island,117,6,41400
+Pontoon,Sea Hunt,2022,25.5,7.2,271,Fiberglass,Fair,Galveston,102,9,30600
+Pontoon,Bennington,2022,21.1,6.2,163,Fiberglass,New,Galveston,119,12,50600
+Pontoon,Grady-White,2011,16.0,5.7,224,Fiberglass,Good,Port Isabel,48,9,35700
+Pontoon,Tracker,2010,19.4,5.6,415,Fiberglass,Good,Port Isabel,87,6,41300
+Deck Boat,Bayliner,2013,26.7,8.8,105,Fiberglass,Excellent,South Padre Island,64,5,40000
+Center Console,Mako,2010,25.9,8.9,361,Fiberglass,Good,Rockport,152,5,51100
+Bowrider,Mako,2018,20.6,6.2,104,Fiberglass,New,Corpus Christi,124,5,53800
+Deck Boat,Bayliner,2017,24.8,8.4,246,Fiberglass,Good,Port Isabel,82,9,35900
+Deck Boat,Tracker,2018,18.7,5.5,325,Fiberglass,Excellent,South Padre Island,165,8,54900
+Bay Boat,Grady-White,2011,19.7,6.0,433,Fiberglass,Excellent,Rockport,93,4,77600
+Center Console,Grady-White,2023,29.3,8.9,168,Fiberglass,Excellent,Port Isabel,190,8,62700
+Bowrider,Boston Whaler,2024,21.8,7.8,94,Fiberglass,Fair,Rockport,123,5,35600
+Pontoon,Robalo,2018,19.4,5.8,356,Fiberglass,Good,Port Isabel,177,7,42200
+Pontoon,Bayliner,2010,22.8,6.6,410,Fiberglass,Fair,Corpus Christi,197,5,32400
+Deck Boat,Grady-White,2015,21.4,7.6,286,Aluminum,Good,Port Aransas,68,6,58200
+Bowrider,Bennington,2020,26.2,7.7,97,Fiberglass,Good,Galveston,55,8,37200
+Deck Boat,Boston Whaler,2021,29.5,10.3,262,Fiberglass,Good,Galveston,167,8,54300
+Deck Boat,Tracker,2013,24.3,8.1,221,Fiberglass,Fair,Corpus Christi,50,8,27100
+Deck Boat,Boston Whaler,2022,24.3,7.9,244,Fiberglass,Good,Rockport,151,5,52500
+Bay Boat,Sea Hunt,2024,21.1,7.2,95,Fiberglass,Excellent,Corpus Christi,39,8,48700
+Center Console,Robalo,2017,23.9,8.1,194,Fiberglass,Good,Port Isabel,174,4,48000
+Deck Boat,Grady-White,2015,20.5,5.9,449,Fiberglass,Good,Corpus Christi,139,6,69600
+Bowrider,Bennington,2017,16.0,5.8,92,Fiberglass,New,South Padre Island,106,7,44000
+Center Console,Chaparral,2010,28.1,10.0,417,Aluminum,Excellent,Rockport,92,8,60200
+Bowrider,Boston Whaler,2017,22.0,7.7,269,Aluminum,Excellent,Galveston,129,11,57600
+Bowrider,Robalo,2010,22.9,7.6,294,Fiberglass,Good,Rockport,80,5,40400
+Bay Boat,Bennington,2010,17.2,5.5,425,Fiberglass,Excellent,Rockport,82,10,45100
+Pontoon,Bayliner,2018,27.7,8.9,156,Aluminum,Good,Port Isabel,44,5,34300
+Center Console,Nautic Star,2017,18.4,5.2,444,Fiberglass,Excellent,South Padre Island,35,7,68000
+Pontoon,Chaparral,2024,21.7,6.9,178,Aluminum,Good,Port Isabel,178,9,37000
+Pontoon,Mako,2017,27.8,9.2,205,Fiberglass,New,Galveston,151,8,53700
+Bay Boat,Mako,2024,22.4,7.5,243,Aluminum,Fair,Port Isabel,91,10,37500
+Center Console,Nautic Star,2022,29.0,8.9,300,Aluminum,Good,Rockport,167,9,51200
+Bowrider,Bennington,2015,18.9,6.0,196,Fiberglass,Excellent,Corpus Christi,123,4,39300
+Deck Boat,Bayliner,2023,26.0,8.6,372,Fiberglass,Excellent,Galveston,121,12,61300
+Bowrider,Boston Whaler,2017,29.7,9.3,82,Fiberglass,Excellent,Port Isabel,26,11,48900
+Pontoon,Mako,2018,23.7,8.5,324,Fiberglass,Excellent,Corpus Christi,109,6,54900
+Pontoon,Grady-White,2011,25.7,8.6,321,Fiberglass,Good,Port Isabel,26,1,43900
+Pontoon,Sea Hunt,2013,21.5,6.0,275,Aluminum,Fair,Corpus Christi,138,5,31600
+Center Console,Tracker,2017,26.5,7.5,305,Fiberglass,Good,Port Isabel,18,9,54600
+Bay Boat,Tracker,2014,28.7,9.6,355,Fiberglass,Good,Rockport,105,12,48100
+Deck Boat,Bennington,2018,25.8,8.1,414,Aluminum,Excellent,Corpus Christi,76,9,60300
+Deck Boat,Mako,2011,29.1,10.1,156,Fiberglass,Good,Rockport,30,5,36600
+Center Console,Tracker,2013,24.2,7.1,253,Fiberglass,Good,Corpus Christi,97,2,49800
+Deck Boat,Mako,2019,24.1,6.8,285,Aluminum,Excellent,Galveston,44,6,54900
+Center Console,Mako,2019,20.3,6.3,204,Fiberglass,Fair,Port Isabel,52,5,38600
+Pontoon,Tracker,2024,25.9,8.8,440,Fiberglass,Excellent,Port Aransas,178,3,65000
+Pontoon,Bayliner,2023,28.3,10.1,266,Fiberglass,Good,Port Aransas,73,2,44600
+Bowrider,Chaparral,2022,25.0,8.8,297,Aluminum,Fair,South Padre Island,83,3,37700
+Pontoon,Boston Whaler,2010,19.3,6.2,148,Fiberglass,Good,South Padre Island,6,4,39600
+Bay Boat,Sea Hunt,2019,23.6,8.1,230,Fiberglass,Excellent,Corpus Christi,63,8,45600
+Bowrider,Mako,2013,26.6,7.6,309,Fiberglass,Good,South Padre Island,73,5,48000
+Deck Boat,Boston Whaler,2014,29.2,9.5,235,Fiberglass,New,Port Aransas,145,6,70600
+Bay Boat,Boston Whaler,2013,18.2,6.4,363,Aluminum,Good,Corpus Christi,28,7,59600
+Bowrider,Mako,2016,17.8,5.5,126,Fiberglass,Excellent,Port Aransas,186,12,34500
+Bay Boat,Bennington,2011,21.8,7.8,132,Aluminum,Good,Corpus Christi,30,8,28500
+Center Console,Tracker,2017,17.8,5.3,202,Fiberglass,Fair,Port Isabel,132,7,33100
+Deck Boat,Bayliner,2012,29.7,8.6,194,Fiberglass,Excellent,Port Isabel,5,8,40300
+Pontoon,Sea Hunt,2017,21.9,7.1,380,Aluminum,Excellent,South Padre Island,164,8,44900
+Center Console,Grady-White,2019,23.5,8.3,400,Fiberglass,Good,Port Isabel,140,8,75300
+Deck Boat,Bayliner,2012,19.2,5.9,251,Fiberglass,Excellent,South Padre Island,168,6,38500
+Center Console,Tracker,2011,22.3,7.7,264,Aluminum,Excellent,Port Isabel,186,7,41800
+Pontoon,Grady-White,2022,29.8,8.7,185,Fiberglass,New,Port Aransas,167,6,67600
+Deck Boat,Bayliner,2021,22.8,7.7,274,Fiberglass,Excellent,Port Aransas,126,5,59900
+Bay Boat,Bayliner,2013,16.1,5.2,339,Aluminum,Good,Rockport,168,4,35800
+Bay Boat,Bayliner,2023,19.4,5.7,345,Fiberglass,Good,Port Aransas,23,5,60300
+Deck Boat,Nautic Star,2013,29.7,10.0,438,Fiberglass,Excellent,Rockport,130,6,54200
+Pontoon,Sea Hunt,2023,29.8,10.0,291,Fiberglass,Good,South Padre Island,197,7,48400
+Bowrider,Chaparral,2011,18.9,6.1,202,Fiberglass,Excellent,South Padre Island,78,6,36800
+Deck Boat,Robalo,2019,24.6,7.3,101,Fiberglass,Excellent,South Padre Island,195,2,52300
+Center Console,Tracker,2010,17.1,5.0,332,Fiberglass,Good,Rockport,103,5,43200
+Bowrider,Grady-White,2012,24.1,8.6,376,Fiberglass,Excellent,Corpus Christi,96,5,61200
+Pontoon,Sea Hunt,2016,17.8,5.9,282,Fiberglass,Good,Rockport,63,8,36200
+Pontoon,Grady-White,2011,27.5,9.5,421,Fiberglass,Fair,Rockport,26,5,44800
+Center Console,Mako,2016,29.2,9.8,193,Fiberglass,Good,Rockport,175,1,43500
+Bay Boat,Grady-White,2013,18.4,6.4,94,Fiberglass,Good,Port Isabel,145,2,36700
+Pontoon,Tracker,2011,22.5,6.6,312,Fiberglass,New,Rockport,83,6,51100
+Bowrider,Robalo,2024,17.4,5.6,120,Fiberglass,Excellent,Galveston,192,3,45400
+Deck Boat,Chaparral,2024,20.7,6.9,106,Fiberglass,New,South Padre Island,40,6,52500
+Bowrider,Tracker,2024,16.9,4.9,338,Aluminum,Good,South Padre Island,156,7,52900
+Bowrider,Chaparral,2012,19.7,5.8,237,Fiberglass,Good,Rockport,93,11,32500
+Bay Boat,Sea Hunt,2015,29.9,9.9,301,Fiberglass,Excellent,South Padre Island,126,7,56400
+Bowrider,Sea Hunt,2014,16.6,5.8,355,Aluminum,Excellent,Galveston,12,1,50100
+Bay Boat,Mako,2014,28.0,9.3,218,Fiberglass,Excellent,Corpus Christi,124,5,47600
+Bay Boat,Bennington,2016,17.1,4.8,304,Fiberglass,Good,Port Aransas,137,9,44700
+Pontoon,Chaparral,2017,23.4,8.4,277,Fiberglass,Good,Port Aransas,195,4,35800
+Pontoon,Mako,2017,22.3,6.5,292,Fiberglass,Good,South Padre Island,72,11,36900
+Center Console,Nautic Star,2014,29.0,8.7,338,Fiberglass,Fair,Galveston,19,6,45500
+Bowrider,Bennington,2024,18.8,6.7,217,Fiberglass,Excellent,Rockport,17,2,61700
+Center Console,Grady-White,2024,18.5,6.3,264,Fiberglass,Good,South Padre Island,34,4,76500
+Bowrider,Sea Hunt,2014,26.5,9.4,296,Aluminum,Good,Corpus Christi,63,11,41900
+Center Console,Sea Hunt,2013,26.2,9.0,127,Aluminum,Excellent,Galveston,167,12,40900
+Pontoon,Chaparral,2017,25.8,8.6,154,Fiberglass,Fair,Corpus Christi,43,10,28600
+Pontoon,Nautic Star,2015,16.4,5.0,108,Fiberglass,New,Port Isabel,33,5,43900
+Pontoon,Mako,2024,19.6,6.0,149,Fiberglass,Good,Rockport,11,9,38100
+Pontoon,Sea Hunt,2016,27.8,9.9,239,Aluminum,Good,Port Aransas,79,4,44200
+Deck Boat,Nautic Star,2010,24.4,8.5,426,Fiberglass,Fair,Port Aransas,122,5,38500
+Pontoon,Nautic Star,2011,24.4,7.5,421,Fiberglass,Good,Corpus Christi,59,8,43800
+Bay Boat,Nautic Star,2011,20.1,6.2,361,Fiberglass,Excellent,South Padre Island,101,12,44300
+Pontoon,Grady-White,2015,19.6,6.0,284,Fiberglass,Good,Corpus Christi,52,6,45500
+Deck Boat,Bennington,2014,29.3,9.0,150,Fiberglass,Good,Port Isabel,161,6,34400
+Deck Boat,Bennington,2022,26.2,9.1,209,Fiberglass,Good,Corpus Christi,10,4,42600
+Deck Boat,Mako,2023,17.8,5.0,362,Fiberglass,Good,Galveston,44,5,45600
+Deck Boat,Nautic Star,2012,29.1,9.2,415,Aluminum,Excellent,Galveston,115,2,54000
+Center Console,Bennington,2024,24.2,8.6,435,Fiberglass,Good,Port Aransas,169,10,58100
+Center Console,Boston Whaler,2018,20.7,6.7,220,Fiberglass,Fair,Rockport,83,1,44000
+Bay Boat,Boston Whaler,2014,21.6,6.8,257,Fiberglass,Excellent,Corpus Christi,18,8,59800
+Center Console,Mako,2016,26.2,8.0,265,Fiberglass,Good,Port Isabel,112,4,49400
+Deck Boat,Mako,2016,21.3,6.1,96,Fiberglass,Fair,Rockport,57,6,25500
+Pontoon,Bennington,2012,24.1,7.2,118,Fiberglass,Good,Galveston,64,4,28000
+Pontoon,Boston Whaler,2023,25.9,7.4,91,Fiberglass,Fair,Port Isabel,184,5,40500
+Deck Boat,Grady-White,2010,18.7,5.4,351,Fiberglass,Excellent,South Padre Island,188,7,52100
+Bowrider,Mako,2011,29.2,8.6,159,Fiberglass,Fair,Port Aransas,55,7,26800
+Deck Boat,Nautic Star,2014,21.0,6.4,337,Fiberglass,Excellent,Corpus Christi,120,11,45600
+Center Console,Tracker,2012,21.9,6.2,215,Fiberglass,Good,Port Isabel,110,5,37300
+Pontoon,Grady-White,2010,25.8,9.2,372,Fiberglass,Good,South Padre Island,192,7,45400
+Deck Boat,Robalo,2015,24.5,7.1,118,Fiberglass,Good,Rockport,189,11,32400
+Pontoon,Tracker,2015,22.2,6.9,196,Fiberglass,Fair,Port Aransas,73,5,28000
+Deck Boat,Mako,2011,25.1,8.8,151,Fiberglass,Good,Port Isabel,9,10,32000
+Deck Boat,Bennington,2022,28.6,8.3,238,Aluminum,Good,Port Isabel,5,12,47600
+Center Console,Boston Whaler,2023,27.2,8.7,285,Aluminum,Excellent,Port Aransas,5,10,84900
+Deck Boat,Tracker,2020,27.5,9.6,138,Aluminum,Good,South Padre Island,157,7,42700
+Pontoon,Bayliner,2017,19.6,6.4,325,Fiberglass,Good,Rockport,149,8,46300
+Bay Boat,Grady-White,2024,21.9,6.5,436,Fiberglass,New,Port Aransas,166,6,101900
+Pontoon,Boston Whaler,2015,23.8,8.1,91,Fiberglass,Good,Corpus Christi,32,7,39100
+Center Console,Robalo,2016,16.6,5.6,107,Aluminum,Fair,Port Aransas,16,12,28100
+Bay Boat,Boston Whaler,2010,26.8,8.3,432,Aluminum,Good,Galveston,38,4,68100
+Deck Boat,Bayliner,2020,20.5,5.8,318,Aluminum,Good,Corpus Christi,126,9,41700
+Bowrider,Mako,2011,20.0,5.6,419,Aluminum,Excellent,South Padre Island,6,6,47400
+Bay Boat,Chaparral,2019,19.6,6.8,339,Fiberglass,Good,Port Isabel,133,3,56500
+Bay Boat,Bennington,2021,20.0,6.1,343,Aluminum,New,Corpus Christi,178,7,60900
+Deck Boat,Grady-White,2013,20.7,6.0,134,Aluminum,Excellent,Corpus Christi,33,9,42500
+Bowrider,Tracker,2019,24.5,7.9,266,Fiberglass,Good,South Padre Island,149,7,41900
+Bowrider,Bayliner,2014,24.2,8.6,211,Aluminum,Excellent,Corpus Christi,112,9,45400
+Center Console,Sea Hunt,2015,19.6,5.5,387,Fiberglass,New,Corpus Christi,189,5,76400
+Bay Boat,Bennington,2017,18.9,5.4,91,Aluminum,Good,Port Aransas,52,11,33000
+Bowrider,Chaparral,2013,27.6,8.6,81,Aluminum,Excellent,Corpus Christi,49,7,40000
+Center Console,Chaparral,2021,17.3,5.8,283,Fiberglass,Excellent,Rockport,8,9,54300
+Bowrider,Tracker,2015,23.2,7.4,438,Fiberglass,Excellent,Corpus Christi,142,4,71700
+Bay Boat,Tracker,2016,23.3,8.2,448,Fiberglass,Good,Galveston,174,6,57200
+Bowrider,Chaparral,2022,24.0,6.8,297,Aluminum,Excellent,Rockport,8,11,51200
+Bay Boat,Boston Whaler,2013,28.4,8.7,236,Aluminum,Good,Galveston,100,2,52500
+Deck Boat,Mako,2016,24.7,7.6,177,Fiberglass,Good,Galveston,146,5,37700
+Pontoon,Bayliner,2024,29.6,9.1,446,Aluminum,New,South Padre Island,157,9,70900
+Center Console,Bayliner,2015,28.2,9.0,143,Fiberglass,Fair,Port Isabel,186,8,26100
+Deck Boat,Grady-White,2011,19.0,6.5,122,Fiberglass,New,Corpus Christi,145,10,43400
+Deck Boat,Chaparral,2014,19.4,5.9,265,Fiberglass,Good,Corpus Christi,184,8,32300
+Pontoon,Tracker,2024,20.8,7.1,222,Fiberglass,Excellent,Port Isabel,198,11,36600
+Bowrider,Chaparral,2021,21.5,6.3,260,Fiberglass,Good,Corpus Christi,185,6,45000
+Pontoon,Nautic Star,2022,23.7,7.7,413,Fiberglass,Excellent,Port Aransas,90,7,55300
+Deck Boat,Bayliner,2013,19.3,6.0,176,Fiberglass,Fair,Port Aransas,84,10,22900
+Deck Boat,Bennington,2022,19.1,6.2,403,Fiberglass,Excellent,Corpus Christi,88,8,43700
+Deck Boat,Bennington,2015,21.3,6.1,154,Aluminum,Good,Corpus Christi,190,2,31500
+Bowrider,Bennington,2021,25.4,9.0,196,Fiberglass,Excellent,Galveston,59,5,52100
+Bay Boat,Tracker,2023,25.6,9.0,76,Aluminum,New,Galveston,151,7,50700
+Center Console,Chaparral,2013,29.7,10.3,329,Fiberglass,Excellent,Corpus Christi,126,8,56100
+Bay Boat,Bennington,2024,18.8,6.6,396,Fiberglass,Good,Port Isabel,17,7,62700
+Center Console,Bennington,2019,21.5,6.3,407,Fiberglass,Good,Corpus Christi,99,9,55400
+Center Console,Robalo,2020,29.5,9.4,137,Fiberglass,Fair,Rockport,42,9,40600
+Center Console,Mako,2021,25.7,7.8,362,Fiberglass,Good,Rockport,147,4,64300
+Pontoon,Bennington,2012,24.3,8.5,128,Fiberglass,Fair,Galveston,92,7,21400
+Pontoon,Mako,2021,23.6,7.0,310,Fiberglass,Excellent,South Padre Island,74,7,54000
+Pontoon,Nautic Star,2013,17.1,5.1,338,Fiberglass,Good,Corpus Christi,17,4,43500
+Deck Boat,Mako,2014,28.5,9.5,132,Fiberglass,Good,Port Aransas,30,6,34300
+Pontoon,Sea Hunt,2011,24.8,7.1,116,Fiberglass,Good,Port Isabel,153,7,25800
+Center Console,Bayliner,2012,24.0,8.1,102,Aluminum,Fair,South Padre Island,173,9,25400
+Bowrider,Grady-White,2024,23.6,7.1,340,Fiberglass,Good,Corpus Christi,61,6,58300
+Deck Boat,Bayliner,2014,21.5,7.2,305,Aluminum,Fair,Rockport,166,2,30100
+Bowrider,Grady-White,2015,19.6,6.9,119,Aluminum,Good,Rockport,112,6,37300
+Center Console,Nautic Star,2017,26.6,8.7,262,Aluminum,New,Corpus Christi,73,9,63700
+Deck Boat,Grady-White,2020,23.1,6.9,373,Aluminum,Good,Corpus Christi,93,7,61100
+Pontoon,Grady-White,2018,16.5,4.7,164,Fiberglass,Good,Corpus Christi,139,5,44500
+Deck Boat,Grady-White,2018,21.6,6.1,302,Fiberglass,Fair,Corpus Christi,182,11,37000
+Deck Boat,Nautic Star,2022,29.0,8.3,184,Fiberglass,Good,Galveston,101,3,42200
+Center Console,Tracker,2017,21.2,6.9,172,Aluminum,New,Corpus Christi,72,5,59000
+Bay Boat,Nautic Star,2021,21.8,6.7,222,Fiberglass,New,Galveston,153,6,57400
+Bay Boat,Bayliner,2023,24.7,7.4,207,Fiberglass,New,Port Aransas,107,8,58500
+Bay Boat,Boston Whaler,2020,27.2,8.1,260,Aluminum,Good,Port Isabel,81,9,48900
+Pontoon,Tracker,2010,25.4,9.0,152,Fiberglass,New,Rockport,94,2,41200
+Pontoon,Bayliner,2013,27.9,8.1,221,Fiberglass,Good,South Padre Island,109,9,38400
+Pontoon,Nautic Star,2019,17.6,5.4,308,Fiberglass,Good,South Padre Island,32,8,37400
+Bay Boat,Nautic Star,2017,28.9,9.2,220,Fiberglass,Good,Corpus Christi,16,10,45500
+Bowrider,Grady-White,2014,28.7,8.0,321,Fiberglass,Excellent,Corpus Christi,134,11,59500
+Center Console,Chaparral,2015,23.3,8.2,118,Aluminum,Good,Galveston,39,9,29800
+Bay Boat,Nautic Star,2011,24.7,7.1,126,Fiberglass,New,Corpus Christi,108,4,41400
+Center Console,Chaparral,2013,19.0,6.4,399,Fiberglass,Fair,Galveston,157,5,37000
+Bay Boat,Boston Whaler,2021,22.3,7.4,248,Fiberglass,Excellent,South Padre Island,46,11,62600
+Bowrider,Sea Hunt,2010,18.8,6.5,303,Fiberglass,New,Corpus Christi,79,7,52300
+Bay Boat,Tracker,2022,16.3,5.4,352,Fiberglass,Excellent,Galveston,195,6,67600
+Bowrider,Robalo,2015,29.7,10.1,129,Aluminum,Good,Galveston,11,11,34500
+Deck Boat,Robalo,2022,19.6,6.1,439,Aluminum,New,Rockport,152,10,72600
+Pontoon,Tracker,2013,24.3,7.8,233,Fiberglass,Good,Port Aransas,37,8,32200
+Deck Boat,Bayliner,2022,20.2,6.8,408,Fiberglass,Good,Galveston,181,10,44300
+Bay Boat,Mako,2018,21.2,6.9,231,Fiberglass,Good,Port Isabel,85,3,44500
+Pontoon,Sea Hunt,2022,21.6,6.9,227,Fiberglass,Excellent,Port Aransas,6,8,46900
+Bowrider,Chaparral,2010,20.7,6.1,300,Fiberglass,New,Port Isabel,144,12,42300
+Bay Boat,Nautic Star,2021,24.9,7.5,146,Fiberglass,Excellent,Rockport,33,1,48600
+Pontoon,Sea Hunt,2014,29.5,9.1,303,Fiberglass,Excellent,South Padre Island,75,4,45100
+Bay Boat,Grady-White,2015,22.0,6.2,443,Aluminum,Good,Port Isabel,102,9,59200
+Pontoon,Mako,2010,29.6,9.3,316,Fiberglass,Excellent,Port Isabel,150,6,49800
+Pontoon,Grady-White,2024,25.3,7.1,101,Aluminum,Excellent,Port Aransas,86,2,55700
+Deck Boat,Sea Hunt,2019,24.5,8.0,336,Fiberglass,New,Port Isabel,172,4,67900
+Pontoon,Sea Hunt,2024,19.3,6.5,87,Aluminum,Good,Corpus Christi,98,5,35100
+Bay Boat,Tracker,2018,16.9,5.5,113,Fiberglass,Excellent,Corpus Christi,71,5,41400
+Center Console,Bayliner,2012,27.9,9.4,181,Fiberglass,Good,Corpus Christi,70,10,38400
+Center Console,Bennington,2015,24.0,6.7,189,Aluminum,New,South Padre Island,161,8,54300
+Deck Boat,Nautic Star,2016,21.8,6.2,76,Aluminum,Fair,Port Isabel,134,8,23500
+Bowrider,Sea Hunt,2012,27.4,9.2,81,Fiberglass,Good,Galveston,29,1,31400
+Center Console,Bennington,2023,20.3,7.0,370,Fiberglass,Excellent,Galveston,151,6,59500
+Deck Boat,Sea Hunt,2024,27.0,9.1,245,Fiberglass,New,Corpus Christi,85,5,63900
+Pontoon,Robalo,2018,20.6,6.9,149,Fiberglass,Excellent,Galveston,73,10,43100
+Bay Boat,Bayliner,2018,28.9,9.7,236,Fiberglass,Excellent,South Padre Island,24,12,55000
+Pontoon,Bayliner,2020,19.8,6.7,334,Aluminum,Excellent,South Padre Island,199,6,51800
+Bay Boat,Grady-White,2020,17.9,6.0,350,Fiberglass,Fair,Port Aransas,15,12,52300
+Bowrider,Chaparral,2010,25.8,8.7,183,Fiberglass,Good,Port Aransas,199,1,34100
+Deck Boat,Bennington,2017,18.3,5.2,137,Fiberglass,Excellent,Port Isabel,17,5,39900
+Deck Boat,Nautic Star,2021,29.3,8.4,434,Fiberglass,Good,Galveston,103,9,48500
+Center Console,Bennington,2022,25.2,7.8,311,Fiberglass,Excellent,South Padre Island,25,5,73500
+Deck Boat,Grady-White,2018,19.2,6.2,443,Fiberglass,Fair,Corpus Christi,101,11,49200
+Bowrider,Robalo,2023,18.9,6.4,190,Fiberglass,New,Rockport,167,4,75400
+Center Console,Bennington,2018,28.9,8.9,116,Fiberglass,Good,South Padre Island,120,9,45600
+Pontoon,Sea Hunt,2015,24.5,7.4,218,Aluminum,Good,South Padre Island,111,4,33900
+Deck Boat,Boston Whaler,2016,28.5,9.8,197,Fiberglass,New,Rockport,28,4,63200
+Pontoon,Mako,2020,17.5,5.2,344,Aluminum,Excellent,Corpus Christi,189,6,39500
+Pontoon,Nautic Star,2023,29.0,10.0,343,Fiberglass,Excellent,Galveston,78,11,59600
+Deck Boat,Nautic Star,2013,23.3,6.9,101,Fiberglass,Fair,Port Isabel,109,7,25100
+Bay Boat,Bayliner,2014,25.4,7.8,295,Fiberglass,Good,South Padre Island,180,7,43600
+Pontoon,Chaparral,2019,21.2,6.6,203,Fiberglass,Good,Corpus Christi,127,1,33600
+Center Console,Nautic Star,2021,16.8,5.1,305,Fiberglass,Good,Port Aransas,148,2,50200
+Deck Boat,Grady-White,2015,29.4,8.2,221,Fiberglass,Good,Corpus Christi,40,2,50500
+Center Console,Bayliner,2019,29.9,8.9,276,Fiberglass,Good,Galveston,94,9,52300
+Pontoon,Sea Hunt,2010,21.1,6.5,343,Fiberglass,Good,South Padre Island,110,4,39700
+Pontoon,Mako,2014,29.2,8.9,185,Fiberglass,Good,Corpus Christi,39,5,39200
+Center Console,Chaparral,2024,18.3,6.3,149,Fiberglass,Excellent,Rockport,80,7,50400
+Pontoon,Boston Whaler,2018,18.2,5.2,339,Fiberglass,Fair,Port Aransas,167,7,45900
+Deck Boat,Sea Hunt,2023,17.0,5.3,430,Fiberglass,New,South Padre Island,186,6,76700
+Pontoon,Sea Hunt,2013,21.5,6.1,241,Fiberglass,Excellent,Port Isabel,165,1,35600
+Center Console,Bayliner,2014,16.7,5.9,449,Fiberglass,Good,Corpus Christi,187,6,57800
+Center Console,Boston Whaler,2024,21.5,7.4,144,Fiberglass,Excellent,Port Aransas,199,8,68300
+Deck Boat,Boston Whaler,2024,17.9,6.4,382,Aluminum,New,Port Aransas,43,4,96200
+Center Console,Nautic Star,2023,26.2,9.2,445,Fiberglass,Excellent,Galveston,171,8,72100
+Bay Boat,Boston Whaler,2014,27.7,8.5,187,Fiberglass,Good,Port Aransas,125,1,54600
+Pontoon,Nautic Star,2022,25.6,8.6,130,Aluminum,Good,Port Isabel,172,11,31000
+Center Console,Grady-White,2016,18.8,5.7,323,Fiberglass,New,Corpus Christi,129,12,81000
+Pontoon,Mako,2022,26.7,9.4,401,Aluminum,New,Port Isabel,29,1,67500
+Center Console,Grady-White,2022,19.5,6.1,106,Aluminum,Good,Galveston,114,6,53700
+Center Console,Robalo,2016,26.6,8.2,315,Fiberglass,Fair,Corpus Christi,153,6,44700
+Deck Boat,Bennington,2014,23.9,8.4,401,Fiberglass,Excellent,Corpus Christi,29,10,46300
+Pontoon,Robalo,2024,21.1,7.3,87,Fiberglass,Fair,Corpus Christi,103,7,30200
+Center Console,Bennington,2016,17.2,6.1,268,Aluminum,Fair,Port Aransas,132,7,37000
+Bay Boat,Robalo,2016,27.6,7.9,103,Fiberglass,Excellent,Port Aransas,95,4,46900
+Bowrider,Boston Whaler,2019,29.2,8.7,141,Fiberglass,Good,Galveston,160,2,48700
+Bowrider,Sea Hunt,2024,25.3,7.7,257,Fiberglass,Good,Port Aransas,29,8,46400
+Deck Boat,Robalo,2011,29.5,9.3,197,Fiberglass,Good,Rockport,72,7,41100
+Deck Boat,Grady-White,2024,29.1,9.2,106,Aluminum,Excellent,Port Aransas,190,9,61700
+Bay Boat,Mako,2016,18.7,5.7,375,Fiberglass,Good,Port Aransas,105,10,37300
+Pontoon,Sea Hunt,2010,26.2,9.0,151,Fiberglass,Good,Port Aransas,40,7,36300
+Deck Boat,Bennington,2014,20.9,6.2,401,Aluminum,Good,Port Aransas,27,6,47900
+Bay Boat,Tracker,2016,22.8,7.7,141,Fiberglass,Fair,Port Isabel,120,11,28800
+Center Console,Tracker,2020,18.2,6.3,269,Fiberglass,Good,Port Aransas,186,9,43100
+Center Console,Nautic Star,2018,29.6,9.7,347,Aluminum,Good,Port Aransas,14,10,52300
+Bowrider,Bayliner,2012,26.2,8.1,255,Aluminum,Fair,Port Isabel,26,12,31500
+Deck Boat,Sea Hunt,2017,19.7,5.8,231,Aluminum,Excellent,Galveston,78,5,42800
+Deck Boat,Bayliner,2013,21.2,6.2,356,Fiberglass,New,Port Aransas,45,8,52700
+Deck Boat,Nautic Star,2014,21.9,7.4,79,Fiberglass,Excellent,Port Isabel,28,8,36200
+Pontoon,Robalo,2020,26.5,8.4,384,Fiberglass,Fair,Port Aransas,63,3,39600
+Center Console,Tracker,2022,29.0,8.2,333,Aluminum,Excellent,Corpus Christi,130,7,67800
+Center Console,Grady-White,2012,20.5,7.4,361,Fiberglass,Good,South Padre Island,166,6,54200
+Bay Boat,Mako,2019,22.6,7.5,232,Fiberglass,New,Rockport,64,6,56200
+Deck Boat,Tracker,2016,24.3,8.4,219,Fiberglass,Excellent,Port Aransas,141,3,53700
+Pontoon,Tracker,2015,21.5,6.8,289,Fiberglass,Good,Rockport,165,8,34400
+Deck Boat,Mako,2020,23.1,8.2,315,Fiberglass,New,Corpus Christi,6,8,56900
+Deck Boat,Grady-White,2013,17.5,5.2,421,Fiberglass,Fair,Rockport,171,6,42600
+Bowrider,Chaparral,2021,18.3,5.4,396,Fiberglass,Excellent,Corpus Christi,40,3,58900
+Center Console,Bennington,2016,21.6,7.6,95,Aluminum,Fair,South Padre Island,138,7,27600
+Deck Boat,Chaparral,2011,28.8,10.1,131,Aluminum,Excellent,Galveston,151,2,37400
+Deck Boat,Bennington,2021,20.9,6.7,429,Fiberglass,Fair,Port Aransas,169,5,44600
+Deck Boat,Bayliner,2022,19.5,5.7,220,Fiberglass,Good,Galveston,83,5,43900
+Bowrider,Tracker,2018,26.4,8.0,292,Aluminum,New,Rockport,133,10,56200
+Bay Boat,Tracker,2020,29.3,10.0,96,Fiberglass,New,Galveston,10,6,58700
+Bowrider,Nautic Star,2012,22.4,7.8,114,Fiberglass,New,South Padre Island,92,7,40600
+Bay Boat,Mako,2015,16.1,5.0,228,Fiberglass,Good,Rockport,192,10,33600
+Deck Boat,Mako,2015,25.6,7.3,343,Fiberglass,Good,Rockport,35,6,52100
+Deck Boat,Chaparral,2021,21.8,7.3,364,Fiberglass,Excellent,Port Aransas,34,10,54400
+Bowrider,Sea Hunt,2015,25.4,8.6,410,Fiberglass,Excellent,Rockport,141,3,64800
+Deck Boat,Bayliner,2020,19.9,6.2,148,Fiberglass,Good,Port Isabel,104,5,42400
+Bay Boat,Nautic Star,2014,16.0,5.2,150,Fiberglass,Good,Rockport,93,2,36500
+Center Console,Chaparral,2019,20.8,7.5,278,Fiberglass,Good,Rockport,53,7,50900
+Bay Boat,Nautic Star,2013,25.9,7.8,280,Aluminum,Good,Rockport,38,12,41600
+Bowrider,Sea Hunt,2018,21.5,7.0,88,Aluminum,Good,Rockport,148,7,33300
+Center Console,Boston Whaler,2011,19.1,6.3,242,Fiberglass,Fair,Port Aransas,74,7,37000
+Bowrider,Chaparral,2021,22.5,7.3,411,Fiberglass,Excellent,Rockport,156,4,53800
+Deck Boat,Bennington,2010,26.5,9.3,136,Fiberglass,New,Port Aransas,91,11,41400
+Center Console,Robalo,2024,17.7,5.8,382,Fiberglass,New,South Padre Island,82,6,89200
+Bay Boat,Tracker,2022,25.7,8.2,242,Fiberglass,Good,Port Isabel,49,4,54300
+Deck Boat,Sea Hunt,2018,25.3,7.3,271,Fiberglass,Excellent,Port Aransas,133,12,48300
+Bay Boat,Tracker,2023,21.2,7.1,315,Fiberglass,Fair,Port Isabel,60,6,44600
+Center Console,Boston Whaler,2022,29.6,8.6,339,Aluminum,Good,South Padre Island,182,5,66300
+Pontoon,Nautic Star,2012,28.5,8.0,314,Aluminum,Good,Port Aransas,84,1,36200
+Pontoon,Robalo,2021,20.4,6.5,113,Fiberglass,Good,Corpus Christi,163,3,31200
+Center Console,Boston Whaler,2015,16.4,5.3,185,Fiberglass,Excellent,Galveston,96,9,50300
+Bay Boat,Robalo,2022,20.3,7.3,391,Fiberglass,Good,South Padre Island,85,6,57600
+Bay Boat,Nautic Star,2022,18.9,6.4,90,Fiberglass,New,Galveston,93,12,45500
+Pontoon,Robalo,2024,23.7,8.2,343,Fiberglass,Good,Corpus Christi,91,2,57100
+Pontoon,Robalo,2016,28.9,8.9,270,Fiberglass,Fair,Port Aransas,98,7,34800
+Pontoon,Bayliner,2012,28.2,9.0,119,Aluminum,Good,Corpus Christi,177,8,25500
+Bowrider,Chaparral,2011,20.3,7.3,121,Fiberglass,Fair,Port Aransas,142,7,27600
+Pontoon,Mako,2012,22.0,6.9,442,Aluminum,Excellent,Port Isabel,11,6,52200
+Bay Boat,Robalo,2024,16.5,5.7,86,Fiberglass,Good,Corpus Christi,16,7,38700
+Center Console,Robalo,2018,23.6,7.6,83,Fiberglass,Good,Rockport,9,8,38000
+Pontoon,Tracker,2015,16.9,5.0,81,Fiberglass,Good,Corpus Christi,139,10,24800
+Bowrider,Grady-White,2016,29.1,9.5,310,Fiberglass,New,Galveston,45,5,78700
+Bowrider,Mako,2012,28.1,8.4,422,Fiberglass,Excellent,Port Isabel,80,6,63900
+Bay Boat,Chaparral,2018,19.0,5.3,139,Aluminum,Good,South Padre Island,166,7,35700
+Bay Boat,Tracker,2016,25.8,7.7,373,Fiberglass,New,Port Aransas,30,5,81700
+Center Console,Sea Hunt,2021,24.0,7.1,344,Fiberglass,Good,Galveston,34,3,55700
+Center Console,Robalo,2010,27.2,8.4,161,Fiberglass,Good,Port Aransas,20,12,39700
+Deck Boat,Sea Hunt,2023,22.7,8.0,101,Fiberglass,Fair,Port Isabel,60,4,34900
+Deck Boat,Robalo,2010,18.7,5.8,257,Fiberglass,New,Port Isabel,22,4,58600
+Bay Boat,Chaparral,2016,25.0,8.7,105,Fiberglass,Fair,Galveston,127,7,30700
+Bay Boat,Nautic Star,2015,17.1,5.5,117,Aluminum,New,Galveston,148,2,42500
+Bowrider,Chaparral,2020,24.2,6.8,249,Fiberglass,Good,Galveston,40,1,45700
+Deck Boat,Boston Whaler,2019,19.0,5.6,380,Fiberglass,Good,Rockport,107,2,49200
+Bowrider,Boston Whaler,2012,25.6,9.1,447,Fiberglass,New,South Padre Island,64,3,86000
+Bowrider,Bayliner,2017,27.6,9.1,310,Aluminum,New,Port Isabel,20,6,71800
+Bay Boat,Chaparral,2018,17.5,6.2,178,Fiberglass,New,South Padre Island,96,9,52600
+Bay Boat,Robalo,2016,21.6,6.6,198,Fiberglass,Good,Corpus Christi,140,5,43900
+Bowrider,Robalo,2010,26.3,8.9,304,Fiberglass,Good,Rockport,49,6,51900
+Pontoon,Bayliner,2012,18.3,6.3,139,Fiberglass,New,Galveston,158,7,35700
+Bay Boat,Tracker,2017,23.9,8.6,269,Fiberglass,New,Port Isabel,198,5,58100
+Pontoon,Boston Whaler,2013,25.4,7.1,363,Fiberglass,Good,South Padre Island,15,6,52400
+Deck Boat,Mako,2018,21.0,7.5,390,Fiberglass,Excellent,South Padre Island,36,5,53300
+Bowrider,Boston Whaler,2012,27.6,8.6,97,Fiberglass,Good,Galveston,61,5,43200
+Bay Boat,Nautic Star,2021,23.1,8.0,183,Fiberglass,Fair,South Padre Island,170,5,36300
+Bowrider,Tracker,2012,24.8,8.0,170,Aluminum,Good,Rockport,32,1,36300
+Bowrider,Mako,2019,18.0,5.9,283,Aluminum,Fair,South Padre Island,96,10,32300
+Center Console,Nautic Star,2022,16.3,5.0,144,Fiberglass,Good,Rockport,109,12,39900
+Center Console,Boston Whaler,2015,16.7,5.8,431,Fiberglass,Good,South Padre Island,30,10,50800
+Deck Boat,Boston Whaler,2012,28.7,8.6,418,Fiberglass,Excellent,Port Aransas,13,1,71200
+Center Console,Mako,2010,28.4,9.1,199,Aluminum,New,Port Isabel,28,8,50900
+Bay Boat,Mako,2015,27.3,8.9,227,Fiberglass,Good,Galveston,15,7,38500
+Deck Boat,Bayliner,2011,18.8,6.4,239,Fiberglass,New,Rockport,102,2,46200
+Bowrider,Tracker,2023,23.4,7.4,90,Fiberglass,Fair,Galveston,187,11,28800
+Bowrider,Tracker,2024,27.1,9.1,408,Aluminum,Good,South Padre Island,73,9,64000
+Center Console,Bayliner,2024,25.4,8.1,367,Fiberglass,Fair,Port Isabel,55,3,45800
+Bowrider,Nautic Star,2023,17.6,5.9,199,Fiberglass,Excellent,South Padre Island,50,12,49600
+Center Console,Grady-White,2018,28.5,9.5,280,Aluminum,Good,Port Isabel,196,3,56500
+Pontoon,Nautic Star,2014,18.2,6.1,217,Fiberglass,Good,South Padre Island,191,6,31800
+Bowrider,Grady-White,2016,18.4,6.4,160,Aluminum,Excellent,Corpus Christi,131,3,50900
+Bowrider,Mako,2013,28.6,9.2,189,Fiberglass,Good,Corpus Christi,95,3,38500
+Bay Boat,Bennington,2022,22.8,6.7,115,Fiberglass,Good,Port Isabel,36,12,39500
+Bowrider,Sea Hunt,2016,21.2,7.1,378,Aluminum,Fair,Galveston,186,7,38600
+Center Console,Mako,2015,23.8,6.8,320,Fiberglass,Good,South Padre Island,5,4,48800
+Deck Boat,Robalo,2020,29.7,8.8,423,Fiberglass,New,Rockport,36,9,84200
+Deck Boat,Tracker,2015,17.7,6.1,77,Fiberglass,Good,Galveston,137,10,26000
+Bay Boat,Sea Hunt,2015,26.6,8.4,311,Fiberglass,Good,Galveston,40,11,44100
+Center Console,Sea Hunt,2013,20.7,6.6,285,Fiberglass,New,Rockport,26,11,57300
+Pontoon,Sea Hunt,2011,17.6,6.3,308,Fiberglass,Excellent,Port Aransas,121,11,39000
+Bay Boat,Robalo,2010,21.9,6.5,446,Fiberglass,Excellent,Corpus Christi,10,7,63600
+Pontoon,Chaparral,2016,23.7,6.7,221,Fiberglass,New,Rockport,57,5,53500
+Deck Boat,Robalo,2024,18.9,5.5,127,Fiberglass,Good,Corpus Christi,130,11,42400
+Bay Boat,Tracker,2013,21.7,6.5,79,Fiberglass,Excellent,Rockport,41,3,35100
+Bowrider,Grady-White,2019,24.9,8.4,259,Fiberglass,Good,Corpus Christi,153,3,51300
+Center Console,Bennington,2014,24.1,8.2,140,Fiberglass,Excellent,Port Aransas,23,6,38700
+Pontoon,Chaparral,2014,26.1,8.5,127,Aluminum,Good,Rockport,124,4,28400
+Pontoon,Sea Hunt,2012,27.7,8.3,130,Fiberglass,Excellent,Galveston,19,7,40600
+Bay Boat,Bennington,2018,21.7,7.0,178,Fiberglass,Fair,Rockport,147,11,24700
+Bay Boat,Grady-White,2019,21.9,6.2,118,Fiberglass,New,Galveston,151,6,67000
+Center Console,Sea Hunt,2015,23.0,7.7,257,Aluminum,Good,Corpus Christi,159,7,40500
+Bowrider,Bayliner,2017,23.9,7.9,320,Fiberglass,Excellent,Port Isabel,60,6,60200
+Bowrider,Bennington,2017,17.5,4.9,183,Fiberglass,Excellent,Port Aransas,51,8,34100
+Bay Boat,Tracker,2014,20.4,7.0,126,Fiberglass,Good,Corpus Christi,195,2,32100
+Center Console,Sea Hunt,2020,18.4,6.3,289,Fiberglass,Good,Port Isabel,147,1,53800
+Center Console,Chaparral,2018,21.4,6.5,107,Aluminum,Fair,Port Aransas,40,7,31900
+Center Console,Bennington,2010,29.6,9.8,351,Aluminum,Excellent,Galveston,10,6,54800
+Bowrider,Bennington,2017,24.2,7.9,218,Fiberglass,Excellent,South Padre Island,74,5,41700
+Bowrider,Bennington,2015,22.0,6.4,228,Fiberglass,Good,Rockport,134,5,36100
+Center Console,Chaparral,2021,23.9,7.1,168,Fiberglass,Good,Corpus Christi,78,2,51000
+Pontoon,Bayliner,2014,25.4,8.5,181,Fiberglass,Excellent,Corpus Christi,162,8,36400
+Center Console,Sea Hunt,2024,22.1,7.8,129,Aluminum,Good,South Padre Island,102,6,45300
+Bay Boat,Grady-White,2019,22.3,7.3,284,Fiberglass,Good,South Padre Island,198,6,57600
+Deck Boat,Nautic Star,2011,25.8,8.4,129,Fiberglass,Good,Rockport,174,10,25500
+Pontoon,Bayliner,2016,16.9,5.6,330,Fiberglass,Excellent,Galveston,96,8,46200
+Bowrider,Grady-White,2023,23.6,7.4,171,Aluminum,Excellent,Corpus Christi,167,4,60300
+Center Console,Bennington,2013,23.7,6.7,287,Fiberglass,Excellent,Port Isabel,92,7,51700
+Center Console,Nautic Star,2020,26.6,8.3,276,Fiberglass,Good,South Padre Island,6,3,51500
+Bay Boat,Nautic Star,2021,29.8,10.5,312,Fiberglass,Excellent,Port Isabel,65,4,55900
+Bay Boat,Mako,2020,27.1,9.3,359,Fiberglass,Good,Port Isabel,84,8,50300
+Bowrider,Robalo,2011,23.1,8.2,285,Fiberglass,Good,Corpus Christi,195,3,46100
+Pontoon,Boston Whaler,2015,18.4,5.4,394,Aluminum,Good,Galveston,166,4,57300
+Bay Boat,Mako,2015,24.2,7.8,172,Aluminum,New,South Padre Island,33,10,48800
+Bowrider,Boston Whaler,2015,27.7,9.1,356,Aluminum,Excellent,South Padre Island,5,8,73000
+Deck Boat,Tracker,2023,29.1,8.6,203,Aluminum,Good,Port Aransas,108,11,43100
+Deck Boat,Chaparral,2010,27.6,8.2,310,Fiberglass,Good,Galveston,109,10,37900
+Deck Boat,Tracker,2018,18.6,6.4,259,Fiberglass,Fair,South Padre Island,148,5,32400
+Center Console,Mako,2024,26.0,8.7,415,Fiberglass,Excellent,Port Aransas,55,7,77900
+Bowrider,Bayliner,2023,28.3,9.4,176,Fiberglass,Fair,Port Aransas,163,5,38500
+Center Console,Robalo,2019,25.5,7.7,269,Aluminum,Excellent,Corpus Christi,85,8,58100
+Center Console,Boston Whaler,2024,25.6,8.2,136,Fiberglass,Excellent,Port Isabel,70,5,61500
+Bay Boat,Robalo,2016,23.0,6.5,312,Aluminum,New,Rockport,86,1,73900
+Bay Boat,Bennington,2019,24.9,7.2,88,Fiberglass,Good,South Padre Island,189,2,34800
+Center Console,Grady-White,2018,20.1,6.5,229,Fiberglass,Excellent,South Padre Island,81,9,58400
+Center Console,Tracker,2010,17.2,5.2,78,Fiberglass,Excellent,Corpus Christi,114,2,36800
+Pontoon,Bayliner,2010,27.6,9.9,197,Fiberglass,Good,Port Aransas,178,7,33600
+Bowrider,Grady-White,2023,29.2,9.3,256,Fiberglass,Good,Port Isabel,8,10,65400
+Center Console,Nautic Star,2012,28.0,8.0,199,Fiberglass,New,Corpus Christi,109,8,49800
+Bay Boat,Nautic Star,2015,20.7,5.8,219,Fiberglass,New,Corpus Christi,143,6,57700
+Deck Boat,Bayliner,2019,17.3,5.8,130,Aluminum,Good,Port Isabel,181,4,35500
+Bowrider,Nautic Star,2018,19.9,5.8,342,Fiberglass,Excellent,Galveston,16,11,53800
+Pontoon,Mako,2017,27.8,8.2,373,Fiberglass,Excellent,Corpus Christi,146,7,61700
+Pontoon,Sea Hunt,2024,25.2,7.9,245,Aluminum,Good,South Padre Island,161,5,45500
+Deck Boat,Chaparral,2021,29.5,8.9,95,Fiberglass,Excellent,Rockport,73,11,42700
+Deck Boat,Tracker,2024,20.8,6.8,98,Aluminum,Good,South Padre Island,150,4,36900
+Center Console,Boston Whaler,2019,23.7,7.6,328,Fiberglass,Excellent,South Padre Island,101,6,81900
+Bowrider,Sea Hunt,2024,27.1,7.8,423,Fiberglass,Excellent,Galveston,133,2,66500
+Bowrider,Tracker,2019,19.3,6.6,399,Fiberglass,New,Galveston,81,3,77400
+Center Console,Mako,2018,29.5,9.3,227,Fiberglass,Excellent,Port Isabel,39,5,49900
+Pontoon,Nautic Star,2022,24.3,8.0,261,Aluminum,New,Port Aransas,166,8,59600
+Center Console,Sea Hunt,2023,16.1,4.5,136,Aluminum,Excellent,Port Aransas,47,5,47800
+Pontoon,Boston Whaler,2011,16.4,5.4,101,Fiberglass,Fair,Corpus Christi,41,8,25400
+Bowrider,Sea Hunt,2023,28.4,8.6,362,Fiberglass,Good,Galveston,177,9,52600
+Center Console,Tracker,2020,25.0,8.0,235,Fiberglass,Excellent,Galveston,187,10,49500
+Deck Boat,Bayliner,2023,26.7,8.1,261,Fiberglass,Good,South Padre Island,123,1,46300
+Center Console,Boston Whaler,2020,27.0,9.7,203,Aluminum,Good,Rockport,118,9,52200
+Deck Boat,Grady-White,2023,21.9,6.5,192,Fiberglass,Good,South Padre Island,75,3,57200
+Bowrider,Grady-White,2014,27.2,9.6,444,Fiberglass,Excellent,Port Aransas,124,8,63400
+Center Console,Chaparral,2012,29.1,10.3,381,Fiberglass,Excellent,Galveston,123,5,59100
+Bay Boat,Robalo,2012,18.4,5.8,334,Aluminum,Excellent,South Padre Island,105,8,52500
+Bowrider,Tracker,2013,26.7,8.1,220,Aluminum,New,South Padre Island,132,4,61200
+Bay Boat,Robalo,2013,20.3,6.3,345,Fiberglass,Excellent,South Padre Island,113,7,55100
+Center Console,Robalo,2016,20.5,7.4,202,Fiberglass,Fair,Port Isabel,176,3,36000
+Deck Boat,Nautic Star,2012,21.8,7.2,268,Fiberglass,Fair,Port Aransas,135,3,31500
+Deck Boat,Boston Whaler,2012,28.1,9.1,129,Fiberglass,New,Port Aransas,80,7,45500
+Pontoon,Chaparral,2017,16.3,4.6,341,Fiberglass,Good,Galveston,132,5,38500
+Bay Boat,Mako,2021,22.1,7.7,97,Fiberglass,Excellent,Corpus Christi,49,8,41600
+Bowrider,Grady-White,2012,25.5,7.3,345,Fiberglass,Good,Corpus Christi,46,8,48800
+Deck Boat,Mako,2017,17.5,5.0,301,Fiberglass,Good,Galveston,166,7,35900
+Bay Boat,Sea Hunt,2019,27.1,8.2,99,Fiberglass,New,Galveston,118,8,53500
+Bowrider,Chaparral,2020,29.2,9.3,264,Fiberglass,Good,Galveston,15,9,47400
+Bowrider,Chaparral,2011,17.3,6.1,158,Fiberglass,Fair,Corpus Christi,74,11,23200
+Deck Boat,Robalo,2021,18.1,6.2,253,Fiberglass,Good,Port Isabel,196,2,44800
+Center Console,Bayliner,2010,29.6,8.8,79,Aluminum,Good,South Padre Island,129,7,31400
+Deck Boat,Chaparral,2013,18.8,5.8,345,Fiberglass,Good,Corpus Christi,174,8,41100
+Deck Boat,Bayliner,2014,17.1,5.9,266,Fiberglass,Excellent,Port Aransas,111,4,43700
+Center Console,Chaparral,2022,29.3,9.4,210,Fiberglass,New,Port Aransas,13,4,74600
+Pontoon,Bennington,2012,28.5,8.4,403,Fiberglass,Good,South Padre Island,40,4,43800
+Bowrider,Bayliner,2021,25.2,7.9,316,Fiberglass,New,South Padre Island,22,7,68900
+Center Console,Robalo,2024,23.7,7.8,303,Fiberglass,Good,South Padre Island,148,5,68700
+Pontoon,Tracker,2024,28.9,10.3,130,Aluminum,Excellent,South Padre Island,152,8,49500
+Center Console,Nautic Star,2014,25.2,8.4,262,Fiberglass,Excellent,Port Isabel,94,7,56000
+Pontoon,Bayliner,2011,25.2,7.1,337,Fiberglass,Excellent,Port Isabel,146,7,45500
+Deck Boat,Boston Whaler,2013,27.8,9.4,422,Fiberglass,Fair,South Padre Island,112,4,50700
+Center Console,Bayliner,2021,25.1,7.5,301,Fiberglass,Excellent,Port Isabel,149,9,55600
+Bowrider,Sea Hunt,2012,23.1,8.1,139,Fiberglass,Excellent,Rockport,136,8,30300
+Center Console,Tracker,2019,21.5,6.7,329,Aluminum,Excellent,Rockport,93,3,54800
+Deck Boat,Grady-White,2015,23.0,6.8,102,Fiberglass,Good,Port Aransas,132,4,38900
+Center Console,Robalo,2021,23.3,7.4,192,Fiberglass,Fair,South Padre Island,67,5,41900
+Bowrider,Nautic Star,2019,21.1,6.3,418,Fiberglass,Excellent,South Padre Island,151,11,63700
+Pontoon,Chaparral,2018,22.3,6.7,375,Fiberglass,Fair,Corpus Christi,183,5,41500
+Bowrider,Robalo,2021,27.2,8.9,413,Aluminum,Excellent,Corpus Christi,45,1,67500
+Deck Boat,Bayliner,2024,21.8,7.4,207,Fiberglass,Good,Galveston,135,3,48900
+Deck Boat,Nautic Star,2015,16.4,5.7,331,Fiberglass,New,South Padre Island,26,1,54000
+Pontoon,Sea Hunt,2017,20.0,6.2,337,Fiberglass,Good,Rockport,78,5,46400
+Pontoon,Bayliner,2019,19.2,5.5,167,Fiberglass,Good,Rockport,135,9,35400
+Bowrider,Boston Whaler,2022,27.1,8.6,428,Fiberglass,Good,Corpus Christi,59,6,81800
+Center Console,Sea Hunt,2017,22.3,7.0,438,Fiberglass,Excellent,Port Isabel,51,9,59400
+Pontoon,Robalo,2015,19.9,5.9,116,Fiberglass,Good,South Padre Island,79,1,35200
+Center Console,Sea Hunt,2022,27.3,9.6,362,Aluminum,Fair,Galveston,27,6,40900
+Bay Boat,Grady-White,2024,16.3,5.8,242,Fiberglass,Good,Port Isabel,126,9,58600
+Bowrider,Chaparral,2018,18.4,5.2,327,Fiberglass,Good,Galveston,30,8,44800
+Bay Boat,Sea Hunt,2011,27.6,9.5,282,Fiberglass,Good,Corpus Christi,69,10,39300
+Pontoon,Tracker,2014,23.7,7.9,158,Fiberglass,Excellent,Port Aransas,65,4,32600
+Deck Boat,Tracker,2016,26.8,8.1,110,Aluminum,Fair,South Padre Island,193,6,26600
+Bay Boat,Tracker,2020,27.7,9.2,267,Fiberglass,Excellent,Corpus Christi,198,8,59400
+Bay Boat,Nautic Star,2020,29.2,8.5,388,Aluminum,Good,Port Aransas,20,3,56700
+Deck Boat,Robalo,2022,16.9,4.8,383,Aluminum,New,Rockport,35,9,75700
+Pontoon,Boston Whaler,2010,27.2,9.8,178,Fiberglass,Excellent,Corpus Christi,147,5,46200
+Pontoon,Tracker,2016,25.9,8.6,397,Fiberglass,Good,Port Aransas,63,2,51700
+Bowrider,Tracker,2020,18.9,5.7,208,Aluminum,Good,Galveston,130,9,39700
+Bowrider,Nautic Star,2024,29.0,9.2,285,Fiberglass,Fair,Corpus Christi,184,8,37500
+Pontoon,Bennington,2012,21.7,7.7,196,Fiberglass,Fair,Port Aransas,36,10,24400
+Pontoon,Grady-White,2023,28.4,8.9,271,Aluminum,New,Port Isabel,192,10,79800
+Bay Boat,Bayliner,2010,24.5,8.6,273,Aluminum,Excellent,Galveston,15,4,49200
+Deck Boat,Nautic Star,2012,23.4,8.2,336,Fiberglass,Excellent,Port Isabel,49,7,47400
+Center Console,Chaparral,2022,18.2,5.6,251,Fiberglass,Good,South Padre Island,103,12,55300
+Bay Boat,Chaparral,2021,28.8,9.7,273,Fiberglass,Good,Galveston,176,4,56900
+Bowrider,Robalo,2024,23.8,7.9,319,Aluminum,Fair,Port Aransas,113,6,50300
+Deck Boat,Bennington,2019,16.1,5.5,231,Fiberglass,Good,South Padre Island,32,11,38900
+Center Console,Grady-White,2019,16.3,5.0,271,Fiberglass,New,Port Aransas,53,2,80900
+Pontoon,Robalo,2018,26.9,7.6,107,Fiberglass,Good,Rockport,153,11,37400
+Bowrider,Mako,2017,18.3,5.4,401,Aluminum,Good,Port Aransas,114,6,41000
+Bowrider,Sea Hunt,2017,24.4,8.0,122,Aluminum,Good,Port Aransas,7,10,35800
+Bay Boat,Robalo,2014,25.5,8.7,402,Fiberglass,New,South Padre Island,102,7,72800
+Deck Boat,Sea Hunt,2022,19.9,6.8,360,Fiberglass,Excellent,South Padre Island,84,8,53800
+Deck Boat,Bayliner,2015,24.0,7.8,430,Aluminum,Excellent,Port Aransas,5,9,53700
+Bay Boat,Grady-White,2019,19.4,5.6,84,Aluminum,Excellent,South Padre Island,53,2,43000
+Bay Boat,Bayliner,2020,29.2,8.2,156,Fiberglass,Good,Port Aransas,187,7,36300
+Bay Boat,Sea Hunt,2018,28.0,9.6,94,Fiberglass,Excellent,Port Isabel,142,11,44800
+Bowrider,Sea Hunt,2019,20.0,6.5,231,Fiberglass,Good,Galveston,18,12,42900
+Pontoon,Chaparral,2010,23.4,8.0,414,Fiberglass,Good,Port Isabel,8,12,33000
+Bowrider,Bennington,2014,23.0,6.7,362,Fiberglass,Fair,Port Isabel,72,7,35000
+Bowrider,Mako,2016,29.4,9.2,338,Fiberglass,New,Galveston,95,7,70100
+Bowrider,Sea Hunt,2015,21.5,7.6,393,Fiberglass,New,Rockport,93,7,62900
+Center Console,Chaparral,2023,23.9,7.0,76,Aluminum,Excellent,Corpus Christi,140,7,51800
+Bowrider,Grady-White,2023,29.0,8.3,370,Fiberglass,Excellent,Port Isabel,38,7,84700
+Center Console,Boston Whaler,2020,18.3,6.1,192,Fiberglass,Excellent,South Padre Island,14,1,55700
+Deck Boat,Sea Hunt,2015,23.7,7.8,334,Fiberglass,Good,Rockport,136,2,44200
+Deck Boat,Bennington,2010,17.5,6.2,361,Fiberglass,Excellent,Port Aransas,179,7,42400
+Bay Boat,Bayliner,2021,24.6,8.7,332,Fiberglass,New,Corpus Christi,37,5,65400
+Center Console,Robalo,2023,21.1,7.2,231,Fiberglass,Excellent,Port Isabel,75,5,57400
+Center Console,Nautic Star,2017,29.5,8.3,304,Fiberglass,Good,South Padre Island,127,4,49900
+Bowrider,Bayliner,2022,21.8,6.9,250,Fiberglass,Fair,Corpus Christi,37,9,33900
+Bay Boat,Robalo,2023,17.9,6.3,310,Aluminum,Good,Galveston,172,12,54100
+Bay Boat,Tracker,2018,27.7,8.7,247,Fiberglass,Good,Corpus Christi,48,7,49800
+Bowrider,Bayliner,2013,27.5,9.8,222,Aluminum,Good,South Padre Island,108,11,38700
+Center Console,Bennington,2010,25.7,8.5,150,Aluminum,Good,Rockport,71,10,34400
+Bowrider,Robalo,2021,26.5,7.7,220,Aluminum,Excellent,Rockport,135,4,58800
+Bowrider,Boston Whaler,2018,19.7,6.3,345,Fiberglass,Good,South Padre Island,43,3,64800
+Deck Boat,Bennington,2012,25.0,8.4,401,Fiberglass,Good,South Padre Island,24,4,47500
+Center Console,Chaparral,2010,16.5,4.7,113,Fiberglass,Excellent,Port Isabel,104,2,31900
+Center Console,Bennington,2024,18.8,5.8,143,Fiberglass,Good,Port Aransas,173,7,50100
+Bay Boat,Sea Hunt,2014,29.1,9.8,265,Fiberglass,Good,Corpus Christi,128,4,37000
+Deck Boat,Chaparral,2014,26.3,7.7,338,Aluminum,Good,Corpus Christi,152,11,35600
+Center Console,Bennington,2019,19.2,5.9,138,Fiberglass,New,Rockport,89,7,54600
+Deck Boat,Tracker,2015,17.6,5.9,196,Aluminum,Good,South Padre Island,32,5,35600
+Center Console,Bayliner,2023,29.3,10.0,92,Fiberglass,Fair,Corpus Christi,88,12,30600
+Deck Boat,Boston Whaler,2020,17.6,5.7,94,Fiberglass,New,Port Aransas,197,12,49300
+Center Console,Bayliner,2015,19.6,7.0,128,Fiberglass,Excellent,Corpus Christi,157,9,35200
+Pontoon,Nautic Star,2013,18.6,6.6,348,Fiberglass,New,Rockport,142,9,53400
+Center Console,Bennington,2022,16.1,5.1,401,Fiberglass,New,South Padre Island,63,12,81200
+Center Console,Bennington,2018,20.4,6.0,262,Fiberglass,Fair,Corpus Christi,121,7,41300
+Center Console,Tracker,2023,29.6,10.1,141,Fiberglass,Good,Port Aransas,126,10,39000
+Bowrider,Chaparral,2015,20.8,6.2,420,Fiberglass,Excellent,Galveston,132,2,51000
+Center Console,Tracker,2010,23.1,8.0,179,Fiberglass,Excellent,Galveston,179,7,34600
+Deck Boat,Mako,2023,26.4,8.6,133,Aluminum,Fair,Rockport,137,6,37000
+Deck Boat,Boston Whaler,2013,23.7,7.4,126,Fiberglass,Excellent,Corpus Christi,48,1,47000
+Deck Boat,Bayliner,2022,26.4,8.6,207,Fiberglass,Good,Corpus Christi,48,2,45900
+Pontoon,Sea Hunt,2020,25.3,8.2,350,Fiberglass,Excellent,Corpus Christi,125,1,54800
+Bowrider,Grady-White,2013,24.5,8.7,223,Fiberglass,New,South Padre Island,173,5,62800
+Bay Boat,Tracker,2021,25.1,7.5,242,Fiberglass,Good,Rockport,189,2,43300
+Bowrider,Nautic Star,2011,27.2,9.6,202,Fiberglass,New,Galveston,123,6,51500
+Bay Boat,Sea Hunt,2015,25.9,7.3,428,Aluminum,Good,Port Aransas,108,9,49100
+Bowrider,Bennington,2015,27.1,9.3,331,Fiberglass,Excellent,Galveston,164,7,47700
+Deck Boat,Sea Hunt,2019,18.0,6.4,324,Fiberglass,Good,Galveston,195,8,44900
+Pontoon,Mako,2018,25.5,7.9,239,Fiberglass,Good,Port Aransas,10,1,39100
+Bowrider,Chaparral,2019,26.3,7.5,274,Fiberglass,Good,Rockport,65,9,45500
+Pontoon,Robalo,2017,20.2,7.0,406,Fiberglass,New,South Padre Island,70,3,70100
+Bowrider,Boston Whaler,2021,28.2,9.8,321,Fiberglass,Good,Corpus Christi,115,5,71800
+Deck Boat,Boston Whaler,2012,20.3,6.2,380,Fiberglass,Fair,South Padre Island,62,6,44600
+Center Console,Tracker,2020,19.4,6.2,90,Fiberglass,Excellent,Rockport,65,11,38500
+Deck Boat,Grady-White,2010,28.1,9.7,397,Fiberglass,Excellent,Rockport,9,12,62200
+Center Console,Bayliner,2011,19.5,5.8,431,Fiberglass,Good,Port Aransas,5,9,48500
+Bowrider,Bayliner,2020,21.8,7.2,325,Fiberglass,Excellent,Rockport,92,8,56600
+Bay Boat,Bayliner,2012,21.2,6.7,433,Fiberglass,Good,South Padre Island,199,6,52500
+Bay Boat,Chaparral,2021,28.6,8.4,287,Fiberglass,Good,South Padre Island,62,8,47400
+Bay Boat,Grady-White,2011,22.4,7.8,178,Fiberglass,New,Corpus Christi,51,3,60300
+Pontoon,Tracker,2012,25.7,7.9,302,Fiberglass,Good,Port Isabel,56,4,34900
+Deck Boat,Bennington,2023,27.1,9.6,310,Aluminum,Good,Port Isabel,194,12,48300
+Bowrider,Chaparral,2012,24.8,8.1,129,Fiberglass,Excellent,Port Aransas,134,12,34800
+Deck Boat,Bennington,2023,29.2,9.4,150,Fiberglass,Fair,Galveston,132,5,39900
+Bay Boat,Mako,2015,27.2,8.5,184,Aluminum,Excellent,Rockport,41,4,47300
+Center Console,Tracker,2021,21.6,6.7,280,Aluminum,Excellent,Galveston,181,4,62800
+Center Console,Mako,2024,29.3,10.1,130,Fiberglass,Good,Port Aransas,43,6,42100
+Bay Boat,Tracker,2011,23.3,7.8,364,Fiberglass,Excellent,Port Isabel,193,4,51000
+Bowrider,Nautic Star,2014,16.3,5.6,116,Fiberglass,Good,Port Aransas,190,7,27300
+Deck Boat,Bayliner,2018,19.6,6.1,427,Aluminum,New,South Padre Island,115,2,82400
+Bowrider,Bennington,2022,24.7,7.4,328,Fiberglass,Good,South Padre Island,174,2,49500
+Center Console,Boston Whaler,2012,18.2,5.2,202,Aluminum,New,Port Isabel,199,4,62600
+Center Console,Tracker,2012,24.2,8.3,214,Fiberglass,Good,Galveston,118,9,37500
+Bowrider,Bayliner,2015,21.1,6.6,335,Aluminum,Good,Rockport,154,5,40000
+Center Console,Nautic Star,2013,23.5,7.5,108,Fiberglass,Good,Port Isabel,120,6,32700
+Center Console,Grady-White,2014,16.0,5.1,343,Fiberglass,Fair,Port Isabel,107,7,44500
+Deck Boat,Tracker,2011,27.9,8.8,282,Fiberglass,Good,Port Isabel,70,9,38000
+Bowrider,Boston Whaler,2022,21.1,7.1,157,Fiberglass,Good,Port Isabel,132,5,43300
+Pontoon,Tracker,2021,18.0,5.9,411,Fiberglass,Good,Port Isabel,57,8,45200
+Center Console,Tracker,2012,22.1,7.9,310,Fiberglass,Fair,Port Isabel,42,4,40000
+Bowrider,Bennington,2018,22.8,6.6,136,Fiberglass,Good,Galveston,58,7,38900
+Bowrider,Tracker,2019,24.9,8.1,320,Fiberglass,Fair,Corpus Christi,7,6,44200
+Bowrider,Robalo,2019,23.3,6.6,229,Aluminum,Excellent,Corpus Christi,187,11,47200
+Bowrider,Tracker,2024,16.6,5.7,361,Aluminum,Good,Rockport,55,12,56200
+Bay Boat,Boston Whaler,2019,28.2,9.3,259,Fiberglass,Good,Port Aransas,160,9,55900
+Bowrider,Robalo,2020,22.4,7.0,449,Fiberglass,Excellent,Rockport,89,11,75700
+Bay Boat,Tracker,2010,17.1,5.9,422,Fiberglass,Excellent,Port Isabel,71,3,53100
+Bowrider,Sea Hunt,2011,26.8,8.5,90,Aluminum,Fair,Galveston,49,7,20100
+Deck Boat,Boston Whaler,2019,25.2,7.5,229,Fiberglass,Excellent,Rockport,165,4,67600
+Pontoon,Mako,2023,25.1,8.0,150,Fiberglass,Excellent,Port Aransas,105,4,45900
+Pontoon,Bennington,2015,22.0,6.3,243,Aluminum,Excellent,South Padre Island,92,6,41800
+Pontoon,Tracker,2019,21.7,7.6,129,Aluminum,Excellent,Port Isabel,133,8,33500
+Pontoon,Chaparral,2013,23.5,8.0,275,Fiberglass,Good,Rockport,161,8,40300
+Pontoon,Nautic Star,2016,16.7,5.7,132,Fiberglass,Fair,Port Aransas,132,10,21700
+Pontoon,Mako,2021,20.2,7.1,308,Fiberglass,Fair,Port Isabel,96,7,39600
+Center Console,Boston Whaler,2019,29.8,10.2,245,Aluminum,Good,South Padre Island,179,11,56600
+Bowrider,Mako,2011,25.3,8.0,447,Fiberglass,Good,Port Isabel,179,10,42100
+Deck Boat,Mako,2023,21.9,6.3,404,Fiberglass,Excellent,Galveston,193,10,64100
+Bay Boat,Boston Whaler,2023,19.1,5.9,300,Fiberglass,Fair,Galveston,22,4,52500
+Deck Boat,Nautic Star,2017,26.4,9.4,243,Fiberglass,Excellent,Corpus Christi,178,6,48400
+Bowrider,Boston Whaler,2015,19.6,7.0,343,Fiberglass,New,South Padre Island,42,8,65900
+Bowrider,Chaparral,2017,18.3,6.2,325,Fiberglass,Fair,Rockport,125,12,33300
+Bowrider,Bennington,2022,18.2,5.4,127,Aluminum,Fair,Port Isabel,133,1,31400
+Deck Boat,Bennington,2016,26.2,7.7,216,Aluminum,Excellent,Corpus Christi,45,5,42800
+Pontoon,Sea Hunt,2010,25.0,8.8,447,Fiberglass,Good,Corpus Christi,6,5,44100
+Bay Boat,Boston Whaler,2011,17.0,5.0,194,Aluminum,Good,Rockport,188,4,40200
+Pontoon,Sea Hunt,2022,17.6,5.8,79,Fiberglass,Excellent,South Padre Island,178,9,35400
+Pontoon,Grady-White,2021,24.9,7.7,387,Fiberglass,Excellent,Port Isabel,39,1,76900
+Bay Boat,Bennington,2021,24.0,7.3,424,Fiberglass,New,Corpus Christi,122,5,77600
+Bay Boat,Robalo,2011,25.6,8.6,320,Aluminum,Good,South Padre Island,34,8,43600
+Center Console,Grady-White,2012,18.5,6.6,313,Aluminum,Excellent,Corpus Christi,115,5,74200
+Center Console,Bennington,2015,26.2,9.0,206,Aluminum,Good,Rockport,66,3,42600
+Deck Boat,Chaparral,2013,29.1,9.3,209,Aluminum,Excellent,Port Isabel,151,7,42200
+Deck Boat,Tracker,2015,24.4,7.7,417,Aluminum,Fair,Corpus Christi,116,6,38500
+Center Console,Sea Hunt,2018,18.7,6.6,396,Fiberglass,Good,Port Aransas,102,12,50400
+Deck Boat,Bennington,2014,25.5,8.3,261,Aluminum,Fair,Port Isabel,137,8,31100
+Pontoon,Bennington,2011,20.8,6.7,192,Fiberglass,New,Corpus Christi,97,12,42800
+Bay Boat,Boston Whaler,2016,16.7,5.6,145,Fiberglass,Good,Port Isabel,7,3,46700
+Bay Boat,Bennington,2020,20.2,6.0,79,Fiberglass,Good,Port Isabel,121,9,36600
+Bay Boat,Robalo,2019,28.7,8.2,256,Fiberglass,Excellent,Corpus Christi,156,7,64400
+Deck Boat,Grady-White,2014,21.8,7.6,282,Fiberglass,Excellent,Corpus Christi,100,8,54200
+Bay Boat,Robalo,2014,28.1,9.2,328,Fiberglass,Excellent,Rockport,39,6,62800
+Pontoon,Bennington,2018,23.1,6.8,376,Fiberglass,Excellent,Corpus Christi,6,4,61100
+Bay Boat,Grady-White,2012,23.2,7.0,212,Fiberglass,Excellent,Galveston,62,1,46300
+Deck Boat,Bennington,2022,16.1,5.8,137,Aluminum,Excellent,Corpus Christi,154,9,48100
+Bay Boat,Boston Whaler,2023,24.9,8.2,391,Fiberglass,Excellent,Galveston,67,9,75400
+Center Console,Robalo,2010,17.5,5.8,360,Fiberglass,Good,South Padre Island,191,3,47000
+Pontoon,Robalo,2024,22.7,6.5,274,Fiberglass,New,Rockport,69,7,61300
+Bay Boat,Tracker,2010,19.6,7.0,89,Fiberglass,Excellent,Port Isabel,88,8,27100
+Bay Boat,Mako,2016,21.5,7.6,250,Fiberglass,Good,South Padre Island,153,7,44500
+Pontoon,Sea Hunt,2020,23.5,7.6,307,Aluminum,Excellent,Galveston,124,5,62500
+Bowrider,Chaparral,2014,16.2,4.9,397,Fiberglass,Excellent,Galveston,12,10,47500
+Pontoon,Nautic Star,2013,20.0,6.7,265,Fiberglass,Excellent,Port Isabel,19,7,42300
+Bowrider,Bayliner,2010,29.9,10.4,248,Aluminum,New,Port Aransas,43,8,52100
+Bowrider,Nautic Star,2020,16.8,5.8,217,Fiberglass,Good,Port Aransas,174,7,43500
+Deck Boat,Bayliner,2010,20.5,7.3,230,Aluminum,New,South Padre Island,9,8,52100
+Pontoon,Bayliner,2017,20.5,6.8,81,Fiberglass,Excellent,Rockport,18,3,40500
+Bay Boat,Robalo,2015,21.3,6.5,113,Aluminum,Fair,Port Isabel,156,11,27000
+Deck Boat,Boston Whaler,2024,25.6,8.2,358,Fiberglass,Fair,Port Aransas,126,4,58400
+Deck Boat,Mako,2023,19.5,6.7,210,Aluminum,Excellent,Corpus Christi,196,9,48600
+Bowrider,Bennington,2022,22.4,6.7,394,Fiberglass,Excellent,Galveston,47,10,59500
+Bowrider,Tracker,2020,25.0,7.5,223,Aluminum,Good,Galveston,133,7,40100
+Deck Boat,Chaparral,2018,20.5,6.9,448,Aluminum,Good,South Padre Island,31,7,48400
+Pontoon,Chaparral,2015,29.3,9.2,142,Fiberglass,Good,Port Aransas,120,2,37900
+Bay Boat,Bennington,2012,29.7,10.3,145,Aluminum,New,Port Isabel,25,6,54600
+Bowrider,Tracker,2024,17.7,5.2,295,Fiberglass,New,Port Isabel,182,7,64100
+Deck Boat,Chaparral,2015,20.8,6.4,376,Fiberglass,Excellent,Rockport,86,2,54300
+Deck Boat,Boston Whaler,2016,18.9,5.7,128,Aluminum,Fair,Galveston,54,3,37200
+Pontoon,Robalo,2012,18.6,6.2,263,Fiberglass,Fair,Port Aransas,196,12,24600
+Pontoon,Nautic Star,2014,22.9,7.8,158,Fiberglass,New,South Padre Island,17,5,43800
+Center Console,Grady-White,2019,23.9,7.6,351,Fiberglass,Good,Corpus Christi,160,5,76900
+Bay Boat,Sea Hunt,2016,22.0,7.0,285,Fiberglass,Excellent,Port Aransas,104,4,54000
+Center Console,Bayliner,2018,19.8,5.8,320,Aluminum,Good,South Padre Island,139,7,44300
+Pontoon,Mako,2013,19.9,6.7,175,Fiberglass,Fair,South Padre Island,55,6,25700
+Center Console,Sea Hunt,2011,29.9,10.7,183,Fiberglass,Good,Corpus Christi,176,9,39200
+Bay Boat,Bayliner,2023,28.9,9.9,314,Fiberglass,New,Port Isabel,92,6,59800
+Deck Boat,Nautic Star,2016,17.1,5.1,207,Fiberglass,Good,Port Aransas,86,1,36300
+Pontoon,Boston Whaler,2015,25.2,8.3,333,Aluminum,Excellent,Galveston,93,6,60100
+Deck Boat,Nautic Star,2014,22.4,6.8,132,Aluminum,Good,South Padre Island,62,2,28700
+Bowrider,Bennington,2019,25.6,7.2,187,Fiberglass,Excellent,South Padre Island,67,9,46300
+Bowrider,Robalo,2018,24.4,7.2,113,Fiberglass,Fair,Port Isabel,32,3,33300
+Center Console,Bennington,2015,28.4,8.2,107,Fiberglass,Excellent,Rockport,99,4,44900
+Bowrider,Mako,2023,16.9,5.0,173,Fiberglass,Excellent,Port Isabel,97,6,47100
+Pontoon,Chaparral,2023,20.9,7.2,258,Fiberglass,Excellent,South Padre Island,79,4,48200
+Pontoon,Chaparral,2012,29.8,9.0,129,Fiberglass,New,Port Aransas,197,6,37200
+Center Console,Sea Hunt,2019,18.6,6.3,109,Fiberglass,Excellent,South Padre Island,27,6,42100
+Pontoon,Bennington,2024,17.8,6.3,403,Fiberglass,Good,Galveston,182,12,51800
+Pontoon,Boston Whaler,2017,26.2,8.5,268,Fiberglass,New,South Padre Island,174,2,71000
+Deck Boat,Bennington,2010,26.9,8.6,343,Fiberglass,New,South Padre Island,9,7,56100
+Center Console,Chaparral,2011,25.4,8.6,347,Aluminum,New,Corpus Christi,141,8,55300
+Deck Boat,Boston Whaler,2020,26.9,7.7,113,Fiberglass,New,Galveston,45,3,65100
+Bowrider,Tracker,2023,25.7,8.1,307,Fiberglass,Fair,Rockport,13,7,44200
+Pontoon,Sea Hunt,2011,17.9,5.7,397,Aluminum,Fair,Galveston,172,10,30800
+Center Console,Sea Hunt,2018,24.5,8.5,243,Aluminum,New,Port Isabel,27,9,58300
+Bowrider,Tracker,2017,26.9,9.3,398,Fiberglass,Good,Port Isabel,63,11,39300
+Bowrider,Chaparral,2014,28.1,9.8,429,Fiberglass,Good,Port Isabel,23,8,47600
+Center Console,Boston Whaler,2019,19.4,6.5,279,Fiberglass,Fair,Corpus Christi,32,5,48000
+Bowrider,Bayliner,2023,17.8,5.7,113,Fiberglass,Excellent,Port Isabel,17,11,39600
+Deck Boat,Nautic Star,2013,26.9,9.3,306,Fiberglass,Excellent,South Padre Island,169,4,48300
+Deck Boat,Boston Whaler,2010,19.6,6.9,405,Fiberglass,Good,South Padre Island,16,7,56400
+Deck Boat,Grady-White,2015,16.4,5.2,292,Fiberglass,Fair,South Padre Island,153,9,35400
+Pontoon,Bennington,2014,27.6,9.9,375,Fiberglass,Good,Port Aransas,35,10,45600
+Bowrider,Mako,2020,23.1,8.1,275,Aluminum,Good,Port Isabel,183,11,38400
+Pontoon,Grady-White,2018,20.6,6.6,232,Fiberglass,Excellent,Galveston,170,2,51700
+Bowrider,Bennington,2010,16.2,4.6,429,Aluminum,Good,Port Isabel,127,8,35400
+Bowrider,Bayliner,2015,16.5,4.9,132,Aluminum,Fair,Port Isabel,166,4,25300
+Center Console,Bennington,2021,27.1,9.3,242,Aluminum,Excellent,South Padre Island,63,9,50900
+Bay Boat,Tracker,2017,22.9,6.6,133,Fiberglass,Good,Rockport,157,8,38900
+Pontoon,Sea Hunt,2018,18.1,5.7,320,Aluminum,Excellent,Galveston,48,3,51700
+Deck Boat,Bayliner,2013,21.0,6.9,420,Fiberglass,Good,South Padre Island,124,9,47100
+Center Console,Sea Hunt,2014,18.3,6.4,449,Fiberglass,Good,Rockport,184,6,50900
+Center Console,Sea Hunt,2011,17.6,6.1,162,Aluminum,Good,Rockport,146,7,29400
+Deck Boat,Chaparral,2011,19.9,6.8,347,Fiberglass,Fair,Port Isabel,57,12,28600
+Pontoon,Mako,2010,23.7,7.4,402,Fiberglass,Excellent,Rockport,149,7,47600
+Center Console,Nautic Star,2019,18.9,5.5,387,Fiberglass,Excellent,Galveston,177,7,69600
+Center Console,Chaparral,2012,20.8,6.9,263,Aluminum,Excellent,Port Isabel,178,1,47300
+Center Console,Robalo,2018,22.7,6.7,140,Fiberglass,New,Corpus Christi,149,4,59500
+Deck Boat,Nautic Star,2024,21.9,7.1,248,Fiberglass,Excellent,Rockport,147,1,52200
+Center Console,Mako,2020,17.8,6.4,366,Aluminum,New,South Padre Island,158,5,73400
+Deck Boat,Tracker,2018,16.5,5.3,307,Fiberglass,Excellent,South Padre Island,148,5,58700
+Deck Boat,Mako,2011,16.5,5.5,220,Fiberglass,Excellent,Rockport,31,6,41900
+Deck Boat,Chaparral,2017,20.9,7.0,155,Fiberglass,Excellent,Port Aransas,161,8,39800
+Pontoon,Robalo,2023,26.1,9.0,319,Aluminum,Good,Port Isabel,40,3,56100
+Deck Boat,Robalo,2015,17.8,5.6,235,Fiberglass,Excellent,South Padre Island,113,7,47200
+Pontoon,Bennington,2022,27.0,8.6,252,Fiberglass,Good,South Padre Island,71,11,44200
+Pontoon,Boston Whaler,2020,26.0,7.6,426,Fiberglass,Fair,Port Aransas,46,3,51700
+Bowrider,Boston Whaler,2014,16.1,5.3,78,Aluminum,Good,South Padre Island,59,7,32700
+Pontoon,Bayliner,2012,16.4,5.0,164,Fiberglass,Excellent,Port Isabel,21,1,35700
+Deck Boat,Bayliner,2010,18.7,6.0,419,Fiberglass,Excellent,Corpus Christi,90,6,49900
+Deck Boat,Grady-White,2014,16.8,5.7,420,Aluminum,Good,Galveston,86,8,56800
+Bay Boat,Boston Whaler,2014,23.4,6.6,188,Fiberglass,Good,Port Isabel,83,1,52700
+Deck Boat,Sea Hunt,2019,16.6,5.4,447,Fiberglass,New,South Padre Island,22,5,75000
+Center Console,Grady-White,2018,27.2,8.0,154,Fiberglass,Excellent,Galveston,123,10,56800
+Bowrider,Grady-White,2017,22.9,6.9,94,Aluminum,Good,South Padre Island,38,4,54100
+Bowrider,Sea Hunt,2020,26.2,7.4,190,Fiberglass,Excellent,Corpus Christi,171,8,48300
+Center Console,Tracker,2021,26.5,7.8,274,Fiberglass,Good,Galveston,9,7,47900
+Pontoon,Mako,2020,23.1,8.3,77,Fiberglass,New,Port Isabel,15,3,45700
+Center Console,Grady-White,2023,29.0,10.4,139,Fiberglass,Excellent,Galveston,63,8,71300
+Pontoon,Sea Hunt,2015,29.9,10.1,371,Aluminum,Good,South Padre Island,84,6,41900
+Center Console,Robalo,2022,21.0,6.9,308,Fiberglass,Excellent,Corpus Christi,194,3,64300
+Deck Boat,Boston Whaler,2016,17.8,6.1,301,Fiberglass,Good,Port Isabel,107,11,53100
+Pontoon,Bayliner,2012,21.1,7.4,446,Aluminum,Excellent,Port Isabel,78,6,50600
+Pontoon,Bennington,2012,19.1,6.1,160,Fiberglass,Excellent,Port Isabel,168,8,31700
+Deck Boat,Boston Whaler,2011,23.4,6.6,411,Fiberglass,Fair,South Padre Island,51,4,51000
+Bowrider,Bennington,2024,21.3,7.2,208,Fiberglass,Excellent,Galveston,179,3,50900
+Pontoon,Nautic Star,2012,22.7,8.1,421,Fiberglass,Excellent,South Padre Island,83,8,42700
+Bay Boat,Bayliner,2022,26.7,8.0,368,Fiberglass,Fair,Port Aransas,65,8,38600
+Pontoon,Sea Hunt,2021,19.8,6.3,155,Fiberglass,Good,Port Aransas,63,4,40100
+Pontoon,Boston Whaler,2016,23.5,7.3,153,Fiberglass,Good,South Padre Island,6,8,42200
+Bay Boat,Sea Hunt,2023,20.7,6.4,278,Fiberglass,New,Galveston,136,6,63900
+Pontoon,Bayliner,2023,27.0,9.1,263,Fiberglass,New,Corpus Christi,117,5,58200
+Bowrider,Tracker,2023,25.0,7.8,163,Fiberglass,Good,Rockport,128,9,40600
+Bowrider,Sea Hunt,2017,16.1,5.7,172,Fiberglass,Excellent,South Padre Island,132,7,44100
+Pontoon,Robalo,2014,25.2,8.6,412,Aluminum,Excellent,Port Isabel,10,6,55300
+Pontoon,Boston Whaler,2010,18.4,5.2,357,Fiberglass,Good,Port Aransas,176,9,41200
+Bay Boat,Bennington,2022,26.1,9.0,146,Aluminum,Excellent,Corpus Christi,104,7,44800
+Pontoon,Sea Hunt,2023,23.9,8.2,346,Fiberglass,New,Port Aransas,139,11,60700
+Bay Boat,Bayliner,2018,21.6,6.9,132,Aluminum,New,Port Isabel,12,9,49900
+Deck Boat,Nautic Star,2011,25.7,8.2,241,Fiberglass,Excellent,Port Aransas,153,5,50400
+Bay Boat,Chaparral,2022,28.0,9.7,79,Fiberglass,Good,Rockport,137,6,41500
+Bay Boat,Bayliner,2014,26.9,8.4,318,Fiberglass,Fair,Port Isabel,76,12,35600
+Center Console,Bennington,2018,23.6,6.9,143,Fiberglass,New,Port Aransas,187,10,54300
+Bowrider,Nautic Star,2019,26.1,8.0,163,Fiberglass,Excellent,Galveston,131,4,51300
+Center Console,Robalo,2012,21.8,6.6,146,Fiberglass,Good,Port Aransas,181,4,36800
+Center Console,Boston Whaler,2010,27.0,9.0,143,Aluminum,Excellent,South Padre Island,165,5,59600
+Bowrider,Grady-White,2011,27.6,8.1,104,Fiberglass,Good,Port Aransas,45,10,35400
+Deck Boat,Bennington,2024,17.9,5.9,282,Aluminum,Fair,Rockport,199,11,35900
+Deck Boat,Chaparral,2024,19.3,6.1,400,Aluminum,Good,Port Isabel,149,9,53000
+Pontoon,Chaparral,2016,19.8,6.9,188,Aluminum,Excellent,Port Aransas,41,4,42400
+Bay Boat,Grady-White,2016,18.3,5.8,367,Fiberglass,Fair,Port Aransas,159,10,47500
+Center Console,Tracker,2016,21.5,7.6,278,Fiberglass,New,Rockport,88,1,58400
+Pontoon,Bayliner,2015,18.7,6.6,170,Fiberglass,Fair,South Padre Island,173,6,27200
+Center Console,Sea Hunt,2018,24.3,7.2,98,Fiberglass,Good,Galveston,38,5,40600
+Deck Boat,Bayliner,2015,17.4,5.8,368,Aluminum,Good,Rockport,55,6,48300
+Bowrider,Tracker,2019,19.8,5.9,83,Fiberglass,Fair,Corpus Christi,72,7,26700
+Bowrider,Robalo,2015,25.3,8.8,233,Fiberglass,Good,Port Isabel,92,4,45400
+Bay Boat,Nautic Star,2019,21.6,7.1,87,Fiberglass,Excellent,South Padre Island,128,4,45000
+Pontoon,Boston Whaler,2024,21.9,6.6,365,Aluminum,Excellent,Galveston,48,9,70900
+Pontoon,Tracker,2013,27.2,8.2,446,Fiberglass,Good,South Padre Island,142,2,44500
+Deck Boat,Bennington,2010,29.8,9.4,196,Fiberglass,Good,Rockport,9,6,40000
+Center Console,Bayliner,2017,23.9,8.2,192,Aluminum,Excellent,Galveston,69,4,54300
+Bay Boat,Bennington,2011,17.1,5.9,286,Aluminum,Good,Port Aransas,133,5,38600
+Pontoon,Grady-White,2013,17.4,4.9,263,Fiberglass,Good,Port Aransas,56,4,41900
+Bowrider,Robalo,2021,29.6,9.0,218,Aluminum,Excellent,Port Isabel,89,8,59100
+Center Console,Nautic Star,2016,25.5,8.0,212,Aluminum,New,Galveston,123,6,62500
+Pontoon,Mako,2018,26.5,8.7,145,Fiberglass,Excellent,Port Aransas,53,5,37600
+Bowrider,Boston Whaler,2021,25.5,7.4,169,Aluminum,New,Corpus Christi,193,9,69300
+Bowrider,Tracker,2011,18.5,5.7,294,Fiberglass,New,Corpus Christi,170,2,54100
+Deck Boat,Boston Whaler,2017,22.3,7.8,350,Fiberglass,Excellent,Port Isabel,194,9,50600
+Center Console,Bennington,2010,27.2,8.7,356,Fiberglass,New,Port Isabel,101,4,66800
+Bay Boat,Tracker,2017,28.1,9.5,268,Fiberglass,Excellent,South Padre Island,71,11,53700
+Bowrider,Robalo,2013,19.3,6.2,357,Fiberglass,Good,Port Aransas,198,1,48800
+Bowrider,Tracker,2023,24.3,7.7,297,Fiberglass,Excellent,South Padre Island,147,7,61500
+Pontoon,Bennington,2013,18.2,6.0,208,Fiberglass,Fair,Corpus Christi,159,7,24500
+Center Console,Mako,2013,29.4,8.8,207,Fiberglass,Fair,Galveston,40,7,30800
+Center Console,Chaparral,2010,19.5,5.8,269,Fiberglass,Good,Galveston,174,9,30900
+Deck Boat,Bennington,2011,26.2,9.4,190,Fiberglass,Fair,Port Isabel,107,3,30700
+Deck Boat,Sea Hunt,2013,19.2,6.7,361,Fiberglass,Fair,Port Aransas,155,6,36000
+Center Console,Nautic Star,2013,24.6,8.3,144,Fiberglass,Excellent,Port Aransas,165,10,42400
+Pontoon,Robalo,2021,25.2,7.3,95,Fiberglass,Good,Corpus Christi,25,10,35000
+Deck Boat,Robalo,2023,20.6,5.8,259,Aluminum,New,South Padre Island,24,6,74800
+Center Console,Chaparral,2022,27.5,8.1,101,Fiberglass,Good,Galveston,17,7,38500
+Center Console,Bennington,2024,28.4,10.1,146,Aluminum,Good,Corpus Christi,130,9,42500
+Deck Boat,Sea Hunt,2023,28.0,9.7,216,Fiberglass,New,Rockport,183,9,59400
+Pontoon,Mako,2016,20.6,6.6,76,Fiberglass,Excellent,South Padre Island,10,10,33500
+Bowrider,Boston Whaler,2015,26.4,9.4,158,Aluminum,Fair,Rockport,31,10,40100
+Deck Boat,Robalo,2019,23.8,6.9,279,Aluminum,Excellent,South Padre Island,99,6,56500
+Bay Boat,Bennington,2014,24.3,7.9,215,Fiberglass,Excellent,Corpus Christi,81,7,41800
+Bowrider,Chaparral,2019,22.7,6.7,411,Fiberglass,Excellent,Corpus Christi,25,6,58000
+Deck Boat,Boston Whaler,2024,24.4,7.4,110,Fiberglass,Good,Galveston,123,3,49200
+Bay Boat,Mako,2012,17.9,6.4,344,Fiberglass,Good,Galveston,181,9,46500
+Deck Boat,Tracker,2021,21.7,7.6,297,Aluminum,Good,Rockport,46,7,49500
+Center Console,Mako,2024,18.5,5.3,316,Aluminum,Excellent,Port Isabel,5,2,70100
+Bay Boat,Bayliner,2018,19.9,6.0,326,Fiberglass,Excellent,Corpus Christi,48,8,52100
+Deck Boat,Bennington,2015,17.8,5.8,94,Fiberglass,New,Port Aransas,40,4,41900
+Bowrider,Robalo,2013,19.0,5.4,371,Fiberglass,Good,Port Aransas,95,2,52100
+Pontoon,Sea Hunt,2012,26.9,8.7,199,Fiberglass,Good,Corpus Christi,25,7,32600
+Pontoon,Bennington,2014,23.7,7.7,318,Fiberglass,Good,Corpus Christi,75,8,38200
+Deck Boat,Nautic Star,2021,16.3,4.9,185,Fiberglass,Excellent,Corpus Christi,28,6,43500
+Center Console,Tracker,2017,27.0,8.2,223,Fiberglass,Good,Galveston,136,1,43400
+Bay Boat,Mako,2013,28.7,8.6,337,Fiberglass,Excellent,Corpus Christi,96,7,53600
+Bowrider,Sea Hunt,2018,28.3,10.0,425,Fiberglass,Good,Port Aransas,19,1,51500
+Center Console,Boston Whaler,2022,27.5,8.6,404,Fiberglass,Good,Corpus Christi,13,11,75000
+Bowrider,Nautic Star,2010,29.9,9.8,347,Aluminum,Good,Rockport,100,4,47100
+Pontoon,Sea Hunt,2010,24.2,7.4,276,Fiberglass,Good,Galveston,120,10,32500
+Bay Boat,Bennington,2024,29.5,9.9,272,Fiberglass,Fair,Port Isabel,38,1,40000
+Pontoon,Sea Hunt,2021,29.3,8.4,437,Fiberglass,Excellent,Corpus Christi,68,2,63800
+Bowrider,Robalo,2018,20.4,5.8,152,Fiberglass,New,Port Aransas,123,6,53600
+Center Console,Grady-White,2023,28.1,9.5,432,Fiberglass,Excellent,South Padre Island,96,8,85700
+Center Console,Chaparral,2018,27.1,9.2,318,Fiberglass,Good,Galveston,27,11,54400
+Pontoon,Sea Hunt,2017,26.9,8.1,306,Fiberglass,Good,Corpus Christi,81,6,39700
+Bowrider,Mako,2013,28.5,8.8,296,Aluminum,Good,Port Aransas,43,5,53400
+Center Console,Boston Whaler,2022,21.4,7.6,379,Fiberglass,Good,South Padre Island,185,1,69800
+Pontoon,Chaparral,2021,21.6,6.2,331,Fiberglass,Excellent,Corpus Christi,161,7,53700
+Center Console,Sea Hunt,2014,25.0,7.4,110,Fiberglass,Good,South Padre Island,65,5,34700
+Pontoon,Bennington,2021,26.3,8.3,367,Aluminum,Good,Rockport,50,11,51400
+Pontoon,Grady-White,2020,28.3,8.6,348,Aluminum,Excellent,Galveston,31,6,67600
+Center Console,Chaparral,2011,28.3,9.4,418,Fiberglass,Excellent,South Padre Island,148,9,54400
+Pontoon,Tracker,2012,26.1,8.7,426,Fiberglass,Excellent,South Padre Island,184,10,45800
+Bowrider,Bennington,2018,29.4,9.5,430,Fiberglass,Excellent,Port Isabel,58,2,64000
+Bowrider,Grady-White,2019,18.5,6.1,91,Aluminum,Good,Galveston,129,6,42600
+Center Console,Sea Hunt,2019,29.3,9.2,311,Fiberglass,Fair,Galveston,50,10,41300
+Bay Boat,Bennington,2015,16.9,5.8,425,Fiberglass,Good,Port Isabel,183,6,49100
+Bay Boat,Mako,2022,23.8,6.7,437,Fiberglass,Excellent,Corpus Christi,63,7,63400
+Deck Boat,Tracker,2016,17.3,5.3,280,Fiberglass,Good,Corpus Christi,23,10,35800
+Center Console,Boston Whaler,2013,24.0,8.0,416,Aluminum,Good,South Padre Island,176,4,64300
+Bowrider,Tracker,2011,21.5,6.6,405,Fiberglass,Excellent,Port Aransas,189,10,50000
+Pontoon,Boston Whaler,2023,17.1,4.9,75,Fiberglass,Good,Port Aransas,82,5,45400
+Bowrider,Bennington,2020,25.1,7.7,406,Fiberglass,New,Corpus Christi,181,7,76800
+Center Console,Chaparral,2016,26.2,8.8,314,Fiberglass,New,Port Isabel,52,5,69900
+Center Console,Nautic Star,2013,18.4,5.3,290,Fiberglass,New,Galveston,57,6,60300
+Bowrider,Bennington,2011,25.7,8.7,141,Fiberglass,Excellent,Rockport,109,1,36300
+Bay Boat,Bayliner,2012,18.5,6.3,419,Aluminum,Fair,Corpus Christi,122,2,32500
+Pontoon,Mako,2011,17.9,5.9,185,Fiberglass,Excellent,South Padre Island,80,6,33700
+Bowrider,Mako,2017,18.1,5.4,231,Fiberglass,Excellent,Galveston,160,5,45300
+Center Console,Bayliner,2012,24.4,8.4,186,Fiberglass,Excellent,Galveston,159,7,39000
+Center Console,Bayliner,2011,26.9,8.0,438,Fiberglass,Excellent,Rockport,28,1,57700
+Center Console,Bayliner,2014,24.4,8.6,256,Fiberglass,Excellent,Rockport,198,3,51700
+Center Console,Chaparral,2020,27.3,9.2,117,Fiberglass,New,South Padre Island,36,4,54900
+Center Console,Tracker,2017,24.3,6.9,79,Fiberglass,Good,Rockport,107,6,34600
+Bowrider,Nautic Star,2012,27.2,9.4,442,Aluminum,New,Port Aransas,87,4,79400
+Pontoon,Tracker,2021,29.7,9.5,163,Fiberglass,Good,Corpus Christi,93,3,36400
+Bowrider,Sea Hunt,2017,21.5,6.8,364,Fiberglass,Excellent,Port Isabel,30,7,54700
+Bowrider,Tracker,2012,18.1,5.7,85,Fiberglass,Good,Corpus Christi,71,8,24100
+Bowrider,Sea Hunt,2020,17.9,5.9,411,Aluminum,Good,Port Aransas,10,8,47900
+Bay Boat,Robalo,2024,24.4,8.2,318,Fiberglass,New,Corpus Christi,194,4,81300
+Bay Boat,Mako,2018,23.7,8.3,159,Aluminum,New,Port Aransas,33,10,46900
+Bowrider,Robalo,2012,18.6,5.6,408,Aluminum,Fair,South Padre Island,99,7,41100
+Bay Boat,Boston Whaler,2014,28.3,9.4,186,Fiberglass,Good,Corpus Christi,47,7,54400
+Center Console,Mako,2018,29.4,9.8,449,Fiberglass,Good,South Padre Island,39,4,68000
+Pontoon,Mako,2024,19.5,6.5,299,Fiberglass,New,Port Isabel,81,4,70200
+Bowrider,Bayliner,2023,18.9,6.0,243,Fiberglass,Excellent,Corpus Christi,193,6,47200
+Bowrider,Sea Hunt,2023,19.0,5.9,96,Fiberglass,Good,Port Isabel,98,4,38900
+Bowrider,Bennington,2022,21.4,7.3,172,Fiberglass,Fair,South Padre Island,192,8,33300
+Center Console,Chaparral,2018,27.9,8.5,96,Fiberglass,Excellent,Galveston,166,5,49800
+Pontoon,Grady-White,2019,24.3,7.2,394,Fiberglass,Good,South Padre Island,89,3,68600
+Bowrider,Robalo,2021,16.9,5.5,112,Fiberglass,Good,Port Aransas,180,3,44200
+Pontoon,Robalo,2020,22.6,6.8,117,Fiberglass,New,Corpus Christi,72,3,57600
+Bowrider,Tracker,2019,17.3,4.9,121,Fiberglass,Excellent,Galveston,102,6,49800
+Bowrider,Sea Hunt,2012,21.7,6.2,440,Fiberglass,Excellent,Port Isabel,137,1,54800
+Deck Boat,Chaparral,2023,21.6,7.2,438,Aluminum,Excellent,Galveston,119,7,62100
+Center Console,Nautic Star,2010,25.1,9.0,343,Fiberglass,Good,Galveston,166,5,46900
+Deck Boat,Nautic Star,2016,23.7,7.5,102,Fiberglass,Excellent,Galveston,36,7,35200
+Bay Boat,Bennington,2016,28.2,8.2,263,Fiberglass,Excellent,South Padre Island,102,11,49600
+Center Console,Chaparral,2024,16.2,5.6,430,Fiberglass,Good,Corpus Christi,134,10,48500
+Center Console,Nautic Star,2011,26.8,8.1,111,Fiberglass,Good,Galveston,69,7,31900
+Pontoon,Tracker,2017,16.3,5.9,372,Fiberglass,Good,Port Isabel,174,6,42700
+Deck Boat,Boston Whaler,2015,20.3,6.6,81,Fiberglass,Good,Port Aransas,63,8,38900
+Deck Boat,Grady-White,2011,28.3,8.5,376,Fiberglass,Excellent,Port Isabel,63,11,64000
+Pontoon,Bennington,2013,25.7,8.2,279,Fiberglass,Good,Port Isabel,68,6,36000
+Deck Boat,Chaparral,2016,18.4,5.6,407,Fiberglass,Excellent,Port Aransas,136,2,63800
+Pontoon,Bennington,2023,22.9,7.8,230,Fiberglass,Excellent,Galveston,28,9,47900
+Center Console,Robalo,2015,26.1,7.5,369,Fiberglass,New,Rockport,32,1,78600
+Bowrider,Nautic Star,2023,29.1,10.1,390,Fiberglass,Good,South Padre Island,156,9,47400
+Deck Boat,Boston Whaler,2021,24.9,8.5,196,Fiberglass,Good,Rockport,45,2,51900
+Center Console,Robalo,2022,16.3,5.7,315,Fiberglass,Excellent,Port Isabel,25,2,72500
+Bowrider,Tracker,2022,23.0,8.1,247,Fiberglass,Fair,Galveston,56,9,36300
+Pontoon,Sea Hunt,2020,18.1,5.4,236,Fiberglass,Good,Port Isabel,82,8,38300
+Center Console,Bennington,2021,16.7,5.4,374,Fiberglass,New,Rockport,11,7,74700
+Center Console,Robalo,2012,24.4,8.5,159,Aluminum,Good,Rockport,167,9,32900
+Center Console,Sea Hunt,2020,26.9,8.3,119,Fiberglass,Excellent,Port Isabel,27,10,46200
+Bay Boat,Sea Hunt,2010,16.5,4.7,255,Fiberglass,Fair,Port Aransas,83,6,31700
+Center Console,Sea Hunt,2021,27.0,8.2,383,Fiberglass,Excellent,Corpus Christi,44,12,71600
+Pontoon,Boston Whaler,2019,25.9,7.8,136,Aluminum,Excellent,Corpus Christi,62,5,53400
+Deck Boat,Tracker,2021,26.5,9.3,202,Fiberglass,Excellent,Port Aransas,13,3,59000
+Bowrider,Bennington,2019,19.4,6.2,325,Fiberglass,Excellent,Rockport,189,10,45300
+Pontoon,Nautic Star,2015,21.5,7.2,253,Aluminum,Good,Galveston,187,6,34300
+Pontoon,Boston Whaler,2015,17.7,6.3,302,Fiberglass,Good,South Padre Island,29,10,52400
+Deck Boat,Grady-White,2018,19.3,5.9,273,Aluminum,Excellent,Corpus Christi,43,2,62200
+Center Console,Grady-White,2017,20.2,6.9,378,Fiberglass,Good,Rockport,177,3,62300
+Center Console,Mako,2015,20.5,5.8,403,Fiberglass,Fair,South Padre Island,85,1,40900
+Pontoon,Nautic Star,2017,18.5,5.3,243,Fiberglass,Good,Rockport,17,7,35000
+Center Console,Boston Whaler,2018,18.6,5.4,236,Fiberglass,Good,Corpus Christi,31,9,53900
+Center Console,Chaparral,2013,28.6,8.7,179,Aluminum,Excellent,Port Aransas,85,5,48400
+Bay Boat,Chaparral,2019,27.0,8.4,241,Fiberglass,Excellent,Corpus Christi,113,2,54100
+Bowrider,Grady-White,2014,20.8,6.6,388,Aluminum,Fair,Port Aransas,128,5,41800
+Deck Boat,Grady-White,2014,29.3,8.8,263,Fiberglass,Good,Port Isabel,34,5,53400
+Pontoon,Chaparral,2016,19.3,5.5,334,Fiberglass,Good,South Padre Island,77,7,39300
+Deck Boat,Grady-White,2011,21.7,7.3,231,Aluminum,Fair,South Padre Island,55,7,30600
+Center Console,Bennington,2019,27.4,7.7,340,Fiberglass,New,Port Aransas,109,2,82300
+Bay Boat,Sea Hunt,2021,22.2,7.7,342,Aluminum,Good,Port Aransas,67,6,62200
+Center Console,Tracker,2024,19.3,6.8,273,Fiberglass,Excellent,Rockport,44,7,69300
+Pontoon,Sea Hunt,2014,21.2,7.1,425,Fiberglass,New,Port Isabel,163,4,65600
+Center Console,Robalo,2018,23.0,7.5,403,Fiberglass,Good,Rockport,115,5,61700
+Bay Boat,Bayliner,2017,24.7,8.2,134,Fiberglass,Excellent,Rockport,97,7,42700
+Bowrider,Nautic Star,2020,21.7,7.2,160,Fiberglass,Fair,South Padre Island,31,5,34500
+Deck Boat,Bayliner,2019,22.0,7.8,433,Fiberglass,Excellent,Corpus Christi,18,1,58200
+Deck Boat,Bayliner,2022,19.7,7.0,225,Fiberglass,Good,Rockport,160,4,49100
+Deck Boat,Grady-White,2022,23.5,7.4,191,Fiberglass,Good,Rockport,193,9,40100
+Pontoon,Bennington,2011,19.1,6.3,373,Aluminum,Good,Galveston,118,4,39500
+Bay Boat,Chaparral,2015,28.1,9.7,300,Fiberglass,Fair,Corpus Christi,12,9,37900
+Pontoon,Tracker,2019,26.5,7.4,124,Fiberglass,Excellent,Rockport,98,6,38900
+Bowrider,Tracker,2018,21.7,7.0,109,Aluminum,Excellent,Port Isabel,59,6,40800
+Deck Boat,Mako,2017,26.5,8.8,378,Fiberglass,Excellent,Port Aransas,15,9,57000
+Deck Boat,Sea Hunt,2012,16.1,5.4,361,Fiberglass,Excellent,Corpus Christi,32,5,54400
+Center Console,Boston Whaler,2018,20.8,6.4,207,Fiberglass,Fair,Rockport,102,4,40300
+Bay Boat,Bayliner,2021,22.2,6.7,398,Fiberglass,Good,Port Aransas,88,2,49800
+Bowrider,Sea Hunt,2010,22.6,6.7,122,Fiberglass,Excellent,Rockport,114,8,30000
+Deck Boat,Grady-White,2018,26.5,8.6,400,Fiberglass,Excellent,Rockport,140,6,62800
+Bay Boat,Tracker,2023,29.5,10.4,104,Fiberglass,Good,Port Aransas,56,9,36500
+Deck Boat,Sea Hunt,2018,21.3,7.5,313,Fiberglass,Good,Corpus Christi,60,6,42300
+Deck Boat,Grady-White,2024,20.9,6.5,391,Fiberglass,Excellent,Galveston,137,6,82800
+Deck Boat,Sea Hunt,2015,24.5,7.4,307,Fiberglass,Good,South Padre Island,43,5,43900
+Pontoon,Grady-White,2010,19.9,6.8,366,Fiberglass,Good,Port Isabel,19,4,48400
+Bay Boat,Sea Hunt,2020,18.0,6.1,203,Fiberglass,Good,South Padre Island,171,9,36100
+Pontoon,Bayliner,2013,29.5,9.5,183,Aluminum,Excellent,Port Aransas,45,2,43100
+Deck Boat,Chaparral,2010,27.3,8.5,174,Fiberglass,Good,Port Isabel,28,11,36300
+Bowrider,Nautic Star,2012,29.4,8.5,118,Fiberglass,Excellent,Rockport,148,1,35000
+Center Console,Mako,2024,19.0,6.5,178,Fiberglass,Excellent,Galveston,108,6,61800
+Center Console,Mako,2021,16.2,5.3,167,Fiberglass,Good,Port Isabel,33,2,44300
+Deck Boat,Bennington,2014,22.1,6.9,358,Fiberglass,Good,Rockport,170,9,41400
+Deck Boat,Sea Hunt,2018,29.1,10.3,154,Fiberglass,Excellent,Port Isabel,52,4,49000
+Pontoon,Mako,2015,17.9,6.0,137,Aluminum,Fair,Rockport,136,7,24400
+Deck Boat,Bennington,2012,17.6,6.2,349,Fiberglass,New,South Padre Island,131,11,58900
+Bowrider,Mako,2024,17.0,5.4,276,Aluminum,Good,Corpus Christi,166,7,49100
+Deck Boat,Sea Hunt,2022,26.7,8.4,155,Fiberglass,Fair,Galveston,147,3,35900
+Center Console,Chaparral,2015,27.0,9.6,339,Fiberglass,Good,Rockport,142,9,46000
+Center Console,Sea Hunt,2015,25.7,9.2,156,Fiberglass,Good,Port Isabel,15,6,43300
+Bowrider,Boston Whaler,2022,16.7,6.0,369,Fiberglass,Good,Rockport,187,1,57800
+Center Console,Bayliner,2016,26.1,9.0,87,Aluminum,Good,Galveston,29,6,37900
+Bowrider,Boston Whaler,2015,22.3,7.1,296,Aluminum,Good,Galveston,54,9,63300
+Bay Boat,Boston Whaler,2015,18.2,5.4,298,Aluminum,Good,Corpus Christi,91,6,43200
+Center Console,Robalo,2016,20.1,6.2,214,Fiberglass,Excellent,Corpus Christi,61,8,52000
+Bay Boat,Boston Whaler,2017,23.0,8.2,333,Aluminum,Good,Corpus Christi,120,8,59200
+Pontoon,Bennington,2010,20.6,6.4,217,Fiberglass,Excellent,Port Isabel,15,6,36100
+Deck Boat,Bayliner,2017,29.6,10.1,320,Aluminum,Fair,Rockport,93,5,38600
+Pontoon,Nautic Star,2016,22.6,8.0,158,Fiberglass,Excellent,Port Aransas,73,8,37800
+Pontoon,Bennington,2014,21.2,7.6,288,Fiberglass,Excellent,South Padre Island,131,5,44000
+Deck Boat,Robalo,2015,25.4,9.0,358,Fiberglass,Fair,South Padre Island,106,3,42700
+Pontoon,Bayliner,2016,25.1,8.1,437,Fiberglass,Excellent,Port Aransas,152,5,54900
+Bowrider,Boston Whaler,2015,16.0,5.1,210,Fiberglass,Excellent,South Padre Island,37,10,57300
+Deck Boat,Bayliner,2023,24.7,8.9,252,Aluminum,Good,South Padre Island,190,4,47500
+Center Console,Bennington,2017,19.4,5.8,253,Aluminum,Excellent,Rockport,81,4,55700
+Deck Boat,Bayliner,2017,21.3,6.3,397,Aluminum,Excellent,Rockport,73,3,54700
+Bowrider,Bennington,2013,25.9,9.2,435,Fiberglass,Good,Corpus Christi,111,2,54700
+Bay Boat,Robalo,2023,23.8,8.0,317,Fiberglass,Excellent,South Padre Island,36,12,69100
+Bowrider,Mako,2010,21.2,6.8,383,Fiberglass,Excellent,Port Isabel,163,6,51300
+Deck Boat,Boston Whaler,2018,18.3,5.3,106,Fiberglass,New,Port Isabel,56,8,49600
+Pontoon,Nautic Star,2012,23.1,7.4,359,Fiberglass,Excellent,Rockport,185,9,41000
+Bay Boat,Nautic Star,2021,20.5,7.3,378,Fiberglass,Excellent,Rockport,33,5,72500
+Bowrider,Mako,2015,28.8,9.5,343,Fiberglass,New,Corpus Christi,173,9,57200
+Center Console,Grady-White,2014,23.5,7.3,294,Fiberglass,Good,Port Isabel,81,12,55700
+Bay Boat,Grady-White,2010,28.1,9.1,412,Fiberglass,Good,Rockport,123,8,51400
+Deck Boat,Robalo,2021,21.5,7.5,320,Fiberglass,New,Port Isabel,175,8,73500
+Deck Boat,Boston Whaler,2015,27.6,9.7,392,Fiberglass,Excellent,Port Isabel,30,6,67900
+Deck Boat,Bennington,2013,16.8,5.2,142,Aluminum,Fair,Port Aransas,72,10,20900
+Center Console,Robalo,2022,20.2,6.6,324,Fiberglass,Good,Corpus Christi,189,2,55800
+Bay Boat,Bayliner,2010,17.1,5.2,239,Aluminum,Excellent,Galveston,34,8,36900
+Center Console,Bayliner,2017,16.4,5.2,400,Fiberglass,Good,South Padre Island,25,5,55800
+Deck Boat,Chaparral,2012,28.9,8.6,405,Fiberglass,Excellent,Corpus Christi,106,7,54200
+Bay Boat,Nautic Star,2011,26.0,8.4,391,Fiberglass,Good,Port Aransas,9,10,40900
+Deck Boat,Bayliner,2010,24.8,8.1,155,Aluminum,Fair,Port Isabel,198,7,23900
+Deck Boat,Mako,2012,23.5,7.2,259,Fiberglass,Fair,South Padre Island,181,1,26700
+Pontoon,Robalo,2024,24.0,7.2,75,Fiberglass,Excellent,Port Aransas,41,8,47300
+Deck Boat,Chaparral,2016,24.9,7.3,442,Fiberglass,Excellent,Galveston,38,11,60100
+Pontoon,Chaparral,2024,27.6,8.0,171,Fiberglass,Excellent,Galveston,156,7,47900
+Deck Boat,Mako,2014,24.4,8.2,309,Fiberglass,Excellent,Port Aransas,106,10,46800
+Pontoon,Grady-White,2021,26.5,7.9,257,Fiberglass,Excellent,Port Isabel,165,9,65000
+Pontoon,Mako,2011,19.9,5.8,414,Fiberglass,Good,Galveston,193,10,37900
+Bay Boat,Mako,2011,29.7,10.7,382,Fiberglass,Excellent,Corpus Christi,83,5,52800
+Bay Boat,Bennington,2010,16.4,4.9,366,Fiberglass,Fair,Port Aransas,54,6,35200
+Pontoon,Bayliner,2023,21.4,7.5,316,Fiberglass,New,Port Isabel,125,10,53900
+Bay Boat,Bayliner,2020,28.3,9.3,119,Aluminum,New,Corpus Christi,128,11,51300
+Deck Boat,Grady-White,2021,18.5,6.2,419,Aluminum,Fair,Corpus Christi,89,3,49200
+Center Console,Sea Hunt,2023,18.0,5.8,98,Fiberglass,Good,Galveston,63,3,39800
+Deck Boat,Chaparral,2014,21.1,6.2,245,Fiberglass,Excellent,South Padre Island,56,5,44300
+Deck Boat,Mako,2020,22.0,7.7,217,Fiberglass,Good,Port Aransas,106,9,42400
+Pontoon,Grady-White,2017,29.1,10.1,221,Fiberglass,Excellent,South Padre Island,88,10,56400
+Deck Boat,Tracker,2018,27.7,8.5,441,Fiberglass,Excellent,Port Aransas,94,7,66100
+Bay Boat,Tracker,2019,22.5,7.7,161,Fiberglass,Good,South Padre Island,23,3,43200
+Bowrider,Bayliner,2017,29.6,9.6,292,Aluminum,Excellent,Port Aransas,176,5,54600
+Deck Boat,Grady-White,2010,25.0,8.8,156,Fiberglass,Good,Galveston,142,10,28200
+Bowrider,Mako,2011,28.2,9.7,416,Aluminum,Excellent,Rockport,184,5,58400
+Pontoon,Grady-White,2017,19.4,5.5,351,Fiberglass,Good,Port Isabel,166,2,42400
+Deck Boat,Bennington,2018,22.8,8.0,230,Fiberglass,Good,Corpus Christi,125,5,35800
+Bowrider,Bennington,2020,16.4,5.9,105,Fiberglass,Excellent,Port Aransas,64,9,37800
+Center Console,Mako,2018,16.1,5.5,132,Fiberglass,New,Port Aransas,132,6,51400
+Bowrider,Tracker,2012,25.9,7.5,166,Aluminum,Excellent,Galveston,115,3,39600
+Bowrider,Boston Whaler,2015,17.7,6.1,227,Fiberglass,Good,Galveston,185,5,53700
+Deck Boat,Bayliner,2016,23.7,7.9,407,Fiberglass,Good,Port Isabel,50,12,49400
+Pontoon,Grady-White,2024,25.7,7.9,119,Fiberglass,Good,Port Isabel,10,6,47600
+Deck Boat,Chaparral,2017,16.5,5.8,291,Aluminum,Excellent,Rockport,29,6,54000
+Bay Boat,Tracker,2019,22.3,7.3,205,Fiberglass,Excellent,Port Aransas,39,3,57500
+Pontoon,Boston Whaler,2021,25.6,8.9,92,Aluminum,Good,Corpus Christi,134,5,47300
+Bay Boat,Robalo,2015,28.5,9.5,307,Aluminum,Excellent,Port Isabel,33,9,53300
+Bay Boat,Mako,2024,20.2,6.1,339,Fiberglass,Good,Port Isabel,31,9,49100
+Deck Boat,Bayliner,2020,29.6,10.6,434,Fiberglass,Excellent,Port Aransas,82,6,58000
+Bowrider,Bayliner,2022,27.8,9.1,265,Fiberglass,Excellent,Corpus Christi,157,10,53200
+Bay Boat,Boston Whaler,2021,25.1,8.1,197,Aluminum,Good,Rockport,87,5,53400
+Deck Boat,Nautic Star,2019,21.5,6.7,395,Fiberglass,Good,Galveston,57,10,46200
+Center Console,Boston Whaler,2010,26.0,7.6,167,Fiberglass,Good,Port Isabel,60,1,45100
+Center Console,Mako,2018,27.4,9.2,330,Fiberglass,Excellent,Galveston,164,5,52600
+Center Console,Tracker,2011,20.2,6.4,428,Fiberglass,Fair,Rockport,89,10,33400
+Center Console,Sea Hunt,2019,29.9,10.6,76,Fiberglass,Good,Rockport,76,11,36700
+Bowrider,Tracker,2020,28.7,10.3,421,Fiberglass,Fair,Corpus Christi,155,8,43400
+Bowrider,Sea Hunt,2018,22.8,7.8,152,Fiberglass,Good,Corpus Christi,76,8,35500
+Bowrider,Tracker,2014,26.1,7.8,255,Fiberglass,Good,Rockport,74,9,38500
+Center Console,Grady-White,2010,23.3,7.9,171,Fiberglass,Good,Port Aransas,151,8,37300
+Center Console,Sea Hunt,2020,26.7,7.5,129,Fiberglass,Excellent,Port Aransas,68,4,45700
+Bay Boat,Mako,2020,27.6,9.6,338,Aluminum,Excellent,Rockport,104,6,59100
+Deck Boat,Nautic Star,2017,16.3,5.2,255,Fiberglass,Good,Port Aransas,134,8,36900
+Bay Boat,Chaparral,2020,17.1,6.1,265,Fiberglass,New,Corpus Christi,44,7,58900
+Deck Boat,Mako,2021,20.7,6.4,256,Aluminum,New,Corpus Christi,30,10,57300
+Center Console,Nautic Star,2017,28.8,8.7,355,Fiberglass,Fair,South Padre Island,170,6,45000
+Pontoon,Boston Whaler,2010,21.6,7.8,437,Fiberglass,New,Galveston,62,3,78200
+Bay Boat,Sea Hunt,2023,28.4,9.2,267,Fiberglass,Good,Rockport,71,4,51500
+Center Console,Robalo,2017,22.5,7.9,133,Aluminum,Good,Port Isabel,120,10,34800
+Pontoon,Bennington,2020,20.0,7.1,197,Fiberglass,Excellent,Galveston,25,1,48200
+Bowrider,Chaparral,2023,28.6,9.2,261,Fiberglass,Fair,Rockport,13,10,39800
+Center Console,Sea Hunt,2015,23.8,7.5,113,Fiberglass,Excellent,Port Aransas,86,2,39000
+Deck Boat,Nautic Star,2019,21.0,6.8,160,Fiberglass,Fair,South Padre Island,193,5,31200
+Bowrider,Sea Hunt,2010,16.6,5.8,150,Fiberglass,Good,Port Aransas,116,9,29300
+Pontoon,Tracker,2023,17.6,6.3,439,Fiberglass,Excellent,Corpus Christi,117,5,69700
+Bowrider,Nautic Star,2010,18.0,5.5,225,Aluminum,Excellent,Port Isabel,123,9,36700
+Deck Boat,Tracker,2018,21.1,7.2,404,Aluminum,Excellent,Port Aransas,172,2,62200
+Bay Boat,Boston Whaler,2015,24.5,7.4,281,Fiberglass,Excellent,South Padre Island,167,6,57400
+Pontoon,Sea Hunt,2010,20.3,6.7,264,Fiberglass,Excellent,South Padre Island,9,7,38400
+Center Console,Chaparral,2016,16.9,5.8,426,Aluminum,Fair,Corpus Christi,110,10,38400
+Bay Boat,Mako,2024,19.7,6.9,334,Fiberglass,Excellent,Port Isabel,111,2,63800
+Pontoon,Mako,2012,21.7,6.9,164,Fiberglass,Good,Port Aransas,48,5,35800
+Pontoon,Sea Hunt,2014,29.9,9.3,180,Aluminum,Excellent,Corpus Christi,195,7,40600
+Center Console,Mako,2012,21.5,6.5,324,Fiberglass,Fair,South Padre Island,56,12,32100
+Deck Boat,Chaparral,2011,17.2,5.0,75,Aluminum,Excellent,Corpus Christi,167,10,23700
+Bay Boat,Sea Hunt,2013,24.1,7.5,132,Fiberglass,Excellent,Port Isabel,24,10,42000
+Deck Boat,Mako,2018,28.9,10.1,102,Fiberglass,Good,Port Aransas,122,6,38500
+Bowrider,Tracker,2021,27.0,8.5,342,Aluminum,New,Port Aransas,148,7,72500
+Center Console,Mako,2020,27.7,8.5,240,Fiberglass,Good,Port Aransas,103,10,45600
+Bowrider,Bayliner,2021,29.0,9.8,79,Fiberglass,Excellent,Corpus Christi,25,10,43800
+Deck Boat,Chaparral,2020,24.9,7.4,353,Fiberglass,Good,Corpus Christi,29,9,44100
+Pontoon,Sea Hunt,2015,29.9,9.0,320,Fiberglass,Good,Galveston,123,9,42300
+Deck Boat,Tracker,2023,16.5,5.9,344,Fiberglass,Good,Port Aransas,173,10,41400
+Bay Boat,Nautic Star,2012,27.7,7.9,136,Fiberglass,New,Corpus Christi,121,3,46500
+Pontoon,Nautic Star,2020,28.0,8.8,403,Fiberglass,Excellent,Port Aransas,24,5,58000
+Pontoon,Tracker,2011,28.8,9.4,142,Fiberglass,Excellent,Port Aransas,158,12,25000
+Center Console,Tracker,2021,22.7,6.8,289,Fiberglass,Excellent,South Padre Island,94,7,57200
+Pontoon,Sea Hunt,2011,27.0,8.2,284,Aluminum,New,Port Isabel,19,3,49000
+Pontoon,Mako,2013,18.7,5.6,157,Fiberglass,Fair,Port Aransas,76,6,23900
+Bay Boat,Boston Whaler,2015,24.4,7.5,215,Fiberglass,Good,Rockport,44,7,50400
+Bowrider,Chaparral,2020,21.0,7.4,94,Fiberglass,Good,Rockport,197,9,38300
+Pontoon,Mako,2010,24.3,7.6,251,Fiberglass,Excellent,Corpus Christi,182,9,37300
+Bay Boat,Sea Hunt,2013,25.5,8.0,328,Fiberglass,Excellent,Galveston,25,1,53400
+Center Console,Robalo,2015,20.9,6.5,190,Fiberglass,Good,South Padre Island,116,6,45600
+Pontoon,Bayliner,2020,19.0,6.8,276,Fiberglass,Excellent,Galveston,6,1,51300
+Bay Boat,Bayliner,2024,20.5,5.9,432,Aluminum,Excellent,Port Aransas,94,10,66200
+Pontoon,Nautic Star,2019,25.3,8.8,162,Aluminum,Good,South Padre Island,35,3,39700
+Deck Boat,Mako,2017,25.5,7.8,183,Fiberglass,Good,Corpus Christi,150,7,40200
+Deck Boat,Boston Whaler,2015,26.4,9.4,119,Aluminum,Fair,Port Isabel,19,7,27500
+Center Console,Mako,2022,17.8,5.4,278,Aluminum,Excellent,Galveston,180,7,65700
+Pontoon,Sea Hunt,2011,27.5,7.9,151,Fiberglass,Good,Corpus Christi,50,7,34800
+Center Console,Chaparral,2011,25.6,8.2,395,Fiberglass,New,Galveston,56,8,66000
+Deck Boat,Nautic Star,2013,16.4,4.9,184,Fiberglass,Excellent,Port Isabel,177,7,31800
+Bowrider,Bayliner,2014,20.7,7.0,324,Fiberglass,Good,Rockport,180,2,47400
+Bowrider,Bayliner,2016,22.5,7.5,145,Fiberglass,Excellent,Port Aransas,23,5,40800
+Bowrider,Chaparral,2024,21.0,7.0,196,Fiberglass,Good,Port Isabel,26,7,47200
+Bowrider,Nautic Star,2019,17.6,5.2,139,Fiberglass,Excellent,Port Aransas,171,5,38200
+Deck Boat,Nautic Star,2015,18.9,6.4,282,Aluminum,New,Port Aransas,195,9,59000
+Bay Boat,Tracker,2013,16.3,5.0,85,Aluminum,Fair,Corpus Christi,100,5,20600
+Bowrider,Tracker,2019,17.3,6.2,106,Fiberglass,Excellent,Port Isabel,37,9,38200
+Bowrider,Sea Hunt,2013,19.7,6.7,263,Fiberglass,Good,Rockport,34,3,33500
+Bowrider,Sea Hunt,2024,27.5,9.0,279,Fiberglass,Excellent,Galveston,56,9,57000
+Pontoon,Nautic Star,2017,23.4,8.2,198,Fiberglass,Fair,Rockport,138,3,29100
+Center Console,Bayliner,2018,21.9,7.2,236,Aluminum,Excellent,Port Aransas,23,6,58500
+Deck Boat,Tracker,2023,25.3,8.2,231,Aluminum,Excellent,Corpus Christi,130,5,53000
+Deck Boat,Tracker,2014,23.6,7.1,359,Aluminum,Good,Port Isabel,161,7,47900
+Bowrider,Mako,2017,17.8,5.9,242,Aluminum,Excellent,Port Isabel,33,4,44700
+Bay Boat,Nautic Star,2017,19.1,5.9,392,Aluminum,Excellent,Corpus Christi,196,9,52400
+Bay Boat,Bennington,2014,19.1,5.4,156,Fiberglass,Fair,Corpus Christi,197,7,25900
+Center Console,Mako,2010,24.4,8.4,149,Fiberglass,Good,Galveston,62,12,34100
+Bowrider,Sea Hunt,2014,22.5,6.4,226,Fiberglass,Good,Corpus Christi,26,8,38800
+Pontoon,Tracker,2011,21.4,7.1,105,Fiberglass,Good,Rockport,68,7,27900
+Center Console,Sea Hunt,2020,23.8,7.0,326,Fiberglass,Good,Port Isabel,55,9,51900
+Deck Boat,Nautic Star,2010,29.6,9.3,221,Fiberglass,Fair,Port Aransas,59,4,31900
+Deck Boat,Tracker,2014,20.4,7.1,212,Aluminum,Good,Port Aransas,185,7,32400
+Deck Boat,Sea Hunt,2023,23.3,6.7,275,Fiberglass,Excellent,Port Isabel,35,5,59300
+Bowrider,Robalo,2018,22.7,7.6,105,Aluminum,New,South Padre Island,66,8,57900
+Center Console,Bayliner,2020,26.0,8.6,216,Aluminum,Good,Port Aransas,158,1,40600
+Bay Boat,Mako,2020,26.2,9.2,439,Fiberglass,Good,Corpus Christi,16,6,61800
+Center Console,Tracker,2014,26.2,7.7,310,Fiberglass,Good,Port Isabel,16,7,50400
+Bay Boat,Chaparral,2019,18.8,6.5,290,Fiberglass,Excellent,Port Isabel,63,6,60200
+Bowrider,Tracker,2013,22.3,7.0,264,Fiberglass,Excellent,Corpus Christi,193,4,49300
+Bowrider,Bennington,2019,27.4,8.6,250,Fiberglass,Good,Rockport,168,6,46700
+Center Console,Nautic Star,2020,21.3,6.6,426,Aluminum,Good,Corpus Christi,185,10,56000
+Pontoon,Boston Whaler,2023,29.8,9.3,423,Fiberglass,Excellent,Corpus Christi,173,4,76800
+Bay Boat,Mako,2023,21.1,6.8,228,Fiberglass,Good,South Padre Island,28,5,47600
+Center Console,Robalo,2010,23.0,6.6,421,Fiberglass,Good,South Padre Island,83,12,46600
+Bay Boat,Bennington,2014,22.6,7.1,105,Fiberglass,Fair,Port Isabel,108,11,27600
+Center Console,Tracker,2018,22.1,7.3,194,Fiberglass,New,Rockport,37,1,60200
+Deck Boat,Bayliner,2014,27.8,8.9,188,Fiberglass,Fair,Corpus Christi,198,6,27500
+Bowrider,Grady-White,2019,18.2,5.3,336,Fiberglass,Good,Galveston,122,2,58700
+Deck Boat,Grady-White,2022,23.9,7.4,302,Fiberglass,Good,Port Isabel,171,11,59900
+Pontoon,Robalo,2013,24.7,7.8,252,Fiberglass,New,Galveston,55,6,60000
+Deck Boat,Chaparral,2023,27.9,9.3,171,Fiberglass,Good,Port Aransas,144,6,41200
+Center Console,Grady-White,2023,24.5,8.6,265,Fiberglass,Good,Corpus Christi,25,4,50000
+Center Console,Bennington,2023,29.4,9.5,175,Fiberglass,Excellent,South Padre Island,9,7,59100
+Bay Boat,Bayliner,2011,28.2,9.4,261,Fiberglass,Excellent,South Padre Island,129,3,44700
+Bay Boat,Grady-White,2014,20.9,6.0,202,Fiberglass,Good,South Padre Island,18,9,45200
+Bowrider,Bayliner,2011,28.0,10.0,408,Fiberglass,Good,Corpus Christi,58,6,52500
+Bowrider,Chaparral,2011,29.4,9.0,354,Fiberglass,New,Corpus Christi,159,7,65500
+Bowrider,Chaparral,2010,19.6,6.0,140,Fiberglass,Excellent,Galveston,102,10,35900
+Pontoon,Bennington,2016,24.5,7.3,427,Fiberglass,Excellent,Port Isabel,78,3,62500
+Deck Boat,Boston Whaler,2011,19.9,5.7,322,Fiberglass,Fair,Galveston,61,3,46000
+Pontoon,Mako,2014,25.1,8.6,206,Aluminum,Fair,South Padre Island,135,6,31600
+Deck Boat,Tracker,2024,17.3,5.2,273,Fiberglass,Excellent,Port Isabel,191,9,55900
+Pontoon,Bayliner,2023,26.3,8.0,148,Aluminum,Excellent,Rockport,149,2,46300
+Pontoon,Mako,2024,21.9,6.5,92,Fiberglass,Excellent,Rockport,74,9,35900
+Pontoon,Robalo,2010,24.2,8.7,232,Fiberglass,Good,Galveston,87,6,44200
+Pontoon,Mako,2019,16.4,5.6,368,Fiberglass,Fair,Rockport,25,7,35700
+Center Console,Robalo,2019,25.7,9.1,206,Aluminum,Good,Galveston,32,7,55800
+Pontoon,Boston Whaler,2011,22.9,8.0,219,Aluminum,New,Galveston,57,2,53900
+Bay Boat,Bayliner,2023,24.8,8.7,446,Fiberglass,New,Galveston,80,4,91800
+Pontoon,Bayliner,2016,20.4,6.5,445,Aluminum,Excellent,Rockport,198,8,41600
+Deck Boat,Bayliner,2024,18.0,5.3,248,Fiberglass,Good,Port Isabel,174,6,44100
+Bowrider,Bayliner,2011,22.1,6.8,91,Fiberglass,Good,Port Aransas,27,7,28300
+Bay Boat,Bayliner,2019,29.2,8.9,329,Fiberglass,Good,Rockport,69,11,51400
+Bowrider,Bayliner,2011,19.2,6.5,343,Aluminum,Excellent,Corpus Christi,15,1,51300
+Bowrider,Boston Whaler,2024,25.5,7.2,417,Fiberglass,Fair,Galveston,17,6,55100
+Bay Boat,Mako,2019,16.7,4.9,430,Aluminum,Excellent,Port Isabel,78,5,66400
+Deck Boat,Boston Whaler,2011,26.1,8.7,310,Fiberglass,Good,Galveston,192,2,55500
+Deck Boat,Grady-White,2013,19.3,5.6,115,Fiberglass,Fair,Port Aransas,41,12,32800
+Pontoon,Chaparral,2015,22.3,6.3,168,Fiberglass,Good,Galveston,137,12,33600
+Pontoon,Bennington,2010,21.1,6.1,343,Aluminum,Fair,South Padre Island,81,5,29900
+Bowrider,Sea Hunt,2010,17.6,5.9,302,Fiberglass,Excellent,South Padre Island,110,11,36300
+Bay Boat,Mako,2023,20.8,6.1,238,Fiberglass,Good,Port Aransas,174,1,53300
+Deck Boat,Nautic Star,2024,20.9,6.1,225,Fiberglass,New,Galveston,166,12,61900
+Deck Boat,Sea Hunt,2018,23.3,7.0,341,Fiberglass,Good,Port Aransas,166,9,44100
+Bowrider,Mako,2023,29.6,10.1,233,Fiberglass,Excellent,South Padre Island,85,4,51700
+Bay Boat,Robalo,2019,22.6,6.7,133,Fiberglass,New,Port Isabel,14,7,53500
+Deck Boat,Chaparral,2010,28.8,8.1,442,Fiberglass,New,Rockport,197,9,63000
+Center Console,Mako,2020,22.5,7.9,206,Fiberglass,Excellent,South Padre Island,198,5,55000
+Bowrider,Bennington,2010,17.5,6.1,179,Fiberglass,Good,Port Isabel,172,5,26100
+Bay Boat,Grady-White,2022,19.2,5.7,100,Aluminum,Good,Corpus Christi,98,7,47800
+Bay Boat,Chaparral,2015,21.7,6.5,250,Fiberglass,Excellent,Port Isabel,59,3,43100
+Deck Boat,Sea Hunt,2012,20.6,6.1,444,Aluminum,Fair,South Padre Island,39,3,42900
+Deck Boat,Chaparral,2013,28.1,9.5,134,Aluminum,Fair,Rockport,77,4,28600
+Bowrider,Sea Hunt,2020,25.5,7.7,166,Fiberglass,New,Port Isabel,70,8,52600
+Deck Boat,Tracker,2022,24.1,8.5,141,Fiberglass,Excellent,Galveston,58,5,52000
+Deck Boat,Sea Hunt,2018,22.9,7.9,110,Fiberglass,Good,Galveston,190,6,35700
+Center Console,Bayliner,2012,21.6,7.1,301,Fiberglass,Good,Rockport,133,4,49500
+Center Console,Mako,2023,24.6,6.9,186,Fiberglass,Excellent,Port Aransas,48,4,58600
+Bay Boat,Nautic Star,2021,17.7,6.2,356,Fiberglass,Good,Port Aransas,129,7,50900
+Bowrider,Chaparral,2016,18.3,6.2,225,Fiberglass,New,South Padre Island,142,2,51300
+Bowrider,Grady-White,2018,20.2,6.9,313,Fiberglass,Excellent,South Padre Island,106,8,62400
+Pontoon,Grady-White,2024,18.4,5.3,108,Aluminum,Good,Rockport,189,5,50200
+Pontoon,Bennington,2015,25.5,8.6,198,Fiberglass,Good,Port Aransas,193,8,32600
+Bay Boat,Bayliner,2010,16.3,5.6,230,Fiberglass,Good,Galveston,89,5,36500
+Center Console,Tracker,2012,18.2,6.5,97,Aluminum,New,Corpus Christi,97,10,35500
+Center Console,Bennington,2019,28.6,9.3,232,Fiberglass,Excellent,Corpus Christi,47,2,47900
+Bay Boat,Boston Whaler,2024,30.0,9.6,251,Fiberglass,New,Port Isabel,157,10,84300
+Bay Boat,Grady-White,2021,22.8,7.2,226,Aluminum,Excellent,Port Isabel,186,4,66700
+Center Console,Nautic Star,2019,22.9,7.7,264,Fiberglass,New,Port Isabel,133,1,63800
+Bay Boat,Nautic Star,2014,26.8,9.5,373,Fiberglass,Good,Port Aransas,44,7,43100
+Center Console,Sea Hunt,2016,16.5,5.4,363,Fiberglass,Good,Galveston,106,4,51800
+Pontoon,Nautic Star,2010,22.0,6.6,80,Aluminum,Good,Rockport,159,6,25100
+Bowrider,Sea Hunt,2015,17.4,4.9,315,Fiberglass,Excellent,Port Aransas,13,9,43400
+Pontoon,Mako,2019,21.6,7.1,414,Fiberglass,New,Rockport,120,9,55200
+Deck Boat,Robalo,2023,29.8,10.4,401,Fiberglass,Good,Rockport,133,7,60600
+Deck Boat,Grady-White,2023,26.6,7.6,196,Fiberglass,New,South Padre Island,109,12,73900
+Bay Boat,Bennington,2022,29.8,9.3,368,Fiberglass,Fair,South Padre Island,130,6,47800
+Center Console,Mako,2010,26.4,9.4,375,Fiberglass,New,Port Aransas,179,1,58500
+Deck Boat,Bayliner,2022,24.5,7.8,212,Aluminum,Good,Rockport,29,9,42800
+Deck Boat,Robalo,2013,26.6,7.9,400,Fiberglass,Fair,Port Isabel,116,4,46100
+Center Console,Chaparral,2019,25.2,7.8,312,Fiberglass,Good,Port Isabel,160,3,48400
+Deck Boat,Robalo,2024,22.5,7.0,356,Fiberglass,Good,Rockport,165,2,58800
+Bay Boat,Grady-White,2023,20.1,5.8,355,Fiberglass,Good,South Padre Island,96,5,73700
+Center Console,Grady-White,2019,23.3,7.8,368,Fiberglass,New,Rockport,199,5,81000
+Pontoon,Sea Hunt,2014,19.6,6.4,433,Fiberglass,Good,Port Aransas,68,5,50700
+Deck Boat,Mako,2017,22.8,7.6,396,Fiberglass,Fair,Port Isabel,90,7,43900
+Pontoon,Sea Hunt,2020,18.0,5.9,233,Fiberglass,Fair,Port Aransas,165,8,29300
+Pontoon,Nautic Star,2017,23.9,6.7,285,Fiberglass,Excellent,South Padre Island,90,11,43700
+Bowrider,Chaparral,2016,19.4,5.7,318,Fiberglass,Excellent,Corpus Christi,71,2,56000
+Bowrider,Bennington,2016,20.1,5.9,396,Fiberglass,Good,Corpus Christi,113,3,49400
+Pontoon,Nautic Star,2018,23.0,6.6,222,Aluminum,Good,South Padre Island,126,7,30900
+Bowrider,Bennington,2010,18.3,6.2,192,Aluminum,Excellent,Galveston,194,2,35700
+Deck Boat,Bennington,2024,29.5,8.5,351,Aluminum,Excellent,Corpus Christi,125,5,67700
+Bowrider,Mako,2011,22.3,7.4,432,Aluminum,Excellent,Port Isabel,41,7,57100
+Pontoon,Sea Hunt,2024,20.9,6.2,416,Fiberglass,Good,Corpus Christi,15,9,46700
+Pontoon,Nautic Star,2010,16.4,4.7,130,Aluminum,Excellent,Port Isabel,193,4,28700
+Bowrider,Grady-White,2017,27.8,8.1,419,Fiberglass,New,Port Aransas,87,8,90600
+Deck Boat,Bennington,2016,24.8,8.0,370,Fiberglass,New,South Padre Island,44,7,63600
+Pontoon,Chaparral,2018,21.8,7.2,133,Fiberglass,Fair,Corpus Christi,48,10,22500
+Bay Boat,Bayliner,2016,19.4,6.7,77,Fiberglass,New,Rockport,25,5,49300
+Bowrider,Nautic Star,2023,26.4,7.7,151,Fiberglass,New,Rockport,43,8,56700
+Pontoon,Bennington,2010,29.2,9.6,423,Fiberglass,Good,Corpus Christi,157,8,46000
+Pontoon,Nautic Star,2024,21.3,7.3,358,Fiberglass,Excellent,Corpus Christi,132,4,52600
+Deck Boat,Tracker,2020,17.9,5.5,290,Aluminum,Fair,Galveston,121,7,34600
+Bowrider,Bennington,2021,17.5,5.0,311,Fiberglass,Fair,Port Isabel,7,8,38700
+Center Console,Boston Whaler,2012,16.1,4.7,229,Fiberglass,Excellent,Corpus Christi,136,4,54400
+Center Console,Nautic Star,2010,26.4,7.6,414,Fiberglass,Excellent,Port Aransas,193,6,52100
+Deck Boat,Robalo,2015,29.7,10.4,133,Fiberglass,Excellent,Galveston,185,6,36700
+Pontoon,Bayliner,2014,29.9,9.3,192,Fiberglass,New,Corpus Christi,82,9,52100
+Bowrider,Bennington,2021,27.0,8.7,150,Fiberglass,Excellent,Port Aransas,122,1,48900
+Deck Boat,Bayliner,2023,18.3,6.2,393,Fiberglass,New,Corpus Christi,63,6,78800
+Pontoon,Grady-White,2016,29.7,9.2,277,Fiberglass,New,South Padre Island,178,3,74600
+Deck Boat,Nautic Star,2021,20.6,6.8,331,Aluminum,Good,Rockport,184,7,49400
+Bowrider,Mako,2010,20.7,5.9,419,Aluminum,New,South Padre Island,48,8,57300
+Pontoon,Mako,2021,25.6,8.2,148,Fiberglass,New,Port Aransas,99,6,54500
+Deck Boat,Grady-White,2011,16.7,4.8,436,Fiberglass,Good,South Padre Island,51,7,58300
+Bowrider,Mako,2020,27.6,8.3,122,Aluminum,Excellent,Galveston,124,5,47700
+Center Console,Boston Whaler,2015,30.0,9.1,357,Fiberglass,New,Corpus Christi,62,5,106700
+Bowrider,Tracker,2016,26.9,9.1,338,Fiberglass,New,Corpus Christi,140,8,54800
+Center Console,Mako,2014,26.9,9.0,384,Fiberglass,Excellent,Port Aransas,196,3,53300
+Bay Boat,Chaparral,2016,21.5,7.3,134,Fiberglass,Excellent,Port Isabel,174,9,41200
+Bowrider,Chaparral,2023,16.9,4.8,434,Fiberglass,Good,Rockport,40,7,51900
+Pontoon,Nautic Star,2022,27.1,9.7,372,Fiberglass,Fair,Corpus Christi,30,10,44800
+Bowrider,Grady-White,2015,24.4,6.9,116,Fiberglass,Excellent,Port Aransas,163,4,53500
+Pontoon,Robalo,2014,28.7,9.9,283,Fiberglass,Excellent,South Padre Island,20,6,59100
+Pontoon,Boston Whaler,2017,17.6,6.0,381,Fiberglass,Good,Port Aransas,83,1,58300
+Bay Boat,Boston Whaler,2020,20.3,6.6,253,Fiberglass,Good,Port Isabel,198,11,49000
+Center Console,Tracker,2012,21.0,6.6,217,Aluminum,Excellent,Port Isabel,92,8,36800
+Center Console,Bennington,2020,25.6,8.7,178,Fiberglass,New,Port Aransas,6,7,69000
+Bay Boat,Chaparral,2024,27.0,9.2,268,Fiberglass,Excellent,Corpus Christi,195,8,50600
+Center Console,Robalo,2022,29.5,8.6,443,Fiberglass,Good,Port Aransas,143,4,82500
+Deck Boat,Nautic Star,2018,20.1,6.9,302,Aluminum,New,Galveston,69,7,62100
+Pontoon,Nautic Star,2014,22.9,6.6,345,Fiberglass,Excellent,Rockport,124,9,44700
+Bowrider,Chaparral,2014,16.4,5.2,367,Aluminum,Excellent,South Padre Island,124,2,52800
+Deck Boat,Boston Whaler,2021,19.5,6.5,366,Fiberglass,Excellent,Port Aransas,112,12,71300
+Bowrider,Mako,2016,21.2,7.3,225,Fiberglass,Good,Port Aransas,192,10,36200
+Bowrider,Chaparral,2011,24.3,7.7,363,Fiberglass,Good,Corpus Christi,158,12,46800
+Bowrider,Mako,2020,22.6,6.8,198,Fiberglass,Good,Corpus Christi,55,9,44900
+Deck Boat,Robalo,2012,21.1,6.7,294,Aluminum,Excellent,South Padre Island,198,5,50300
+Bay Boat,Sea Hunt,2024,24.7,7.4,188,Aluminum,New,Galveston,192,7,59100
+Bowrider,Tracker,2016,27.6,8.9,427,Fiberglass,Good,Corpus Christi,14,3,61300
+Bay Boat,Tracker,2015,19.4,6.1,348,Aluminum,Good,Port Aransas,62,8,37200
+Deck Boat,Mako,2010,20.8,7.1,293,Fiberglass,New,Port Isabel,124,3,52900
+Center Console,Sea Hunt,2012,25.9,7.7,244,Fiberglass,Excellent,Port Isabel,176,10,47200
+Pontoon,Tracker,2024,26.9,8.0,270,Fiberglass,Good,Galveston,144,4,45600
+Pontoon,Nautic Star,2018,27.6,8.8,367,Fiberglass,Good,Galveston,116,3,52700
+Center Console,Sea Hunt,2023,18.9,5.4,177,Aluminum,Fair,Galveston,64,2,37100
+Bay Boat,Sea Hunt,2024,23.5,7.0,385,Fiberglass,Good,South Padre Island,23,8,53700
+Deck Boat,Sea Hunt,2010,28.6,8.8,180,Fiberglass,Excellent,Port Aransas,179,3,42400
+Deck Boat,Boston Whaler,2015,21.5,6.9,128,Fiberglass,Excellent,South Padre Island,108,4,44500
+Bowrider,Bayliner,2022,22.0,6.6,351,Fiberglass,Excellent,Rockport,94,3,66400
+Bay Boat,Bayliner,2017,29.8,9.7,340,Fiberglass,Good,Galveston,196,5,43900
+Bowrider,Bayliner,2017,17.6,6.2,200,Fiberglass,Good,Rockport,37,11,37100
+Deck Boat,Mako,2018,25.9,8.4,318,Fiberglass,Excellent,Galveston,54,6,55200
+Bowrider,Chaparral,2020,27.9,8.5,348,Fiberglass,Fair,Corpus Christi,171,4,41400
+Bay Boat,Boston Whaler,2024,18.1,5.2,370,Fiberglass,Excellent,Galveston,60,3,84100
+Center Console,Grady-White,2023,26.0,7.6,432,Fiberglass,New,Port Isabel,188,1,99800
+Center Console,Mako,2019,22.6,7.3,395,Fiberglass,Excellent,Galveston,172,5,71300
+Bay Boat,Grady-White,2018,27.9,9.3,239,Aluminum,Fair,Galveston,24,3,47900
+Bowrider,Sea Hunt,2015,28.7,8.2,161,Aluminum,Fair,Port Aransas,94,1,31400
+Center Console,Bennington,2011,28.2,8.3,111,Fiberglass,Good,Rockport,151,2,34900
+Bay Boat,Sea Hunt,2020,16.9,5.2,290,Aluminum,Fair,South Padre Island,100,5,36700
+Center Console,Bayliner,2010,26.6,8.1,324,Fiberglass,Fair,Port Aransas,46,8,34100
+Bowrider,Grady-White,2020,28.9,10.3,334,Fiberglass,Good,South Padre Island,13,2,65500
+Pontoon,Bayliner,2017,24.7,7.3,78,Fiberglass,Fair,Corpus Christi,6,8,24200
+Pontoon,Nautic Star,2021,24.4,7.0,338,Fiberglass,Excellent,Port Isabel,39,7,59200
+Pontoon,Bennington,2024,16.6,5.1,370,Aluminum,Good,Rockport,55,10,46400
+Pontoon,Robalo,2018,28.0,8.1,345,Fiberglass,Good,Port Aransas,63,3,54700
+Pontoon,Nautic Star,2018,16.6,4.8,272,Fiberglass,Good,Rockport,171,9,32300
+Center Console,Bennington,2017,20.4,6.4,80,Fiberglass,Excellent,Corpus Christi,104,10,40400
+Bowrider,Mako,2015,29.0,8.8,258,Fiberglass,Good,South Padre Island,32,12,40500
+Pontoon,Robalo,2011,29.3,8.4,316,Fiberglass,Fair,Galveston,21,9,30700
+Pontoon,Mako,2010,29.9,9.8,288,Fiberglass,Excellent,Corpus Christi,30,3,51300
+Bay Boat,Bennington,2020,22.7,7.3,290,Fiberglass,Fair,Rockport,66,11,38900
+Bowrider,Robalo,2023,18.5,5.3,268,Fiberglass,Excellent,Rockport,149,9,60600
+Bay Boat,Bayliner,2010,22.8,8.0,282,Fiberglass,Excellent,Galveston,14,4,48900
+Center Console,Bayliner,2014,17.4,5.3,196,Fiberglass,New,Port Aransas,84,3,52000
+Bowrider,Sea Hunt,2019,28.2,10.1,301,Fiberglass,Good,Rockport,92,11,45600
+Bay Boat,Nautic Star,2020,23.8,8.4,180,Fiberglass,Good,South Padre Island,33,3,47300
+Center Console,Sea Hunt,2021,21.7,6.8,259,Fiberglass,Excellent,Rockport,16,9,59600
+Pontoon,Sea Hunt,2020,17.1,5.1,230,Fiberglass,Good,Galveston,49,5,40000
+Bay Boat,Bayliner,2011,21.7,7.5,342,Fiberglass,Excellent,Corpus Christi,34,8,55800
+Bowrider,Bayliner,2013,28.1,8.7,410,Fiberglass,Excellent,Corpus Christi,159,2,56600
+Deck Boat,Nautic Star,2017,25.8,7.6,312,Fiberglass,Fair,Corpus Christi,183,8,30900
+Center Console,Nautic Star,2010,17.2,5.6,125,Fiberglass,Good,Corpus Christi,126,6,25500
+Bowrider,Sea Hunt,2015,18.2,5.8,325,Fiberglass,Good,Port Aransas,152,11,35100
+Deck Boat,Mako,2015,21.5,7.5,196,Aluminum,Good,Corpus Christi,153,3,35800
+Bay Boat,Nautic Star,2024,17.4,5.9,93,Aluminum,Fair,Port Isabel,176,2,30700
+Pontoon,Bennington,2014,29.1,10.2,147,Fiberglass,Excellent,Port Isabel,24,4,43100
+Deck Boat,Boston Whaler,2024,25.1,8.5,449,Fiberglass,Excellent,Port Aransas,199,2,84400
+Center Console,Chaparral,2020,17.3,5.7,235,Fiberglass,New,Port Aransas,94,12,63200
+Pontoon,Grady-White,2020,27.0,8.6,150,Aluminum,Good,Rockport,110,3,47200
+Deck Boat,Nautic Star,2022,21.2,7.6,125,Fiberglass,Good,Galveston,160,4,39600
+Pontoon,Grady-White,2022,19.4,6.9,318,Fiberglass,Good,Galveston,101,9,49200
+Bowrider,Nautic Star,2013,24.0,8.3,360,Aluminum,Excellent,Port Isabel,56,4,60900
+Pontoon,Sea Hunt,2016,16.2,5.5,207,Fiberglass,New,Galveston,8,4,42400
+Pontoon,Nautic Star,2017,22.5,7.3,113,Fiberglass,Good,Rockport,37,8,32200
+Bay Boat,Nautic Star,2024,27.8,8.4,208,Fiberglass,Fair,Galveston,21,5,40700
+Bay Boat,Sea Hunt,2010,29.0,10.2,324,Fiberglass,Excellent,Galveston,79,9,50600
+Deck Boat,Robalo,2017,20.8,5.8,117,Fiberglass,Excellent,Port Aransas,156,7,41400
+Bowrider,Bennington,2013,25.0,7.5,175,Fiberglass,Excellent,Galveston,70,4,43000
+Deck Boat,Boston Whaler,2013,19.2,6.0,75,Aluminum,Excellent,Port Isabel,121,7,37800
+Bay Boat,Bayliner,2021,23.8,7.8,252,Aluminum,Excellent,South Padre Island,41,10,57700
+Pontoon,Bennington,2013,19.6,6.4,138,Fiberglass,Excellent,Corpus Christi,120,5,34500
+Bowrider,Nautic Star,2021,24.0,7.1,149,Fiberglass,Good,Galveston,191,8,45200
+Bowrider,Bayliner,2024,18.4,5.3,117,Fiberglass,Excellent,Rockport,66,6,47900
+Bay Boat,Chaparral,2021,29.2,8.7,348,Fiberglass,Excellent,Port Isabel,99,7,62700
+Pontoon,Grady-White,2012,28.4,8.7,258,Fiberglass,New,Galveston,192,8,56800
+Deck Boat,Tracker,2012,20.7,5.8,430,Fiberglass,Fair,Rockport,123,2,38600
+Deck Boat,Nautic Star,2016,26.9,9.0,223,Fiberglass,Excellent,Port Aransas,82,6,45200
+Bay Boat,Robalo,2018,17.3,5.2,158,Fiberglass,Excellent,South Padre Island,28,2,48900
+Center Console,Robalo,2021,26.4,8.1,151,Fiberglass,New,South Padre Island,187,8,63800
+Bay Boat,Sea Hunt,2016,20.0,6.1,432,Fiberglass,Good,Port Aransas,123,7,52200
+Deck Boat,Mako,2012,17.9,5.7,296,Fiberglass,Fair,Rockport,16,5,32400
+Bowrider,Grady-White,2024,25.5,8.9,196,Aluminum,New,Port Isabel,113,2,79400
+Bowrider,Bayliner,2023,22.6,6.6,320,Fiberglass,New,Port Aransas,193,11,65700
+Center Console,Mako,2019,23.4,7.2,284,Aluminum,New,Corpus Christi,186,5,77100
+Pontoon,Sea Hunt,2020,23.3,7.8,118,Fiberglass,Good,Rockport,43,4,38100
+Center Console,Nautic Star,2024,16.8,4.8,338,Aluminum,Fair,Port Isabel,85,2,54100
+Pontoon,Tracker,2017,16.7,5.8,119,Fiberglass,Excellent,Port Isabel,197,7,34100
+Bay Boat,Bennington,2012,24.4,8.7,149,Fiberglass,Excellent,Port Aransas,157,4,43100
+Deck Boat,Grady-White,2019,24.7,8.1,342,Aluminum,Good,Rockport,114,10,51500
+Pontoon,Chaparral,2016,16.7,6.0,241,Fiberglass,Good,Rockport,64,8,38600
+Deck Boat,Nautic Star,2021,21.3,6.7,158,Fiberglass,Excellent,Rockport,153,1,41900
+Bowrider,Chaparral,2021,24.6,7.7,100,Fiberglass,Excellent,Rockport,117,7,45500
+Deck Boat,Robalo,2017,25.2,7.3,297,Fiberglass,Excellent,Port Isabel,107,4,57400
+Bowrider,Nautic Star,2015,27.6,7.8,336,Fiberglass,Good,South Padre Island,185,1,47900
+Pontoon,Boston Whaler,2016,21.9,6.6,151,Fiberglass,Good,Corpus Christi,78,7,40300
+Bay Boat,Robalo,2019,23.7,7.5,231,Aluminum,Good,Port Aransas,126,4,47500
+Pontoon,Chaparral,2019,24.1,7.7,204,Fiberglass,Good,Port Isabel,13,10,36300
+Deck Boat,Chaparral,2017,20.4,6.1,409,Fiberglass,Excellent,Port Isabel,143,7,62000
+Deck Boat,Boston Whaler,2017,16.8,5.5,371,Fiberglass,Excellent,Corpus Christi,111,4,70400
+Center Console,Tracker,2024,16.1,4.7,177,Aluminum,New,South Padre Island,175,12,52300
+Center Console,Robalo,2013,27.7,8.5,267,Fiberglass,Fair,Port Aransas,69,7,42600
+Deck Boat,Grady-White,2012,18.8,5.6,421,Fiberglass,Good,Port Aransas,185,3,50600
+Center Console,Boston Whaler,2021,24.8,8.3,204,Fiberglass,Excellent,Galveston,117,6,73300
+Bowrider,Mako,2024,24.1,7.7,127,Fiberglass,New,Galveston,45,12,58500
+Bowrider,Grady-White,2019,21.6,7.3,186,Aluminum,Good,South Padre Island,36,6,52200
+Pontoon,Sea Hunt,2016,27.7,7.9,302,Fiberglass,Good,South Padre Island,43,6,50000
+Pontoon,Sea Hunt,2015,25.8,8.1,447,Aluminum,Good,Galveston,63,6,46000
+Deck Boat,Mako,2017,16.3,5.8,190,Fiberglass,Excellent,Rockport,112,4,44700
+Center Console,Sea Hunt,2010,26.9,7.6,96,Fiberglass,Fair,Corpus Christi,174,3,28200
+Bay Boat,Bennington,2017,23.1,7.2,143,Fiberglass,Good,Corpus Christi,199,7,34700
+Deck Boat,Sea Hunt,2014,20.9,5.9,229,Fiberglass,Good,South Padre Island,137,10,32400
+Bowrider,Mako,2013,26.2,7.6,110,Fiberglass,Good,South Padre Island,100,8,30800
+Bay Boat,Bennington,2018,25.6,8.1,88,Fiberglass,Fair,Port Isabel,124,2,30200
+Deck Boat,Bayliner,2024,20.3,5.9,320,Fiberglass,Fair,Port Isabel,69,5,36900
+Bay Boat,Robalo,2013,29.8,9.6,384,Fiberglass,Good,Galveston,52,1,57200
+Center Console,Chaparral,2023,25.1,8.9,162,Fiberglass,Excellent,Corpus Christi,109,5,49600
+Center Console,Sea Hunt,2017,24.5,7.3,270,Fiberglass,Excellent,Corpus Christi,166,8,57500
+Bay Boat,Boston Whaler,2024,17.0,4.9,289,Fiberglass,Good,South Padre Island,17,5,67700
+Center Console,Bennington,2015,19.9,6.9,325,Fiberglass,Good,Galveston,26,10,51500
+Center Console,Mako,2024,22.3,7.1,442,Fiberglass,New,Galveston,39,6,92000
+Bay Boat,Robalo,2019,24.8,8.7,406,Fiberglass,New,Corpus Christi,45,8,77000
+Bay Boat,Chaparral,2020,23.2,7.1,193,Fiberglass,Fair,Port Isabel,34,10,30700
+Deck Boat,Sea Hunt,2018,26.7,8.8,440,Fiberglass,Fair,South Padre Island,30,8,42500
+Center Console,Mako,2016,19.7,7.0,88,Fiberglass,Fair,Galveston,10,10,26000
+Bay Boat,Grady-White,2017,25.8,7.6,435,Fiberglass,Excellent,Corpus Christi,72,9,78800
+Deck Boat,Nautic Star,2022,27.4,9.4,128,Fiberglass,Good,Rockport,145,7,37100
+Bowrider,Bayliner,2021,26.7,8.8,117,Fiberglass,Good,Galveston,35,5,49000
+Pontoon,Sea Hunt,2010,26.8,9.2,119,Fiberglass,Excellent,Port Aransas,68,5,37200
+Bowrider,Bennington,2020,28.4,8.3,120,Aluminum,New,Port Aransas,194,10,49500
+Bay Boat,Nautic Star,2022,17.2,5.4,248,Fiberglass,Fair,South Padre Island,37,2,42900
+Deck Boat,Tracker,2021,25.8,7.5,315,Aluminum,New,Corpus Christi,197,11,58300
+Deck Boat,Boston Whaler,2017,29.6,10.6,354,Fiberglass,Good,Port Isabel,104,5,64600
+Bowrider,Grady-White,2015,24.0,6.8,80,Fiberglass,Good,Rockport,146,8,32900
+Bowrider,Boston Whaler,2020,19.0,5.4,186,Fiberglass,Good,Port Isabel,68,5,60100
+Bowrider,Boston Whaler,2019,30.0,10.6,124,Fiberglass,Excellent,South Padre Island,68,12,48700
+Pontoon,Boston Whaler,2015,18.4,5.6,129,Aluminum,Good,Galveston,81,1,32900
+Deck Boat,Chaparral,2016,20.7,6.8,354,Fiberglass,Excellent,South Padre Island,29,5,51400
+Deck Boat,Tracker,2015,18.4,5.6,315,Aluminum,Good,South Padre Island,66,10,43300
+Bowrider,Chaparral,2010,22.5,7.5,153,Fiberglass,Excellent,Galveston,179,4,39100
+Bay Boat,Mako,2010,21.9,6.5,187,Aluminum,Good,South Padre Island,5,4,35600
+Bay Boat,Bennington,2011,22.9,7.3,421,Aluminum,Good,Rockport,116,10,48200
+Bowrider,Bennington,2016,29.0,9.4,290,Fiberglass,Excellent,Corpus Christi,139,9,49600
+Bay Boat,Mako,2017,22.7,7.0,164,Fiberglass,Excellent,Port Aransas,32,2,47200
+Bay Boat,Nautic Star,2016,23.2,7.0,425,Fiberglass,Good,Port Isabel,26,7,59300
+Deck Boat,Mako,2024,28.4,8.3,149,Fiberglass,New,Port Isabel,112,4,60500
+Bay Boat,Mako,2013,27.4,9.2,184,Aluminum,Excellent,Rockport,47,4,43000
+Bowrider,Nautic Star,2015,19.4,5.7,334,Fiberglass,Good,South Padre Island,195,7,44600
+Bowrider,Grady-White,2013,16.2,4.9,267,Fiberglass,Fair,South Padre Island,42,3,39800
+Bay Boat,Nautic Star,2014,24.8,7.6,100,Fiberglass,Good,Corpus Christi,30,6,34400
+Deck Boat,Boston Whaler,2018,27.8,8.8,377,Fiberglass,Excellent,Port Aransas,69,4,82100
+Bowrider,Mako,2014,23.7,8.0,160,Aluminum,Fair,Rockport,69,10,26300
+Pontoon,Sea Hunt,2014,19.0,6.0,334,Fiberglass,Good,South Padre Island,36,7,39900
+Bay Boat,Tracker,2020,26.4,9.2,200,Fiberglass,Excellent,South Padre Island,134,4,54800
+Deck Boat,Mako,2022,25.4,8.5,356,Aluminum,Excellent,Corpus Christi,72,11,58300
+Pontoon,Bayliner,2013,23.9,8.3,411,Fiberglass,Excellent,South Padre Island,107,9,54400
+Pontoon,Bennington,2011,28.1,9.5,364,Fiberglass,Excellent,Rockport,52,4,51700
+Center Console,Robalo,2013,27.0,7.9,420,Fiberglass,Good,Galveston,23,12,55900
+Bay Boat,Mako,2018,25.4,9.1,277,Fiberglass,New,Galveston,16,4,69400
+Bowrider,Chaparral,2024,25.3,8.7,99,Fiberglass,Good,Port Isabel,15,5,47000
+Bay Boat,Bennington,2012,25.3,8.2,276,Aluminum,Excellent,Port Aransas,174,5,51400
+Bay Boat,Sea Hunt,2010,23.4,6.9,247,Fiberglass,Excellent,Port Aransas,56,3,47100
+Bay Boat,Bennington,2017,22.5,6.6,344,Aluminum,New,Galveston,64,8,56000
+Center Console,Tracker,2024,25.9,8.5,168,Aluminum,Good,South Padre Island,117,7,38600
+Center Console,Tracker,2018,24.5,7.7,336,Aluminum,Good,Port Isabel,23,10,54800
+Bay Boat,Tracker,2023,22.9,7.7,240,Fiberglass,Excellent,Corpus Christi,122,4,59700
+Bowrider,Grady-White,2019,17.8,5.5,326,Fiberglass,Excellent,Corpus Christi,106,3,66300
+Center Console,Grady-White,2010,25.8,8.3,232,Fiberglass,Excellent,South Padre Island,159,5,58200
+Bay Boat,Bayliner,2016,25.0,7.4,218,Fiberglass,Good,South Padre Island,29,3,50200
+Center Console,Robalo,2021,20.8,6.1,155,Fiberglass,Excellent,Port Isabel,8,11,58400
+Deck Boat,Bennington,2017,21.0,6.0,385,Fiberglass,Good,South Padre Island,155,8,49200
+Bay Boat,Nautic Star,2012,19.5,6.7,100,Fiberglass,Excellent,South Padre Island,77,9,29800
+Pontoon,Robalo,2012,29.5,9.6,163,Fiberglass,Excellent,Port Aransas,17,8,38400
+Deck Boat,Boston Whaler,2019,28.0,10.0,235,Fiberglass,Good,South Padre Island,113,4,46300
+Pontoon,Bayliner,2016,23.9,8.1,133,Fiberglass,Good,Galveston,95,3,35600
+Pontoon,Grady-White,2018,21.6,7.4,418,Fiberglass,New,Galveston,190,6,84700
+Deck Boat,Chaparral,2015,26.3,8.4,204,Aluminum,Fair,Galveston,189,9,31400
+Bowrider,Robalo,2015,23.4,8.1,165,Fiberglass,New,South Padre Island,110,5,58700
+Deck Boat,Nautic Star,2019,29.7,10.6,170,Aluminum,Excellent,Corpus Christi,35,1,46900
+Bowrider,Boston Whaler,2010,16.8,5.7,146,Aluminum,Excellent,Corpus Christi,150,8,37200
+Bowrider,Mako,2016,16.5,4.8,323,Fiberglass,Good,Corpus Christi,44,4,42400
+Deck Boat,Grady-White,2015,24.0,8.0,255,Fiberglass,Good,Galveston,168,7,46700
+Pontoon,Tracker,2021,18.8,5.4,161,Fiberglass,New,Port Isabel,122,1,44800
+Bay Boat,Grady-White,2020,24.5,7.0,402,Fiberglass,Fair,Port Isabel,74,6,61600
+Bowrider,Bennington,2016,26.9,9.0,321,Fiberglass,Good,Port Aransas,196,5,43000
+Pontoon,Bayliner,2013,17.9,6.2,226,Fiberglass,Fair,Corpus Christi,105,10,24400
+Bowrider,Chaparral,2013,22.2,6.5,267,Aluminum,Good,Galveston,80,8,32500
+Bay Boat,Mako,2013,25.6,7.3,321,Aluminum,Fair,Corpus Christi,41,1,36700
+Pontoon,Tracker,2014,27.7,9.7,132,Aluminum,Good,Galveston,131,9,30500
+Deck Boat,Nautic Star,2021,22.9,6.7,378,Fiberglass,Excellent,South Padre Island,57,9,54800
+Center Console,Mako,2010,18.9,5.3,171,Fiberglass,Excellent,Port Isabel,34,8,34200
+Center Console,Nautic Star,2010,24.2,8.2,86,Aluminum,Good,Galveston,28,11,28900
+Deck Boat,Tracker,2018,22.4,7.8,270,Fiberglass,Excellent,Rockport,130,9,44600
+Bay Boat,Nautic Star,2013,26.8,8.6,403,Fiberglass,Good,South Padre Island,184,4,50600
+Center Console,Grady-White,2022,23.8,7.7,349,Fiberglass,New,Port Isabel,54,5,110100
+Deck Boat,Nautic Star,2021,19.9,6.1,190,Fiberglass,Good,Galveston,47,5,42800
+Pontoon,Grady-White,2021,26.6,8.0,224,Fiberglass,Excellent,Galveston,124,6,61700
+Bay Boat,Bennington,2016,23.2,7.9,298,Fiberglass,Fair,South Padre Island,32,12,34100
+Bowrider,Chaparral,2016,18.5,6.4,162,Fiberglass,Excellent,South Padre Island,22,7,38200
+Pontoon,Bennington,2016,23.9,7.3,382,Fiberglass,New,Port Isabel,129,5,62700
+Deck Boat,Robalo,2012,29.3,8.8,185,Fiberglass,Good,South Padre Island,107,11,44800
+Bowrider,Bayliner,2018,25.9,7.8,156,Fiberglass,Good,Corpus Christi,10,8,37900
+Deck Boat,Nautic Star,2022,20.2,5.7,110,Fiberglass,Good,South Padre Island,51,4,40200
+Center Console,Bennington,2013,26.0,7.9,334,Aluminum,Fair,South Padre Island,43,11,34300
+Center Console,Mako,2010,20.0,5.6,84,Fiberglass,Excellent,South Padre Island,137,5,25800
+Bowrider,Tracker,2018,23.6,8.1,377,Fiberglass,Good,Corpus Christi,134,6,48000
+Bowrider,Boston Whaler,2015,23.4,7.0,439,Aluminum,Excellent,Corpus Christi,150,6,88500
+Pontoon,Grady-White,2021,19.5,6.5,116,Fiberglass,Good,Port Aransas,24,11,41700
+Center Console,Bayliner,2022,20.9,6.8,111,Aluminum,Excellent,South Padre Island,170,4,55400
+Bay Boat,Bayliner,2024,29.2,10.1,425,Fiberglass,New,Corpus Christi,45,5,84600
+Center Console,Robalo,2015,19.5,7.0,121,Fiberglass,Good,South Padre Island,198,8,29400
+Center Console,Bayliner,2023,27.2,8.4,227,Fiberglass,Good,Port Aransas,175,10,43900
+Bay Boat,Tracker,2011,25.3,7.3,401,Fiberglass,Excellent,Corpus Christi,94,3,58100
+Deck Boat,Chaparral,2015,23.5,8.0,127,Aluminum,Fair,Port Aransas,158,4,27900
+Center Console,Chaparral,2013,17.9,5.0,323,Aluminum,Good,Port Aransas,135,11,41500
+Bowrider,Mako,2023,18.9,5.6,218,Aluminum,Excellent,Corpus Christi,155,9,46200
+Deck Boat,Robalo,2019,18.5,5.3,238,Aluminum,Good,Rockport,8,5,50600
+Bay Boat,Chaparral,2015,24.2,8.5,424,Fiberglass,Excellent,Corpus Christi,21,5,59700
+Deck Boat,Tracker,2012,29.6,8.3,318,Aluminum,New,Galveston,181,6,59600
+Pontoon,Bayliner,2021,28.3,9.0,194,Fiberglass,Good,Galveston,157,8,40300
+Bay Boat,Bennington,2019,16.4,5.1,425,Aluminum,New,Rockport,125,7,67900
+Center Console,Chaparral,2022,19.8,6.6,292,Fiberglass,New,Galveston,65,9,61700
+Center Console,Robalo,2016,18.2,5.5,112,Fiberglass,Good,Galveston,87,2,37600
+Bowrider,Tracker,2012,29.7,10.4,222,Aluminum,New,Rockport,81,9,57800
+Center Console,Mako,2015,19.3,6.5,166,Aluminum,Good,Port Isabel,89,2,41400
+Pontoon,Boston Whaler,2019,18.8,5.9,315,Fiberglass,Good,Port Aransas,127,10,54000
+Bay Boat,Nautic Star,2013,24.7,7.6,397,Fiberglass,New,Rockport,152,1,60500
+Pontoon,Boston Whaler,2011,23.8,8.2,89,Fiberglass,Good,South Padre Island,79,3,30400
+Center Console,Chaparral,2022,19.2,6.5,367,Aluminum,New,Corpus Christi,167,3,83800
+Bowrider,Nautic Star,2017,25.4,7.9,418,Fiberglass,Good,Galveston,22,4,59400
+Pontoon,Mako,2015,17.4,5.3,447,Fiberglass,New,Port Isabel,162,5,63500
+Deck Boat,Mako,2018,16.3,4.6,322,Fiberglass,Fair,Corpus Christi,136,7,33300
+Bay Boat,Chaparral,2021,17.2,4.9,192,Fiberglass,Excellent,Corpus Christi,104,10,39800
+Bowrider,Nautic Star,2010,21.1,6.0,129,Fiberglass,Good,Port Isabel,78,6,31800
+Bay Boat,Nautic Star,2016,29.7,8.4,429,Fiberglass,New,Galveston,77,6,82900
+Deck Boat,Boston Whaler,2013,23.7,6.9,229,Aluminum,Excellent,Port Aransas,75,5,52200
+Bay Boat,Boston Whaler,2011,26.6,9.3,203,Aluminum,Good,Rockport,189,9,40300
+Bay Boat,Bayliner,2010,20.5,7.0,350,Aluminum,Good,South Padre Island,10,3,48100
+Deck Boat,Mako,2016,26.1,9.1,343,Fiberglass,Fair,Port Aransas,128,5,36300
+Center Console,Mako,2018,29.5,9.7,378,Fiberglass,New,Port Aransas,197,2,87700
+Center Console,Nautic Star,2017,21.0,6.9,406,Fiberglass,New,Galveston,111,4,75000
+Bay Boat,Mako,2021,30.0,8.7,403,Aluminum,Excellent,Corpus Christi,129,7,64100
+Center Console,Nautic Star,2016,24.9,8.4,139,Fiberglass,Excellent,South Padre Island,121,3,46400
+Deck Boat,Bayliner,2018,26.5,8.0,138,Fiberglass,Fair,Port Aransas,103,2,29500
+Bowrider,Robalo,2022,19.5,6.3,152,Fiberglass,Fair,Corpus Christi,127,9,36600
+Center Console,Tracker,2019,25.0,8.9,310,Fiberglass,Fair,Rockport,181,3,45400
+Center Console,Bennington,2023,23.2,8.1,292,Fiberglass,New,Corpus Christi,144,7,77900
+Center Console,Bayliner,2013,29.4,8.8,396,Fiberglass,Excellent,Port Isabel,170,5,63200
+Deck Boat,Mako,2021,28.7,9.7,391,Fiberglass,Good,Corpus Christi,112,10,49200
+Bay Boat,Sea Hunt,2020,21.6,6.2,380,Fiberglass,Excellent,South Padre Island,155,8,58300
+Deck Boat,Grady-White,2018,29.3,8.3,104,Fiberglass,Good,Corpus Christi,175,2,42700
+Center Console,Tracker,2010,28.4,8.0,335,Aluminum,Excellent,South Padre Island,46,10,56300
+Bay Boat,Mako,2018,24.3,7.1,394,Fiberglass,Excellent,Galveston,172,6,66100
+Deck Boat,Bennington,2022,17.1,5.7,443,Fiberglass,Fair,Corpus Christi,138,5,43800
+Deck Boat,Boston Whaler,2019,18.3,5.7,203,Aluminum,Excellent,Galveston,91,8,50000
+Deck Boat,Sea Hunt,2010,17.1,4.8,366,Fiberglass,Fair,Rockport,155,8,33700
+Pontoon,Bayliner,2014,17.5,6.3,227,Aluminum,Excellent,South Padre Island,37,5,40900
+Deck Boat,Sea Hunt,2018,29.7,9.6,135,Fiberglass,New,Corpus Christi,141,5,52900
+Bowrider,Bayliner,2022,19.0,5.9,202,Aluminum,Excellent,Rockport,117,3,57200
+Deck Boat,Robalo,2016,25.7,8.3,169,Fiberglass,Excellent,Port Aransas,178,7,44100
+Bay Boat,Grady-White,2022,24.9,8.0,416,Fiberglass,Good,Corpus Christi,126,12,65300
+Bay Boat,Tracker,2021,24.8,7.9,140,Fiberglass,New,South Padre Island,107,6,56100
+Bay Boat,Nautic Star,2014,18.9,6.2,124,Fiberglass,Good,Port Aransas,107,12,27800
+Deck Boat,Robalo,2012,24.1,8.5,292,Fiberglass,Fair,Corpus Christi,113,3,36900
+Bay Boat,Chaparral,2023,24.8,7.5,290,Fiberglass,Excellent,Rockport,178,9,52500
+Bowrider,Chaparral,2018,24.0,7.7,285,Fiberglass,Excellent,Galveston,158,11,47200
+Deck Boat,Chaparral,2022,18.6,5.2,130,Aluminum,Excellent,Port Isabel,23,8,40100
+Bowrider,Robalo,2023,26.1,9.1,261,Fiberglass,Good,South Padre Island,108,2,52900
+Pontoon,Tracker,2016,17.0,5.2,423,Fiberglass,Good,South Padre Island,61,5,43500
+Bay Boat,Bennington,2010,24.3,7.3,108,Aluminum,New,Port Isabel,37,2,42200
+Bay Boat,Boston Whaler,2023,22.1,8.0,374,Fiberglass,Good,Corpus Christi,173,7,67200
+Pontoon,Sea Hunt,2018,19.5,6.4,122,Aluminum,Good,South Padre Island,172,12,30900
+Bay Boat,Sea Hunt,2011,27.3,7.9,162,Aluminum,Excellent,Rockport,188,5,48300
+Bay Boat,Nautic Star,2017,18.5,5.6,411,Aluminum,New,Port Aransas,81,3,70100
+Bowrider,Bennington,2010,29.1,9.0,186,Aluminum,Fair,Port Isabel,88,4,30800
+Deck Boat,Sea Hunt,2014,28.4,10.2,270,Fiberglass,Excellent,Port Aransas,156,7,49900
+Center Console,Bennington,2015,21.0,6.6,218,Fiberglass,Excellent,South Padre Island,42,7,47100
+Deck Boat,Grady-White,2016,20.3,6.1,305,Fiberglass,New,Port Isabel,15,4,74000
+Deck Boat,Bennington,2018,17.9,5.8,227,Aluminum,Good,Port Aransas,86,8,37900
+Bowrider,Chaparral,2022,28.8,9.0,241,Fiberglass,Excellent,Port Isabel,127,2,57600
+Pontoon,Tracker,2015,24.8,7.1,381,Aluminum,Excellent,Corpus Christi,93,7,48600
+Center Console,Chaparral,2021,16.4,5.7,282,Fiberglass,Excellent,Port Aransas,46,6,55100
+Center Console,Sea Hunt,2024,23.2,6.5,286,Fiberglass,Good,Galveston,106,3,56400
+Pontoon,Nautic Star,2021,17.2,6.1,377,Fiberglass,Excellent,Galveston,188,7,44300
+Center Console,Nautic Star,2013,24.0,8.2,235,Fiberglass,Fair,Port Isabel,58,8,36100
+Bay Boat,Sea Hunt,2020,23.1,6.6,383,Fiberglass,Excellent,Port Isabel,83,6,73600
+Center Console,Robalo,2014,17.2,5.8,344,Fiberglass,Excellent,Rockport,65,9,56200
+Center Console,Sea Hunt,2017,27.4,9.4,406,Aluminum,Fair,Galveston,62,6,48600
+Bowrider,Sea Hunt,2019,19.7,6.5,246,Fiberglass,Good,Port Aransas,132,4,48300
+Center Console,Tracker,2014,23.6,7.7,284,Fiberglass,Excellent,Rockport,78,12,44900
+Center Console,Robalo,2010,24.9,7.1,123,Fiberglass,Good,Galveston,126,11,36000
+Bowrider,Robalo,2022,29.5,8.4,116,Fiberglass,Good,Corpus Christi,8,2,46200
+Center Console,Bennington,2020,22.9,7.7,115,Fiberglass,Excellent,Rockport,134,11,52100
+Bowrider,Robalo,2011,28.8,8.3,312,Fiberglass,Good,South Padre Island,25,9,44500
+Center Console,Robalo,2015,21.0,6.3,197,Aluminum,Good,South Padre Island,78,2,48000
+Center Console,Robalo,2013,28.0,9.0,183,Fiberglass,Excellent,South Padre Island,175,6,49900
+Center Console,Sea Hunt,2024,19.3,5.7,301,Fiberglass,Good,Rockport,70,1,63000
+Pontoon,Boston Whaler,2024,25.9,8.9,224,Fiberglass,Excellent,Port Aransas,141,7,60500
+Pontoon,Chaparral,2020,17.2,5.9,125,Fiberglass,New,South Padre Island,73,11,46900
+Deck Boat,Mako,2016,29.8,10.4,284,Aluminum,Fair,Corpus Christi,180,5,38400
+Bay Boat,Boston Whaler,2010,29.4,8.3,281,Fiberglass,Good,South Padre Island,190,6,53300
+Center Console,Robalo,2013,22.2,7.0,127,Aluminum,Good,Corpus Christi,182,4,39300
+Deck Boat,Mako,2011,23.3,8.1,176,Fiberglass,Good,Galveston,82,7,30500
+Bay Boat,Robalo,2021,24.4,7.5,163,Fiberglass,Good,Port Isabel,66,9,35600
+Deck Boat,Grady-White,2011,19.9,6.7,335,Fiberglass,Excellent,South Padre Island,123,4,61300
+Pontoon,Bayliner,2020,25.4,8.3,168,Fiberglass,Fair,Port Isabel,164,7,28900
+Bowrider,Chaparral,2024,25.8,7.9,85,Aluminum,Good,Port Isabel,106,5,46200
+Deck Boat,Tracker,2014,23.4,7.1,175,Fiberglass,Good,Corpus Christi,148,8,34400
+Center Console,Grady-White,2020,18.1,6.0,250,Aluminum,Good,Galveston,175,8,58400
+Bay Boat,Bayliner,2023,28.9,8.4,363,Aluminum,Excellent,Galveston,151,8,67500
+Bowrider,Boston Whaler,2016,17.6,6.1,94,Fiberglass,New,South Padre Island,76,5,43900
+Deck Boat,Bennington,2016,24.8,8.1,405,Fiberglass,Excellent,Rockport,53,7,59300
+Pontoon,Mako,2013,17.4,5.0,198,Fiberglass,Excellent,South Padre Island,89,7,34800
+Deck Boat,Bayliner,2016,18.0,6.1,203,Fiberglass,Good,Corpus Christi,117,8,38100
+Center Console,Bayliner,2023,16.3,5.1,80,Aluminum,Fair,Galveston,169,7,31800
+Bowrider,Mako,2019,21.1,6.3,178,Fiberglass,Excellent,Port Aransas,63,10,45400
+Pontoon,Tracker,2013,25.0,8.9,250,Aluminum,Excellent,South Padre Island,36,4,43300
+Bowrider,Sea Hunt,2017,23.3,7.9,309,Fiberglass,Good,Galveston,66,2,43500
+Bowrider,Bayliner,2020,25.4,8.3,362,Fiberglass,New,Rockport,120,12,65700
+Bay Boat,Robalo,2011,25.5,8.9,271,Fiberglass,Fair,Port Aransas,50,2,31000
+Bay Boat,Sea Hunt,2021,18.0,5.8,112,Fiberglass,Excellent,South Padre Island,82,11,39100
+Bay Boat,Bayliner,2013,16.8,5.3,221,Aluminum,New,Corpus Christi,55,7,42700
+Bowrider,Mako,2014,24.8,7.3,350,Fiberglass,Excellent,South Padre Island,197,11,43800
+Deck Boat,Mako,2016,25.1,7.3,314,Aluminum,Fair,Galveston,104,7,35700
+Deck Boat,Nautic Star,2017,23.8,7.5,294,Aluminum,Excellent,Galveston,145,9,49600
+Bowrider,Bayliner,2023,19.4,6.1,265,Aluminum,Good,Port Aransas,106,8,45700
+Pontoon,Sea Hunt,2013,27.4,9.3,264,Fiberglass,Excellent,Corpus Christi,7,6,43400
+Bowrider,Mako,2013,17.1,5.4,447,Aluminum,Excellent,Galveston,56,5,52600
+Bowrider,Nautic Star,2015,24.9,8.2,299,Fiberglass,Fair,Galveston,168,1,33800
+Center Console,Mako,2022,17.7,6.1,298,Aluminum,New,Corpus Christi,104,4,67000
+Bay Boat,Chaparral,2024,25.2,9.1,200,Fiberglass,New,Galveston,142,12,61800
+Pontoon,Grady-White,2016,21.8,6.7,258,Fiberglass,Good,Corpus Christi,153,4,41600
+Bowrider,Tracker,2020,26.1,9.2,341,Fiberglass,Fair,South Padre Island,114,8,41900
+Center Console,Bennington,2023,16.7,5.8,396,Fiberglass,Excellent,Galveston,117,6,63800
+Bay Boat,Grady-White,2022,23.8,6.8,367,Fiberglass,New,Rockport,51,5,95200
+Deck Boat,Grady-White,2020,18.0,5.5,323,Aluminum,Fair,Rockport,53,12,45900
+Pontoon,Chaparral,2018,25.6,7.6,366,Fiberglass,Good,Rockport,34,1,47900
+Center Console,Chaparral,2024,17.7,5.9,87,Fiberglass,Fair,Port Aransas,63,7,34600
+Pontoon,Robalo,2013,17.0,5.5,176,Fiberglass,Good,Port Isabel,127,6,27900
+Bay Boat,Chaparral,2015,26.0,8.3,166,Aluminum,Good,South Padre Island,186,2,36600
+Bay Boat,Mako,2020,16.9,5.8,320,Aluminum,Excellent,South Padre Island,90,4,62300
+Deck Boat,Nautic Star,2010,19.1,5.9,357,Fiberglass,Excellent,Rockport,122,8,45500
+Deck Boat,Tracker,2017,27.5,8.5,130,Fiberglass,Good,Port Aransas,173,2,42100
+Pontoon,Mako,2022,27.3,9.5,147,Aluminum,Good,Corpus Christi,137,9,42400
+Bay Boat,Nautic Star,2012,28.0,10.0,260,Aluminum,Fair,Rockport,56,7,33900
+Bowrider,Bayliner,2022,20.6,7.0,438,Fiberglass,Good,Galveston,59,2,56400
+Center Console,Grady-White,2016,23.4,7.0,75,Fiberglass,Excellent,Galveston,129,4,45700
+Bowrider,Grady-White,2022,26.8,7.7,404,Aluminum,Good,Corpus Christi,61,3,68200
+Center Console,Bennington,2019,17.9,5.3,147,Fiberglass,Good,Galveston,53,9,36600
+Pontoon,Sea Hunt,2012,26.1,8.2,175,Aluminum,Excellent,Port Aransas,120,6,35900
+Bay Boat,Nautic Star,2021,17.4,5.2,311,Fiberglass,Good,Galveston,129,1,44200
+Bay Boat,Bennington,2010,28.8,10.1,348,Aluminum,Good,Galveston,54,7,46100
+Center Console,Boston Whaler,2013,24.9,8.3,402,Fiberglass,New,Rockport,14,6,101400
+Pontoon,Nautic Star,2023,22.9,7.2,77,Fiberglass,Good,Port Isabel,154,7,37300
+Center Console,Nautic Star,2023,22.8,6.9,93,Aluminum,Good,Port Aransas,81,1,40800
+Pontoon,Tracker,2010,18.5,5.7,254,Aluminum,Fair,Corpus Christi,128,1,27300
+Pontoon,Boston Whaler,2015,20.8,6.6,284,Aluminum,Excellent,Galveston,38,5,59300
+Bowrider,Nautic Star,2011,26.2,8.8,172,Aluminum,Good,Port Isabel,66,8,33200
+Pontoon,Grady-White,2014,23.6,6.8,313,Fiberglass,Good,Corpus Christi,123,8,45900
+Bay Boat,Bayliner,2024,23.4,8.1,174,Fiberglass,Good,South Padre Island,29,4,47400
+Pontoon,Grady-White,2012,18.7,5.4,424,Fiberglass,New,South Padre Island,66,4,75300
+Bowrider,Sea Hunt,2019,25.7,7.7,141,Fiberglass,Fair,Port Aransas,145,8,30600
+Bay Boat,Grady-White,2022,21.5,7.7,320,Fiberglass,Fair,Galveston,155,1,45600
+Center Console,Bennington,2023,18.6,5.5,273,Aluminum,Good,Port Aransas,73,7,47500
+Bowrider,Sea Hunt,2015,29.2,8.4,113,Fiberglass,Good,South Padre Island,27,6,37700
+Center Console,Tracker,2020,23.1,7.6,301,Fiberglass,New,Port Isabel,10,4,75800
+Deck Boat,Grady-White,2017,23.4,7.3,130,Fiberglass,Good,South Padre Island,113,6,41600
+Bay Boat,Grady-White,2011,29.7,8.5,277,Fiberglass,Excellent,Corpus Christi,140,4,54600
+Center Console,Grady-White,2013,21.1,5.9,313,Fiberglass,Good,Port Isabel,120,7,58300
+Pontoon,Boston Whaler,2021,29.2,8.4,102,Fiberglass,New,Port Aransas,84,3,70400
+Center Console,Grady-White,2020,25.7,8.3,155,Fiberglass,Good,Rockport,9,5,46700
+Pontoon,Grady-White,2017,24.9,7.4,185,Fiberglass,Excellent,Rockport,49,6,57200
+Pontoon,Robalo,2021,19.3,6.6,423,Aluminum,Good,Galveston,12,1,53900
+Center Console,Mako,2020,16.7,5.8,157,Fiberglass,Good,Corpus Christi,95,7,40800
+Center Console,Bayliner,2015,22.1,6.4,420,Fiberglass,Excellent,Port Isabel,65,8,64900
+Pontoon,Robalo,2014,16.1,4.9,275,Fiberglass,Excellent,Rockport,18,12,49900
+Deck Boat,Bayliner,2024,17.0,5.0,430,Fiberglass,Good,South Padre Island,123,4,61300
+Center Console,Bayliner,2024,24.3,7.4,386,Fiberglass,Good,Port Isabel,77,4,64600
+Bowrider,Robalo,2010,26.1,7.8,184,Aluminum,New,Rockport,192,5,45500
+Bay Boat,Bennington,2021,18.4,6.3,284,Fiberglass,Excellent,Rockport,86,10,42900
+Center Console,Nautic Star,2011,26.3,8.1,343,Fiberglass,Excellent,Port Aransas,22,5,60100
+Bowrider,Tracker,2022,29.3,9.4,104,Fiberglass,Good,Galveston,142,5,47200
+Center Console,Bayliner,2018,26.4,8.8,323,Aluminum,Good,Port Aransas,142,8,46900
+Deck Boat,Chaparral,2020,27.0,9.3,247,Fiberglass,New,Corpus Christi,186,1,58400
+Bowrider,Mako,2020,25.8,7.8,88,Fiberglass,Good,South Padre Island,140,7,35300
+Deck Boat,Mako,2019,19.1,5.7,400,Aluminum,Good,Corpus Christi,75,6,48100
+Deck Boat,Nautic Star,2013,21.1,7.6,174,Fiberglass,Good,Corpus Christi,135,7,35400
+Bay Boat,Chaparral,2022,29.3,9.0,402,Fiberglass,New,Rockport,160,8,77600
+Center Console,Chaparral,2018,25.3,8.4,152,Fiberglass,Excellent,Galveston,105,5,48800
+Deck Boat,Bayliner,2018,27.0,9.0,278,Fiberglass,Excellent,South Padre Island,159,7,61800
+Bowrider,Boston Whaler,2014,29.6,9.5,214,Aluminum,Excellent,Port Aransas,193,6,51500
+Center Console,Robalo,2010,19.2,5.7,409,Fiberglass,Excellent,Rockport,152,3,63300
+Bowrider,Mako,2018,20.5,6.0,432,Fiberglass,New,Galveston,102,10,61100
+Deck Boat,Bennington,2015,25.0,8.0,363,Fiberglass,New,Galveston,101,8,59600
+Deck Boat,Bayliner,2019,16.3,5.2,392,Fiberglass,Good,Port Aransas,168,11,45700
+Center Console,Boston Whaler,2015,24.0,8.2,363,Aluminum,Excellent,Corpus Christi,175,8,74400
+Pontoon,Bayliner,2024,27.3,9.2,185,Fiberglass,Good,Corpus Christi,56,4,44200
+Center Console,Robalo,2020,24.5,8.6,420,Aluminum,New,Corpus Christi,6,6,87400
+Bay Boat,Grady-White,2016,20.1,7.2,273,Fiberglass,Good,Port Isabel,162,5,51300
+Pontoon,Mako,2020,26.1,8.8,203,Fiberglass,Excellent,South Padre Island,51,1,42300
+Center Console,Bennington,2019,18.0,5.2,147,Fiberglass,Good,Galveston,199,6,41400
+Deck Boat,Bennington,2019,28.5,8.9,341,Aluminum,Good,Port Isabel,12,5,53300
+Deck Boat,Bayliner,2018,17.4,5.7,179,Fiberglass,Excellent,Port Isabel,182,1,42300
+Center Console,Bennington,2023,28.1,9.2,319,Fiberglass,Good,Port Aransas,137,10,53500
+Bay Boat,Boston Whaler,2014,23.0,6.8,99,Aluminum,Excellent,South Padre Island,64,3,47700
+Bay Boat,Grady-White,2016,22.0,7.2,313,Fiberglass,Good,South Padre Island,11,6,61800
+Pontoon,Grady-White,2013,23.0,7.1,315,Fiberglass,New,Corpus Christi,170,9,64200
+Bowrider,Bennington,2018,18.8,5.8,271,Fiberglass,Excellent,Rockport,28,7,55300
+Bowrider,Mako,2024,22.4,7.8,321,Aluminum,Excellent,Galveston,23,3,64900
+Center Console,Sea Hunt,2019,27.9,8.8,447,Fiberglass,Fair,South Padre Island,159,7,53200
+Center Console,Robalo,2013,27.2,8.8,389,Fiberglass,Excellent,Galveston,137,8,60700
+Center Console,Bayliner,2023,18.3,5.9,239,Fiberglass,Good,Rockport,29,10,45700
+Deck Boat,Boston Whaler,2021,25.4,8.3,401,Fiberglass,Excellent,Corpus Christi,71,5,87600
+Center Console,Grady-White,2016,28.0,8.3,432,Fiberglass,Excellent,Galveston,134,1,83300
+Bay Boat,Bayliner,2012,27.5,9.0,135,Fiberglass,Excellent,Port Isabel,133,7,37900
+Bowrider,Boston Whaler,2016,22.0,6.7,209,Fiberglass,Fair,Rockport,75,4,37500
+Bowrider,Bennington,2022,16.7,5.6,353,Fiberglass,Good,Galveston,85,9,47000
+Bowrider,Tracker,2018,29.0,8.5,268,Aluminum,New,Corpus Christi,20,8,58300
+Bay Boat,Bayliner,2012,21.5,7.7,125,Fiberglass,Good,Rockport,6,9,34600
+Pontoon,Boston Whaler,2012,21.1,7.2,252,Fiberglass,Excellent,Rockport,193,12,49900
+Pontoon,Bayliner,2024,26.6,8.3,215,Aluminum,New,South Padre Island,50,7,56100
+Center Console,Bennington,2016,19.7,6.0,352,Aluminum,Good,Galveston,185,11,42300
+Deck Boat,Bennington,2020,27.7,8.6,268,Fiberglass,New,Galveston,13,7,59100
+Deck Boat,Boston Whaler,2015,17.1,5.8,127,Fiberglass,Excellent,Corpus Christi,198,3,43000
+Bay Boat,Bayliner,2011,26.4,8.8,93,Fiberglass,Good,Port Aransas,88,9,28700
+Pontoon,Boston Whaler,2016,29.5,9.9,182,Fiberglass,Excellent,Rockport,162,8,55600
+Pontoon,Sea Hunt,2020,29.9,10.5,133,Fiberglass,Fair,Port Isabel,168,12,26900
+Deck Boat,Bayliner,2015,28.9,9.1,403,Fiberglass,Good,Port Aransas,73,4,61500
+Pontoon,Nautic Star,2019,28.2,9.4,176,Fiberglass,Good,South Padre Island,148,5,36900
+Pontoon,Sea Hunt,2016,19.9,6.3,312,Fiberglass,Good,Port Isabel,70,9,34100
+Deck Boat,Robalo,2015,29.5,9.8,122,Fiberglass,Fair,Corpus Christi,158,2,35300
+Bay Boat,Boston Whaler,2013,29.0,9.2,240,Fiberglass,Excellent,Port Aransas,192,7,64500
+Pontoon,Robalo,2013,23.5,8.0,425,Fiberglass,Good,Corpus Christi,162,6,48900
+Pontoon,Grady-White,2013,21.6,6.1,316,Aluminum,Good,Port Aransas,146,3,49100
+Bowrider,Bayliner,2020,17.5,5.2,183,Aluminum,Fair,Galveston,77,3,33900
+Center Console,Tracker,2015,24.3,7.4,355,Fiberglass,Excellent,South Padre Island,26,9,56100
+Deck Boat,Mako,2021,25.8,9.2,262,Fiberglass,Good,Port Isabel,103,1,41200
+Bowrider,Boston Whaler,2014,21.7,7.0,163,Fiberglass,Good,Port Isabel,30,8,34100
+Deck Boat,Mako,2014,21.7,6.7,448,Fiberglass,Excellent,Port Isabel,104,8,50400
+Bowrider,Mako,2023,24.0,7.5,426,Fiberglass,Fair,Rockport,174,7,52100
+Center Console,Robalo,2023,16.4,5.2,287,Fiberglass,Excellent,Rockport,27,5,77200
+Center Console,Nautic Star,2016,29.4,10.3,87,Fiberglass,Excellent,Galveston,180,1,41500
+Pontoon,Boston Whaler,2014,20.1,7.2,229,Fiberglass,Good,Port Isabel,121,9,37800
+Bay Boat,Bennington,2020,18.0,6.3,267,Fiberglass,Excellent,Corpus Christi,14,3,55700
+Deck Boat,Sea Hunt,2011,16.1,5.6,423,Fiberglass,New,Rockport,145,4,61700
+Deck Boat,Sea Hunt,2016,28.0,8.3,349,Fiberglass,New,Corpus Christi,5,11,64600
+Deck Boat,Bennington,2018,28.1,8.5,158,Aluminum,Excellent,South Padre Island,124,5,37000
+Bowrider,Bennington,2020,17.3,5.7,266,Fiberglass,Good,Port Aransas,103,4,57300
+Center Console,Sea Hunt,2011,18.1,6.0,142,Fiberglass,Fair,Galveston,150,12,26400
+Pontoon,Bayliner,2010,22.3,6.6,252,Fiberglass,Good,Rockport,78,2,33400
+Bowrider,Grady-White,2014,18.6,6.3,275,Fiberglass,New,Corpus Christi,28,3,63400
+Pontoon,Sea Hunt,2011,26.3,7.8,266,Fiberglass,Good,Galveston,80,6,39800
+Bay Boat,Tracker,2017,16.8,5.1,235,Fiberglass,Fair,Port Aransas,153,9,31500
+Center Console,Tracker,2023,23.7,7.2,238,Aluminum,Good,Corpus Christi,190,10,47700
+Pontoon,Grady-White,2014,21.4,7.4,373,Fiberglass,Excellent,South Padre Island,45,8,58900
+Deck Boat,Tracker,2016,22.5,7.6,264,Fiberglass,New,Galveston,73,12,53200
+Center Console,Bayliner,2013,21.9,7.1,90,Fiberglass,Fair,Port Aransas,175,1,25800
+Bay Boat,Nautic Star,2010,18.1,6.3,352,Fiberglass,Fair,South Padre Island,66,7,34500
+Bowrider,Mako,2020,19.1,6.6,306,Fiberglass,New,Port Isabel,52,3,67700
+Bay Boat,Sea Hunt,2013,16.9,5.3,335,Aluminum,Good,South Padre Island,167,11,40500
+Center Console,Nautic Star,2018,17.6,6.0,341,Fiberglass,New,Port Isabel,100,11,70800
+Pontoon,Nautic Star,2020,29.7,8.8,139,Fiberglass,New,Port Isabel,118,5,46600
+Center Console,Bennington,2022,19.9,6.4,439,Fiberglass,Good,South Padre Island,100,9,53400
+Bowrider,Bennington,2012,20.3,5.9,446,Fiberglass,Good,Galveston,122,7,47300
+Bowrider,Boston Whaler,2018,17.8,5.6,129,Fiberglass,Excellent,Rockport,57,2,48500
+Bowrider,Sea Hunt,2023,26.6,8.6,157,Fiberglass,Fair,South Padre Island,147,7,33700
+Bowrider,Mako,2017,28.9,8.3,167,Fiberglass,Good,South Padre Island,75,12,43200
+Bay Boat,Bayliner,2010,27.1,8.6,437,Fiberglass,New,Port Aransas,107,5,67600
+Bay Boat,Chaparral,2013,24.6,8.2,424,Fiberglass,Good,Corpus Christi,41,1,42800
+Bay Boat,Tracker,2021,27.4,9.0,174,Aluminum,Good,Corpus Christi,7,12,42200
+Deck Boat,Bennington,2021,21.7,6.2,311,Aluminum,Good,South Padre Island,116,6,48400
+Bowrider,Chaparral,2014,28.0,8.1,166,Aluminum,Fair,Rockport,32,6,30800
+Pontoon,Nautic Star,2012,27.2,8.4,89,Aluminum,Good,Port Aransas,183,8,28200
+Pontoon,Mako,2014,16.0,5.6,161,Aluminum,New,Port Aransas,192,7,40600
+Bowrider,Nautic Star,2013,22.8,8.0,104,Aluminum,Excellent,Port Aransas,66,5,36800
+Pontoon,Tracker,2021,19.7,6.0,392,Fiberglass,Good,Galveston,61,2,44700
+Bay Boat,Nautic Star,2022,17.2,5.8,369,Aluminum,Fair,Port Aransas,104,9,38300
+Deck Boat,Grady-White,2010,27.8,9.1,144,Aluminum,New,Port Aransas,44,6,49700
+Deck Boat,Nautic Star,2021,16.1,5.8,287,Fiberglass,New,Corpus Christi,173,8,55700
+Center Console,Grady-White,2021,26.2,7.5,151,Fiberglass,Good,Port Aransas,24,10,54300
+Pontoon,Boston Whaler,2019,29.8,9.7,287,Fiberglass,New,Port Aransas,93,1,77700
+Pontoon,Mako,2023,22.7,7.4,410,Aluminum,New,Rockport,41,10,70900
+Pontoon,Bennington,2010,21.2,6.5,404,Fiberglass,Fair,Port Isabel,167,8,30000
+Deck Boat,Robalo,2020,24.5,7.0,387,Aluminum,Good,South Padre Island,33,11,60900
+Pontoon,Bennington,2011,27.3,7.8,165,Aluminum,Fair,Corpus Christi,92,4,27600
+Bowrider,Sea Hunt,2023,19.4,6.1,146,Aluminum,Good,Corpus Christi,167,5,42200
+Deck Boat,Boston Whaler,2017,19.5,6.5,135,Fiberglass,Excellent,Port Aransas,90,8,49600
+Deck Boat,Tracker,2011,24.5,8.2,122,Fiberglass,Fair,South Padre Island,40,11,21800
+Center Console,Grady-White,2021,29.2,8.6,305,Aluminum,Excellent,Galveston,35,12,61700
+Pontoon,Mako,2021,20.2,7.0,321,Aluminum,Excellent,Port Aransas,122,6,49800
+Bowrider,Chaparral,2016,21.3,6.6,405,Aluminum,Fair,South Padre Island,29,6,43100
+Pontoon,Bayliner,2014,29.9,10.7,108,Fiberglass,Good,Port Aransas,74,3,33400
+Bowrider,Bennington,2010,18.5,5.4,174,Fiberglass,Fair,Galveston,124,8,23200
+Bowrider,Tracker,2023,17.1,5.9,347,Fiberglass,Excellent,Rockport,79,9,52000
+Pontoon,Nautic Star,2012,24.3,8.6,330,Aluminum,Fair,Corpus Christi,166,9,25000
+Deck Boat,Tracker,2022,16.3,5.6,235,Fiberglass,Good,South Padre Island,139,5,48500
+Center Console,Boston Whaler,2018,18.5,6.4,132,Fiberglass,Good,Galveston,31,12,45600
+Center Console,Grady-White,2020,24.7,7.6,256,Aluminum,Fair,Rockport,164,3,47000
+Bay Boat,Chaparral,2020,25.2,8.5,139,Fiberglass,Excellent,Galveston,182,6,44600
+Deck Boat,Nautic Star,2022,23.1,7.5,275,Fiberglass,Good,Galveston,44,7,51600
+Pontoon,Tracker,2010,21.4,6.7,413,Fiberglass,Good,Rockport,74,6,44800
+Deck Boat,Bennington,2024,24.1,8.7,148,Aluminum,Good,South Padre Island,82,8,37900
+Center Console,Bayliner,2010,25.0,7.6,119,Fiberglass,Fair,Galveston,87,7,27900
+Bay Boat,Nautic Star,2024,27.2,8.5,351,Fiberglass,Good,Port Aransas,95,2,57300
+Bowrider,Bennington,2013,27.1,9.5,84,Fiberglass,New,South Padre Island,179,3,41200
+Bowrider,Bayliner,2022,25.3,7.7,443,Fiberglass,Excellent,Corpus Christi,132,6,66400
+Bay Boat,Bennington,2011,28.5,8.3,365,Aluminum,Fair,South Padre Island,179,8,33300
+Bowrider,Bennington,2016,27.7,8.4,226,Fiberglass,Fair,Corpus Christi,73,6,30800
+Pontoon,Bennington,2018,17.9,6.1,210,Fiberglass,Fair,Port Aransas,107,5,31800
+Bowrider,Boston Whaler,2024,29.4,10.3,220,Fiberglass,New,South Padre Island,25,2,84400
+Bowrider,Mako,2011,28.5,8.2,223,Fiberglass,Excellent,Galveston,58,9,43700
+Pontoon,Bennington,2010,20.5,6.8,389,Fiberglass,Good,Port Isabel,118,6,40900
+Bay Boat,Nautic Star,2019,16.3,5.3,374,Aluminum,Good,Corpus Christi,38,6,53100
+Pontoon,Robalo,2010,24.5,8.2,151,Fiberglass,New,Port Isabel,192,6,35800
+Bay Boat,Tracker,2021,22.1,7.4,142,Fiberglass,Good,Port Aransas,57,4,39800
+Bay Boat,Grady-White,2010,26.5,9.5,277,Fiberglass,New,Rockport,36,4,71200
+Pontoon,Boston Whaler,2024,23.3,7.2,318,Fiberglass,Good,Rockport,157,2,54700
+Deck Boat,Robalo,2017,17.1,5.2,347,Aluminum,Excellent,Port Isabel,22,8,56400
+Deck Boat,Boston Whaler,2024,19.4,6.3,192,Fiberglass,New,Corpus Christi,68,4,67400
+Bay Boat,Sea Hunt,2011,28.4,8.9,255,Aluminum,New,Port Isabel,43,5,57000
+Deck Boat,Boston Whaler,2014,16.5,5.2,114,Fiberglass,Fair,Corpus Christi,140,12,31500
+Center Console,Boston Whaler,2016,26.3,7.5,245,Fiberglass,Good,Port Isabel,169,5,62100
+Pontoon,Grady-White,2010,20.1,5.9,332,Fiberglass,Fair,Galveston,43,6,30600
+Deck Boat,Bayliner,2011,22.3,7.9,189,Fiberglass,Good,South Padre Island,86,5,36200
+Bowrider,Bayliner,2014,23.4,6.7,194,Aluminum,Excellent,South Padre Island,98,5,50500
+Deck Boat,Grady-White,2021,19.5,6.4,248,Fiberglass,Excellent,Corpus Christi,139,1,72200
+Deck Boat,Mako,2020,25.1,8.5,399,Fiberglass,Good,Rockport,73,10,51500
+Center Console,Chaparral,2011,25.7,7.2,301,Fiberglass,Excellent,Rockport,106,6,45700
+Center Console,Tracker,2010,17.2,5.1,419,Fiberglass,Good,Port Isabel,103,8,46500
+Bay Boat,Bayliner,2019,21.2,6.6,98,Aluminum,Good,Rockport,7,12,40100
+Bay Boat,Tracker,2015,26.4,8.5,393,Aluminum,Fair,Port Isabel,116,1,39700
+Bay Boat,Boston Whaler,2021,26.1,8.0,91,Fiberglass,Excellent,Port Isabel,115,8,59200
+Bay Boat,Sea Hunt,2014,23.6,7.8,195,Aluminum,Good,South Padre Island,198,3,35900
+Pontoon,Bayliner,2015,26.9,8.0,234,Aluminum,Excellent,Rockport,104,6,45700
+Center Console,Sea Hunt,2013,17.5,4.9,163,Fiberglass,New,Port Aransas,180,10,34600
+Bay Boat,Boston Whaler,2013,17.7,5.0,445,Fiberglass,Good,Rockport,73,2,57300
+Center Console,Chaparral,2020,25.2,7.8,409,Fiberglass,Good,Galveston,140,12,56400
+Bay Boat,Bennington,2017,25.7,7.9,289,Aluminum,Good,South Padre Island,180,7,44400
+Pontoon,Bayliner,2019,27.4,9.8,244,Aluminum,New,Galveston,34,5,53000
+Center Console,Robalo,2011,18.5,5.2,360,Fiberglass,Fair,Port Aransas,115,1,37200
+Bay Boat,Nautic Star,2018,23.2,7.5,340,Aluminum,Fair,Galveston,184,7,39800
+Center Console,Sea Hunt,2016,25.3,8.3,255,Aluminum,Good,South Padre Island,113,6,46200
+Bowrider,Mako,2023,19.1,6.4,385,Fiberglass,Fair,Port Aransas,179,4,44600
+Pontoon,Bennington,2016,23.2,7.7,147,Fiberglass,Excellent,Port Isabel,86,6,41200
+Bay Boat,Boston Whaler,2011,24.9,7.0,179,Aluminum,Good,Corpus Christi,177,1,41300
+Center Console,Sea Hunt,2020,19.0,6.3,81,Aluminum,Fair,Rockport,127,12,31600
+Center Console,Robalo,2012,21.3,6.5,119,Fiberglass,Good,Port Aransas,98,5,34100
+Deck Boat,Bennington,2023,19.0,6.5,149,Fiberglass,Good,Port Aransas,46,6,47000
+Pontoon,Tracker,2015,28.6,8.4,309,Fiberglass,Good,Corpus Christi,38,9,44200
+Deck Boat,Sea Hunt,2021,19.3,6.5,395,Fiberglass,Good,Corpus Christi,61,8,48200
+Bowrider,Sea Hunt,2019,17.7,5.8,296,Fiberglass,Good,Corpus Christi,152,10,41000
+Bay Boat,Nautic Star,2016,16.5,5.5,242,Fiberglass,New,Rockport,96,11,51600
+Bay Boat,Grady-White,2018,16.6,4.9,176,Fiberglass,New,Port Isabel,80,3,66600
+Deck Boat,Chaparral,2012,18.7,6.2,113,Fiberglass,Good,Galveston,96,5,31700
+Bay Boat,Nautic Star,2011,24.5,8.3,294,Fiberglass,Good,Corpus Christi,72,8,35600
+Bowrider,Grady-White,2021,16.2,5.2,127,Fiberglass,Good,Port Isabel,162,1,44900
+Center Console,Robalo,2024,20.0,6.1,371,Aluminum,Fair,Galveston,81,8,41200
+Deck Boat,Robalo,2022,16.8,4.9,228,Fiberglass,Good,Galveston,97,1,45400
+Deck Boat,Robalo,2014,21.7,6.6,206,Fiberglass,Excellent,Port Isabel,114,11,48000
+Center Console,Bennington,2015,16.7,5.7,84,Fiberglass,Excellent,South Padre Island,131,8,30800
+Deck Boat,Boston Whaler,2015,24.5,7.7,165,Fiberglass,Good,South Padre Island,70,7,38700
+Deck Boat,Chaparral,2020,25.6,8.6,80,Fiberglass,Good,Rockport,19,6,37700
+Bay Boat,Robalo,2019,26.2,8.9,346,Fiberglass,Good,Galveston,139,12,60900
+Center Console,Robalo,2021,19.1,6.4,258,Fiberglass,Good,Rockport,114,8,52600
+Center Console,Chaparral,2024,28.2,9.4,369,Fiberglass,Good,Rockport,131,9,49100
+Center Console,Sea Hunt,2015,25.7,8.5,286,Fiberglass,Good,Port Isabel,111,9,38400
+Deck Boat,Sea Hunt,2019,16.8,5.4,432,Fiberglass,Good,Port Aransas,104,1,50300
+Center Console,Boston Whaler,2017,22.2,6.6,368,Aluminum,New,Corpus Christi,189,2,80000
+Bowrider,Grady-White,2024,26.7,9.3,130,Aluminum,Good,South Padre Island,15,4,55900
+Bay Boat,Nautic Star,2015,20.4,7.3,118,Fiberglass,Good,Galveston,22,7,34100
+Pontoon,Bayliner,2012,21.3,6.8,408,Fiberglass,New,Rockport,187,7,53700
+Pontoon,Grady-White,2015,24.8,8.8,175,Fiberglass,Good,Port Aransas,177,5,48100
+Deck Boat,Bayliner,2019,16.8,6.0,361,Fiberglass,Good,Rockport,85,12,47300
+Bowrider,Tracker,2024,29.5,9.4,310,Fiberglass,Good,Rockport,110,2,60700
+Center Console,Robalo,2022,18.4,6.2,338,Fiberglass,Good,Rockport,92,9,60200
+Bay Boat,Bayliner,2010,16.4,5.4,175,Fiberglass,Excellent,Rockport,199,6,34300
+Bay Boat,Chaparral,2017,16.1,4.8,192,Fiberglass,Excellent,Port Isabel,93,6,43300
+Center Console,Grady-White,2012,21.6,6.1,283,Fiberglass,Excellent,Galveston,153,1,55900
+Bay Boat,Chaparral,2015,28.4,9.0,83,Aluminum,Excellent,South Padre Island,76,8,40600
+Bay Boat,Sea Hunt,2024,27.5,9.4,191,Aluminum,Good,South Padre Island,79,9,43500
+Pontoon,Robalo,2024,28.8,8.8,265,Fiberglass,Good,Rockport,136,5,61300
+Bay Boat,Boston Whaler,2012,23.5,8.1,151,Fiberglass,Good,Port Aransas,82,6,40300
+Bowrider,Sea Hunt,2012,22.3,7.4,182,Fiberglass,Excellent,Galveston,7,7,40400
+Pontoon,Boston Whaler,2020,21.4,7.2,443,Fiberglass,Excellent,Galveston,38,5,74500
+Bowrider,Bennington,2016,16.6,5.0,183,Fiberglass,Excellent,Galveston,175,7,38600
+Center Console,Tracker,2016,28.7,9.1,413,Fiberglass,Good,South Padre Island,76,6,67600
+Bowrider,Boston Whaler,2023,22.9,6.7,422,Fiberglass,Excellent,Rockport,24,10,75500
+Pontoon,Grady-White,2023,22.4,6.7,327,Aluminum,Good,Corpus Christi,188,8,53300
+Bowrider,Sea Hunt,2023,23.2,6.7,132,Fiberglass,Good,Rockport,199,3,40100
+Bay Boat,Chaparral,2021,27.1,7.9,152,Fiberglass,Good,Rockport,102,9,41100
+Bowrider,Nautic Star,2024,19.1,5.7,425,Fiberglass,Excellent,Port Isabel,127,5,66900
+Deck Boat,Chaparral,2020,25.9,8.5,75,Fiberglass,Excellent,Port Isabel,152,11,35100
+Center Console,Grady-White,2023,26.0,8.2,263,Fiberglass,Good,South Padre Island,17,7,62000
+Deck Boat,Sea Hunt,2018,27.9,8.4,298,Fiberglass,Good,Corpus Christi,62,1,48600
+Center Console,Mako,2010,16.1,5.6,389,Fiberglass,New,Galveston,114,8,62400
+Bowrider,Sea Hunt,2022,18.4,5.9,410,Fiberglass,Fair,Corpus Christi,112,3,44700
+Bay Boat,Boston Whaler,2023,22.6,8.0,181,Fiberglass,Good,Port Aransas,69,10,53400
+Bay Boat,Bennington,2014,27.9,9.2,263,Aluminum,Good,Rockport,5,11,40500
+Deck Boat,Bennington,2016,29.5,8.3,312,Fiberglass,Excellent,Galveston,190,8,48500
+Deck Boat,Chaparral,2018,24.3,8.6,436,Fiberglass,Excellent,Galveston,124,6,56600
+Center Console,Bayliner,2019,19.0,6.6,283,Fiberglass,Excellent,Rockport,152,7,47400
+Bowrider,Boston Whaler,2020,18.6,6.2,120,Fiberglass,Excellent,Corpus Christi,90,6,50500
+Bowrider,Tracker,2015,25.0,8.1,421,Fiberglass,Good,Rockport,103,2,55400
+Pontoon,Bennington,2022,18.9,6.0,267,Aluminum,Good,Galveston,91,11,39100
+Pontoon,Bayliner,2022,23.7,7.6,142,Fiberglass,Fair,South Padre Island,88,5,30700
+Deck Boat,Mako,2024,27.7,9.5,146,Fiberglass,Fair,South Padre Island,135,5,34800
+Deck Boat,Tracker,2018,21.5,6.9,151,Fiberglass,Excellent,Galveston,199,4,47000
+Deck Boat,Mako,2011,21.3,6.3,345,Fiberglass,New,Galveston,156,12,48500
+Center Console,Nautic Star,2022,16.5,4.7,430,Fiberglass,Good,South Padre Island,135,11,56200
+Center Console,Mako,2011,19.6,5.7,240,Fiberglass,Fair,Port Aransas,7,5,31800
+Bay Boat,Robalo,2012,25.8,7.7,111,Fiberglass,Fair,Port Aransas,105,4,29700
+Deck Boat,Sea Hunt,2014,21.0,6.5,408,Fiberglass,New,South Padre Island,191,9,59600
+Center Console,Tracker,2012,18.2,6.4,313,Fiberglass,Excellent,Port Aransas,82,6,50200
+Center Console,Bayliner,2020,17.5,5.2,289,Fiberglass,New,Galveston,112,12,67300
+Bowrider,Mako,2016,17.3,5.3,97,Fiberglass,Good,Port Isabel,68,11,29800
+Bay Boat,Tracker,2013,25.2,7.5,438,Aluminum,Good,Corpus Christi,42,8,56700
+Deck Boat,Robalo,2010,24.6,8.0,103,Fiberglass,Good,Port Aransas,142,2,31200
+Deck Boat,Tracker,2013,23.3,7.7,303,Fiberglass,Good,Corpus Christi,66,8,34200
+Pontoon,Bayliner,2020,23.0,7.4,298,Fiberglass,Excellent,Port Isabel,119,12,51200
+Pontoon,Boston Whaler,2021,18.1,6.4,267,Fiberglass,Good,Rockport,120,5,55200
+Bay Boat,Grady-White,2014,23.0,8.3,281,Fiberglass,New,Port Aransas,170,10,64200
+Bowrider,Nautic Star,2011,16.8,5.8,224,Fiberglass,Good,South Padre Island,187,5,33300
+Bay Boat,Grady-White,2018,29.0,10.0,289,Fiberglass,Good,Rockport,112,12,47000
+Bowrider,Grady-White,2021,16.8,5.2,211,Aluminum,Good,Port Isabel,14,7,42500
+Deck Boat,Mako,2011,21.9,7.1,252,Fiberglass,Excellent,Galveston,118,2,47200
+Center Console,Boston Whaler,2021,16.0,4.9,329,Fiberglass,Good,Port Aransas,177,6,61300
+Pontoon,Chaparral,2012,27.0,9.3,353,Fiberglass,Good,Rockport,98,1,44400
+Center Console,Nautic Star,2013,18.3,5.4,132,Fiberglass,New,Rockport,115,5,40100
+Pontoon,Mako,2019,28.9,8.6,447,Fiberglass,Excellent,Galveston,153,11,52300
+Center Console,Robalo,2010,16.6,4.7,111,Fiberglass,Good,Corpus Christi,90,4,34200
+Bay Boat,Sea Hunt,2014,27.5,9.0,178,Fiberglass,Excellent,Rockport,85,12,42500
+Pontoon,Chaparral,2012,25.2,8.4,205,Fiberglass,New,Corpus Christi,99,2,48000
+Bowrider,Bayliner,2013,19.5,5.5,196,Fiberglass,Excellent,Port Isabel,171,8,38100
+Deck Boat,Grady-White,2021,18.8,6.0,206,Aluminum,Excellent,Port Isabel,100,12,53600
+Center Console,Grady-White,2013,21.0,6.5,196,Fiberglass,Good,Galveston,68,7,42900
+Bay Boat,Grady-White,2010,27.6,9.5,238,Fiberglass,Good,Galveston,121,10,38900
+Bowrider,Nautic Star,2013,28.1,8.0,361,Aluminum,Excellent,Corpus Christi,140,12,57700
+Pontoon,Sea Hunt,2011,18.5,5.3,385,Fiberglass,Good,Port Isabel,182,7,43400
+Center Console,Robalo,2019,20.9,6.9,205,Fiberglass,Excellent,Port Aransas,179,9,47800
+Bay Boat,Chaparral,2024,19.3,6.3,171,Fiberglass,Excellent,Port Aransas,157,1,45300
+Bay Boat,Nautic Star,2012,17.7,6.1,328,Aluminum,Excellent,Rockport,154,6,46400
+Center Console,Boston Whaler,2020,25.1,8.2,97,Fiberglass,Good,Port Isabel,92,4,54100
+Bowrider,Bayliner,2015,20.8,7.4,242,Fiberglass,Fair,South Padre Island,71,9,29700
+Pontoon,Sea Hunt,2011,19.2,5.9,157,Aluminum,Good,Galveston,114,8,28300
+Center Console,Bayliner,2020,28.1,8.8,302,Fiberglass,New,Galveston,142,7,71000
+Pontoon,Robalo,2013,26.5,9.5,104,Aluminum,Excellent,Port Aransas,106,11,35300
+Deck Boat,Sea Hunt,2017,26.8,7.7,385,Aluminum,Excellent,Galveston,45,2,69900
+Center Console,Sea Hunt,2017,16.5,5.7,176,Aluminum,Good,Port Isabel,7,12,36500
+Deck Boat,Chaparral,2018,28.8,8.1,267,Fiberglass,New,South Padre Island,16,2,71000
+Center Console,Boston Whaler,2012,24.0,7.7,289,Fiberglass,Fair,Rockport,88,5,50400
+Bay Boat,Bennington,2013,23.1,6.8,253,Fiberglass,Good,Rockport,159,7,40900
+Bowrider,Bayliner,2021,16.1,5.3,242,Fiberglass,Good,Port Isabel,159,5,37400
+Pontoon,Nautic Star,2023,28.6,9.8,175,Fiberglass,Good,Rockport,162,8,40500
+Center Console,Grady-White,2010,23.6,6.7,364,Aluminum,New,Port Isabel,143,9,67100
+Bowrider,Bennington,2016,27.6,8.1,268,Fiberglass,Good,Rockport,9,9,42800
+Deck Boat,Boston Whaler,2023,25.2,7.7,155,Fiberglass,New,Port Isabel,177,3,66700
+Bowrider,Robalo,2014,27.2,8.2,173,Fiberglass,Good,Rockport,189,3,44300
+Pontoon,Tracker,2016,25.7,8.0,239,Fiberglass,Good,Port Isabel,170,2,41900
+Bay Boat,Bennington,2023,28.9,10.3,391,Fiberglass,New,Port Isabel,91,6,88600
+Deck Boat,Boston Whaler,2024,19.2,5.5,435,Fiberglass,Good,Port Isabel,46,3,70300
+Deck Boat,Bennington,2019,18.8,5.9,220,Aluminum,New,Galveston,181,5,50300
+Pontoon,Boston Whaler,2020,26.0,8.2,223,Fiberglass,New,Rockport,41,10,68000
+Bay Boat,Robalo,2019,23.0,7.0,123,Fiberglass,Good,Port Isabel,158,11,45000
+Bay Boat,Chaparral,2014,24.4,7.4,279,Fiberglass,Good,South Padre Island,193,9,40300
+Bay Boat,Mako,2023,25.9,8.7,164,Fiberglass,Fair,Corpus Christi,180,1,36700
+Bay Boat,Mako,2010,23.7,7.8,382,Aluminum,Good,Port Isabel,106,7,43400
+Center Console,Bennington,2010,27.0,9.3,275,Aluminum,Good,Galveston,167,3,41200
+Center Console,Sea Hunt,2019,20.5,6.4,158,Fiberglass,Excellent,South Padre Island,167,5,50900
+Bowrider,Bennington,2022,28.0,9.2,418,Aluminum,New,Rockport,194,6,78100
+Center Console,Nautic Star,2022,17.5,6.2,380,Fiberglass,Fair,Corpus Christi,75,11,43800
+Bowrider,Bennington,2020,24.9,8.7,187,Fiberglass,New,South Padre Island,127,7,59000
+Center Console,Sea Hunt,2015,28.5,10.1,120,Aluminum,Good,Port Aransas,164,4,40500
+Pontoon,Boston Whaler,2015,19.5,5.9,174,Fiberglass,Excellent,Port Aransas,49,7,48800
+Bay Boat,Mako,2016,20.6,7.4,216,Fiberglass,Excellent,Port Isabel,48,12,41600
+Deck Boat,Robalo,2013,20.3,7.0,227,Fiberglass,Good,Galveston,80,2,37100
+Bay Boat,Robalo,2016,23.9,8.2,383,Fiberglass,Good,Corpus Christi,75,9,52500
+Deck Boat,Chaparral,2011,21.8,7.3,437,Fiberglass,Good,South Padre Island,151,4,47000
+Deck Boat,Robalo,2014,17.5,6.3,355,Fiberglass,Fair,Port Aransas,187,3,36300
+Deck Boat,Grady-White,2024,28.5,9.0,391,Fiberglass,Excellent,Port Isabel,35,10,75800
+Bay Boat,Bennington,2020,18.9,6.4,121,Fiberglass,Good,Port Aransas,68,1,40100
+Deck Boat,Grady-White,2012,23.5,7.9,131,Aluminum,New,South Padre Island,186,8,52000
+Bowrider,Bayliner,2014,24.3,8.2,415,Fiberglass,Good,South Padre Island,120,2,55700
+Deck Boat,Bayliner,2013,16.6,5.6,305,Aluminum,Excellent,Port Aransas,45,7,39600
+Bay Boat,Grady-White,2014,17.3,5.1,163,Fiberglass,Good,Rockport,122,7,36200
+Center Console,Boston Whaler,2020,29.6,9.1,371,Fiberglass,Excellent,Galveston,175,10,76200
+Bay Boat,Boston Whaler,2023,25.3,7.9,140,Fiberglass,Good,South Padre Island,77,9,52300
+Center Console,Sea Hunt,2020,16.5,5.6,363,Aluminum,Good,South Padre Island,99,8,49800
+Center Console,Grady-White,2017,27.1,9.1,406,Fiberglass,Fair,Rockport,124,5,53300
+Bowrider,Mako,2012,23.1,8.0,258,Aluminum,New,Corpus Christi,168,3,52000
+Center Console,Mako,2012,17.1,5.9,321,Fiberglass,Fair,Port Isabel,115,7,35000
+Deck Boat,Robalo,2022,25.5,8.4,349,Fiberglass,Excellent,Galveston,191,6,58700
+Bowrider,Mako,2020,23.0,6.7,405,Fiberglass,Excellent,Port Aransas,152,2,74000
+Bowrider,Mako,2017,18.9,6.3,293,Fiberglass,Excellent,Galveston,87,12,48400
+Center Console,Sea Hunt,2018,28.3,9.9,185,Fiberglass,Excellent,Port Isabel,100,5,57900
+Center Console,Chaparral,2022,20.1,6.7,150,Fiberglass,Good,Port Aransas,140,1,40800
+Bay Boat,Boston Whaler,2022,20.0,7.0,208,Fiberglass,Excellent,Galveston,18,11,64300
+Deck Boat,Bayliner,2011,19.8,7.1,96,Fiberglass,Excellent,Galveston,49,7,31200
+Bowrider,Mako,2015,26.7,8.2,336,Fiberglass,Good,Rockport,51,8,48800
+Bay Boat,Boston Whaler,2010,25.9,8.8,213,Fiberglass,Good,Galveston,161,3,45500
+Center Console,Boston Whaler,2015,28.6,9.2,341,Fiberglass,Good,Rockport,165,5,73800
+Bay Boat,Tracker,2019,19.2,6.1,98,Fiberglass,Good,Rockport,164,7,30500
+Bowrider,Bennington,2013,27.0,8.1,195,Fiberglass,New,Port Isabel,25,4,57600
+Center Console,Bennington,2012,24.0,7.2,223,Fiberglass,Good,South Padre Island,62,8,39000
+Bay Boat,Sea Hunt,2017,20.3,6.0,107,Fiberglass,New,Rockport,65,4,44800
+Center Console,Mako,2017,16.5,5.5,385,Aluminum,Excellent,Port Aransas,9,4,71400
+Center Console,Robalo,2020,27.5,8.0,299,Fiberglass,New,Port Isabel,55,1,90400
+Bowrider,Tracker,2010,19.4,6.1,391,Fiberglass,Good,Port Isabel,89,4,37100
+Center Console,Bennington,2013,24.8,8.0,375,Aluminum,Excellent,Port Aransas,177,4,59800
+Bay Boat,Sea Hunt,2021,23.7,7.5,87,Fiberglass,Good,Galveston,38,9,38800
+Bowrider,Tracker,2020,16.1,5.6,399,Fiberglass,Excellent,Rockport,172,7,59300
+Pontoon,Nautic Star,2023,29.9,9.4,101,Aluminum,Good,Corpus Christi,164,3,44700
+Center Console,Mako,2022,27.4,7.9,401,Aluminum,Good,Rockport,35,7,67300
+Deck Boat,Bayliner,2022,22.8,8.2,326,Fiberglass,New,Rockport,55,4,71500
+Bowrider,Boston Whaler,2017,25.5,8.9,382,Fiberglass,Excellent,Port Isabel,94,6,87600
+Deck Boat,Bennington,2024,22.7,7.6,262,Fiberglass,Good,Port Aransas,189,10,47800
+Deck Boat,Boston Whaler,2016,26.4,9.0,135,Aluminum,Good,Rockport,158,8,41400
+Deck Boat,Mako,2023,17.9,5.2,131,Aluminum,New,Rockport,194,7,48200
+Pontoon,Robalo,2015,22.2,7.6,119,Fiberglass,Good,Corpus Christi,65,4,38900
+Center Console,Nautic Star,2016,20.7,6.1,377,Fiberglass,Excellent,Rockport,182,3,56300
+Bowrider,Bennington,2020,22.4,7.1,275,Fiberglass,New,Galveston,191,8,57800
+Bowrider,Chaparral,2015,22.3,6.6,156,Fiberglass,Excellent,Port Isabel,121,7,39500
+Center Console,Grady-White,2012,18.0,6.1,121,Fiberglass,Good,Corpus Christi,35,7,38900
+Bowrider,Tracker,2023,29.7,8.9,104,Fiberglass,Excellent,Port Isabel,57,12,46900
+Bowrider,Sea Hunt,2016,16.2,4.9,171,Fiberglass,Good,Galveston,30,5,32700
+Pontoon,Chaparral,2023,16.1,4.6,356,Fiberglass,Excellent,Port Aransas,162,9,55500
+Bay Boat,Mako,2015,21.2,7.2,409,Fiberglass,Good,South Padre Island,66,7,48000
+Deck Boat,Nautic Star,2024,24.7,7.5,303,Fiberglass,Excellent,Rockport,141,4,70200
+Bowrider,Boston Whaler,2019,18.5,5.9,448,Fiberglass,Good,Port Isabel,57,2,69900
+Center Console,Grady-White,2021,23.5,7.2,222,Fiberglass,Good,Port Aransas,195,7,62000
+Bowrider,Bayliner,2021,26.1,8.9,199,Aluminum,Excellent,Port Isabel,155,5,55200
+Bowrider,Bennington,2013,17.3,5.2,334,Fiberglass,New,Galveston,78,8,60000
+Pontoon,Sea Hunt,2022,29.8,10.6,125,Fiberglass,Good,Port Aransas,97,8,39700
+Bay Boat,Nautic Star,2024,20.7,6.3,416,Fiberglass,Fair,Galveston,16,6,48700
+Deck Boat,Robalo,2019,25.0,7.2,367,Fiberglass,Fair,Rockport,31,6,49000
+Center Console,Grady-White,2024,17.6,5.3,87,Fiberglass,Excellent,Corpus Christi,199,7,65500
+Bowrider,Grady-White,2022,25.9,7.4,145,Fiberglass,Good,Corpus Christi,164,6,50100
+Bay Boat,Bennington,2019,27.8,8.8,310,Fiberglass,Excellent,Corpus Christi,168,10,57600
+Center Console,Boston Whaler,2017,17.5,5.3,351,Fiberglass,Excellent,Galveston,130,2,71700
+Pontoon,Sea Hunt,2022,17.8,6.2,156,Fiberglass,Good,Corpus Christi,48,12,37300
+Pontoon,Bayliner,2012,19.9,6.4,355,Fiberglass,Good,Port Isabel,25,1,39500
+Pontoon,Robalo,2018,16.2,4.8,252,Fiberglass,Good,Corpus Christi,146,4,35400
+Center Console,Grady-White,2022,29.8,9.4,328,Fiberglass,Good,Corpus Christi,69,8,66100
+Pontoon,Grady-White,2024,24.4,7.2,233,Fiberglass,Excellent,Port Aransas,5,2,68300
+Pontoon,Chaparral,2014,24.5,7.2,245,Fiberglass,Good,Rockport,9,4,36700
+Pontoon,Tracker,2011,29.4,8.9,221,Fiberglass,Excellent,Port Isabel,113,3,44600
+Bowrider,Tracker,2015,27.6,8.0,133,Fiberglass,New,Port Aransas,168,8,47300
+Bay Boat,Robalo,2022,27.4,8.1,146,Fiberglass,Excellent,Galveston,75,7,54500
+Bay Boat,Bayliner,2017,20.8,7.4,137,Aluminum,Fair,Rockport,199,2,31100
+Bowrider,Bayliner,2010,20.7,6.9,375,Aluminum,Good,Rockport,79,6,45500
+Deck Boat,Mako,2011,20.1,7.1,233,Aluminum,New,Corpus Christi,147,4,49200
+Deck Boat,Mako,2015,20.9,6.3,217,Fiberglass,Good,Port Isabel,52,12,39100
+Bay Boat,Sea Hunt,2015,21.2,7.4,395,Fiberglass,Fair,Port Isabel,123,2,40300
+Pontoon,Nautic Star,2012,18.0,5.6,407,Fiberglass,Fair,Rockport,58,7,28500
+Pontoon,Boston Whaler,2017,21.0,6.1,162,Fiberglass,Good,Galveston,156,6,41500
+Center Console,Tracker,2017,22.3,7.7,208,Fiberglass,Excellent,South Padre Island,93,7,41900
+Deck Boat,Robalo,2012,20.3,5.8,229,Fiberglass,Good,Port Isabel,13,12,39700
+Bowrider,Chaparral,2013,18.3,5.7,389,Fiberglass,Good,Port Isabel,53,5,50100
+Bay Boat,Mako,2019,21.2,7.3,326,Fiberglass,Fair,Galveston,73,8,40700
+Bay Boat,Boston Whaler,2024,22.7,7.5,279,Fiberglass,Good,Rockport,95,6,67800
