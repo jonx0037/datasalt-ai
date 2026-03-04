@@ -1,0 +1,254 @@
+[
+  {
+    "label": "Jan 2023",
+    "forecast": 59.1,
+    "upper": 64.1,
+    "lower": 54.1,
+    "actual": 62.9
+  },
+  {
+    "label": "Feb 2023",
+    "forecast": 67.4,
+    "upper": 72.5,
+    "lower": 62.3,
+    "actual": 64.6
+  },
+  {
+    "label": "Mar 2023",
+    "forecast": 91.5,
+    "upper": 95.6,
+    "lower": 87.4,
+    "actual": 92.4
+  },
+  {
+    "label": "Apr 2023",
+    "forecast": 76.6,
+    "upper": 83.0,
+    "lower": 70.2,
+    "actual": 77.1
+  },
+  {
+    "label": "May 2023",
+    "forecast": 72.6,
+    "upper": 76.7,
+    "lower": 68.5,
+    "actual": 67.7
+  },
+  {
+    "label": "Jun 2023",
+    "forecast": 88.6,
+    "upper": 92.6,
+    "lower": 84.6,
+    "actual": 80.9
+  },
+  {
+    "label": "Jul 2023",
+    "forecast": 92.3,
+    "upper": 96.3,
+    "lower": 88.3,
+    "actual": 90.1
+  },
+  {
+    "label": "Aug 2023",
+    "forecast": 83.7,
+    "upper": 89.7,
+    "lower": 77.7,
+    "actual": 82.6
+  },
+  {
+    "label": "Sep 2023",
+    "forecast": 51.9,
+    "upper": 54.9,
+    "lower": 48.9,
+    "actual": 57.3
+  },
+  {
+    "label": "Oct 2023",
+    "forecast": 64.2,
+    "upper": 67.8,
+    "lower": 60.6,
+    "actual": 57.9
+  },
+  {
+    "label": "Nov 2023",
+    "forecast": 69.2,
+    "upper": 73.6,
+    "lower": 64.8,
+    "actual": 71.7
+  },
+  {
+    "label": "Dec 2023",
+    "forecast": 57.9,
+    "upper": 62.9,
+    "lower": 52.9,
+    "actual": 58.4
+  },
+  {
+    "label": "Jan 2024",
+    "forecast": 63.3,
+    "upper": 66.5,
+    "lower": 60.1,
+    "actual": 63.9
+  },
+  {
+    "label": "Feb 2024",
+    "forecast": 71.5,
+    "upper": 74.8,
+    "lower": 68.2,
+    "actual": 73.5
+  },
+  {
+    "label": "Mar 2024",
+    "forecast": 93.2,
+    "upper": 98.5,
+    "lower": 87.9,
+    "actual": 89.0
+  },
+  {
+    "label": "Apr 2024",
+    "forecast": 79.4,
+    "upper": 83.6,
+    "lower": 75.2,
+    "actual": 80.5
+  },
+  {
+    "label": "May 2024",
+    "forecast": 70.3,
+    "upper": 75.0,
+    "lower": 65.6,
+    "actual": 71.9
+  },
+  {
+    "label": "Jun 2024",
+    "forecast": 91.3,
+    "upper": 96.2,
+    "lower": 86.4,
+    "actual": 99
+  },
+  {
+    "label": "Jul 2024",
+    "forecast": 96.2,
+    "upper": 99,
+    "lower": 89.7,
+    "actual": 87.0
+  },
+  {
+    "label": "Aug 2024",
+    "forecast": 82.9,
+    "upper": 89.1,
+    "lower": 76.7,
+    "actual": 84.0
+  },
+  {
+    "label": "Sep 2024",
+    "forecast": 54.6,
+    "upper": 58.8,
+    "lower": 50.4,
+    "actual": 57.8
+  },
+  {
+    "label": "Oct 2024",
+    "forecast": 66.0,
+    "upper": 69.2,
+    "lower": 62.8,
+    "actual": 65.8
+  },
+  {
+    "label": "Nov 2024",
+    "forecast": 71.1,
+    "upper": 74.9,
+    "lower": 67.3,
+    "actual": 68.5
+  },
+  {
+    "label": "Dec 2024",
+    "forecast": 65.8,
+    "upper": 69.9,
+    "lower": 61.7,
+    "actual": 69.0
+  },
+  {
+    "label": "Jan 2025",
+    "forecast": 64.4,
+    "upper": 71.2,
+    "lower": 57.6,
+    "actual": null
+  },
+  {
+    "label": "Feb 2025",
+    "forecast": 73.0,
+    "upper": 79.1,
+    "lower": 66.9,
+    "actual": null
+  },
+  {
+    "label": "Mar 2025",
+    "forecast": 95.3,
+    "upper": 99,
+    "lower": 89.6,
+    "actual": null
+  },
+  {
+    "label": "Apr 2025",
+    "forecast": 80.0,
+    "upper": 83.3,
+    "lower": 76.7,
+    "actual": null
+  },
+  {
+    "label": "May 2025",
+    "forecast": 77.1,
+    "upper": 81.4,
+    "lower": 72.8,
+    "actual": null
+  },
+  {
+    "label": "Jun 2025",
+    "forecast": 93.0,
+    "upper": 99,
+    "lower": 86.5,
+    "actual": null
+  },
+  {
+    "label": "Jul 2025",
+    "forecast": 91.3,
+    "upper": 95.4,
+    "lower": 87.2,
+    "actual": null
+  },
+  {
+    "label": "Aug 2025",
+    "forecast": 89.6,
+    "upper": 95.7,
+    "lower": 83.5,
+    "actual": null
+  },
+  {
+    "label": "Sep 2025",
+    "forecast": 57.3,
+    "upper": 63.1,
+    "lower": 51.5,
+    "actual": null
+  },
+  {
+    "label": "Oct 2025",
+    "forecast": 71.8,
+    "upper": 78.5,
+    "lower": 65.1,
+    "actual": null
+  },
+  {
+    "label": "Nov 2025",
+    "forecast": 73.0,
+    "upper": 76.2,
+    "lower": 69.8,
+    "actual": null
+  },
+  {
+    "label": "Dec 2025",
+    "forecast": 66.6,
+    "upper": 70.1,
+    "lower": 63.1,
+    "actual": null
+  }
+]

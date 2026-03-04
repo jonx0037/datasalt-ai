@@ -1,0 +1,422 @@
+[
+  {
+    "month": "Jan",
+    "month_num": 1,
+    "department": "Front Desk",
+    "current_fte": 7.5,
+    "recommended_fte": 7.6
+  },
+  {
+    "month": "Jan",
+    "month_num": 1,
+    "department": "Housekeeping",
+    "current_fte": 14.9,
+    "recommended_fte": 14.6
+  },
+  {
+    "month": "Jan",
+    "month_num": 1,
+    "department": "F&B",
+    "current_fte": 11.7,
+    "recommended_fte": 11.4
+  },
+  {
+    "month": "Jan",
+    "month_num": 1,
+    "department": "Maintenance",
+    "current_fte": 5.8,
+    "recommended_fte": 5.7
+  },
+  {
+    "month": "Jan",
+    "month_num": 1,
+    "department": "Activities",
+    "current_fte": 4.8,
+    "recommended_fte": 5.1
+  },
+  {
+    "month": "Feb",
+    "month_num": 2,
+    "department": "Front Desk",
+    "current_fte": 7.4,
+    "recommended_fte": 8.5
+  },
+  {
+    "month": "Feb",
+    "month_num": 2,
+    "department": "Housekeeping",
+    "current_fte": 14.7,
+    "recommended_fte": 14.6
+  },
+  {
+    "month": "Feb",
+    "month_num": 2,
+    "department": "F&B",
+    "current_fte": 12.2,
+    "recommended_fte": 12.2
+  },
+  {
+    "month": "Feb",
+    "month_num": 2,
+    "department": "Maintenance",
+    "current_fte": 5.9,
+    "recommended_fte": 5.8
+  },
+  {
+    "month": "Feb",
+    "month_num": 2,
+    "department": "Activities",
+    "current_fte": 5.2,
+    "recommended_fte": 4.7
+  },
+  {
+    "month": "Mar",
+    "month_num": 3,
+    "department": "Front Desk",
+    "current_fte": 8.6,
+    "recommended_fte": 9.5
+  },
+  {
+    "month": "Mar",
+    "month_num": 3,
+    "department": "Housekeeping",
+    "current_fte": 16.1,
+    "recommended_fte": 17.2
+  },
+  {
+    "month": "Mar",
+    "month_num": 3,
+    "department": "F&B",
+    "current_fte": 12.4,
+    "recommended_fte": 13.5
+  },
+  {
+    "month": "Mar",
+    "month_num": 3,
+    "department": "Maintenance",
+    "current_fte": 6.6,
+    "recommended_fte": 7.1
+  },
+  {
+    "month": "Mar",
+    "month_num": 3,
+    "department": "Activities",
+    "current_fte": 5.1,
+    "recommended_fte": 5.8
+  },
+  {
+    "month": "Apr",
+    "month_num": 4,
+    "department": "Front Desk",
+    "current_fte": 8.4,
+    "recommended_fte": 8.2
+  },
+  {
+    "month": "Apr",
+    "month_num": 4,
+    "department": "Housekeeping",
+    "current_fte": 15.3,
+    "recommended_fte": 16.1
+  },
+  {
+    "month": "Apr",
+    "month_num": 4,
+    "department": "F&B",
+    "current_fte": 12.8,
+    "recommended_fte": 13.2
+  },
+  {
+    "month": "Apr",
+    "month_num": 4,
+    "department": "Maintenance",
+    "current_fte": 6.0,
+    "recommended_fte": 6.9
+  },
+  {
+    "month": "Apr",
+    "month_num": 4,
+    "department": "Activities",
+    "current_fte": 5.4,
+    "recommended_fte": 5.5
+  },
+  {
+    "month": "May",
+    "month_num": 5,
+    "department": "Front Desk",
+    "current_fte": 8.8,
+    "recommended_fte": 7.8
+  },
+  {
+    "month": "May",
+    "month_num": 5,
+    "department": "Housekeeping",
+    "current_fte": 15.3,
+    "recommended_fte": 15.3
+  },
+  {
+    "month": "May",
+    "month_num": 5,
+    "department": "F&B",
+    "current_fte": 12.4,
+    "recommended_fte": 12.6
+  },
+  {
+    "month": "May",
+    "month_num": 5,
+    "department": "Maintenance",
+    "current_fte": 5.7,
+    "recommended_fte": 6.1
+  },
+  {
+    "month": "May",
+    "month_num": 5,
+    "department": "Activities",
+    "current_fte": 5.1,
+    "recommended_fte": 5.2
+  },
+  {
+    "month": "Jun",
+    "month_num": 6,
+    "department": "Front Desk",
+    "current_fte": 8.8,
+    "recommended_fte": 8.7
+  },
+  {
+    "month": "Jun",
+    "month_num": 6,
+    "department": "Housekeeping",
+    "current_fte": 16.0,
+    "recommended_fte": 16.3
+  },
+  {
+    "month": "Jun",
+    "month_num": 6,
+    "department": "F&B",
+    "current_fte": 12.5,
+    "recommended_fte": 13.9
+  },
+  {
+    "month": "Jun",
+    "month_num": 6,
+    "department": "Maintenance",
+    "current_fte": 6.3,
+    "recommended_fte": 6.3
+  },
+  {
+    "month": "Jun",
+    "month_num": 6,
+    "department": "Activities",
+    "current_fte": 5.2,
+    "recommended_fte": 5.6
+  },
+  {
+    "month": "Jul",
+    "month_num": 7,
+    "department": "Front Desk",
+    "current_fte": 9.4,
+    "recommended_fte": 8.8
+  },
+  {
+    "month": "Jul",
+    "month_num": 7,
+    "department": "Housekeeping",
+    "current_fte": 15.8,
+    "recommended_fte": 17.1
+  },
+  {
+    "month": "Jul",
+    "month_num": 7,
+    "department": "F&B",
+    "current_fte": 13.0,
+    "recommended_fte": 13.6
+  },
+  {
+    "month": "Jul",
+    "month_num": 7,
+    "department": "Maintenance",
+    "current_fte": 6.0,
+    "recommended_fte": 6.9
+  },
+  {
+    "month": "Jul",
+    "month_num": 7,
+    "department": "Activities",
+    "current_fte": 5.5,
+    "recommended_fte": 5.6
+  },
+  {
+    "month": "Aug",
+    "month_num": 8,
+    "department": "Front Desk",
+    "current_fte": 8.5,
+    "recommended_fte": 8.6
+  },
+  {
+    "month": "Aug",
+    "month_num": 8,
+    "department": "Housekeeping",
+    "current_fte": 15.8,
+    "recommended_fte": 16.5
+  },
+  {
+    "month": "Aug",
+    "month_num": 8,
+    "department": "F&B",
+    "current_fte": 12.6,
+    "recommended_fte": 13.3
+  },
+  {
+    "month": "Aug",
+    "month_num": 8,
+    "department": "Maintenance",
+    "current_fte": 5.8,
+    "recommended_fte": 7.0
+  },
+  {
+    "month": "Aug",
+    "month_num": 8,
+    "department": "Activities",
+    "current_fte": 4.9,
+    "recommended_fte": 5.0
+  },
+  {
+    "month": "Sep",
+    "month_num": 9,
+    "department": "Front Desk",
+    "current_fte": 7.5,
+    "recommended_fte": 7.3
+  },
+  {
+    "month": "Sep",
+    "month_num": 9,
+    "department": "Housekeeping",
+    "current_fte": 14.5,
+    "recommended_fte": 13.4
+  },
+  {
+    "month": "Sep",
+    "month_num": 9,
+    "department": "F&B",
+    "current_fte": 11.4,
+    "recommended_fte": 11.1
+  },
+  {
+    "month": "Sep",
+    "month_num": 9,
+    "department": "Maintenance",
+    "current_fte": 5.6,
+    "recommended_fte": 5.2
+  },
+  {
+    "month": "Sep",
+    "month_num": 9,
+    "department": "Activities",
+    "current_fte": 4.8,
+    "recommended_fte": 4.5
+  },
+  {
+    "month": "Oct",
+    "month_num": 10,
+    "department": "Front Desk",
+    "current_fte": 7.8,
+    "recommended_fte": 8.2
+  },
+  {
+    "month": "Oct",
+    "month_num": 10,
+    "department": "Housekeeping",
+    "current_fte": 14.7,
+    "recommended_fte": 14.6
+  },
+  {
+    "month": "Oct",
+    "month_num": 10,
+    "department": "F&B",
+    "current_fte": 11.4,
+    "recommended_fte": 11.9
+  },
+  {
+    "month": "Oct",
+    "month_num": 10,
+    "department": "Maintenance",
+    "current_fte": 5.3,
+    "recommended_fte": 5.9
+  },
+  {
+    "month": "Oct",
+    "month_num": 10,
+    "department": "Activities",
+    "current_fte": 4.0,
+    "recommended_fte": 4.9
+  },
+  {
+    "month": "Nov",
+    "month_num": 11,
+    "department": "Front Desk",
+    "current_fte": 8.2,
+    "recommended_fte": 8.0
+  },
+  {
+    "month": "Nov",
+    "month_num": 11,
+    "department": "Housekeeping",
+    "current_fte": 15.0,
+    "recommended_fte": 15.1
+  },
+  {
+    "month": "Nov",
+    "month_num": 11,
+    "department": "F&B",
+    "current_fte": 11.9,
+    "recommended_fte": 12.3
+  },
+  {
+    "month": "Nov",
+    "month_num": 11,
+    "department": "Maintenance",
+    "current_fte": 5.6,
+    "recommended_fte": 5.7
+  },
+  {
+    "month": "Nov",
+    "month_num": 11,
+    "department": "Activities",
+    "current_fte": 5.1,
+    "recommended_fte": 4.8
+  },
+  {
+    "month": "Dec",
+    "month_num": 12,
+    "department": "Front Desk",
+    "current_fte": 7.4,
+    "recommended_fte": 8.0
+  },
+  {
+    "month": "Dec",
+    "month_num": 12,
+    "department": "Housekeeping",
+    "current_fte": 14.3,
+    "recommended_fte": 14.2
+  },
+  {
+    "month": "Dec",
+    "month_num": 12,
+    "department": "F&B",
+    "current_fte": 11.3,
+    "recommended_fte": 11.9
+  },
+  {
+    "month": "Dec",
+    "month_num": 12,
+    "department": "Maintenance",
+    "current_fte": 5.6,
+    "recommended_fte": 6.1
+  },
+  {
+    "month": "Dec",
+    "month_num": 12,
+    "department": "Activities",
+    "current_fte": 4.6,
+    "recommended_fte": 4.7
+  }
+]

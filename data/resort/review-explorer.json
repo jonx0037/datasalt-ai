@@ -1,0 +1,2388 @@
+[
+  {
+    "id": 1,
+    "date": "2024-11-15",
+    "sentiment": 4.0,
+    "topics": [
+      "Food",
+      "Location",
+      "Service"
+    ],
+    "snippet": "Breakfast buffet had amazing variety.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "date": "2024-09-13",
+    "sentiment": 3.2,
+    "topics": [
+      "Value",
+      "Location"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 3,
+    "date": "2023-02-19",
+    "sentiment": 4.1,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "date": "2025-02-01",
+    "sentiment": 3.9,
+    "topics": [
+      "Value",
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "date": "2023-01-23",
+    "sentiment": 3.6,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "date": "2025-02-18",
+    "sentiment": 3.6,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Kids loved the splash pad and game room.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "date": "2023-09-21",
+    "sentiment": 2.8,
+    "topics": [
+      "Cleanliness",
+      "Location"
+    ],
+    "snippet": "Bathroom could have been cleaner.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 8,
+    "date": "2025-01-04",
+    "sentiment": 3.7,
+    "topics": [
+      "Food",
+      "Location",
+      "Service"
+    ],
+    "snippet": "The seafood dinner was a highlight of our stay.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "date": "2024-03-27",
+    "sentiment": 3.7,
+    "topics": [
+      "Amenities",
+      "Cleanliness"
+    ],
+    "snippet": "Kids loved the splash pad and game room.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 10,
+    "date": "2024-04-05",
+    "sentiment": 3.7,
+    "topics": [
+      "Service",
+      "Location"
+    ],
+    "snippet": "Staff went above and beyond for our anniversary.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 11,
+    "date": "2025-09-24",
+    "sentiment": 3.9,
+    "topics": [
+      "Location",
+      "Value"
+    ],
+    "snippet": "Loved watching the sunrise from our balcony.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 12,
+    "date": "2025-12-21",
+    "sentiment": 4.8,
+    "topics": [
+      "Food",
+      "Amenities"
+    ],
+    "snippet": "Poolside bar makes the best frozen drinks.",
+    "room_type": "Ocean View",
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "date": "2025-12-08",
+    "sentiment": 3.2,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Had to wait 20 minutes for check-in.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "date": "2024-08-20",
+    "sentiment": 3.4,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Poolside bar makes the best frozen drinks.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 15,
+    "date": "2023-06-22",
+    "sentiment": 3.1,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 16,
+    "date": "2024-12-22",
+    "sentiment": 4.2,
+    "topics": [
+      "Food",
+      "Service",
+      "Amenities"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "date": "2023-05-13",
+    "sentiment": 3.9,
+    "topics": [
+      "Value",
+      "Service"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "date": "2024-01-22",
+    "sentiment": 4.0,
+    "topics": [
+      "Cleanliness",
+      "Amenities",
+      "Service"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 19,
+    "date": "2025-12-11",
+    "sentiment": 4.0,
+    "topics": [
+      "Service",
+      "Amenities"
+    ],
+    "snippet": "Front desk staff were incredibly welcoming.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 20,
+    "date": "2023-08-23",
+    "sentiment": 3.4,
+    "topics": [
+      "Service",
+      "Cleanliness"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 21,
+    "date": "2023-07-25",
+    "sentiment": 3.1,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 22,
+    "date": "2024-08-20",
+    "sentiment": 4.5,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Front desk staff were incredibly welcoming.",
+    "room_type": "Standard",
+    "rating": 5
+  },
+  {
+    "id": 23,
+    "date": "2023-11-18",
+    "sentiment": 3.3,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 24,
+    "date": "2023-01-17",
+    "sentiment": 4.5,
+    "topics": [
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "Kids loved the splash pad and game room.",
+    "room_type": "Ocean View",
+    "rating": 5
+  },
+  {
+    "id": 25,
+    "date": "2024-03-08",
+    "sentiment": 3.4,
+    "topics": [
+      "Food",
+      "Location",
+      "Amenities"
+    ],
+    "snippet": "The seafood dinner was a highlight of our stay.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 26,
+    "date": "2024-06-11",
+    "sentiment": 3.9,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Perfect beachfront location, steps from the water.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 27,
+    "date": "2024-09-13",
+    "sentiment": 4.0,
+    "topics": [
+      "Cleanliness",
+      "Value"
+    ],
+    "snippet": "Bathroom could have been cleaner.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 28,
+    "date": "2025-05-21",
+    "sentiment": 3.9,
+    "topics": [
+      "Value",
+      "Location"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 29,
+    "date": "2024-02-04",
+    "sentiment": 3.7,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 30,
+    "date": "2025-07-20",
+    "sentiment": 3.6,
+    "topics": [
+      "Location",
+      "Food",
+      "Value"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 31,
+    "date": "2023-10-13",
+    "sentiment": 3.3,
+    "topics": [
+      "Amenities",
+      "Food",
+      "Value"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 32,
+    "date": "2025-09-20",
+    "sentiment": 3.3,
+    "topics": [
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "The spa treatments were absolutely worth it.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 33,
+    "date": "2024-05-11",
+    "sentiment": 3.6,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "The spa treatments were absolutely worth it.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 34,
+    "date": "2023-08-26",
+    "sentiment": 3.3,
+    "topics": [
+      "Location",
+      "Value",
+      "Service"
+    ],
+    "snippet": "Great proximity to local restaurants and shops.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 35,
+    "date": "2025-04-18",
+    "sentiment": 4.0,
+    "topics": [
+      "Amenities",
+      "Food",
+      "Service"
+    ],
+    "snippet": "Kids loved the splash pad and game room.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 36,
+    "date": "2023-04-04",
+    "sentiment": 2.8,
+    "topics": [
+      "Value",
+      "Food",
+      "Location"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 37,
+    "date": "2023-12-15",
+    "sentiment": 3.2,
+    "topics": [
+      "Value",
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 38,
+    "date": "2024-07-18",
+    "sentiment": 4.0,
+    "topics": [
+      "Value",
+      "Food",
+      "Amenities"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 39,
+    "date": "2023-10-28",
+    "sentiment": 3.4,
+    "topics": [
+      "Location",
+      "Service"
+    ],
+    "snippet": "A bit far from the main strip but shuttle helped.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 40,
+    "date": "2024-06-15",
+    "sentiment": 4.7,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Had to wait 20 minutes for check-in.",
+    "room_type": "Suite",
+    "rating": 5
+  },
+  {
+    "id": 41,
+    "date": "2025-02-24",
+    "sentiment": 4.0,
+    "topics": [
+      "Food",
+      "Service"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 42,
+    "date": "2024-12-08",
+    "sentiment": 2.6,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Breakfast buffet had amazing variety.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 43,
+    "date": "2025-01-28",
+    "sentiment": 4.0,
+    "topics": [
+      "Service",
+      "Value",
+      "Amenities"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 44,
+    "date": "2024-11-06",
+    "sentiment": 4.6,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 45,
+    "date": "2025-02-20",
+    "sentiment": 3.5,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Had to wait 20 minutes for check-in.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 46,
+    "date": "2024-09-20",
+    "sentiment": 3.6,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 47,
+    "date": "2025-10-22",
+    "sentiment": 3.8,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 48,
+    "date": "2025-11-25",
+    "sentiment": 4.5,
+    "topics": [
+      "Cleanliness",
+      "Food",
+      "Value"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Ocean View",
+    "rating": 5
+  },
+  {
+    "id": 49,
+    "date": "2025-10-01",
+    "sentiment": 3.8,
+    "topics": [
+      "Location",
+      "Cleanliness"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 50,
+    "date": "2025-09-24",
+    "sentiment": 3.9,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 51,
+    "date": "2024-10-22",
+    "sentiment": 5.0,
+    "topics": [
+      "Cleanliness",
+      "Food",
+      "Amenities"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Suite",
+    "rating": 5
+  },
+  {
+    "id": 52,
+    "date": "2025-06-09",
+    "sentiment": 3.8,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 53,
+    "date": "2025-07-01",
+    "sentiment": 4.3,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Breakfast buffet had amazing variety.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 54,
+    "date": "2025-07-04",
+    "sentiment": 4.5,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Beachfront",
+    "rating": 5
+  },
+  {
+    "id": 55,
+    "date": "2023-08-23",
+    "sentiment": 3.4,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 56,
+    "date": "2025-01-07",
+    "sentiment": 4.6,
+    "topics": [
+      "Food",
+      "Service"
+    ],
+    "snippet": "Restaurant prices were a bit steep.",
+    "room_type": "Suite",
+    "rating": 5
+  },
+  {
+    "id": 57,
+    "date": "2025-02-08",
+    "sentiment": 3.1,
+    "topics": [
+      "Location",
+      "Value",
+      "Food"
+    ],
+    "snippet": "A bit far from the main strip but shuttle helped.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 58,
+    "date": "2024-01-07",
+    "sentiment": 4.1,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "The seafood dinner was a highlight of our stay.",
+    "room_type": "Beachfront",
+    "rating": 5
+  },
+  {
+    "id": 59,
+    "date": "2023-08-04",
+    "sentiment": 4.0,
+    "topics": [
+      "Cleanliness",
+      "Amenities",
+      "Value"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 60,
+    "date": "2024-08-18",
+    "sentiment": 3.9,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Housekeeping did an excellent job daily.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 61,
+    "date": "2024-05-05",
+    "sentiment": 3.7,
+    "topics": [
+      "Cleanliness",
+      "Location"
+    ],
+    "snippet": "Housekeeping did an excellent job daily.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 62,
+    "date": "2024-08-14",
+    "sentiment": 3.3,
+    "topics": [
+      "Food",
+      "Cleanliness",
+      "Location"
+    ],
+    "snippet": "The seafood dinner was a highlight of our stay.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 63,
+    "date": "2024-11-19",
+    "sentiment": 3.4,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 64,
+    "date": "2024-12-06",
+    "sentiment": 4.0,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 65,
+    "date": "2024-07-09",
+    "sentiment": 2.9,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Kids loved the splash pad and game room.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 66,
+    "date": "2024-05-28",
+    "sentiment": 3.2,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Housekeeping did an excellent job daily.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 67,
+    "date": "2023-12-24",
+    "sentiment": 4.2,
+    "topics": [
+      "Cleanliness",
+      "Value",
+      "Location"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Beachfront",
+    "rating": 5
+  },
+  {
+    "id": 68,
+    "date": "2025-07-22",
+    "sentiment": 3.4,
+    "topics": [
+      "Service",
+      "Food"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 69,
+    "date": "2023-12-09",
+    "sentiment": 3.6,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 70,
+    "date": "2025-01-02",
+    "sentiment": 4.3,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 71,
+    "date": "2024-05-26",
+    "sentiment": 3.0,
+    "topics": [
+      "Amenities",
+      "Value"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 72,
+    "date": "2025-05-24",
+    "sentiment": 4.0,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 73,
+    "date": "2025-10-23",
+    "sentiment": 4.4,
+    "topics": [
+      "Value",
+      "Service"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 74,
+    "date": "2023-02-12",
+    "sentiment": 3.7,
+    "topics": [
+      "Amenities",
+      "Cleanliness"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 75,
+    "date": "2025-10-26",
+    "sentiment": 3.8,
+    "topics": [
+      "Food",
+      "Location",
+      "Cleanliness"
+    ],
+    "snippet": "Breakfast buffet had amazing variety.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 76,
+    "date": "2023-12-04",
+    "sentiment": 3.7,
+    "topics": [
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 77,
+    "date": "2024-08-09",
+    "sentiment": 3.6,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 78,
+    "date": "2024-12-08",
+    "sentiment": 4.0,
+    "topics": [
+      "Amenities",
+      "Value"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 79,
+    "date": "2025-06-28",
+    "sentiment": 3.8,
+    "topics": [
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 80,
+    "date": "2023-03-18",
+    "sentiment": 2.4,
+    "topics": [
+      "Food",
+      "Location"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Standard",
+    "rating": 2
+  },
+  {
+    "id": 81,
+    "date": "2025-08-18",
+    "sentiment": 3.1,
+    "topics": [
+      "Value",
+      "Food",
+      "Cleanliness"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 82,
+    "date": "2024-10-03",
+    "sentiment": 4.0,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 83,
+    "date": "2023-09-09",
+    "sentiment": 3.6,
+    "topics": [
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "The spa treatments were absolutely worth it.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 84,
+    "date": "2023-12-09",
+    "sentiment": 3.3,
+    "topics": [
+      "Food",
+      "Value"
+    ],
+    "snippet": "Restaurant prices were a bit steep.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 85,
+    "date": "2024-05-22",
+    "sentiment": 3.5,
+    "topics": [
+      "Cleanliness",
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 86,
+    "date": "2023-11-20",
+    "sentiment": 3.3,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 87,
+    "date": "2025-09-27",
+    "sentiment": 4.0,
+    "topics": [
+      "Service",
+      "Cleanliness",
+      "Value"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 88,
+    "date": "2023-06-16",
+    "sentiment": 3.9,
+    "topics": [
+      "Service",
+      "Value",
+      "Food"
+    ],
+    "snippet": "Had to wait 20 minutes for check-in.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 89,
+    "date": "2023-01-24",
+    "sentiment": 4.2,
+    "topics": [
+      "Food",
+      "Value",
+      "Amenities"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 90,
+    "date": "2024-11-14",
+    "sentiment": 4.0,
+    "topics": [
+      "Cleanliness",
+      "Service",
+      "Value"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 91,
+    "date": "2025-01-05",
+    "sentiment": 3.8,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 92,
+    "date": "2024-02-05",
+    "sentiment": 4.1,
+    "topics": [
+      "Location",
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 93,
+    "date": "2024-05-10",
+    "sentiment": 2.7,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Front desk staff were incredibly welcoming.",
+    "room_type": "Suite",
+    "rating": 2
+  },
+  {
+    "id": 94,
+    "date": "2023-03-02",
+    "sentiment": 3.3,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 95,
+    "date": "2024-11-16",
+    "sentiment": 4.0,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 96,
+    "date": "2023-07-27",
+    "sentiment": 2.9,
+    "topics": [
+      "Service",
+      "Amenities"
+    ],
+    "snippet": "Staff went above and beyond for our anniversary.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 97,
+    "date": "2025-08-19",
+    "sentiment": 4.4,
+    "topics": [
+      "Value",
+      "Food"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 98,
+    "date": "2025-05-16",
+    "sentiment": 3.9,
+    "topics": [
+      "Cleanliness",
+      "Value"
+    ],
+    "snippet": "Bathroom could have been cleaner.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 99,
+    "date": "2024-03-16",
+    "sentiment": 3.7,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Bathroom could have been cleaner.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 100,
+    "date": "2025-05-01",
+    "sentiment": 4.3,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 101,
+    "date": "2024-12-20",
+    "sentiment": 4.0,
+    "topics": [
+      "Service",
+      "Value",
+      "Location"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 102,
+    "date": "2025-05-17",
+    "sentiment": 3.7,
+    "topics": [
+      "Service",
+      "Cleanliness"
+    ],
+    "snippet": "Had to wait 20 minutes for check-in.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 103,
+    "date": "2023-07-14",
+    "sentiment": 3.4,
+    "topics": [
+      "Value",
+      "Food"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 104,
+    "date": "2024-04-10",
+    "sentiment": 4.0,
+    "topics": [
+      "Service",
+      "Value",
+      "Amenities"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 105,
+    "date": "2023-06-16",
+    "sentiment": 4.2,
+    "topics": [
+      "Value",
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 106,
+    "date": "2025-10-02",
+    "sentiment": 3.7,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 107,
+    "date": "2025-04-04",
+    "sentiment": 4.0,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 108,
+    "date": "2024-11-07",
+    "sentiment": 3.7,
+    "topics": [
+      "Service",
+      "Food"
+    ],
+    "snippet": "Staff went above and beyond for our anniversary.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 109,
+    "date": "2025-01-18",
+    "sentiment": 4.1,
+    "topics": [
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 110,
+    "date": "2024-02-10",
+    "sentiment": 4.2,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 111,
+    "date": "2024-01-15",
+    "sentiment": 3.7,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Loved watching the sunrise from our balcony.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 112,
+    "date": "2025-02-11",
+    "sentiment": 3.6,
+    "topics": [
+      "Service",
+      "Location"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 113,
+    "date": "2024-02-25",
+    "sentiment": 4.3,
+    "topics": [
+      "Location",
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "A bit far from the main strip but shuttle helped.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 114,
+    "date": "2025-04-21",
+    "sentiment": 4.3,
+    "topics": [
+      "Food",
+      "Location"
+    ],
+    "snippet": "Restaurant prices were a bit steep.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 115,
+    "date": "2024-08-08",
+    "sentiment": 4.2,
+    "topics": [
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 116,
+    "date": "2024-03-10",
+    "sentiment": 3.2,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 117,
+    "date": "2024-07-01",
+    "sentiment": 3.8,
+    "topics": [
+      "Value",
+      "Food"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 118,
+    "date": "2024-07-01",
+    "sentiment": 3.8,
+    "topics": [
+      "Cleanliness",
+      "Location",
+      "Amenities"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 119,
+    "date": "2025-05-16",
+    "sentiment": 3.8,
+    "topics": [
+      "Cleanliness",
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 120,
+    "date": "2023-03-22",
+    "sentiment": 3.9,
+    "topics": [
+      "Service",
+      "Location"
+    ],
+    "snippet": "Front desk staff were incredibly welcoming.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 121,
+    "date": "2023-07-24",
+    "sentiment": 4.7,
+    "topics": [
+      "Value",
+      "Amenities"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Standard",
+    "rating": 5
+  },
+  {
+    "id": 122,
+    "date": "2025-12-08",
+    "sentiment": 3.0,
+    "topics": [
+      "Cleanliness",
+      "Amenities"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 123,
+    "date": "2023-04-28",
+    "sentiment": 4.6,
+    "topics": [
+      "Location",
+      "Amenities",
+      "Value"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Beachfront",
+    "rating": 5
+  },
+  {
+    "id": 124,
+    "date": "2025-07-03",
+    "sentiment": 2.3,
+    "topics": [
+      "Food",
+      "Service"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 125,
+    "date": "2024-02-28",
+    "sentiment": 4.0,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 126,
+    "date": "2023-07-19",
+    "sentiment": 2.9,
+    "topics": [
+      "Location",
+      "Amenities"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 127,
+    "date": "2025-03-04",
+    "sentiment": 3.5,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 128,
+    "date": "2025-09-26",
+    "sentiment": 4.3,
+    "topics": [
+      "Service",
+      "Location",
+      "Cleanliness"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 129,
+    "date": "2024-09-04",
+    "sentiment": 3.9,
+    "topics": [
+      "Cleanliness",
+      "Location",
+      "Amenities"
+    ],
+    "snippet": "Housekeeping did an excellent job daily.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 130,
+    "date": "2024-04-10",
+    "sentiment": 3.9,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 131,
+    "date": "2024-09-02",
+    "sentiment": 3.3,
+    "topics": [
+      "Location",
+      "Food",
+      "Value"
+    ],
+    "snippet": "Great proximity to local restaurants and shops.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 132,
+    "date": "2024-04-27",
+    "sentiment": 4.0,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Perfect beachfront location, steps from the water.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 133,
+    "date": "2024-02-16",
+    "sentiment": 3.7,
+    "topics": [
+      "Value",
+      "Cleanliness"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 134,
+    "date": "2024-03-16",
+    "sentiment": 3.7,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 135,
+    "date": "2025-07-09",
+    "sentiment": 4.6,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Suite",
+    "rating": 5
+  },
+  {
+    "id": 136,
+    "date": "2025-01-08",
+    "sentiment": 4.1,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Perfect beachfront location, steps from the water.",
+    "room_type": "Standard",
+    "rating": 5
+  },
+  {
+    "id": 137,
+    "date": "2024-02-16",
+    "sentiment": 4.7,
+    "topics": [
+      "Amenities",
+      "Location",
+      "Value"
+    ],
+    "snippet": "The spa treatments were absolutely worth it.",
+    "room_type": "Ocean View",
+    "rating": 5
+  },
+  {
+    "id": 138,
+    "date": "2025-11-21",
+    "sentiment": 3.8,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 139,
+    "date": "2025-08-07",
+    "sentiment": 3.2,
+    "topics": [
+      "Service",
+      "Amenities",
+      "Cleanliness"
+    ],
+    "snippet": "Had to wait 20 minutes for check-in.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 140,
+    "date": "2024-04-11",
+    "sentiment": 4.3,
+    "topics": [
+      "Service",
+      "Food",
+      "Amenities"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Ocean View",
+    "rating": 5
+  },
+  {
+    "id": 141,
+    "date": "2024-08-25",
+    "sentiment": 4.1,
+    "topics": [
+      "Location",
+      "Value"
+    ],
+    "snippet": "Great proximity to local restaurants and shops.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 142,
+    "date": "2025-01-03",
+    "sentiment": 4.1,
+    "topics": [
+      "Amenities",
+      "Location"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 143,
+    "date": "2024-02-24",
+    "sentiment": 3.3,
+    "topics": [
+      "Location",
+      "Value"
+    ],
+    "snippet": "A bit far from the main strip but shuttle helped.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 144,
+    "date": "2024-02-02",
+    "sentiment": 4.3,
+    "topics": [
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 145,
+    "date": "2023-03-15",
+    "sentiment": 3.5,
+    "topics": [
+      "Food",
+      "Location"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 146,
+    "date": "2025-06-19",
+    "sentiment": 4.1,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 147,
+    "date": "2024-09-18",
+    "sentiment": 3.1,
+    "topics": [
+      "Amenities",
+      "Value",
+      "Location"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 148,
+    "date": "2024-04-13",
+    "sentiment": 4.0,
+    "topics": [
+      "Cleanliness",
+      "Service",
+      "Food"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 149,
+    "date": "2023-01-18",
+    "sentiment": 3.3,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 150,
+    "date": "2025-03-16",
+    "sentiment": 3.1,
+    "topics": [
+      "Food",
+      "Amenities"
+    ],
+    "snippet": "Breakfast buffet had amazing variety.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 151,
+    "date": "2023-05-14",
+    "sentiment": 3.4,
+    "topics": [
+      "Amenities",
+      "Food",
+      "Value"
+    ],
+    "snippet": "The spa treatments were absolutely worth it.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 152,
+    "date": "2025-12-06",
+    "sentiment": 2.9,
+    "topics": [
+      "Cleanliness",
+      "Location"
+    ],
+    "snippet": "Bathroom could have been cleaner.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 153,
+    "date": "2023-11-13",
+    "sentiment": 4.6,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Great proximity to local restaurants and shops.",
+    "room_type": "Suite",
+    "rating": 5
+  },
+  {
+    "id": 154,
+    "date": "2025-07-15",
+    "sentiment": 3.6,
+    "topics": [
+      "Value",
+      "Cleanliness",
+      "Amenities"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 155,
+    "date": "2024-02-05",
+    "sentiment": 4.2,
+    "topics": [
+      "Value",
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 156,
+    "date": "2023-03-02",
+    "sentiment": 3.6,
+    "topics": [
+      "Location",
+      "Food",
+      "Amenities"
+    ],
+    "snippet": "Perfect beachfront location, steps from the water.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 157,
+    "date": "2025-09-12",
+    "sentiment": 3.5,
+    "topics": [
+      "Cleanliness",
+      "Food"
+    ],
+    "snippet": "Bathroom could have been cleaner.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 158,
+    "date": "2025-06-08",
+    "sentiment": 3.3,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 159,
+    "date": "2024-09-26",
+    "sentiment": 3.9,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Restaurant prices were a bit steep.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 160,
+    "date": "2024-01-01",
+    "sentiment": 3.7,
+    "topics": [
+      "Location",
+      "Service",
+      "Value"
+    ],
+    "snippet": "Perfect beachfront location, steps from the water.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 161,
+    "date": "2025-07-24",
+    "sentiment": 4.0,
+    "topics": [
+      "Amenities",
+      "Cleanliness"
+    ],
+    "snippet": "The spa treatments were absolutely worth it.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 162,
+    "date": "2025-03-02",
+    "sentiment": 3.8,
+    "topics": [
+      "Cleanliness",
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "Pristine pool area, well-maintained.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 163,
+    "date": "2023-08-23",
+    "sentiment": 4.2,
+    "topics": [
+      "Food",
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "Restaurant prices were a bit steep.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 164,
+    "date": "2023-04-14",
+    "sentiment": 4.6,
+    "topics": [
+      "Service",
+      "Value"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Suite",
+    "rating": 5
+  },
+  {
+    "id": 165,
+    "date": "2025-02-09",
+    "sentiment": 4.5,
+    "topics": [
+      "Value",
+      "Food",
+      "Location"
+    ],
+    "snippet": "The package deal made it an excellent value.",
+    "room_type": "Standard",
+    "rating": 5
+  },
+  {
+    "id": 166,
+    "date": "2024-11-24",
+    "sentiment": 3.2,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 167,
+    "date": "2025-01-28",
+    "sentiment": 3.8,
+    "topics": [
+      "Amenities",
+      "Location",
+      "Food"
+    ],
+    "snippet": "Wish there were more beach chairs available.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 168,
+    "date": "2025-12-20",
+    "sentiment": 4.1,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 169,
+    "date": "2025-12-02",
+    "sentiment": 3.5,
+    "topics": [
+      "Value",
+      "Food",
+      "Cleanliness"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 170,
+    "date": "2024-02-08",
+    "sentiment": 3.2,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Felt overpriced for what we got during off-season.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 171,
+    "date": "2025-05-23",
+    "sentiment": 3.1,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 172,
+    "date": "2024-12-15",
+    "sentiment": 3.9,
+    "topics": [
+      "Cleanliness",
+      "Service",
+      "Value"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 173,
+    "date": "2025-09-08",
+    "sentiment": 3.4,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 174,
+    "date": "2024-12-16",
+    "sentiment": 4.0,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 175,
+    "date": "2025-09-22",
+    "sentiment": 3.8,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 176,
+    "date": "2025-05-28",
+    "sentiment": 3.0,
+    "topics": [
+      "Service",
+      "Value",
+      "Cleanliness"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 177,
+    "date": "2025-10-03",
+    "sentiment": 2.9,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 178,
+    "date": "2024-09-09",
+    "sentiment": 4.3,
+    "topics": [
+      "Service",
+      "Location"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Suite",
+    "rating": 4
+  },
+  {
+    "id": 179,
+    "date": "2023-02-24",
+    "sentiment": 3.5,
+    "topics": [
+      "Service",
+      "Location"
+    ],
+    "snippet": "Room service was prompt and friendly.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 180,
+    "date": "2024-06-21",
+    "sentiment": 3.7,
+    "topics": [
+      "Amenities",
+      "Service",
+      "Cleanliness"
+    ],
+    "snippet": "Kids loved the splash pad and game room.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 181,
+    "date": "2023-04-21",
+    "sentiment": 3.8,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 182,
+    "date": "2023-07-09",
+    "sentiment": 4.0,
+    "topics": [
+      "Service"
+    ],
+    "snippet": "Front desk staff were incredibly welcoming.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 183,
+    "date": "2025-11-19",
+    "sentiment": 4.6,
+    "topics": [
+      "Value",
+      "Service",
+      "Amenities"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 184,
+    "date": "2023-07-03",
+    "sentiment": 3.7,
+    "topics": [
+      "Amenities",
+      "Service"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 185,
+    "date": "2024-07-02",
+    "sentiment": 4.2,
+    "topics": [
+      "Amenities",
+      "Food"
+    ],
+    "snippet": "Fitness center needs updated equipment.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 186,
+    "date": "2024-11-05",
+    "sentiment": 3.5,
+    "topics": [
+      "Cleanliness",
+      "Service"
+    ],
+    "snippet": "Found sand everywhere \u2014 expected at a beach resort but still.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 187,
+    "date": "2025-10-28",
+    "sentiment": 3.8,
+    "topics": [
+      "Cleanliness",
+      "Value",
+      "Food"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Beachfront",
+    "rating": 4
+  },
+  {
+    "id": 188,
+    "date": "2024-07-08",
+    "sentiment": 3.2,
+    "topics": [
+      "Amenities"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 189,
+    "date": "2023-10-17",
+    "sentiment": 3.9,
+    "topics": [
+      "Service",
+      "Cleanliness",
+      "Location"
+    ],
+    "snippet": "Concierge gave great restaurant recommendations.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 190,
+    "date": "2025-04-26",
+    "sentiment": 3.5,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Pricey during spring break but worth it.",
+    "room_type": "Ocean View",
+    "rating": 4
+  },
+  {
+    "id": 191,
+    "date": "2024-08-22",
+    "sentiment": 3.5,
+    "topics": [
+      "Cleanliness",
+      "Amenities"
+    ],
+    "snippet": "Housekeeping did an excellent job daily.",
+    "room_type": "Beachfront",
+    "rating": 3
+  },
+  {
+    "id": 192,
+    "date": "2023-09-11",
+    "sentiment": 3.6,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Standard",
+    "rating": 4
+  },
+  {
+    "id": 193,
+    "date": "2024-10-25",
+    "sentiment": 3.2,
+    "topics": [
+      "Amenities",
+      "Value",
+      "Location"
+    ],
+    "snippet": "Pool area is beautiful with great views.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 194,
+    "date": "2025-11-15",
+    "sentiment": 4.5,
+    "topics": [
+      "Value"
+    ],
+    "snippet": "Compared to similar resorts, very competitive rates.",
+    "room_type": "Beachfront",
+    "rating": 5
+  },
+  {
+    "id": 195,
+    "date": "2025-07-15",
+    "sentiment": 3.6,
+    "topics": [
+      "Food",
+      "Location",
+      "Service"
+    ],
+    "snippet": "Breakfast buffet had amazing variety.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 196,
+    "date": "2024-04-13",
+    "sentiment": 4.7,
+    "topics": [
+      "Cleanliness"
+    ],
+    "snippet": "Room was spotless when we arrived.",
+    "room_type": "Standard",
+    "rating": 5
+  },
+  {
+    "id": 197,
+    "date": "2024-11-09",
+    "sentiment": 3.6,
+    "topics": [
+      "Location",
+      "Value",
+      "Amenities"
+    ],
+    "snippet": "Great proximity to local restaurants and shops.",
+    "room_type": "Suite",
+    "rating": 3
+  },
+  {
+    "id": 198,
+    "date": "2023-10-27",
+    "sentiment": 3.8,
+    "topics": [
+      "Value",
+      "Amenities"
+    ],
+    "snippet": "Great value for a beachfront property.",
+    "room_type": "Ocean View",
+    "rating": 3
+  },
+  {
+    "id": 199,
+    "date": "2024-03-08",
+    "sentiment": 3.3,
+    "topics": [
+      "Location"
+    ],
+    "snippet": "Best location on the island, hands down.",
+    "room_type": "Standard",
+    "rating": 3
+  },
+  {
+    "id": 200,
+    "date": "2025-12-07",
+    "sentiment": 4.2,
+    "topics": [
+      "Food"
+    ],
+    "snippet": "Room service menu was limited but quality was good.",
+    "room_type": "Standard",
+    "rating": 4
+  }
+]

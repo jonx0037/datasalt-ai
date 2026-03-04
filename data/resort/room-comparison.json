@@ -1,0 +1,37 @@
+[
+  {
+    "axis": "Occupancy Rate",
+    "Standard": 91,
+    "Ocean View": 79,
+    "Suite": 72,
+    "Beachfront": 76
+  },
+  {
+    "axis": "Guest Satisfaction",
+    "Standard": 73,
+    "Ocean View": 81,
+    "Suite": 88,
+    "Beachfront": 89
+  },
+  {
+    "axis": "Revenue/Room",
+    "Standard": 65,
+    "Ocean View": 75,
+    "Suite": 91,
+    "Beachfront": 98
+  },
+  {
+    "axis": "Repeat Bookings",
+    "Standard": 63,
+    "Ocean View": 69,
+    "Suite": 82,
+    "Beachfront": 82
+  },
+  {
+    "axis": "Maintenance Cost",
+    "Standard": 42,
+    "Ocean View": 58,
+    "Suite": 73,
+    "Beachfront": 70
+  }
+]

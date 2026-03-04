@@ -176,6 +176,7 @@ export const caseStudies: CaseStudyMeta[] = [
     outcome:
       "$340K annual revenue uplift through event-aware dynamic pricing and actionable guest sentiment insights.",
     thumbnail: "/images/case-studies/SPI-Beach-Resort-thumbnail.png",
+    demoUrl: "https://resort.datasalt.ai",
   },
   {
     slug: "gulf-shrimping-operations",
