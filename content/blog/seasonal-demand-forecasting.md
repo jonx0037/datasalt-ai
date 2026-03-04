@@ -148,4 +148,4 @@ The no-show model didn't eliminate no-shows — but it let the clinics overbook 
 
 Seasonal demand forecasting isn't a solved problem — but it's a well-understood one. Prophet gives you a strong baseline. Domain-specific external regressors get you most of the way to actionable accuracy. And the real value usually comes from what you build on top of the forecast, not from the forecast itself.
 
-*Read the full case studies: [SPI Beach Resort](/case-studies/spi-beach-resort) and [South Texas Urgent Care](/case-studies/south-texas-urgent-care). Or [start with a discovery call](/contact).*
+*Read the full case studies: [SPI Beach Resort](/case-studies/spi-beach-resort) and [South Texas Urgent Care](/case-studies/south-texas-urgent-care). Explore the [live resort dashboard](https://resort.datasalt.ai) to see Prophet forecasting in action — or [start with a discovery call](/contact).*
