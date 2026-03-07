@@ -129,6 +129,7 @@ export const caseStudies: CaseStudyMeta[] = [
       "Automated regime classification with interpretable signal output; text sentiment leads price-based indicators at major transitions.",
     thumbnail: "/images/case-studies/sentiment-regime-detector-card-image.png",
     thumbnailPosition: "left",
+    demoUrl: "https://www.market-sentiment.io/",
   },
   {
     slug: "rio-grande-builders",
