@@ -10,6 +10,7 @@ import { ChartContainer } from "@/components/case-studies/ChartContainer";
 import { CaseStudyImpact } from "@/components/case-studies/CaseStudyImpact";
 import { CaseStudyTechnical } from "@/components/case-studies/CaseStudyTechnical";
 import { CaseStudyCTA } from "@/components/case-studies/CaseStudyCTA";
+import { DemoCallout } from "@/components/case-studies/DemoCallout";
 
 // Charts (client components)
 import { SeasonalHeatmap } from "@/components/charts/SeasonalHeatmap";
@@ -235,6 +236,13 @@ export default function GRCLawPage() {
           translation and cross-referencing.
         </p>
       </CaseStudyImpact>
+
+      {/* ── Live Demo ───────────────────────────────────────────── */}
+      <section className="py-12">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <DemoCallout />
+        </div>
+      </section>
 
       {/* ── 05 Technical Details ──────────────────────────────────── */}
       <CaseStudyTechnical>

@@ -132,4 +132,9 @@ The lesson for other professional services firms: if your intake process involve
 
 And if your client base operates in two languages, don't bolt on translation as an afterthought. Build bilingual processing into the pipeline's core from day one.
 
+<DemoCallout
+  title="See the Intake Pipeline in Action"
+  description="Submit a sample matter and watch AI classify, assess risk, and recommend attorney assignment — the same pipeline we built for GRC Law."
+/>
+
 *Read the full case study: [Garza, Robles & Cantu Law](/case-studies/grc-law). Or [start with a discovery call](/contact).*
