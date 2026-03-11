@@ -33,7 +33,7 @@ export async function POST(req: Request) {
     const resend = new Resend(process.env.RESEND_API_KEY);
     const { error } = await resend.emails.send({
       from: "DataSalt Contact <hello@datasalt.ai>",
-      to: ["jon@datasalt.ai"],
+      to: ["jonx0037@gmail.com"],
       replyTo: data.email,
       subject: `New inquiry: ${projectTypeLabels[data.projectType]} — ${data.name}`,
       html: `
