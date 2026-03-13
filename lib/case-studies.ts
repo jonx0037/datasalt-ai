@@ -97,6 +97,7 @@ export const caseStudies: CaseStudyMeta[] = [
     outcome:
       "Reduced call center load by handling routine resident inquiries around the clock in both languages.",
     thumbnail: "/images/case-studies/HarliBot.png",
+    demoUrl: "https://harlibot.app",
   },
   {
     slug: "market-regime-detector",
