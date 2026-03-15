@@ -133,6 +133,38 @@ export const caseStudies: CaseStudyMeta[] = [
     demoUrl: "https://www.market-sentiment.io/",
   },
   {
+    slug: "finrag",
+    title: "FinRAG",
+    subtitle: "Multimodal Financial Document Intelligence Platform",
+    industry: ["finance", "rag", "multimodal"],
+    techniques: ["RAG", "Multimodal Embeddings", "Hybrid Retrieval", "TTS"],
+    heroMetrics: [
+      { label: "Query Latency", value: "<2s", delta: "end-to-end" },
+      { label: "Doc Types Supported", value: "5+", delta: "multimodal" },
+      {
+        label: "Retrieval Precision",
+        value: "91.4%",
+        delta: "top-3 accuracy",
+      },
+    ],
+    readingTime: "8 min read",
+    stack: [
+      "Python",
+      "Google Gemini Embeddings",
+      "Google Gemini Flash 2.5",
+      "Qdrant",
+      "Cloudflare R2",
+      "Fly.io",
+      "Next.js",
+      "Vercel",
+    ],
+    summary:
+      "Multimodal RAG platform for financial document intelligence — querying SEC filings, earnings transcripts, and structured tables with cited, multimodal retrieval.",
+    outcome:
+      "91.4% retrieval precision across 5+ document types with sub-2-second query latency, powered by native multimodal embeddings.",
+    demoUrl: "https://finrag.io",
+  },
+  {
     slug: "rio-grande-builders",
     title: "Rio Grande Builders",
     subtitle:

@@ -1,0 +1,6 @@
+[
+  { "queryType": "Simple Lookup", "retrieval": 0.4, "generation": 0.5 },
+  { "queryType": "Multi-hop Reasoning", "retrieval": 0.7, "generation": 1.4 },
+  { "queryType": "Table Query", "retrieval": 0.5, "generation": 1.1 },
+  { "queryType": "Comparative (YoY)", "retrieval": 0.8, "generation": 1.6 }
+]

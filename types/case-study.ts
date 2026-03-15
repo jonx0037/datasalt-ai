@@ -37,7 +37,10 @@ export type IndustryTag =
   | "real-estate"
   | "legal"
   | "retail"
-  | "pricing";
+  | "pricing"
+  | "finance"
+  | "rag"
+  | "multimodal";
 
 export const INDUSTRY_TAG_LABELS: Record<IndustryTag, string> = {
   "small-business": "Small Business",
@@ -55,4 +58,7 @@ export const INDUSTRY_TAG_LABELS: Record<IndustryTag, string> = {
   legal: "Legal",
   retail: "Retail",
   pricing: "Pricing",
+  finance: "Finance",
+  rag: "RAG",
+  multimodal: "Multimodal",
 };

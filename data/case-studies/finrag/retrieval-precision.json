@@ -1,0 +1,7 @@
+[
+  { "docType": "10-K Prose", "precision": 93.1 },
+  { "docType": "10-K Tables", "precision": 88.7 },
+  { "docType": "10-Q", "precision": 92.4 },
+  { "docType": "Earnings Transcript", "precision": 91.8 },
+  { "docType": "Proxy Statement", "precision": 90.9 }
+]

@@ -1,0 +1,23 @@
+[
+  { "query": "1", "hybrid": 95.2, "denseOnly": 91.0 },
+  { "query": "5", "hybrid": 94.1, "denseOnly": 89.5 },
+  { "query": "10", "hybrid": 93.5, "denseOnly": 87.2 },
+  { "query": "15", "hybrid": 94.8, "denseOnly": 88.1 },
+  { "query": "20", "hybrid": 92.9, "denseOnly": 86.4 },
+  { "query": "25", "hybrid": 93.7, "denseOnly": 85.9 },
+  { "query": "30", "hybrid": 94.2, "denseOnly": 87.8 },
+  { "query": "35", "hybrid": 91.8, "denseOnly": 84.3 },
+  { "query": "40", "hybrid": 93.1, "denseOnly": 86.7 },
+  { "query": "45", "hybrid": 92.5, "denseOnly": 85.1 },
+  { "query": "50", "hybrid": 94.6, "denseOnly": 88.9 },
+  { "query": "55", "hybrid": 93.3, "denseOnly": 87.0 },
+  { "query": "60", "hybrid": 91.7, "denseOnly": 84.8 },
+  { "query": "65", "hybrid": 93.9, "denseOnly": 86.2 },
+  { "query": "70", "hybrid": 94.4, "denseOnly": 88.5 },
+  { "query": "75", "hybrid": 92.1, "denseOnly": 85.6 },
+  { "query": "80", "hybrid": 93.8, "denseOnly": 87.4 },
+  { "query": "85", "hybrid": 94.0, "denseOnly": 86.8 },
+  { "query": "90", "hybrid": 92.6, "denseOnly": 85.3 },
+  { "query": "95", "hybrid": 93.4, "denseOnly": 86.1 },
+  { "query": "100", "hybrid": 94.3, "denseOnly": 87.7 }
+]
