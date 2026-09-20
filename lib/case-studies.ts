@@ -135,33 +135,46 @@ export const caseStudies: CaseStudyMeta[] = [
   {
     slug: "finrag",
     title: "FinRAG",
-    subtitle: "Multimodal Financial Document Intelligence Platform",
+    subtitle: "Multimodal Retrieval for Financial Documents",
     industry: ["finance", "rag", "multimodal"],
-    techniques: ["RAG", "Multimodal Embeddings", "Hybrid Retrieval", "TTS"],
+    techniques: [
+      "Multimodal Embeddings",
+      "Vector Search",
+      "Explainable Retrieval",
+    ],
     heroMetrics: [
-      { label: "Query Latency", value: "<2s", delta: "end-to-end" },
-      { label: "Doc Types Supported", value: "5+", delta: "multimodal" },
       {
-        label: "Retrieval Precision",
-        value: "91.4%",
-        delta: "top-3 accuracy",
+        label: "Modalities, One Vector Space",
+        value: "4",
+        delta: "text · PDF · image · audio",
+      },
+      {
+        label: "Named Vectors per Point",
+        value: "3072 / 768",
+        delta: "quality or cost, per query",
+      },
+      {
+        label: "Result Explanations",
+        value: "SHAP",
+        delta: "token-level attribution",
       },
     ],
-    readingTime: "8 min read",
+    readingTime: "7 min read",
     stack: [
       "Python",
+      "FastAPI",
       "Google Gemini Embeddings",
-      "Google Gemini Flash 2.5",
       "Qdrant",
+      "PostgreSQL",
       "Cloudflare R2",
-      "Fly.io",
+      "Railway",
       "Next.js",
       "Vercel",
     ],
     summary:
-      "Multimodal RAG platform for financial document intelligence — querying SEC filings, earnings transcripts, and structured tables with cited, multimodal retrieval.",
+      "A multimodal retrieval layer for financial documents: filings, transcripts, charts and earnings audio embedded into one shared vector space, searched together, and explained per result.",
     outcome:
-      "91.4% retrieval precision across 5+ document types with sub-2-second query latency, powered by native multimodal embeddings.",
+      "Four modalities in a single embedding space with no captioning bridge, dual-resolution vectors that trade quality against cost per query, and SHAP attributions that show why each result matched.",
     demoUrl: "https://finrag.io",
   },
   {
