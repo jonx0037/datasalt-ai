@@ -27,20 +27,20 @@ export const caseStudies: CaseStudyMeta[] = [
     slug: "grc-law",
     title: "Garza, Robles & Cantu Law",
     subtitle:
-      "NLP-Powered Document Triage & Case Classification for a Personal Injury Firm",
+      "NLP-Powered Document Triage & Case Classification for a Personal Injury Firm — an illustrative scenario",
     industry: ["legal", "nlp", "classification"],
     techniques: ["BERT", "spaCy NER", "Textract", "Cross-encoder"],
     heroMetrics: [
-      { label: "Intake-to-Assessment", value: "-73%", delta: "time saved" },
-      { label: "Classification Accuracy", value: "94.2%", delta: "automated" },
-      { label: "Critical Detail Miss Rate", value: "-81%", delta: "reduction" },
+      { label: "Intake-to-Assessment", value: "-73%", delta: "modeled" },
+      { label: "Classification Accuracy", value: "94.2%", delta: "modeled" },
+      { label: "Critical Detail Miss Rate", value: "-81%", delta: "modeled" },
     ],
     readingTime: "9 min read",
     stack: ["Python", "BERT", "spaCy", "AWS Textract", "SageMaker", "Clio API"],
     summary:
-      "NLP-powered document triage and case classification system for a high-volume personal injury firm — cutting intake-to-assessment time by 73% with bilingual capability.",
+      "An illustrative scenario: NLP-powered document triage and case classification for a high-volume personal injury firm, with bilingual capability. The firm is a composite and every figure is modeled.",
     outcome:
-      "73% faster intake, 94.2% document classification accuracy, and ~35 paralegal hours freed per week for client-facing work.",
+      "Modeled: 73% faster intake, 94.2% classification accuracy, ~35 paralegal hours freed per week. Our working system in this space is CounselOS, built on a different architecture.",
     thumbnail: "/images/case-studies/GRC-law.png",
   },
   {

@@ -11,6 +11,7 @@ import { CaseStudyImpact } from "@/components/case-studies/CaseStudyImpact";
 import { CaseStudyTechnical } from "@/components/case-studies/CaseStudyTechnical";
 import { CaseStudyCTA } from "@/components/case-studies/CaseStudyCTA";
 import { DemoCallout } from "@/components/case-studies/DemoCallout";
+import { IllustrativeNotice } from "@/components/case-studies/IllustrativeNotice";
 
 // Charts (client components)
 import { SeasonalHeatmap } from "@/components/charts/SeasonalHeatmap";
@@ -122,18 +123,42 @@ export default function GRCLawPage() {
         overlayStrength="dark"
       />
 
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <IllustrativeNotice
+          subject="Garza, Robles &amp; Cantu"
+          grounded="The document mix, the bilingual caseload and the triage bottleneck are drawn from how personal-injury practice actually works in the Rio Grande Valley."
+          realWork={
+            <>
+              <strong>What we have actually built in this space:</strong>{" "}
+              <a
+                href="https://counselos.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-teal hover:underline"
+              >
+                CounselOS
+              </a>{" "}
+              — a working multi-agent matter-intake pipeline. It is a real
+              system, and it is <em>not</em> the architecture proposed below:
+              CounselOS runs a five-stage agent pipeline on FastAPI with Claude
+              and a ChromaDB retrieval layer, rather than the fine-tuned
+              classifier stack this scenario describes.
+            </>
+          }
+        />
+      </div>
+
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>
         <p>
-          Garza, Robles &amp; Cantu is a personal injury law firm in McAllen,
-          TX, with 4 attorneys and 6 paralegals handling 200+ active cases at
-          any given time. Their practice spans auto accidents (65% of
+          Consider a personal injury firm in McAllen, TX — 4 attorneys and 6
+          paralegals handling 200+ active cases at any given time. Their practice spans auto accidents (65% of
           caseload), slip-and-fall, workplace injuries, and medical
           malpractice. The Rio Grande Valley&apos;s high traffic volume on
           US-83 and I-2 means a steady flow of new cases — 8-12 per week.
         </p>
         <p>
-          The bottleneck was document processing. Every new case generates a
+          The bottleneck is document processing. Every new case generates a
           stack of documents: police reports, medical records, insurance
           correspondence, witness statements, and billing records. Paralegals
           were spending 6-8 hours per case just reading, categorizing, and
@@ -141,12 +166,12 @@ export default function GRCLawPage() {
           Document triage consumed nearly 60% of paralegal capacity.
         </p>
         <p>
-          The second problem was consistency. Different paralegals flagged
+          The second problem is consistency. Different paralegals flagged
           different things. Critical details — a pre-existing condition buried
           on page 47, a liability-shifting phrase in a police report, or a gap
           in treatment that insurance adjusters exploit — were sometimes missed
-          entirely. The firm also needed bilingual capability: approximately 40%
-          of their clients are Spanish-speaking.
+          entirely. The firm also needs bilingual capability: roughly 40% of
+          clients in this market are Spanish-speaking.
         </p>
 
         <DataLandscapeCallout>
@@ -167,9 +192,14 @@ export default function GRCLawPage() {
 
       {/* ── 03 Key Findings ───────────────────────────────────────── */}
       <CaseStudyFindings>
+        <p className="text-sm text-muted-foreground mb-6">
+          The three charts below are <strong>modeled projections</strong> of how the
+          proposed design would behave on this document mix, not measurements of a
+          deployed system.
+        </p>
         <ChartContainer
           title="Document Classification Confusion Matrix"
-          caption="Classification performance across 7 document types. High diagonal values indicate strong accuracy. The main confusion corridor is between insurance correspondence and legal filings — they share overlapping legal language and formatting."
+          caption="Modeled. Classification performance across 7 document types under the proposed design. High diagonal values indicate strong accuracy. The main confusion corridor is between insurance correspondence and legal filings — they share overlapping legal language and formatting."
         >
           <SeasonalHeatmap
             data={confusionData}
@@ -180,7 +210,7 @@ export default function GRCLawPage() {
 
         <ChartContainer
           title="Processing Time: Manual vs. Automated"
-          caption="Hours to complete document triage by case type. Complex cases (catastrophic injury, med-mal) show the largest absolute savings — from 11-14 hours down to 2.5-3 hours. Even simple auto accident cases see a 4x speedup."
+          caption="Modeled. Hours to complete document triage by case type. Complex cases (catastrophic injury, med-mal) show the largest absolute savings — from 11-14 hours down to 2.5-3 hours. Even simple auto accident cases see a 4x speedup."
         >
           <GroupedBarChart
             data={processingTimeData}
@@ -195,7 +225,7 @@ export default function GRCLawPage() {
 
         <ChartContainer
           title="Entity Extraction Coverage Over Time"
-          caption="Percentage of key case entities (dates, injury codes, providers, amounts) successfully extracted. Step improvements at Q2, Q3, and Q4 correspond to quarterly model retraining on paralegal-corrected outputs."
+          caption="Modeled. Percentage of key case entities (dates, injury codes, providers, amounts) extracted, projected over a first year of quarterly retraining. Step improvements at Q2, Q3, and Q4 correspond to quarterly model retraining on paralegal-corrected outputs."
         >
           <TrendWithOverlays
             data={entityCoverageData}
@@ -240,13 +270,26 @@ export default function GRCLawPage() {
       {/* ── Live Demo ───────────────────────────────────────────── */}
       <section className="py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <DemoCallout />
+          <DemoCallout
+            title="CounselOS — a working system in this problem space"
+            description="A real five-agent matter-intake pipeline: intake, classification, retrieval, risk assessment, response. Built on FastAPI with Claude and ChromaDB — a different architecture from the one this scenario proposes, solving the same bottleneck."
+            href="https://counselos.vercel.app/"
+            buttonText="Launch CounselOS"
+          />
         </div>
       </section>
 
       {/* ── 05 Technical Details ──────────────────────────────────── */}
       <CaseStudyTechnical>
         <div className="space-y-4 text-sm text-muted-foreground">
+          <p className="rounded-md border border-border p-3">
+            <strong className="text-foreground">The design proposed for this scenario.</strong>{" "}
+            This is the architecture the problem calls for, specified to the level
+            we would specify it before building. It has not been deployed for this
+            composite firm. Our working system in this space, CounselOS, took a
+            different route — agent orchestration over a retrieval layer rather
+            than a fine-tuned classifier stack.
+          </p>
           <div>
             <h4 className="font-semibold text-foreground mb-1">
               Document Classifier (BERT)
