@@ -4,6 +4,7 @@ export const caseStudies: CaseStudyMeta[] = [
   /* ── Featured trio (homepage shows first 3) ─────────────────────── */
   {
     slug: "gulf-coast-boat-sales",
+    illustrative: true,
     title: "Gulf Coast Boat Sales",
     subtitle:
       "Pricing Intelligence & Inventory Optimization for a Family-Owned Marine Dealership",
@@ -25,26 +26,28 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "grc-law",
+    illustrative: true,
     title: "Garza, Robles & Cantu Law",
     subtitle:
-      "NLP-Powered Document Triage & Case Classification for a Personal Injury Firm",
+      "NLP-Powered Document Triage & Case Classification for a Personal Injury Firm — an illustrative scenario",
     industry: ["legal", "nlp", "classification"],
     techniques: ["BERT", "spaCy NER", "Textract", "Cross-encoder"],
     heroMetrics: [
-      { label: "Intake-to-Assessment", value: "-73%", delta: "time saved" },
-      { label: "Classification Accuracy", value: "94.2%", delta: "automated" },
-      { label: "Critical Detail Miss Rate", value: "-81%", delta: "reduction" },
+      { label: "Intake-to-Assessment", value: "-73%", delta: "modeled" },
+      { label: "Classification Accuracy", value: "94.2%", delta: "modeled" },
+      { label: "Critical Detail Miss Rate", value: "-81%", delta: "modeled" },
     ],
     readingTime: "9 min read",
     stack: ["Python", "BERT", "spaCy", "AWS Textract", "SageMaker", "Clio API"],
     summary:
-      "NLP-powered document triage and case classification system for a high-volume personal injury firm — cutting intake-to-assessment time by 73% with bilingual capability.",
+      "An illustrative scenario: NLP-powered document triage and case classification for a high-volume personal injury firm, with bilingual capability. The firm is a composite and every figure is modeled.",
     outcome:
-      "73% faster intake, 94.2% document classification accuracy, and ~35 paralegal hours freed per week for client-facing work.",
+      "Modeled: 73% faster intake, 94.2% classification accuracy, ~35 paralegal hours freed per week. Our working system in this space is CounselOS, built on a different architecture.",
     thumbnail: "/images/case-studies/GRC-law.png",
   },
   {
     slug: "valley-auto-exchange",
+    illustrative: true,
     title: "Valley Auto Exchange",
     subtitle:
       "ML-Powered Dynamic Pricing & Inventory Turn Optimization for a Used-Car Lot",
@@ -135,37 +138,51 @@ export const caseStudies: CaseStudyMeta[] = [
   {
     slug: "finrag",
     title: "FinRAG",
-    subtitle: "Multimodal Financial Document Intelligence Platform",
+    subtitle: "Multimodal Retrieval for Financial Documents",
     industry: ["finance", "rag", "multimodal"],
-    techniques: ["RAG", "Multimodal Embeddings", "Hybrid Retrieval", "TTS"],
+    techniques: [
+      "Multimodal Embeddings",
+      "Vector Search",
+      "Explainable Retrieval",
+    ],
     heroMetrics: [
-      { label: "Query Latency", value: "<2s", delta: "end-to-end" },
-      { label: "Doc Types Supported", value: "5+", delta: "multimodal" },
       {
-        label: "Retrieval Precision",
-        value: "91.4%",
-        delta: "top-3 accuracy",
+        label: "Modalities, One Vector Space",
+        value: "4",
+        delta: "text · PDF · image · audio",
+      },
+      {
+        label: "Named Vectors per Point",
+        value: "3072 / 768",
+        delta: "quality or cost, per query",
+      },
+      {
+        label: "Result Explanations",
+        value: "SHAP",
+        delta: "token-level attribution",
       },
     ],
-    readingTime: "8 min read",
+    readingTime: "7 min read",
     stack: [
       "Python",
+      "FastAPI",
       "Google Gemini Embeddings",
-      "Google Gemini Flash 2.5",
       "Qdrant",
+      "PostgreSQL",
       "Cloudflare R2",
-      "Fly.io",
+      "Railway",
       "Next.js",
       "Vercel",
     ],
     summary:
-      "Multimodal RAG platform for financial document intelligence — querying SEC filings, earnings transcripts, and structured tables with cited, multimodal retrieval.",
+      "A multimodal retrieval layer for financial documents: filings, transcripts, charts and earnings audio embedded into one shared vector space, searched together, and explained per result.",
     outcome:
-      "91.4% retrieval precision across 5+ document types with sub-2-second query latency, powered by native multimodal embeddings.",
+      "Four modalities in a single embedding space with no captioning bridge, dual-resolution vectors that trade quality against cost per query, and SHAP attributions that show why each result matched.",
     demoUrl: "https://finrag.io",
   },
   {
     slug: "rio-grande-builders",
+    illustrative: true,
     title: "Rio Grande Builders",
     subtitle:
       "Lead Scoring & Neighborhood Demand Forecasting for a South Texas Home Builder",
@@ -193,6 +210,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "spi-beach-resort",
+    illustrative: true,
     title: "SPI Beach Resort Analytics",
     subtitle:
       "Revenue Management & Guest Intelligence for a South Padre Island Resort",
@@ -214,6 +232,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "gulf-shrimping-operations",
+    illustrative: true,
     title: "Gulf Shrimping Operations",
     subtitle:
       "Fleet Optimization & Market Timing for a Commercial Shrimping Fleet",
@@ -234,6 +253,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "south-texas-urgent-care",
+    illustrative: true,
     title: "South Texas Urgent Care Network",
     subtitle:
       "Patient Volume Forecasting & No-Show Prediction for a Multi-Clinic Network",
@@ -254,6 +274,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "valley-citrus-agriculture",
+    illustrative: true,
     title: "Valley Citrus & Agriculture",
     subtitle:
       "Yield Forecasting & Freeze Risk Analytics for Rio Grande Valley Growers",

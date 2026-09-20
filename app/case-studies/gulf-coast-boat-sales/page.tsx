@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getCaseStudyBySlug } from "@/lib/case-studies";
 import { CaseStudyHero } from "@/components/case-studies/CaseStudyHero";
+import { IllustrativeNotice } from "@/components/case-studies/IllustrativeNotice";
 import { CaseStudyChallenge } from "@/components/case-studies/CaseStudyChallenge";
 import { DataLandscapeCallout } from "@/components/case-studies/DataLandscapeCallout";
 import { CaseStudyApproach } from "@/components/case-studies/CaseStudyApproach";
@@ -109,6 +110,17 @@ export default function GulfCoastBoatSalesPage() {
         heroImage="/images/case-studies/gulf-coast-boat-sales-hero.png"
         overlayStrength="dark"
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <IllustrativeNotice
+          subject="Coastal Marine Sales"
+          grounded="The pricing dynamics, the seasonality, and the manufacturer and condition premiums are drawn from how the Texas Gulf Coast boat market actually behaves."
+          realWork={
+            <>The pricing model itself is real and you can use it: our <a href="/boats" className="text-teal hover:underline">boat valuation tool</a> runs XGBoost with SHAP explanations — trained, as it says there, on synthetic sales records.</>
+          }
+        />
+      </div>
+
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>

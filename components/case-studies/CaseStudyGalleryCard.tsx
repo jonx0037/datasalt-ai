@@ -42,6 +42,14 @@ export function CaseStudyGalleryCard({ study }: CaseStudyGalleryCardProps) {
 
       <CardHeader className="pb-3">
         <div className="flex flex-wrap gap-1.5 mb-2">
+          {study.illustrative && (
+            <Badge
+              variant="outline"
+              className="text-xs border-amber-500/40 text-amber-700 dark:text-amber-500"
+            >
+              Illustrative scenario
+            </Badge>
+          )}
           {study.industry.map((tag) => (
             <Badge key={tag} variant="secondary" className="text-xs">
               {INDUSTRY_TAG_LABELS[tag] ?? tag}

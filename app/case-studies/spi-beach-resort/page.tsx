@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getCaseStudyBySlug } from "@/lib/case-studies";
 import { CaseStudyHero } from "@/components/case-studies/CaseStudyHero";
+import { IllustrativeNotice } from "@/components/case-studies/IllustrativeNotice";
 import { CaseStudyChallenge } from "@/components/case-studies/CaseStudyChallenge";
 import { DataLandscapeCallout } from "@/components/case-studies/DataLandscapeCallout";
 import { CaseStudyApproach } from "@/components/case-studies/CaseStudyApproach";
@@ -96,6 +97,17 @@ export default function SPIBeachResortPage() {
         heroImage="/images/case-studies/SPI-Beach-Resort-hero.png"
         overlayStrength="dark"
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <IllustrativeNotice
+          subject="Isla Blanca Resort &amp; Suites"
+          grounded="The demand seasonality is real South Padre Island seasonality — Spring Break, the Winter Texan migration, and fishing tournaments."
+          realWork={
+            <>The forecasting tool is real and you can use it: our <a href="/resort" className="text-teal hover:underline">resort analytics demo</a> runs the occupancy and pricing models on synthetic booking data.</>
+          }
+        />
+      </div>
+
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>

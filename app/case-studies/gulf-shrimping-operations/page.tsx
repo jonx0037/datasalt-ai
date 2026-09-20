@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getCaseStudyBySlug } from "@/lib/case-studies";
 import { CaseStudyHero } from "@/components/case-studies/CaseStudyHero";
+import { IllustrativeNotice } from "@/components/case-studies/IllustrativeNotice";
 import { CaseStudyChallenge } from "@/components/case-studies/CaseStudyChallenge";
 import { DataLandscapeCallout } from "@/components/case-studies/DataLandscapeCallout";
 import { CaseStudyApproach } from "@/components/case-studies/CaseStudyApproach";
@@ -96,6 +97,14 @@ export default function GulfShrimpingPage() {
         heroImage="/images/case-studies/shrimp-boat-hero.png"
         overlayStrength="dark"
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <IllustrativeNotice
+          subject="Garza Gulf Seafood"
+          grounded="The economics are real ones: fuel is 35-40% of operating cost, dock prices move independently of the sailing schedule, and the trip logs are on paper."
+        />
+      </div>
+
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>
