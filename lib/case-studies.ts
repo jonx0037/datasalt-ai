@@ -4,6 +4,7 @@ export const caseStudies: CaseStudyMeta[] = [
   /* ── Featured trio (homepage shows first 3) ─────────────────────── */
   {
     slug: "gulf-coast-boat-sales",
+    illustrative: true,
     title: "Gulf Coast Boat Sales",
     subtitle:
       "Pricing Intelligence & Inventory Optimization for a Family-Owned Marine Dealership",
@@ -25,6 +26,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "grc-law",
+    illustrative: true,
     title: "Garza, Robles & Cantu Law",
     subtitle:
       "NLP-Powered Document Triage & Case Classification for a Personal Injury Firm — an illustrative scenario",
@@ -45,6 +47,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "valley-auto-exchange",
+    illustrative: true,
     title: "Valley Auto Exchange",
     subtitle:
       "ML-Powered Dynamic Pricing & Inventory Turn Optimization for a Used-Car Lot",
@@ -179,6 +182,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "rio-grande-builders",
+    illustrative: true,
     title: "Rio Grande Builders",
     subtitle:
       "Lead Scoring & Neighborhood Demand Forecasting for a South Texas Home Builder",
@@ -206,6 +210,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "spi-beach-resort",
+    illustrative: true,
     title: "SPI Beach Resort Analytics",
     subtitle:
       "Revenue Management & Guest Intelligence for a South Padre Island Resort",
@@ -227,6 +232,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "gulf-shrimping-operations",
+    illustrative: true,
     title: "Gulf Shrimping Operations",
     subtitle:
       "Fleet Optimization & Market Timing for a Commercial Shrimping Fleet",
@@ -247,6 +253,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "south-texas-urgent-care",
+    illustrative: true,
     title: "South Texas Urgent Care Network",
     subtitle:
       "Patient Volume Forecasting & No-Show Prediction for a Multi-Clinic Network",
@@ -267,6 +274,7 @@ export const caseStudies: CaseStudyMeta[] = [
   },
   {
     slug: "valley-citrus-agriculture",
+    illustrative: true,
     title: "Valley Citrus & Agriculture",
     subtitle:
       "Yield Forecasting & Freeze Risk Analytics for Rio Grande Valley Growers",

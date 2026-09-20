@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getCaseStudyBySlug } from "@/lib/case-studies";
 import { CaseStudyHero } from "@/components/case-studies/CaseStudyHero";
+import { IllustrativeNotice } from "@/components/case-studies/IllustrativeNotice";
 import { CaseStudyChallenge } from "@/components/case-studies/CaseStudyChallenge";
 import { DataLandscapeCallout } from "@/components/case-studies/DataLandscapeCallout";
 import { CaseStudyApproach } from "@/components/case-studies/CaseStudyApproach";
@@ -98,6 +99,14 @@ export default function SouthTexasUrgentCarePage() {
         heroImage="/images/case-studies/south-texas-urgent-care-hero.png"
         overlayStrength="dark"
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <IllustrativeNotice
+          subject="ValleyCare Urgent Clinics"
+          grounded="The bilingual patient population and the Winter Texan seasonal swing are real features of urgent care in the Rio Grande Valley."
+        />
+      </div>
+
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>

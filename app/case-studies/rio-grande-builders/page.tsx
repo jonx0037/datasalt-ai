@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getCaseStudyBySlug } from "@/lib/case-studies";
 import { CaseStudyHero } from "@/components/case-studies/CaseStudyHero";
+import { IllustrativeNotice } from "@/components/case-studies/IllustrativeNotice";
 import { CaseStudyChallenge } from "@/components/case-studies/CaseStudyChallenge";
 import { DataLandscapeCallout } from "@/components/case-studies/DataLandscapeCallout";
 import { CaseStudyApproach } from "@/components/case-studies/CaseStudyApproach";
@@ -102,6 +103,14 @@ export default function RioGrandeBuildersPage() {
         heroImage="/images/case-studies/Rio-Grande-Builders.png"
         overlayStrength="dark"
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <IllustrativeNotice
+          subject="Rio Grande Builders"
+          grounded="The lead economics and the neighborhood-level variation in demand are drawn from how residential construction works in the Valley."
+        />
+      </div>
+
 
       {/* ── 01 The Challenge ──────────────────────────────────────── */}
       <CaseStudyChallenge>

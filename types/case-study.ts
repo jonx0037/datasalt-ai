@@ -20,6 +20,13 @@ export interface CaseStudyMeta {
   thumbnailPosition?: "top" | "center" | "bottom" | "left" | "right";
   demoUrl?: string;
   githubRepo?: string;
+  /**
+   * True when the subject is a composite and the figures are modeled rather
+   * than measured — a worked design study, not a client engagement. The
+   * gallery card badges these so a metric can never be read as a delivered
+   * outcome from the card alone, and the page carries an IllustrativeNotice.
+   */
+  illustrative?: boolean;
 }
 
 export type IndustryTag =
